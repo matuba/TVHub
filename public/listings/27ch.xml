@@ -1,0 +1,2762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="tsEPG2xml" generator-info-url="http://localhost/">
+  <channel id="GR27">
+    <display-name lang="ja_JP">ＮＨＫ総合１・東京</display-name>
+  </channel>
+  <programme start="20130727120003 +0900" stop="20130727121500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130727121500 +0900" stop="20130727124000 +0900" channel="GR27">
+    <title lang="ja_JP">バラエティー生活笑百科　▽空き地にゴーヤ　▽祖母の介護休暇【字】</title>
+    <desc lang="ja_JP">くらしの中の相談事を笑いの中で解決するバラエティー。ゲストは落語家の林家正蔵。自身の経験を交えて明るく楽しいトークを披露する。出演は若井みどり、桂吉弥ほか。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130727124000 +0900" stop="20130727124500 +0900" channel="GR27">
+    <title lang="ja_JP">週末プレマップ</title>
+    <desc lang="ja_JP">【キャスター】片山千恵子</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130727124500 +0900" stop="20130727130000 +0900" channel="GR27">
+    <title lang="ja_JP">連続テレビ小説　あまちゃん（１０２）「おら、悲しみがとまらねぇ」【解】【字】【デ】【再】</title>
+    <desc lang="ja_JP">ヒロイン・アキは、ついに東京で本格的にアイドルを目指すことに！　宮藤官九郎がオリジナルで描く人情喜劇。日本の朝に元気をお届けします。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130727130000 +0900" stop="20130727130500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130727130500 +0900" stop="20130727135000 +0900" channel="GR27">
+    <title lang="ja_JP">八重の桜（２９）「鶴ヶ城開城」【解】【字】【デ】【再】</title>
+    <desc lang="ja_JP">八重（綾瀬はるか）が心配するなか、権八（松重豊）が補給路を奪還するため出陣した。新政府軍は１日に二千発を超える砲撃を加え、天守閣は無残な姿になりつつあった。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130727135000 +0900" stop="20130727153000 +0900" channel="GR27">
+    <title lang="ja_JP">第９５回全国高校野球選手権大会　東東京大会・決勝「修徳」対「二松学舎」</title>
+    <desc lang="ja_JP">【解説】小山寛陽，【アナウンサー】竹林宏　〜神宮球場から中継〜　＜中断＞（３：１０）−（３：１３）　ニュース　［延伸のとき以降の番組に変更あり］</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130727153000 +0900" stop="20130727154500 +0900" channel="GR27">
+    <title lang="ja_JP">富士山・雲を生む山【字】</title>
+    <desc lang="ja_JP">【語り】久保田祐佳</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130727154500 +0900" stop="20130727155000 +0900" channel="GR27">
+    <title lang="ja_JP">復興支援ソング「花は咲く」</title>
+    <desc lang="ja_JP">「花は咲く」</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130727155000 +0900" stop="20130727160000 +0900" channel="GR27">
+    <title lang="ja_JP">八重の桜ツアー「ただいま、東北」　▽初夏・いわき編【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130727160000 +0900" stop="20130727162500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース「安倍首相記者会見」【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130727162500 +0900" stop="20130727165000 +0900" channel="GR27">
+    <title lang="ja_JP">小さな旅・選　シリーズ山の歌　夏「緑輝く　優しき峰よ〜青森県　八甲田山〜」【字】</title>
+    <desc lang="ja_JP">青森県・八甲田山。豪雪の山も、短い夏には美しい緑に輝き、生き物を育むやさしい山の表情になる。八甲田山を愛し、守り続ける人々。その思いに触れる旅。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130727165000 +0900" stop="20130727165500 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130727165500 +0900" stop="20130727170000 +0900" channel="GR27">
+    <title lang="ja_JP">５分で分かる“激流〜私を憶えていますか？〜”　第５回「見えない悪意」【字】</title>
+    <desc lang="ja_JP">貴子（国仲涼子）は大林殺害の容疑で任意同行される。美弥（ともさかりえ）は東萩（桐谷健太）に貴子を守るように頼むが、貴子は自供してしまう。意外な犯人が自首するが…</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130727170000 +0900" stop="20130727172500 +0900" channel="GR27">
+    <title lang="ja_JP">月刊とれたてマイビデオ「７月号」【字】</title>
+    <desc lang="ja_JP">身近な出来事からイベントのおもしろ映像まで「おはよう日本」で放送した「とれたてマイビデオ」の中から選び抜いた作品をご紹介。ゲストはタレントのつぶやきシローさん。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130727172500 +0900" stop="20130727173000 +0900" channel="GR27">
+    <title lang="ja_JP">あの日　わたしは〜証言記録　東日本大震災〜「青森県三沢市　佐々木芳四郎さん」【字】</title>
+    <desc lang="ja_JP">漁師の佐々木さんは船を守るため沖に出ようとしたが、津波が押し寄せてきたため船を降り高台に向かった。だが津波が迫ってきた。津波から逃れるため近くの木に登り助かった</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130727173000 +0900" stop="20130727180000 +0900" channel="GR27">
+    <title lang="ja_JP">ダーウィンが来た！「賢くて遊び心いっぱい！カラスの素顔に迫る」【字】【再】</title>
+    <desc lang="ja_JP">身近なカラスを徹底解剖！集団でゴミを漁る姿は一見怖そうだが、意外と小心者だったり、公園の滑り台や鉄棒遊びを楽しんだりと、実は遊び心も一杯。知られざる素顔に迫る。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130727180000 +0900" stop="20130727181000 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130727181000 +0900" stop="20130727184200 +0900" channel="GR27">
+    <title lang="ja_JP">マサカメＴＶ「カレーはここまで進化した！おいしさのヒミツ」【字】</title>
+    <desc lang="ja_JP">夏だ！みんな大好き、カレー！低カロリーの超最新カレールーは女性におなじみのあるものをヒントに作られた？激ウマに進化するレトルトカレーのヒミツとは？マサカメ必見！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130727184200 +0900" stop="20130727184500 +0900" channel="GR27">
+    <title lang="ja_JP">週末プレマップ</title>
+    <desc lang="ja_JP">【キャスター】片山千恵子</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130727184500 +0900" stop="20130727185300 +0900" channel="GR27">
+    <title lang="ja_JP">首都圏ニュース</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130727185300 +0900" stop="20130727190003 +0900" channel="GR27">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130727190003 +0900" stop="20130727193000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース７【二】【字】</title>
+    <desc lang="ja_JP">▽休戦協定から６０年　記念行事で北朝鮮は…　【キャスター】小郷知子，【サブキャスター】佐藤龍文，【気象キャスター】寺川奈津美</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130727193000 +0900" stop="20130727204500 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫスペシャル　シリーズ深海の巨大生物「伝説のイカ　宿命の闘い」【字】</title>
+    <desc lang="ja_JP">ダイオウイカの新事実を特集！世界初の映像を分析、最先端の研究成果を一挙公開！深海でのクジラとの宿命対決、頭脳プレーの狩り、黄金の体に隠された進化の秘密に迫る。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130727204500 +0900" stop="20130727210000 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130727210000 +0900" stop="20130727220000 +0900" channel="GR27">
+    <title lang="ja_JP">土曜ドラマ　七つの会議（３）「すべてが壊れていく」【解】【字】</title>
+    <desc lang="ja_JP">製品にまつわる大がかりな隠蔽を知った原島（東山紀之）は、ほかにどうすることもできずにヤミ改修に手を染める。副社長・村西のもとに何者かから告発の手紙が届き…。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130727220000 +0900" stop="20130727223000 +0900" channel="GR27">
+    <title lang="ja_JP">サタデースポーツ</title>
+    <desc lang="ja_JP">首位巨人原監督直撃！追う阪神は？▽パ首位攻防楽天×ロッテ▽福西崇史注目！代表新戦力ＦＷ柿谷曜一朗▽髙梨沙羅夏のＧＰ初戦　松山英樹＆石川遼は？▽甲子園に続々名乗り</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130727223000 +0900" stop="20130727225000 +0900" channel="GR27">
+    <title lang="ja_JP">ヒーローたちの名勝負▽天国と地獄の一日〜１０・１９近鉄・阿波野のダブルヘッダー【字】</title>
+    <desc lang="ja_JP">シーズン最終日、連勝で逆転優勝が決まる近鉄。疲労困憊のエース阿波野は第１試合に続き、運命の第２試合もマウンドを託される。伝説の１０．１９決戦を両軍選手が熱く語る</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130727225000 +0900" stop="20130727230000 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130727230000 +0900" stop="20130727233000 +0900" channel="GR27">
+    <title lang="ja_JP">ＳＯＮＧＳ「德永英明」【字】</title>
+    <desc lang="ja_JP">「レイニーブルー」「壊れかけのＲａｄｉｏ」などで知られるシンガーソングライター德永英明が香川県の直島をたずね、島のアート作品を鑑賞、自らの音楽活動を見つめ直す。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130727233000 +0900" stop="20130728000000 +0900" channel="GR27">
+    <title lang="ja_JP">タイムスクープハンター　＜終＞「村を守れ！投石バトル」【字】</title>
+    <desc lang="ja_JP">シーズン５の第１４回（最終回）。時空ジャーナリストの沢嶋雄一（要潤）は戦国時代へ。織田軍から村を守るため、投石で立ち向かう村人の姿を密着ドキュメントする。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130728000000 +0900" stop="20130728000500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130728000500 +0900" stop="20130728013500 +0900" channel="GR27">
+    <title lang="ja_JP">今夜も生でさだまさし「北の国から２０１３夏・函館」</title>
+    <desc lang="ja_JP">今夜は、ＮＨＫ函館放送局から「〜北の国から２０１３夏・函館〜」と題して生放送！イカで知られる函館からイカ踊りをお届け！さだまさしもイカ踊りを歌って踊るのか？！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130728013500 +0900" stop="20130728014000 +0900" channel="GR27">
+    <title lang="ja_JP">麻里子さまのおりこうさま！「紫外線」【字】</title>
+    <desc lang="ja_JP">社会に出るまでに覚えておきたい常識ワードを元ＡＫＢ４８・篠田麻里子と考えていく、超ビギナー向け社会勉強エンターテインメント！　今回のテーマは「紫外線」です。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130728014000 +0900" stop="20130728023000 +0900" channel="GR27">
+    <title lang="ja_JP">島耕作のアジア立志伝「規制緩和の革命児〜トニー・フェルナンデス」【字】</title>
+    <desc lang="ja_JP">トニー・フェルナンデス（エアアジアグループＣＥＯ／マレーシア）は、業界の規制に真っ向勝負をしかける経営者。大手航空のシェアを奪い、規制緩和を実現した戦いに迫る。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130728023000 +0900" stop="20130728031500 +0900" channel="GR27">
+    <title lang="ja_JP">ｇｌｅｅ（グリー）３（１）「メンバーチェンジ」【二】【字】【デ】【再】</title>
+    <desc lang="ja_JP">『ｇｌｅｅ３』地上波放送スタート！　グリー部の多くのメンバーにとって高校最後の年。みんな進路をあれこれ考えていたが、フィンはやりたいことがなくて焦っていた。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130728031500 +0900" stop="20130728032500 +0900" channel="GR27">
+    <title lang="ja_JP">洋楽倶楽部＠ｇｌｅｅ（グリー）（１）</title>
+    <desc lang="ja_JP">海外ドラマ「ｇｌｅｅ３」で登場した曲のオリジナルアーティストによるミュージックビデオを、“洋楽通”のナビゲーター、クリス松村と高橋愛が紹介！</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130728032500 +0900" stop="20130728033000 +0900" channel="GR27">
+    <title lang="ja_JP">Ｎスペ５ｍｉｎ．　シリーズ深海の巨大生物「謎の海底サメ王国」</title>
+    <desc lang="ja_JP">多忙な人向けにＮＨＫスペシャルを５分に凝縮した当番組。４年の歳月をかけ調査・撮影を続け、しかも世界初の大実験を試み、知られざる「深海ザメ王国」の実態に迫る。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130728033000 +0900" stop="20130728033500 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130728033500 +0900" stop="20130728041000 +0900" channel="GR27">
+    <title lang="ja_JP">海底の花園　サンゴの美〜沖縄　慶良間諸島〜</title>
+    <desc lang="ja_JP">〜沖縄県・慶良間諸島で収録〜</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130728041000 +0900" stop="20130728041300 +0900" channel="GR27">
+    <title lang="ja_JP">青海チベット鉄道「貴重な野生動物」【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130728041300 +0900" stop="20130728041500 +0900" channel="GR27">
+    <title lang="ja_JP">インターミッション</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130728041500 +0900" stop="20130728042000 +0900" channel="GR27">
+    <title lang="ja_JP">大河ドラマ八重の桜ダイジェスト　第２９回「鶴ヶ城開城」【字】</title>
+    <desc lang="ja_JP">八重（綾瀬はるか）が心配するなか、権八（松重豊）が補給路を奪還するため出陣した。新政府軍は１日に二千発を超える砲撃を加え、天守閣は無残な姿になりつつあった。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130728042000 +0900" stop="20130728042500 +0900" channel="GR27">
+    <title lang="ja_JP">名曲アルバム「グラナダ」</title>
+    <desc lang="ja_JP">　アグスティン・ララ作詞、作曲　栗山和樹・編曲　（テノール）村上敏明，（管弦楽）東京フィルハーモニー交響楽団，（指揮）松尾葉子　〜スペイン・グラナダ〜</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130728042500 +0900" stop="20130728043000 +0900" channel="GR27">
+    <title lang="ja_JP">シリーズ世界遺産１００「エトルリア墓地遺跡〜イタリア〜」【字】</title>
+    <desc lang="ja_JP">−来世への扉−▽文化遺産▽ローマ帝国が支配する前のイタリアで繁栄をおう歌したエトルリア人。死後も現世と同様の生活ができると考え、富は墓造りに費やされた。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130728043000 +0900" stop="20130728050000 +0900" channel="GR27">
+    <title lang="ja_JP">イッピン「しっかりフワフワ魅惑の布地〜愛知　三河木綿〜」【字】</title>
+    <desc lang="ja_JP">愛知県三河地方で作られる「三河木綿」。パリで人気の頑丈なバックから、赤ちゃん用の優しいガーゼケットまで。織り方ひとつで特徴をガラリと変える魅惑の布地を紹介する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130728050000 +0900" stop="20130728051500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130728051500 +0900" stop="20130728054500 +0900" channel="GR27">
+    <title lang="ja_JP">柳家権太楼の演芸図鑑「桂三語、エド山口、坂崎幸之助」【字】</title>
+    <desc lang="ja_JP">落語家・柳家権太楼が、演芸界のよりすぐりの至芸をナビゲートする。演芸は、桂三語の落語、エド山口。対談のゲストは、ＴＨＥ　ＡＬＦＥＥの坂崎幸之助さん。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130728054500 +0900" stop="20130728054700 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫ国際放送番組審議会「７月の審議から」【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130728054700 +0900" stop="20130728055000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130728055000 +0900" stop="20130728060000 +0900" channel="GR27">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130728060000 +0900" stop="20130728061500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130728061500 +0900" stop="20130728062500 +0900" channel="GR27">
+    <title lang="ja_JP">八重の桜ツアー「ただいま、東北」　▽初夏・いわき編【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130728062500 +0900" stop="20130728063000 +0900" channel="GR27">
+    <title lang="ja_JP">５分で「あまちゃん」　第１７週「おら、悲しみがとまらねぇ」【字】</title>
+    <desc lang="ja_JP">ＧＭＴのＣＤデビューが決まるも、メンバーのスキャンダルにより中止へ。さらにアキ（能年玲奈）に対し太巻（古田新太）は、春子の娘であることを理由に解雇を言い渡す。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130728063000 +0900" stop="20130728064500 +0900" channel="GR27">
+    <title lang="ja_JP">第５２回１０００万人ラジオ体操・みんなの体操祭</title>
+    <desc lang="ja_JP">岡本美佳，有賀暁子，押味愛里沙，五日市祐子，松下亜実，稲垣早織，清水沙希，【ピアノ】幅しげみ　〜秋田市・八橋運動公園陸上競技場から中継〜</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130728064500 +0900" stop="20130728065000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130728065000 +0900" stop="20130728065300 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫ中央放送番組審議会「７月の審議から」【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130728065300 +0900" stop="20130728070003 +0900" channel="GR27">
+    <title lang="ja_JP">気象情報・ニュース</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130728070003 +0900" stop="20130728074500 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本【字】</title>
+    <desc lang="ja_JP">▽世界初！巨大深海ザメ　メガマウス　驚異の映像</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130728074500 +0900" stop="20130728080000 +0900" channel="GR27">
+    <title lang="ja_JP">さわやか自然百景「三陸海岸　北山崎」【字】</title>
+    <desc lang="ja_JP">断崖絶壁が続く岩手県・三陸海岸の北山崎。岩場ではアマツバメやミサゴが子育てのために集い、山や高原に咲く花々が崖を彩る。初夏、荒々しい自然の中で輝く命を見つめる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130728080000 +0900" stop="20130728082500 +0900" channel="GR27">
+    <title lang="ja_JP">小さな旅「青き海のなか〜鹿児島　奄美大島〜」【字】</title>
+    <desc lang="ja_JP">九州・鹿児島から南へ３８０キロ、サンゴ礁に囲まれた奄美大島。素潜りで南国の魚を突く漁。潜りの漁師が集団で群れを追い込む漁。海の恵みと暮らす人々に出会う。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130728082500 +0900" stop="20130728085700 +0900" channel="GR27">
+    <title lang="ja_JP">サキどり↑「絆をつなぐ！親孝行ビジネス最前線」【字】</title>
+    <desc lang="ja_JP">「親孝行ビジネス」最前線★親子の会話がはずむ？美味しい新サービス★お母さん大感激！娘が贈る変身ギフト★ゴリさんもビックリ！親孝行を代行する町が誕生★</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130728085700 +0900" stop="20130728090000 +0900" channel="GR27">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130728090000 +0900" stop="20130728100000 +0900" channel="GR27">
+    <title lang="ja_JP">日曜討論「“ねじれ解消”日本政治を考える」</title>
+    <desc lang="ja_JP">参議院選挙で大勝した自由民主党。“ねじれ”が解消された国会は、今後どう動くのか？日本政治はどこへ向かうのか？そして“ネット選挙”は…。専門家による徹底討論です。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130728100000 +0900" stop="20130728100500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130728100500 +0900" stop="20130728115400 +0900" channel="GR27">
+    <title lang="ja_JP">第９５回全国高校野球選手権大会　埼玉大会・決勝</title>
+    <desc lang="ja_JP">「（浦和学院）対（聖望学園）の勝者」対「（川越東）対（市立川口）の勝者」（開始時間　１０：００）【解説】宮内誠弘，【アナウンサー】星野圭介</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130728115400 +0900" stop="20130728120003 +0900" channel="GR27">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130728120003 +0900" stop="20130728121500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130728121500 +0900" stop="20130728130000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫのど自慢「北海道根室市」【字】</title>
+    <desc lang="ja_JP">八代亜紀，山内惠介，【司会】小田切千，【鐘】秋山気清　〜北海道・根室市総合文化会館から中継〜</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130728130000 +0900" stop="20130728130500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130728130500 +0900" stop="20130728153000 +0900" channel="GR27">
+    <title lang="ja_JP">第９５回全国高校野球選手権大会　西東京大会・決勝「日大三」対「日野」</title>
+    <desc lang="ja_JP">　（試合開始　１：００）　【解説】細田初雄，【アナウンサー】曽根優　〜神宮球場から中継〜</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130728153000 +0900" stop="20130728154500 +0900" channel="GR27">
+    <title lang="ja_JP">富士山・火の山【字】</title>
+    <desc lang="ja_JP">【語り】久保田祐佳</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130728154500 +0900" stop="20130728155000 +0900" channel="GR27">
+    <title lang="ja_JP">ＢＳ先取り情報「８月号」</title>
+    <desc lang="ja_JP">８月のＢＳおすすめ番組</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130728155000 +0900" stop="20130728160000 +0900" channel="GR27">
+    <title lang="ja_JP">特ダネ！投稿ＤＯ画【字】</title>
+    <desc lang="ja_JP">視聴者のみなさんの投稿動画やインターネット上の動画でつくる番組。いま世界が注目する話題の動画をご紹介します。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130728160000 +0900" stop="20130728162500 +0900" channel="GR27">
+    <title lang="ja_JP">アクロス　ザ　ボーダー「ジブラルタル」【字】【再】</title>
+    <desc lang="ja_JP">中山エミリがヨーロッパの国境地帯を訪ねる紀行番組。３回シリーズの１回目は、スペインの南端のイギリス領ジブラルタル。“国境”を行き来しながら生きる人々を訪ねる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130728162500 +0900" stop="20130728165100 +0900" channel="GR27">
+    <title lang="ja_JP">アクロス　ザ　ボーダー「ドナウ川を越えて生きる　ルーマニア〜ウクライナ」【字】【再】</title>
+    <desc lang="ja_JP">中山エミリがヨーロッパ国境地帯を訪ねるシリーズの２回目。ドナウ川を挟みルーマニアとウクライナが国を接する。国境の変化を受け入れてたくましく生きる人々を訪ねる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130728165100 +0900" stop="20130728165500 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130728165500 +0900" stop="20130728170000 +0900" channel="GR27">
+    <title lang="ja_JP">復興支援ソング「花は咲く」</title>
+    <desc lang="ja_JP">「花は咲く」</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130728170000 +0900" stop="20130728172000 +0900" channel="GR27">
+    <title lang="ja_JP">あまちゃん一週間　第１７週「おら、悲しみがとまらねぇ」【字】</title>
+    <desc lang="ja_JP">ＧＭＴのＣＤデビューが決まるも、メンバーのスキャンダルにより中止へ。さらにアキ（能年玲奈）に対し太巻（古田新太）は、春子の娘であることを理由に解雇を言い渡す。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130728172000 +0900" stop="20130728172500 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130728172500 +0900" stop="20130728173000 +0900" channel="GR27">
+    <title lang="ja_JP">綾瀬はるかの「ただいま、東北」　５分ミニスペシャル</title>
+    <desc lang="ja_JP">綾瀬はるか</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130728173000 +0900" stop="20130728180000 +0900" channel="GR27">
+    <title lang="ja_JP">のんびりゆったり　路線バスの旅「夏の三浦半島　潮風にいだかれて」【字】</title>
+    <desc lang="ja_JP">旅の舞台は神奈川県。旅人は俳優の須賀貴匡さん。鎌倉市を出発し路線バスで南へ南へ。海岸線をたどるように路線バスを乗り継ぎながら三浦半島南端まで。夏の海辺をゆく旅。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130728180000 +0900" stop="20130728181000 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130728181000 +0900" stop="20130728184200 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫ海外ネットワーク▽北朝鮮から中継　朝鮮戦争休戦から６０年南北の今と未来は？</title>
+    <desc lang="ja_JP">朝鮮戦争休戦から６０年中継・北朝鮮の今後は▽南北軍事境界線では今も両国が対峙・中立国による停戦監視活動▽南北統一を見据えてＮＧＯは架け橋となる人材の育成を始めた</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130728184200 +0900" stop="20130728184500 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130728184500 +0900" stop="20130728185300 +0900" channel="GR27">
+    <title lang="ja_JP">首都圏ニュース</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130728185300 +0900" stop="20130728190003 +0900" channel="GR27">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130728190003 +0900" stop="20130728193000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース７【二】【字】</title>
+    <desc lang="ja_JP">▽“美白化粧品で白斑”実態は　▽上野駅開業１３０年　【キャスター】小郷知子，【サブキャスター】佐藤龍文，【気象キャスター】寺川奈津美</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130728193000 +0900" stop="20130728200000 +0900" channel="GR27">
+    <title lang="ja_JP">ダーウィンが来た！「珍獣アマミノクロウサギ　驚きの子育て！」【字】</title>
+    <desc lang="ja_JP">世界でも日本にしかいない珍獣アマミノクロウサギ。その子育ては奇想天外だ。なんと母親は子どもを土の中に埋めてしまうのだ。なぜ、そんなことを？驚きの子育て術に迫る！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130728200000 +0900" stop="20130728204500 +0900" channel="GR27">
+    <title lang="ja_JP">八重の桜（３０）「再起への道」【解】【字】【デ】</title>
+    <desc lang="ja_JP">八重（綾瀬はるか）たちは米沢藩の知人の家に身を寄せる。食いぶちを稼ぐため反物の行商に励む八重だが、食が細くやせ衰えていく佐久（風吹ジュン）のことが気にかかる。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130728204500 +0900" stop="20130728210000 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130728210000 +0900" stop="20130728220000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫスペシャル　シリーズ深海の巨大生物「謎の海底サメ王国」【SS】【字】</title>
+    <desc lang="ja_JP">深海の巨大生物第二弾は海底サメ王国に迫る。富士山のふもとの海は世界的な深海ザメの宝庫。悪魔のサメ・古代ザメ、怪物メガマウスなど世界初の映像満載。４年に及ぶ撮影。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130728220000 +0900" stop="20130728225000 +0900" channel="GR27">
+    <title lang="ja_JP">サンデースポーツ</title>
+    <desc lang="ja_JP">健闘ＤｅＮＡ！セ３位争いが熱い▽落合博満　きょうの俺流▽夢の深度１００ｍへ！４０歳女性フリーダイバーの挑戦▽全英６位松山英樹は▽きょう甲子園決めたのは▽大リーグ</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130728225000 +0900" stop="20130728230000 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130728230000 +0900" stop="20130729000000 +0900" channel="GR27">
+    <title lang="ja_JP">トンイ（２５）「思わぬ味方」【二】【字】</title>
+    <desc lang="ja_JP">貧しい境遇から朝鮮王朝第１９代王・粛宗（スクチョン）の側室となり、後の名君、第２１代王・英祖（ヨンジョ）を産み育てた女性トンイの劇的な生涯を描く。（全６０回）</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130729000000 +0900" stop="20130729000500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130729000500 +0900" stop="20130729001000 +0900" channel="GR27">
+    <title lang="ja_JP">５分で「あまちゃん」　第１７週「おら、悲しみがとまらねぇ」【字】</title>
+    <desc lang="ja_JP">ＧＭＴのＣＤデビューが決まるも、メンバーのスキャンダルにより中止へ。さらにアキ（能年玲奈）に対し太巻（古田新太）は、春子の娘であることを理由に解雇を言い渡す。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130729001000 +0900" stop="20130729011000 +0900" channel="GR27">
+    <title lang="ja_JP">土曜ドラマ　七つの会議（３）「すべてが壊れていく」【解】【字】【再】</title>
+    <desc lang="ja_JP">製品にまつわる大がかりな隠蔽を知った原島（東山紀之）は、ほかにどうすることもできずにヤミ改修に手を染める。副社長・村西のもとに何者かから告発の手紙が届き…。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130729011000 +0900" stop="20130729013630 +0900" channel="GR27">
+    <title lang="ja_JP">アニメ　キングダム（１５）「王の資格」【字】【デ】</title>
+    <desc lang="ja_JP">古代中国。幾多の英雄が生まれそして散っていった春秋戦国時代。西の果て秦の国で大将軍になることを夢見て戦乱の世を生き抜いた名もなき少年と、若き王の激動の物語。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130729013630 +0900" stop="20130729020700 +0900" channel="GR27">
+    <title lang="ja_JP">水・族・館「八景島シーパラダイス」　※一部地域は放送休止</title>
+    <desc lang="ja_JP">▽全国の大型水族館の魅力をたっぷりと紹介。ジンベイザメにマンタなどの大型魚や美しい熱帯魚たちの姿をハイビジョン映像の圧倒的な表現力で伝える。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130729020700 +0900" stop="20130729023700 +0900" channel="GR27">
+    <title lang="ja_JP">小笠原「母島」　※一部地域は放送休止</title>
+    <desc lang="ja_JP">世界自然遺産・小笠原諸島の母島で、固有種を中心に貴重な生物を撮影。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130729023700 +0900" stop="20130729033700 +0900" channel="GR27">
+    <title lang="ja_JP">昭和のＳＬ映像館Ⅱ「九州・四国・西日本編」　※一部地域は放送休止</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130729033700 +0900" stop="20130729041500 +0900" channel="GR27">
+    <title lang="ja_JP">北アルプス「北アルプスの四季」　※一部地域は放送休止</title>
+    <desc lang="ja_JP">北アルプスの山々の四季</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130729041500 +0900" stop="20130729042000 +0900" channel="GR27">
+    <title lang="ja_JP">シリーズ世界遺産１００「エーランド島南部の農業景観〜スウェーデン〜」【字】</title>
+    <desc lang="ja_JP">−荒野に生きる−　▽文化遺産　【語り】鹿賀丈史　【テーマ音楽】久石　譲</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130729042000 +0900" stop="20130729043000 +0900" channel="GR27">
+    <title lang="ja_JP">視点・論点「いじめ防止対策法を考える」</title>
+    <desc lang="ja_JP">“ストップいじめナビ”プロジェクトチーム事務局長…須永祐慈</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130729043000 +0900" stop="20130729050000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本</title>
+    <desc lang="ja_JP">▽ニュース　▽地域の課題や話題のリポート　▽日本と世界の気象情報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130729050000 +0900" stop="20130729063000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本</title>
+    <desc lang="ja_JP">▽ニュース　▽地域の課題や話題のリポート　▽ここが知りたい！　▽まちかど情報室　▽とれたてマイビデオ　▽気象情報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130729063000 +0900" stop="20130729070003 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本</title>
+    <desc lang="ja_JP">▽ニュース・７項目　▽スポーツ　▽気象情報　▽世界のニュースザッピング　▽まちかど情報室</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130729070003 +0900" stop="20130729074500 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本【字】</title>
+    <desc lang="ja_JP">ニュースをわかりやすく、関心のあるテーマをじっくりと、スポーツを詳しくお伝えします。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130729074500 +0900" stop="20130729080000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本【字】</title>
+    <desc lang="ja_JP">▽安全な海水浴場を！救助の強い味方が登場　【キャスター】阿部渉，鈴木奈穂子</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130729080000 +0900" stop="20130729081500 +0900" channel="GR27">
+    <title lang="ja_JP">連続テレビ小説　あまちゃん（１０３）「おら、地元に帰ろう！？」【解】【字】【デ】</title>
+    <desc lang="ja_JP">ヒロイン・アキは、ついに東京で本格的にアイドルを目指すことに！　宮藤官九郎がオリジナルで描く人情喜劇。日本の朝に元気をお届けします。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130729081500 +0900" stop="20130729095500 +0900" channel="GR27">
+    <title lang="ja_JP">あさイチ「女たちの熱闘！水泳・ジャパンマスターズ」【字】</title>
+    <desc lang="ja_JP">▽被害続出　美白化粧品の落とし穴　▽美スイマーに学ぶ！簡単ポーズで２０キロ減　タオル体操でひざ痛解消！　【ゲスト】内藤剛志，原千晶，国士舘大学教授…須藤明治ほか</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130729095500 +0900" stop="20130729100000 +0900" channel="GR27">
+    <title lang="ja_JP">みんなの体操【解】【字】</title>
+    <desc lang="ja_JP">【出演】多胡肇，有賀暁子，押味愛里沙</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130729100000 +0900" stop="20130729100500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130729100500 +0900" stop="20130729105000 +0900" channel="GR27">
+    <title lang="ja_JP">鶴瓶の家族に乾杯「東山紀之　和歌山県湯浅町」（後編）【解】【字】【再】</title>
+    <desc lang="ja_JP">俳優の東山紀之が和歌山県湯浅町を旅する後編。みかん畑が広がる地域を訪ねた東山は、偶然出会った小学生の男の子の家族がみかんを栽培していると聞き一緒に訪ねることに。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130729105000 +0900" stop="20130729105500 +0900" channel="GR27">
+    <title lang="ja_JP">あの日　わたしは〜証言記録　東日本大震災〜「青森県八戸市　上山正さん」【字】</title>
+    <desc lang="ja_JP">八戸港の運送会社の専務、上山さんは、大津波警報に気がつかず、すぐに避難しなかった。海の異変に気づき避難する途中、津波が押し寄せたが、橋の上にいて助かった。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130729105500 +0900" stop="20130729110000 +0900" channel="GR27">
+    <title lang="ja_JP">みんなのうた「カタツムリ、カタオモイ」「君へのファンファーレ」</title>
+    <desc lang="ja_JP">▽「カタツムリ、カタオモイ」うた：Ｎａｏｍｉｌｅ（ナオミール）　／▽「君へのファンファーレ」うた：ＴＯＫＵ</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130729110000 +0900" stop="20130729110500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130729110500 +0900" stop="20130729115400 +0900" channel="GR27">
+    <title lang="ja_JP">ひるまえほっと</title>
+    <desc lang="ja_JP">▽“実力野菜”豆苗の魅力＆簡単！豆苗レシピ　▽関東各地の話題　ほか　【キャスター】三好正人</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130729115400 +0900" stop="20130729120003 +0900" channel="GR27">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130729120003 +0900" stop="20130729122000 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130729122000 +0900" stop="20130729123800 +0900" channel="GR27">
+    <title lang="ja_JP">ひるブラ「ひるブラ特選　ビューティースポット　自然ＶＳ庭園」【字】</title>
+    <desc lang="ja_JP">これまで放送したものの中から、好評だったものを再構成してお伝えする。今回のテーマは「都会で楽しめるビューティースポット」。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130729123800 +0900" stop="20130729124500 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130729124500 +0900" stop="20130729130000 +0900" channel="GR27">
+    <title lang="ja_JP">連続テレビ小説　あまちゃん（１０３）「おら、地元に帰ろう！？」【解】【字】【デ】【再】</title>
+    <desc lang="ja_JP">ヒロイン・アキは、ついに東京で本格的にアイドルを目指すことに！　宮藤官九郎がオリジナルで描く人情喜劇。日本の朝に元気をお届けします。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130729130000 +0900" stop="20130729130500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130729130500 +0900" stop="20130729154000 +0900" channel="GR27">
+    <title lang="ja_JP">第９５回全国高校野球選手権大会　神奈川大会・決勝</title>
+    <desc lang="ja_JP">（試合開始　１：００）「（東海大相模）対（横浜）の勝者」対「（桐蔭学園）対（平塚学園）の勝者」【解説】渡辺晃，【アナウンサー】飯塚洋介〜横浜スタジアムから中継〜</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130729154000 +0900" stop="20130729155500 +0900" channel="GR27">
+    <title lang="ja_JP">さわやか自然百景「三陸海岸　北山崎」【字】</title>
+    <desc lang="ja_JP">断崖絶壁が続く岩手県・三陸海岸の北山崎。岩場ではアマツバメやミサゴが子育てのために集い、山や高原に咲く花々が崖を彩る。初夏、荒々しい自然の中で輝く命を見つめる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130729155500 +0900" stop="20130729160000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130729160000 +0900" stop="20130729160500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130729160500 +0900" stop="20130729165400 +0900" channel="GR27">
+    <title lang="ja_JP">ドラマ１０　激流〜私を憶えていますか？〜（５）「見えない悪意」【解】【字】【再】</title>
+    <desc lang="ja_JP">貴子（国仲涼子）は大林殺害の容疑で任意同行される。美弥（ともさかりえ）は東萩（桐谷健太）に貴子を守るように頼むが、貴子は自供してしまう。意外な犯人が自首するが…</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130729165400 +0900" stop="20130729165500 +0900" channel="GR27">
+    <title lang="ja_JP">明日へ１ｍｉｎ．“ただいま、東北”「宮城県気仙沼市・活気あふれる魚市場編」</title>
+    <desc lang="ja_JP">大河ドラマ「八重の桜」主演の綾瀬はるかさんが東北各地を旅し豊かで温かな東北の魅力を紹介するミニ番組。今回は宮城県気仙沼市で港町の活気や海に生きる想いにふれます。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130729165500 +0900" stop="20130729170000 +0900" channel="GR27">
+    <title lang="ja_JP">きょうの料理ビギナーズ「がっつり和食（４）夏こそ牛丼！」【字】</title>
+    <desc lang="ja_JP">今週は、夏バテしない体をつくる、がっつり和食を特集する。今回紹介するのは牛丼。爽やかな辛みの新しょうがをたっぷりと使った「しょうがたっぷり牛丼」などを作る。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130729170000 +0900" stop="20130729171000 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130729171000 +0900" stop="20130729180000 +0900" channel="GR27">
+    <title lang="ja_JP">ゆうどきネットワーク▽福井から京都へ続く鯖街道を訪ね、各地の発酵食を味わう。【字】</title>
+    <desc lang="ja_JP">福井から京都へと続く鯖街道を訪ね、鯖を使った各地の発酵食を味わう。さらに、鯖を上手に焼くマル秘テクニックも大公開！魅力満点の発酵ワールドを紹介する。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130729180000 +0900" stop="20130729181000 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130729181000 +0900" stop="20130729185200 +0900" channel="GR27">
+    <title lang="ja_JP">首都圏ネットワーク【字】</title>
+    <desc lang="ja_JP">▽笹子トンネル事故で民事訴訟・遺族の思い　▽ＬＣＣをどう使う？　【キャスター】村竹勝司，片山千恵子，【気象キャスター】関口奈美</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130729185200 +0900" stop="20130729190003 +0900" channel="GR27">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130729190003 +0900" stop="20130729193000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース７【二】【字】</title>
+    <desc lang="ja_JP">▽ＮＹで松井秀喜さん再び勇姿　感動の引退セレモニー　【キャスター】小郷知子，【サブキャスター】守本奈実，【気象キャスター】岡村真美子</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130729193000 +0900" stop="20130729195600 +0900" channel="GR27">
+    <title lang="ja_JP">クローズアップ現代「“格安”は日本の空を変えるか」【字】</title>
+    <desc lang="ja_JP">国内の格安航空会社（ＬＣＣ）が相次いで就航して１年。飛行機を利用しなかった人たちの需要を掘り起こし、日本の空を変えつつある。ＬＣＣの可能性と、定着への課題を探る</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130729195600 +0900" stop="20130729195800 +0900" channel="GR27">
+    <title lang="ja_JP">明日へ１ｍｉｎ．「カレンの復興カレンダー」</title>
+    <desc lang="ja_JP">ＡＫＢ４８の岩田華怜（いわたかれん）がナビゲートするミニ番組。ＮＨＫ「明日へ」サイトで掲載されている、被災地の方々のブログを紹介。今回は北茨城市の井上淑恵さん。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130729195800 +0900" stop="20130729200000 +0900" channel="GR27">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130729200000 +0900" stop="20130729204300 +0900" channel="GR27">
+    <title lang="ja_JP">鶴瓶の家族に乾杯「野際陽子　山形県鶴岡市」（前編）【解】【字】</title>
+    <desc lang="ja_JP">女優の野際陽子が山形県鶴岡市を旅する。ふたりは明治時代から続く老舗のうなぎ屋を訪問、野際と同じ年生まれの女将に出会う。途中、見かけた亀に、野際がある行動に出る。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130729204300 +0900" stop="20130729204500 +0900" channel="GR27">
+    <title lang="ja_JP">もうすぐ９時　プレマップ</title>
+    <desc lang="ja_JP">【キャスター】片山千恵子</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130729204500 +0900" stop="20130729210000 +0900" channel="GR27">
+    <title lang="ja_JP">首都圏ニュース８４５【字】</title>
+    <desc lang="ja_JP">【キャスター】守本奈実，【気象キャスター】斉田季実治</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130729210000 +0900" stop="20130729220000 +0900" channel="GR27">
+    <title lang="ja_JP">ニュースウオッチ９【二】【字】</title>
+    <desc lang="ja_JP">▽なぜ繰り返されるのか　学校プールの死亡事故　▽不妊治療で助成制限　▽二刀流の今・将来像　大谷翔平選手に聞く　【キャスター】大越健介，井上あさひほか</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130729220000 +0900" stop="20130729225000 +0900" channel="GR27">
+    <title lang="ja_JP">プロフェッショナル　仕事の流儀「うなぎ職人・金本兼次郎」【字】</title>
+    <desc lang="ja_JP">気品に満ちた黄金色、さっぱりとした江戸前の味わい。そして決して焦がさない…。食通も認める名人芸のうなぎ職人が登場。追求心を忘れない８５歳、その夏の日々に密着！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130729225000 +0900" stop="20130729225500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130729225500 +0900" stop="20130729232000 +0900" channel="GR27">
+    <title lang="ja_JP">大人ドリル「夏休みＳＰ　上半期の重要ニュースからニッポンの未来を読む！」【字】</title>
+    <desc lang="ja_JP">大人がいま知るべきことに、ＮＨＫ解説委員と加藤浩次の本音バトルで迫る番組。今回は委員長と副委員長の３人が、今年上半期の重要ニュースを選択、日本の未来を論じる。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130729232000 +0900" stop="20130729233000 +0900" channel="GR27">
+    <title lang="ja_JP">Ｓｐｏｒｔｓプラス</title>
+    <desc lang="ja_JP">▽松井秀喜さんヤンキースで引退試合▽まだまだバリバリの現役！７１歳オートレーサーその妙技に迫る！▽競泳世界選手権</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130729233000 +0900" stop="20130730000000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＥＷＳ　ＷＥＢ▽ニュースへの疑問・質問は＃ｎｈｋ２４をつけてください▽小室淑恵</title>
+    <desc lang="ja_JP">▽みなさんのツイートを番組で活用します。▽ニュースへの疑問・質問を　＃ｎｈｋ２４をつけてお寄せください。▽詳細は番組のＨＰで▽ネットナビゲーターは小室淑恵さん</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130730000000 +0900" stop="20130730001000 +0900" channel="GR27">
+    <title lang="ja_JP">時論公論「デトロイトの混迷　破綻の教訓は」高橋弘行解説委員</title>
+    <desc lang="ja_JP">自動車の町、アメリカ・デトロイトが財政破綻。経緯や背景、日本の自治体との比較や日本の財政危機なども交えながら、デトロイトから学べるものがあるのかどうか考える。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130730001000 +0900" stop="20130730003600 +0900" channel="GR27">
+    <title lang="ja_JP">クローズアップ現代「“格安”は日本の空を変えるか」【字】【再】</title>
+    <desc lang="ja_JP">国内の格安航空会社（ＬＣＣ）が相次いで就航して１年。飛行機を利用しなかった人たちの需要を掘り起こし、日本の空を変えつつある。ＬＣＣの可能性と、定着への課題を探る</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130730003600 +0900" stop="20130730004000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130730004000 +0900" stop="20130730012500 +0900" channel="GR27">
+    <title lang="ja_JP">地方発　ドキュメンタリー「基地に消えた　私の村〜沖縄“普天間”の戦後〜」【字】</title>
+    <desc lang="ja_JP">街の中心にある沖縄・普天間基地。かつてそこは静かな農村だった。沖縄戦、土地の強制収用、本土復帰を通して、村はどう基地へと変えられていったのか…。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130730012500 +0900" stop="20130730021500 +0900" channel="GR27">
+    <title lang="ja_JP">ドラマ１０　激流〜私を憶えていますか？〜（５）「見えない悪意」【解】【字】【再】</title>
+    <desc lang="ja_JP">貴子（国仲涼子）は大林殺害の容疑で任意同行される。美弥（ともさかりえ）は東萩（桐谷健太）に貴子を守るように頼むが、貴子は自供してしまう。意外な犯人が自首するが…</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130730021500 +0900" stop="20130730024000 +0900" channel="GR27">
+    <title lang="ja_JP">アクロス　ザ　ボーダー「ドナウ川を越えて生きる　ルーマニア〜ウクライナ」【字】【再】</title>
+    <desc lang="ja_JP">中山エミリがヨーロッパ国境地帯を訪ねるシリーズの２回目。ドナウ川を挟みルーマニアとウクライナが国を接する。国境の変化を受け入れてたくましく生きる人々を訪ねる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130730024000 +0900" stop="20130730030200 +0900" channel="GR27">
+    <title lang="ja_JP">連続クイズ　ホールドオン！＜２３２＞【字】</title>
+    <desc lang="ja_JP">視聴者参加クイズ「連続クイズ　ホールドオン！」第２３２回。チャンピオンは、４人の挑戦者から防衛出来るか？新チャンピオン登場か？次は…あなたの出番です！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130730030200 +0900" stop="20130730034000 +0900" channel="GR27">
+    <title lang="ja_JP">北アルプス「北アルプスの名峰」</title>
+    <desc lang="ja_JP">北アルプスに位置する百名山をはじめとする名峰の数々</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130730034000 +0900" stop="20130730040500 +0900" channel="GR27">
+    <title lang="ja_JP">京都　音めぐり「守り継ぐ伝統の音」</title>
+    <desc lang="ja_JP">▽祇園「都をどり」、酒どころ伏見の仕込み歌、「コンコンチキチキ♪」祇園囃子が響く京都の夏の風物詩「祇園祭」…古都、京都が守り継いで来た音の世界。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130730040500 +0900" stop="20130730041000 +0900" channel="GR27">
+    <title lang="ja_JP">みんなのうた「はさみとぎ」「うちゅうひこうしのうた」</title>
+    <desc lang="ja_JP">▽「はさみとぎ」うた：友竹正則、杉並児童合唱団　／▽「うちゅうひこうしのうた」うた：坂本真綾</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130730041000 +0900" stop="20130730041500 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫプレマップ「津波情報が変わりました」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130730041500 +0900" stop="20130730042000 +0900" channel="GR27">
+    <title lang="ja_JP">シリーズ世界遺産１００「クトゥブ・ミナールと建造物群〜インド」【字】</title>
+    <desc lang="ja_JP">−征服の証し−　▽文化遺産【語り】江守徹【テーマ音楽】久石譲</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130730042000 +0900" stop="20130730043000 +0900" channel="GR27">
+    <title lang="ja_JP">視点・論点「犯罪被害から子どもをどう守る」</title>
+    <desc lang="ja_JP">日本こどもの安全教育総合研究所理事長…宮田美恵子</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130730043000 +0900" stop="20130730050000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本</title>
+    <desc lang="ja_JP">▽ニュース　▽地域の課題や話題のリポート　▽日本と世界の気象情報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130730050000 +0900" stop="20130730063000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本</title>
+    <desc lang="ja_JP">▽ニュース　▽地域の課題や話題のリポート　▽ここが知りたい！　▽まちかど情報室　▽とれたてマイビデオ　▽気象情報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130730063000 +0900" stop="20130730070003 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本</title>
+    <desc lang="ja_JP">▽ニュース・７項目　▽スポーツ　▽気象情報　▽世界のニュースザッピング　▽まちかど情報室</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130730070003 +0900" stop="20130730074500 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本【字】</title>
+    <desc lang="ja_JP">ニュースをわかりやすく、関心のあるテーマをじっくりと、スポーツを詳しくお伝えします。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130730074500 +0900" stop="20130730080000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本【字】</title>
+    <desc lang="ja_JP">【キャスター】阿部渉，鈴木奈穂子</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130730080000 +0900" stop="20130730081500 +0900" channel="GR27">
+    <title lang="ja_JP">連続テレビ小説　あまちゃん（１０４）「おら、地元に帰ろう！？」【解】【字】【デ】</title>
+    <desc lang="ja_JP">ヒロイン・アキは、ついに東京で本格的にアイドルを目指すことに！　宮藤官九郎がオリジナルで描く人情喜劇。日本の朝に元気をお届けします。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130730081500 +0900" stop="20130730095500 +0900" channel="GR27">
+    <title lang="ja_JP">あさイチ「スゴ技Ｑ　今こそ知りたい！麦茶パワー活用術」【字】【双】</title>
+    <desc lang="ja_JP">スゴ技Ｑ　今こそ知りたい！麦茶パワー活用術▽ピカピカ「埼玉県春日部市」▽３世代で楽しむ　鶏むね肉の竜田揚げ【ゲスト】假屋崎省吾，山口もえ　ほか（変更の場合あり）</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130730095500 +0900" stop="20130730100000 +0900" channel="GR27">
+    <title lang="ja_JP">みんなの体操【解】【字】</title>
+    <desc lang="ja_JP">【出演】岡本美佳，稲垣早織，清水沙希</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130730100000 +0900" stop="20130730100500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130730100500 +0900" stop="20130730101500 +0900" channel="GR27">
+    <title lang="ja_JP">くらし☆解説【字】</title>
+    <desc lang="ja_JP">【司会】岩渕梢</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130730101500 +0900" stop="20130730104000 +0900" channel="GR27">
+    <title lang="ja_JP">趣味Ｄｏ楽なるほど便利！くらしで使えるスマホ＆タブレット＜終＞第９回▽総集編【解】【字】</title>
+    <desc lang="ja_JP">スマートフォンとタブレット端末入門シリーズ８回作の総集編。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130730104000 +0900" stop="20130730105000 +0900" channel="GR27">
+    <title lang="ja_JP">特ダネ！投稿ＤＯ画【字】</title>
+    <desc lang="ja_JP">視聴者からの投稿動画やインターネット上の動画でつくる番組。今回はユニークでかわいいワンちゃんたちの動画をたっぷりお伝えします。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130730105000 +0900" stop="20130730105500 +0900" channel="GR27">
+    <title lang="ja_JP">あの日　わたしは〜証言記録　東日本大震災〜「岩手県宮古市　山根栄さん」【字】</title>
+    <desc lang="ja_JP">山根さんは勤務先で地震に襲われ、すぐに海沿いの自宅に向かった。家族はすでに避難していた。隣の家のおばあさんを背負って高台を目指すも二人は津波に流されてしまう。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130730105500 +0900" stop="20130730110000 +0900" channel="GR27">
+    <title lang="ja_JP">みんなのうた「ちょっとだけ☆ナラバイ」「タン・タン・タン」</title>
+    <desc lang="ja_JP">▽「ちょっとだけ☆ナラバイ」うた：ジューシィ・フルーツ　／▽「タン・タン・タン」うた：ワタナベフラワー＆ゆーゆ</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130730110000 +0900" stop="20130730110500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130730110500 +0900" stop="20130730115400 +0900" channel="GR27">
+    <title lang="ja_JP">ひるまえほっと</title>
+    <desc lang="ja_JP">▽神奈川県・茨城県の情報　▽首都圏ニュース　▽かんたんごはん　▽＠（アッ！）とほっと　【キャスター】三好正人</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130730115400 +0900" stop="20130730120003 +0900" channel="GR27">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130730120003 +0900" stop="20130730122000 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130730122000 +0900" stop="20130730123800 +0900" channel="GR27">
+    <title lang="ja_JP">ひるブラ「ひるブラ特選　イマドキに変身！伝統の街」【字】</title>
+    <desc lang="ja_JP">これまで放送したものの中から、好評だったものを再構成してお伝えする。今回のテーマは「イマドキのアイテムを生み出している伝統技術の街」。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130730123800 +0900" stop="20130730124500 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130730124500 +0900" stop="20130730130000 +0900" channel="GR27">
+    <title lang="ja_JP">連続テレビ小説　あまちゃん（１０４）「おら、地元に帰ろう！？」【解】【字】【デ】【再】</title>
+    <desc lang="ja_JP">ヒロイン・アキは、ついに東京で本格的にアイドルを目指すことに！　宮藤官九郎がオリジナルで描く人情喜劇。日本の朝に元気をお届けします。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130730130000 +0900" stop="20130730130500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130730130500 +0900" stop="20130730132700 +0900" channel="GR27">
+    <title lang="ja_JP">連続クイズ　ホールドオン！＜２３３＞【字】</title>
+    <desc lang="ja_JP">視聴者参加クイズ「連続クイズ　ホールドオン！」第２３３回。チャンピオンは、４人の挑戦者から防衛出来るか？新チャンピオン登場か？次は…あなたの出番です！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130730132700 +0900" stop="20130730140000 +0900" channel="GR27">
+    <title lang="ja_JP">スタジオパークからこんにちは　池内博之【字】</title>
+    <desc lang="ja_JP">▽八重の桜・梶原平馬役　▽怒られると燃える男？　▽舞台で鍛えられた！　【ゲスト】池内博之，【司会】伊藤雄彦，【リポーター】米田弥央</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130730140000 +0900" stop="20130730140500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130730140500 +0900" stop="20130730145500 +0900" channel="GR27">
+    <title lang="ja_JP">情報まるごと【字】</title>
+    <desc lang="ja_JP">▽ニュースと話題　▽にっぽんまるごと　▽にじさんぽ　▽気象情報　【キャスター】小澤康喬，實石あづさ，【気象キャスター】加藤祐子</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130730145500 +0900" stop="20130730150000 +0900" channel="GR27">
+    <title lang="ja_JP">テレビ体操【字】</title>
+    <desc lang="ja_JP">【出演】西川佳克，有賀暁子，五日市祐子，松下亜実，【ピアノ】幅しげみ</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130730150000 +0900" stop="20130730151500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130730151500 +0900" stop="20130730160000 +0900" channel="GR27">
+    <title lang="ja_JP">キッチンが走る！「水がもたらす逸品あり〜栃木・宇都宮市〜」【字】</title>
+    <desc lang="ja_JP">鬼怒川が流れ豊かな水が暮らしを潤す栃木県宇都宮市。かんぴょう、アスパラガス、そして養殖アユ。水の恵みで育つ食材で中国料理の山口祐介が創り出す斬新な味を堪能！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130730160000 +0900" stop="20130730160500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130730160500 +0900" stop="20130730164900 +0900" channel="GR27">
+    <title lang="ja_JP">ためしてガッテン「４０代から多発！恐怖の“隠れ心臓病”」【解】【字】【再】</title>
+    <desc lang="ja_JP">「４０代が発症のピーク」「痛みをまったく感じないうちに突然死」…これまでの常識ではとらえきれない心臓病の最新情報！謎をとくキーワードは「冷え」と「せき」！？</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130730164900 +0900" stop="20130730165000 +0900" channel="GR27">
+    <title lang="ja_JP">明日へ１ｍｉｎ．「カレンの復興カレンダー」</title>
+    <desc lang="ja_JP">ＡＫＢ４８の岩田華怜（いわたかれん）がナビゲートするミニ番組。ＮＨＫ「明日へ」サイトで掲載されている、被災地の方々のブログを紹介。今回は北茨城市の井上淑恵さん。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130730165000 +0900" stop="20130730165500 +0900" channel="GR27">
+    <title lang="ja_JP">きょうの料理ビギナーズ「夏はやっぱり　ひんやりそうめん」【字】</title>
+    <desc lang="ja_JP">今週は夏にぴったりの麺料理の特集。今回は冷たいそうめん。ツルッとなめらかな口当たりのそうめんは、夏の麺料理の定番だ。基本となる「冷やしそうめん」などを作る。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130730165500 +0900" stop="20130730170000 +0900" channel="GR27">
+    <title lang="ja_JP">５分で分かる“激流〜私を憶えていますか？〜”　第５回「見えない悪意」【字】</title>
+    <desc lang="ja_JP">貴子（国仲涼子）は大林殺害の容疑で任意同行される。美弥（ともさかりえ）は東萩（桐谷健太）に貴子を守るように頼むが、貴子は自供してしまう。意外な犯人が自首するが…</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130730170000 +0900" stop="20130730171000 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130730171000 +0900" stop="20130730180000 +0900" channel="GR27">
+    <title lang="ja_JP">ゆうどきネットワーク【字】</title>
+    <desc lang="ja_JP">▽旅・グルメ情報満載　▽気になるトレンド　【キャスター】山本哲也，出田奈々</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130730180000 +0900" stop="20130730181000 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130730181000 +0900" stop="20130730185200 +0900" channel="GR27">
+    <title lang="ja_JP">首都圏ネットワーク【字】</title>
+    <desc lang="ja_JP">▽ニュース　▽特集　▽気象情報　【キャスター】村竹勝司，片山千恵子，【気象キャスター】関口奈美</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130730185200 +0900" stop="20130730190003 +0900" channel="GR27">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130730190003 +0900" stop="20130730193000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース７【二】【字】</title>
+    <desc lang="ja_JP">▽日本と世界のきょう　▽ニュースの背景　【キャスター】小郷知子，【サブキャスター】守本奈実，【気象キャスター】岡村真美子</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130730193000 +0900" stop="20130730195800 +0900" channel="GR27">
+    <title lang="ja_JP">クローズアップ現代「はだしのゲン　世界へ」【字】</title>
+    <desc lang="ja_JP">原爆という重いテーマにも関わらず、世界中でファンを増やし続ける漫画、「はだしのゲン」。アメリカの教育現場、イランの読者を取材。子どもたちをひきつける魅力に迫る。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130730195800 +0900" stop="20130730200000 +0900" channel="GR27">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130730200000 +0900" stop="20130730204300 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫ歌謡コンサート「入魂！愛と絆の人生歌謡」【SS】【字】</title>
+    <desc lang="ja_JP">テーマ：「入魂！愛と絆の人生歌謡」出演：秋元順子　石川さゆり　川中美幸　北島三郎　竹島宏　氷川きよし　福田こうへい　前川清　三山ひろし　森昌子　司会：高山哲哉</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130730204300 +0900" stop="20130730204500 +0900" channel="GR27">
+    <title lang="ja_JP">もうすぐ９時　プレマップ</title>
+    <desc lang="ja_JP">【キャスター】片山千恵子</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130730204500 +0900" stop="20130730210000 +0900" channel="GR27">
+    <title lang="ja_JP">首都圏ニュース８４５【字】</title>
+    <desc lang="ja_JP">【キャスター】守本奈実，【気象キャスター】斉田季実治</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130730210000 +0900" stop="20130730220000 +0900" channel="GR27">
+    <title lang="ja_JP">ニュースウオッチ９【二】【字】</title>
+    <desc lang="ja_JP">▽きょうのニュースを詳しくわかりやすく　▽関心の高いテーマを特集　▽速報スポーツ　▽気象情報　ほか　【キャスター】大越健介，井上あさひほか</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130730220000 +0900" stop="20130730225000 +0900" channel="GR27">
+    <title lang="ja_JP">ドラマ１０　激流〜私を憶えていますか？〜（６）「真実への光明」【解】【字】</title>
+    <desc lang="ja_JP">圭子（田中麗奈）はストーカー女に刺された鯖島（山本耕史）を知り合いの外科医のもとに運び緊急手術が始まる。鯖島は混濁した意識の中で怪メールの謎に迫る言葉をつぶやく</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130730225000 +0900" stop="20130730225500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130730225500 +0900" stop="20130730232000 +0900" channel="GR27">
+    <title lang="ja_JP">アクロス　ザ　ボーダー「国境の未来に向けて　ストラスブール〜ケール」【字】</title>
+    <desc lang="ja_JP">中山エミリがヨーロッパ国境地帯を訪ねるシリーズ３回目。ライン川を挟みドイツとフランスが接する地域。両国の争いの中で揺れ動いた国境は、未来に向けて動き出している。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130730232000 +0900" stop="20130730233000 +0900" channel="GR27">
+    <title lang="ja_JP">Ｓｐｏｒｔｓプラス</title>
+    <desc lang="ja_JP">【キャスター】小宮山晃義</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130730233000 +0900" stop="20130731000000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＥＷＳ　ＷＥＢ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130731000000 +0900" stop="20130731001000 +0900" channel="GR27">
+    <title lang="ja_JP">時論公論</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130731001000 +0900" stop="20130731003600 +0900" channel="GR27">
+    <title lang="ja_JP">クローズアップ現代「はだしのゲン　世界へ」【字】【再】</title>
+    <desc lang="ja_JP">原爆という重いテーマにも関わらず、世界中でファンを増やし続ける漫画、「はだしのゲン」。アメリカの教育現場、イランの読者を取材。子どもたちをひきつける魅力に迫る。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130731003600 +0900" stop="20130731004000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130731004000 +0900" stop="20130731012500 +0900" channel="GR27">
+    <title lang="ja_JP">ｇｌｅｅ（グリー）３（２）「運命のオーディション」【二】【字】【デ】</title>
+    <desc lang="ja_JP">大ヒット青春ミュージカルコメディー。学年委員長に立候補したカートの選挙運動を手伝うブリトニーは、「ユニコーン」をモチーフに派手なポスターを作る。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130731012500 +0900" stop="20130731013200 +0900" channel="GR27">
+    <title lang="ja_JP">洋楽倶楽部＠ｇｌｅｅ（グリー）（２）</title>
+    <desc lang="ja_JP">海外ドラマ「ｇｌｅｅ３」で登場した曲のオリジナルアーティストによるミュージックビデオを、“洋楽通”のナビゲーター、クリス松村と高橋愛が紹介！</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130731013200 +0900" stop="20130731013700 +0900" channel="GR27">
+    <title lang="ja_JP">５分で“七つの会議”　第３回「すべてが壊れていく」【字】</title>
+    <desc lang="ja_JP">池井戸潤原作の企業サスペンス、土曜ドラマ「七つの会議」の５分ダイジェスト。偽装、隠蔽、そして告発、先が読めないドラマの展開をぎゅっと凝縮！　主演・東山紀之</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130731013700 +0900" stop="20130731014500 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130731014500 +0900" stop="20130731023100 +0900" channel="GR27">
+    <title lang="ja_JP">歴史秘話ヒストリア「名作選　空海からの贈りもの〜天空の聖地・高野山」【解】【字】【再】</title>
+    <desc lang="ja_JP">弘法大師・空海が開いた天空の聖地「高野山」の神秘スポット紀行に、空海ゆかりの国宝に込められたメッセージを解明、空海による感動の言葉も紹介する名作選！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130731023100 +0900" stop="20130731023500 +0900" channel="GR27">
+    <title lang="ja_JP">ＢＳプレマップ「馬医〜韓国歴史ドラマ」</title>
+    <desc lang="ja_JP">韓国歴史ドラマの巨匠イ・ビョンフン監督の最新作『馬医』の見どころを２分で紹介。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130731023500 +0900" stop="20130731025500 +0900" channel="GR27">
+    <title lang="ja_JP">ミニミニ映像大賞　参加者募集中！</title>
+    <desc lang="ja_JP">誰でも参加出来る映像コンテスト、ミニミニ映像大賞。３０秒の映像作品を９月２５日まで募集中！映像作りの魅力や手法を紹介しながら、広く参加を呼びかけるＰＲ番組。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130731025500 +0900" stop="20130731035500 +0900" channel="GR27">
+    <title lang="ja_JP">イタリア世界遺産</title>
+    <desc lang="ja_JP">▽アマルフィ海岸　アマルフィの街中、大聖堂など▽アルベロベッロのトゥルッリ▽マテーラの洞窟住居▽ローマ歴史地区　コロッセオ、フォロ・ロマーノ、カンピドリオ広場</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130731035500 +0900" stop="20130731040500 +0900" channel="GR27">
+    <title lang="ja_JP">青海チベット鉄道</title>
+    <desc lang="ja_JP">中国の大都市とチベット自治区ラサを直結する「青海チベット鉄道」が２００６年に開通。“秘境”チベットは一気に身近になった。夏の観光シーズンには大量の客を送り込む。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130731040500 +0900" stop="20130731041000 +0900" channel="GR27">
+    <title lang="ja_JP">みんなのうた「汐の匂いのする町で」「天使のパンツ」</title>
+    <desc lang="ja_JP">▽「汐の匂いのする町で」うた：杉並児童合唱団　／▽「天使のパンツ」うた：むとうかんぺい・りつこ</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130731041000 +0900" stop="20130731041500 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130731041500 +0900" stop="20130731042000 +0900" channel="GR27">
+    <title lang="ja_JP">シリーズ世界遺産１００「コルフ旧市街〜ギリシャ〜」【字】</title>
+    <desc lang="ja_JP">−アドリア海の鍵−　▽文化遺産　【語り】松平定知　【テーマ音楽】久石譲</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130731042000 +0900" stop="20130731043000 +0900" channel="GR27">
+    <title lang="ja_JP">視点・論点</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130731043000 +0900" stop="20130731050000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本</title>
+    <desc lang="ja_JP">▽ニュース　▽地域の課題や話題のリポート　▽日本と世界の気象情報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130731050000 +0900" stop="20130731063000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本</title>
+    <desc lang="ja_JP">▽ニュース　▽地域の課題や話題のリポート　▽ここが知りたい！　▽まちかど情報室　▽とれたてマイビデオ　▽気象情報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130731063000 +0900" stop="20130731070003 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本</title>
+    <desc lang="ja_JP">▽ニュース・７項目　▽スポーツ　▽気象情報　▽世界のニュースザッピング　▽まちかど情報室</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130731070003 +0900" stop="20130731074500 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本【字】</title>
+    <desc lang="ja_JP">ニュースをわかりやすく、関心のあるテーマをじっくりと、スポーツを詳しくお伝えします。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130731074500 +0900" stop="20130731080000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本【字】</title>
+    <desc lang="ja_JP">【キャスター】阿部渉，鈴木奈穂子</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130731080000 +0900" stop="20130731081500 +0900" channel="GR27">
+    <title lang="ja_JP">連続テレビ小説　あまちゃん（１０５）「おら、地元に帰ろう！？」【解】【字】【デ】</title>
+    <desc lang="ja_JP">ヒロイン・アキは、ついに東京で本格的にアイドルを目指すことに！　宮藤官九郎がオリジナルで描く人情喜劇。日本の朝に元気をお届けします。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130731081500 +0900" stop="20130731095500 +0900" channel="GR27">
+    <title lang="ja_JP">あさイチ「ちゃんと知りたい　遺伝子検査」【字】</title>
+    <desc lang="ja_JP">ちゃんと知りたい　遺伝子検査▽ピカピカ☆日本「埼玉県熊谷市」▽ばぁばが伝授！基本の酢飯【ゲスト】ダイアモンド☆ユカイ，城之内早苗，平岳大　ほか（変更の場合あり）</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130731095500 +0900" stop="20130731100000 +0900" channel="GR27">
+    <title lang="ja_JP">みんなの体操【解】【字】</title>
+    <desc lang="ja_JP">【出演】西川佳克，松下亜実，稲垣早織</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130731100000 +0900" stop="20130731100500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130731100500 +0900" stop="20130731101500 +0900" channel="GR27">
+    <title lang="ja_JP">くらし☆解説【字】</title>
+    <desc lang="ja_JP">【司会】岩渕梢</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130731101500 +0900" stop="20130731104000 +0900" channel="GR27">
+    <title lang="ja_JP">趣味Ｄｏ楽　城戸真亜子の油絵って楽しい！　＜終＞　第９回「総集編」【解】【字】</title>
+    <desc lang="ja_JP">画家として活躍している城戸真亜子さんが講師となり、初心者に油絵の描き方を教える。最終回は総集編。油絵描きのポイントを確認しながら、これまでのレッスンを振り返る。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130731104000 +0900" stop="20130731105000 +0900" channel="GR27">
+    <title lang="ja_JP">世界の名峰　グレートサミッツ　エピソード１００「世界最高峰の頂へ」【字】</title>
+    <desc lang="ja_JP">取材班はいよいよ標高８０００ｍをこえるデス・ゾーン（死の地帯）に足を踏み入れる。世界で初めて記録されたハイビジョンカメラによるエベレスト山頂からの映像は必見。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130731105000 +0900" stop="20130731105500 +0900" channel="GR27">
+    <title lang="ja_JP">あの日　わたしは〜証言記録　東日本大震災〜「茨城県大洗町　清水祐司さん」【字】</title>
+    <desc lang="ja_JP">茨城海上保安部は巡視船“あかぎ”の出動を決定し、操縦を担当する清水さんは船を出航させた。だが引き波に巻き込まれ、通常の操縦では船のコントロールができなかった。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130731105500 +0900" stop="20130731110000 +0900" channel="GR27">
+    <title lang="ja_JP">みんなのうた「カタツムリ、カタオモイ」「君へのファンファーレ」</title>
+    <desc lang="ja_JP">▽「カタツムリ、カタオモイ」うた：Ｎａｏｍｉｌｅ（ナオミール）　／▽「君へのファンファーレ」うた：ＴＯＫＵ</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130731110000 +0900" stop="20130731110500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130731110500 +0900" stop="20130731115400 +0900" channel="GR27">
+    <title lang="ja_JP">ひるまえほっと</title>
+    <desc lang="ja_JP">▽千葉県・栃木県の情報　▽首都圏ニュース　▽かんたんごはん　▽＠（アッ！）とほっと　【キャスター】三好正人</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130731115400 +0900" stop="20130731120003 +0900" channel="GR27">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130731120003 +0900" stop="20130731122000 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130731122000 +0900" stop="20130731123800 +0900" channel="GR27">
+    <title lang="ja_JP">ひるブラ「ひるブラ特選　歴史薫る　東京下町めぐり」【字】</title>
+    <desc lang="ja_JP">これまで放送したものの中から、好評だったものを再構成してお伝えする。今回のテーマは「歴史薫る東京下町めぐり」。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130731123800 +0900" stop="20130731124500 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130731124500 +0900" stop="20130731130000 +0900" channel="GR27">
+    <title lang="ja_JP">連続テレビ小説　あまちゃん（１０５）「おら、地元に帰ろう！？」【解】【字】【デ】【再】</title>
+    <desc lang="ja_JP">ヒロイン・アキは、ついに東京で本格的にアイドルを目指すことに！　宮藤官九郎がオリジナルで描く人情喜劇。日本の朝に元気をお届けします。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130731130000 +0900" stop="20130731130500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130731130500 +0900" stop="20130731132700 +0900" channel="GR27">
+    <title lang="ja_JP">連続クイズ　ホールドオン！＜２３４＞【字】</title>
+    <desc lang="ja_JP">視聴者参加クイズ「連続クイズ　ホールドオン！」第２３４回。チャンピオンは、４人の挑戦者から防衛出来るか？新チャンピオン登場か？次は…あなたの出番です！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130731132700 +0900" stop="20130731140000 +0900" channel="GR27">
+    <title lang="ja_JP">スタジオパークからこんにちは　クリス松村【字】</title>
+    <desc lang="ja_JP">▽生まれも育ちも欧州！　▽集めたＣＤ２万枚以上　▽ＴＶデビューは大河！？　【ゲスト】クリス松村，【司会】伊藤雄彦，【リポーター】米田弥央</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130731140000 +0900" stop="20130731140500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130731140500 +0900" stop="20130731145500 +0900" channel="GR27">
+    <title lang="ja_JP">情報まるごと【字】</title>
+    <desc lang="ja_JP">▽ニュースと話題　▽にっぽんまるごと　▽にじさんぽ　▽気象情報　【キャスター】小澤康喬，實石あづさ，【気象キャスター】加藤祐子</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130731145500 +0900" stop="20130731150000 +0900" channel="GR27">
+    <title lang="ja_JP">テレビ体操【字】</title>
+    <desc lang="ja_JP">【出演】多胡肇，有賀暁子，押味愛里沙，五日市祐子，【ピアノ】加藤由美子</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130731150000 +0900" stop="20130731151500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130731151500 +0900" stop="20130731160000 +0900" channel="GR27">
+    <title lang="ja_JP">ろーかる直送便　えぇトコ「今いくよ・くるよ　夏の京都“笑”旅行」【字】</title>
+    <desc lang="ja_JP">女性漫才師今いくよ・くるよの２人が地元京都の旬の味、伝統の味を紹介。週末に行ってみたい京都のスポットをご案内。はも、京野菜、スイーツなど京都ならではの味を紹介。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130731160000 +0900" stop="20130731160500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130731160500 +0900" stop="20130731165500 +0900" channel="GR27">
+    <title lang="ja_JP">仕事ハッケン伝「堤下敦×酪農」【字】【再】</title>
+    <desc lang="ja_JP">絶品の牛乳を生み出す絶景の牧場に、お笑い芸人インパルスの堤下が就職。自由すぎる牛に翻弄され、新作アイス開発に苦戦。大自然の中で自分の短所と向き合った感動の７日間</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130731165500 +0900" stop="20130731170000 +0900" channel="GR27">
+    <title lang="ja_JP">きょうの料理ビギナーズ「あえたり、炒めたり…そうめんをアレンジ！」【字】</title>
+    <desc lang="ja_JP">今週は夏にぴったりの麺料理の特集。今回はそうめんを具や調味料であえたり、肉や野菜と炒めたりするアレンジメニューを紹介。「イカとキムチのあえ麺」などをつくる。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130731170000 +0900" stop="20130731171000 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130731171000 +0900" stop="20130731180000 +0900" channel="GR27">
+    <title lang="ja_JP">ゆうどきネットワーク【字】</title>
+    <desc lang="ja_JP">▽旅・グルメ情報満載　▽気になるトレンド　【キャスター】山本哲也，出田奈々</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130731180000 +0900" stop="20130731181000 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130731181000 +0900" stop="20130731185200 +0900" channel="GR27">
+    <title lang="ja_JP">首都圏ネットワーク【字】</title>
+    <desc lang="ja_JP">▽ニュース　▽特集　▽気象情報　【キャスター】村竹勝司，片山千恵子，【気象キャスター】関口奈美</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130731185200 +0900" stop="20130731190003 +0900" channel="GR27">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130731190003 +0900" stop="20130731193000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース７【二】【字】</title>
+    <desc lang="ja_JP">▽日本と世界のきょう　▽ニュースの背景　【キャスター】小郷知子，【サブキャスター】守本奈実，【気象キャスター】岡村真美子</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130731193000 +0900" stop="20130731195600 +0900" channel="GR27">
+    <title lang="ja_JP">クローズアップ現代【字】</title>
+    <desc lang="ja_JP">【キャスター】国谷裕子</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130731195600 +0900" stop="20130731195800 +0900" channel="GR27">
+    <title lang="ja_JP">明日へ１ｍｉｎ．「こころフォト」（１４）</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130731195800 +0900" stop="20130731200000 +0900" channel="GR27">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130731200000 +0900" stop="20130731204300 +0900" channel="GR27">
+    <title lang="ja_JP">ためしてガッテン「うっかりミスで発覚！　４０代を襲う謎の病」【解】【字】</title>
+    <desc lang="ja_JP">人にぶつかったり、コップをこぼしたり。それ、単なる「うっかり」じゃないかも。４０代から徐々に忍び寄る目の病。失明原因第一位なのに、９割の人が気づけない実態とは？</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130731204300 +0900" stop="20130731204500 +0900" channel="GR27">
+    <title lang="ja_JP">もうすぐ９時　プレマップ</title>
+    <desc lang="ja_JP">【キャスター】片山千恵子</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130731204500 +0900" stop="20130731210000 +0900" channel="GR27">
+    <title lang="ja_JP">首都圏ニュース８４５【字】</title>
+    <desc lang="ja_JP">【キャスター】守本奈実，【気象キャスター】斉田季実治</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130731210000 +0900" stop="20130731220000 +0900" channel="GR27">
+    <title lang="ja_JP">ニュースウオッチ９【二】【字】</title>
+    <desc lang="ja_JP">▽きょうのニュースを詳しくわかりやすく　▽関心の高いテーマを特集　▽速報スポーツ　▽気象情報　ほか　【キャスター】大越健介，井上あさひほか</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130731220000 +0900" stop="20130731225000 +0900" channel="GR27">
+    <title lang="ja_JP">歴史ドリームチーム「金閣の謎を解き明かせ」【解】【字】</title>
+    <desc lang="ja_JP">スペシャリストが結集し歴史のミステリーに挑む「ドリームチーム」。今回は金閣寺の謎に迫る。金箔の下に隠された「美」の秘密とは？さらに創建当時の幻の姿を復元！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130731225000 +0900" stop="20130731225500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130731225500 +0900" stop="20130731232000 +0900" channel="GR27">
+    <title lang="ja_JP">探検バクモン「団地！団地！レボリューション　２号棟　平成編」【解】【字】</title>
+    <desc lang="ja_JP">団地は時代のトップランナーだ！かつて「一歩先をゆく暮らし」の象徴だった団地。現代、様々な課題への取り組みでも一歩先を行っている。団地に未来へのヒントを探せ！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130731232000 +0900" stop="20130731233000 +0900" channel="GR27">
+    <title lang="ja_JP">Ｓｐｏｒｔｓプラス</title>
+    <desc lang="ja_JP">【キャスター】小宮山晃義</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130731233000 +0900" stop="20130801000000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＥＷＳ　ＷＥＢ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130801000000 +0900" stop="20130801001000 +0900" channel="GR27">
+    <title lang="ja_JP">時論公論</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130801001000 +0900" stop="20130801003600 +0900" channel="GR27">
+    <title lang="ja_JP">クローズアップ現代【字】【再】</title>
+    <desc lang="ja_JP">【キャスター】国谷裕子</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130801003600 +0900" stop="20130801004000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130801004000 +0900" stop="20130801015500 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫスペシャル　シリーズ深海の巨大生物「伝説のイカ　宿命の闘い」【字】【再】</title>
+    <desc lang="ja_JP">シリーズ深海の巨大生物。第１回は世界初の撮影を成し遂げた潜水艇「トライトン」（同型機）の実物が登場。ゲストを迎えてロマンと謎にあふれる深海の世界に迫る。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130801015500 +0900" stop="20130801024000 +0900" channel="GR27">
+    <title lang="ja_JP">アスリートの魂「ヤンキース　黒田博樹」【字】</title>
+    <desc lang="ja_JP">ヤンキース・黒田博樹投手に密着。「苦しまずして栄光なし」を座右の銘にチームの勝利に貢献するためならプライドやこだわりを捨てることもいとわないという３８歳の闘い。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130801024000 +0900" stop="20130801034000 +0900" channel="GR27">
+    <title lang="ja_JP">北アルプス「北アルプス空中散歩」</title>
+    <desc lang="ja_JP">北アルプスの山々をヘリコプターから撮影した、空中散歩</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130801034000 +0900" stop="20130801040500 +0900" channel="GR27">
+    <title lang="ja_JP">京都　音めぐり「古都に息づく暮らしと祈り」</title>
+    <desc lang="ja_JP">▽鴨川の流れ、水の恵みに感謝する「御手洗祭り」、西陣の機音、山伏の読経とほら貝の響き、先祖に祈りを捧げる「五山送り火」。古都の暮らしを支えてきた音たち。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130801040500 +0900" stop="20130801041000 +0900" channel="GR27">
+    <title lang="ja_JP">みんなのうた「ヒナのうた」「ロバ　ちょっとすねた」</title>
+    <desc lang="ja_JP">▽「ヒナのうた」うた：柴草玲　／▽「ロバ　ちょっとすねた」うた：アグネス・チャン</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130801041000 +0900" stop="20130801041500 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130801041500 +0900" stop="20130801042000 +0900" channel="GR27">
+    <title lang="ja_JP">シリーズ世界遺産１００「テルアビブ・白亜の町〜イスラエル〜」【字】</title>
+    <desc lang="ja_JP">−ユダヤ人の理想郷−　▽文化遺産　【語り】鹿賀丈史　【テーマ音楽】久石　譲</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130801042000 +0900" stop="20130801043000 +0900" channel="GR27">
+    <title lang="ja_JP">視点・論点</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130801043000 +0900" stop="20130801050000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本</title>
+    <desc lang="ja_JP">▽ニュース　▽地域の課題や話題のリポート　▽日本と世界の気象情報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130801050000 +0900" stop="20130801063000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本</title>
+    <desc lang="ja_JP">▽ニュース　▽地域の課題や話題のリポート　▽ここが知りたい！　▽まちかど情報室　▽とれたてマイビデオ　▽気象情報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130801063000 +0900" stop="20130801070003 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本</title>
+    <desc lang="ja_JP">▽ニュース・７項目　▽スポーツ　▽気象情報　▽世界のニュースザッピング　▽まちかど情報室</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130801070003 +0900" stop="20130801074500 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本【字】</title>
+    <desc lang="ja_JP">ニュースをわかりやすく、関心のあるテーマをじっくりと、スポーツを詳しくお伝えします。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130801074500 +0900" stop="20130801080000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本【字】</title>
+    <desc lang="ja_JP">【キャスター】阿部渉，鈴木奈穂子</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130801080000 +0900" stop="20130801081500 +0900" channel="GR27">
+    <title lang="ja_JP">連続テレビ小説　あまちゃん（１０６）「おら、地元に帰ろう！？」【解】【字】【デ】</title>
+    <desc lang="ja_JP">ヒロイン・アキは、ついに東京で本格的にアイドルを目指すことに！　宮藤官九郎がオリジナルで描く人情喜劇。日本の朝に元気をお届けします。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130801081500 +0900" stop="20130801095500 +0900" channel="GR27">
+    <title lang="ja_JP">あさイチ「むくみスペシャル」【字】</title>
+    <desc lang="ja_JP">むくみスペシャル　▽ピカピカ☆日本「埼玉県ときがわ町」　▽レタスたっぷり！トマトだれつけめん　【ゲスト】水道橋博士，森公美子　ほか（直前変更の場合あり）</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130801095500 +0900" stop="20130801100000 +0900" channel="GR27">
+    <title lang="ja_JP">みんなの体操【解】【字】</title>
+    <desc lang="ja_JP">【出演】多胡肇，押味愛里沙，五日市祐子，松下亜実</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130801100000 +0900" stop="20130801100500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130801100500 +0900" stop="20130801101500 +0900" channel="GR27">
+    <title lang="ja_JP">くらし☆解説【字】</title>
+    <desc lang="ja_JP">【司会】岩渕梢</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130801101500 +0900" stop="20130801104000 +0900" channel="GR27">
+    <title lang="ja_JP">すてきにハンドメイド「消しゴムはんこで夏のごあいさつ」【字】</title>
+    <desc lang="ja_JP">消しゴム版画作家のとみこはんが、夏らしいモチーフ「かき氷」「熱帯魚」のはんこを紹介。消しゴムはんこは彫る他、押すのも楽しいひと時。手作りの暑中見舞いに活用して！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130801104000 +0900" stop="20130801105000 +0900" channel="GR27">
+    <title lang="ja_JP">世界の名峰　グレートサミッツ　エピソード１００「北米カナディアンロッキー」【字】</title>
+    <desc lang="ja_JP">世界自然遺産、北米カナディアンロッキーの最高峰ロブソン（３９５４ｍ）は雪と氷に覆われた壮大な山。取材班は例年になく雪が多く残るロブソンの北壁から山頂に挑む。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130801105000 +0900" stop="20130801105500 +0900" channel="GR27">
+    <title lang="ja_JP">あの日　わたしは〜証言記録　東日本大震災〜「福島県飯舘村　高野京子さん」【字】</title>
+    <desc lang="ja_JP">飯舘村で簡易郵便局を営んでいた高野さんは、原発事故後、孫を守るため郵便局を閉めて自主避難した。だが自主避難の難しさに直面し、３月下旬、村に戻り郵便局を再開した。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130801105500 +0900" stop="20130801110000 +0900" channel="GR27">
+    <title lang="ja_JP">みんなのうた「カチャーシ☆ブギ」「絵はがき」</title>
+    <desc lang="ja_JP">▽「カチャーシ☆ブギ」うた：きいやま商店　／▽「絵はがき」うた：かとうれい子</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130801110000 +0900" stop="20130801110500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130801110500 +0900" stop="20130801115300 +0900" channel="GR27">
+    <title lang="ja_JP">ひるまえほっと</title>
+    <desc lang="ja_JP">▽埼玉県・群馬県の情報　▽首都圏ニュース　▽かんたんごはん　▽笑顔みつけ隊　▽ひるまえビデオ　【キャスター】三好正人</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130801115300 +0900" stop="20130801120003 +0900" channel="GR27">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130801120003 +0900" stop="20130801122000 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130801122000 +0900" stop="20130801124500 +0900" channel="GR27">
+    <title lang="ja_JP">サラメシ【字】【再】</title>
+    <desc lang="ja_JP">東京丸の内界わいで聞く「漢字４文字で働くあなたのランチを教えて！」　フリーズドライ食品の開発担当女性の舌を鍛えるとっておき昼食とは？美空ひばりが愛した昼ごはん。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130801124500 +0900" stop="20130801130000 +0900" channel="GR27">
+    <title lang="ja_JP">連続テレビ小説　あまちゃん（１０６）「おら、地元に帰ろう！？」【解】【字】【デ】【再】</title>
+    <desc lang="ja_JP">ヒロイン・アキは、ついに東京で本格的にアイドルを目指すことに！　宮藤官九郎がオリジナルで描く人情喜劇。日本の朝に元気をお届けします。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130801130000 +0900" stop="20130801130500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130801130500 +0900" stop="20130801132700 +0900" channel="GR27">
+    <title lang="ja_JP">連続クイズ　ホールドオン！＜２３５＞【字】</title>
+    <desc lang="ja_JP">視聴者参加クイズ「連続クイズ　ホールドオン！」第２３５回。チャンピオンは、４人の挑戦者から防衛出来るか？新チャンピオン登場か？次は…あなたの出番です！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130801132700 +0900" stop="20130801140000 +0900" channel="GR27">
+    <title lang="ja_JP">スタジオパークからこんにちは　吉木りさ【字】</title>
+    <desc lang="ja_JP">▽バラエティで大活躍　▽“暗黒の中学時代”　▽グラビア女王への道　【ゲスト】吉木りさ，【司会】伊藤雄彦，【リポーター】米田弥央</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130801140000 +0900" stop="20130801140500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130801140500 +0900" stop="20130801145500 +0900" channel="GR27">
+    <title lang="ja_JP">情報まるごと【字】</title>
+    <desc lang="ja_JP">▽ニュースと話題　▽にっぽんまるごと　▽にじさんぽ　▽気象情報　【キャスター】小澤康喬，實石あづさ，【気象キャスター】加藤祐子</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130801145500 +0900" stop="20130801150000 +0900" channel="GR27">
+    <title lang="ja_JP">テレビ体操【字】</title>
+    <desc lang="ja_JP">【出演】岡本美佳，有賀暁子，押味愛里沙，稲垣早織，【ピアノ】名川太郎</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130801150000 +0900" stop="20130801151500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130801151500 +0900" stop="20130801160000 +0900" channel="GR27">
+    <title lang="ja_JP">ろーかる直送便　きん☆すた「潜ってびっくり！海は歴史のタイムカプセル」【字】</title>
+    <desc lang="ja_JP">アジアと最も近い九州沖縄。海底には、大陸との古くからの交流を物語る歴史が眠っていた！今回は小学生をスタジオに招き、初心者でも楽しめる海洋考古学入門をお届けする。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130801160000 +0900" stop="20130801160500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130801160500 +0900" stop="20130801164900 +0900" channel="GR27">
+    <title lang="ja_JP">突撃　アッとホーム「さまぁ〜ずも感動！！“初めてのお手伝い”ＳＰ　」【字】【再】</title>
+    <desc lang="ja_JP">子供の脳の発達に効果があるとといわれる“お手伝い”。それを実証するため“初めての布団干し”に挑む小学生姉弟に密着。可愛過ぎる結末とは？感動サプライズの涙も必見。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130801164900 +0900" stop="20130801165000 +0900" channel="GR27">
+    <title lang="ja_JP">明日へ１ｍｉｎ．“ただいま、東北”「宮城県気仙沼市・勇壮なメカジキ漁編」</title>
+    <desc lang="ja_JP">大河ドラマ「八重の桜」主演の綾瀬はるかさんが東北各地を旅し豊かで温かな東北の魅力を紹介するミニ番組。今回は宮城県気仙沼市で港町の活気や海に生きる想いにふれます。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130801165000 +0900" stop="20130801165500 +0900" channel="GR27">
+    <title lang="ja_JP">シリーズ世界遺産１００「ノヴォデヴィチ修道院〜ロシア〜」【字】</title>
+    <desc lang="ja_JP">−翻弄された貴婦人たち−▽文化遺産▽１６世紀に造られた貴族の女性専用の修道院。多くの女性は自発的に修道女となったが、妻と別れたい夫によって送られたひともいた。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130801165500 +0900" stop="20130801170000 +0900" channel="GR27">
+    <title lang="ja_JP">５分で“七つの会議”　第３回「すべてが壊れていく」【字】</title>
+    <desc lang="ja_JP">池井戸潤原作の企業サスペンス、土曜ドラマ「七つの会議」の５分ダイジェスト。偽装、隠蔽、そして告発、先が読めないドラマの展開をぎゅっと凝縮！　主演・東山紀之</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130801170000 +0900" stop="20130801171000 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130801171000 +0900" stop="20130801180000 +0900" channel="GR27">
+    <title lang="ja_JP">ゆうどきネットワーク【字】</title>
+    <desc lang="ja_JP">▽旅・グルメ情報満載　▽気になるトレンド　【キャスター】山本哲也，出田奈々</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130801180000 +0900" stop="20130801181000 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130801181000 +0900" stop="20130801185200 +0900" channel="GR27">
+    <title lang="ja_JP">首都圏ネットワーク【字】</title>
+    <desc lang="ja_JP">▽ニュース　▽特集　▽気象情報　【キャスター】村竹勝司，片山千恵子，【気象キャスター】関口奈美</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130801185200 +0900" stop="20130801190003 +0900" channel="GR27">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130801190003 +0900" stop="20130801193000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース７【二】【字】</title>
+    <desc lang="ja_JP">▽日本と世界のきょう　▽ニュースの背景　【キャスター】小郷知子，【サブキャスター】守本奈実，【気象キャスター】岡村真美子</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130801193000 +0900" stop="20130801195800 +0900" channel="GR27">
+    <title lang="ja_JP">クローズアップ現代「生命の色をフクシマへ　若冲“最後の展覧会”」【字】</title>
+    <desc lang="ja_JP">世代を越え絶大な人気を誇る江戸時代の絵師・伊藤若冲の作品群が来日。福島で“最後の里帰り展”を開く。現代に蘇る美の世界、収集家の秘話、展覧会に込められた思いに迫る</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130801195800 +0900" stop="20130801200000 +0900" channel="GR27">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130801200000 +0900" stop="20130801204300 +0900" channel="GR27">
+    <title lang="ja_JP">妻は、くノ一（６）「つぐない」【解】【字】</title>
+    <desc lang="ja_JP">平戸藩を危うくする書物が盗み出され、台所女中が姿を消した。彦馬（市川染五郎）はその女こそ妻・織江（瀧本美織）と確信するが、織江は証拠の書物を上司に渡せずにいた。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130801204300 +0900" stop="20130801204500 +0900" channel="GR27">
+    <title lang="ja_JP">もうすぐ９時　プレマップ</title>
+    <desc lang="ja_JP">【キャスター】片山千恵子</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130801204500 +0900" stop="20130801210000 +0900" channel="GR27">
+    <title lang="ja_JP">首都圏ニュース８４５【字】</title>
+    <desc lang="ja_JP">【キャスター】守本奈実，【気象キャスター】斉田季実治</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130801210000 +0900" stop="20130801220000 +0900" channel="GR27">
+    <title lang="ja_JP">ニュースウオッチ９【二】【字】</title>
+    <desc lang="ja_JP">▽きょうのニュースを詳しくわかりやすく　▽関心の高いテーマを特集　▽速報スポーツ　▽気象情報　ほか　【キャスター】大越健介，井上あさひほか</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130801220000 +0900" stop="20130801225000 +0900" channel="GR27">
+    <title lang="ja_JP">仕事ハッケン伝「満島真之介×文具開発」【字】</title>
+    <desc lang="ja_JP">ヒット連発！アイデア勝負の文具業界に注目の若手俳優満島真之介が挑戦！ミッションは「世の中にないノートを作れ」ヒット商品を生む若手開発者たちとチームで限界に挑む。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130801225000 +0900" stop="20130801225500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130801225500 +0900" stop="20130801232000 +0900" channel="GR27">
+    <title lang="ja_JP">ＭＵＳＩＣ　ＪＡＰＡＮ▽山下智久、水樹奈々、倖田來未、ＡＩ、ＫＡＲＡ、ＢＥＮＩ【字】</title>
+    <desc lang="ja_JP">出演：山下智久／ＡＩ／倖田來未／ＫＡＲＡ／水樹奈々／ＢＥＮＩ　司会：Ｐｅｒｆｕｍｅ／吉田一貴　ナレーション：水樹奈々</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130801232000 +0900" stop="20130801233000 +0900" channel="GR27">
+    <title lang="ja_JP">Ｓｐｏｒｔｓプラス</title>
+    <desc lang="ja_JP">【キャスター】小宮山晃義</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130801233000 +0900" stop="20130802000000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＥＷＳ　ＷＥＢ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130802000000 +0900" stop="20130802001000 +0900" channel="GR27">
+    <title lang="ja_JP">時論公論</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130802001000 +0900" stop="20130802003600 +0900" channel="GR27">
+    <title lang="ja_JP">クローズアップ現代「生命の色をフクシマへ　若冲“最後の展覧会”」【字】【再】</title>
+    <desc lang="ja_JP">世代を越え絶大な人気を誇る江戸時代の絵師・伊藤若冲の作品群が来日。福島で“最後の里帰り展”を開く。現代に蘇る美の世界、収集家の秘話、展覧会に込められた思いに迫る</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130802003600 +0900" stop="20130802004000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130802004000 +0900" stop="20130802013000 +0900" channel="GR27">
+    <title lang="ja_JP">プロフェッショナル　仕事の流儀「うなぎ職人・金本兼次郎」【字】【再】</title>
+    <desc lang="ja_JP">気品に満ちた黄金色、さっぱりとした江戸前の味わい。そして決して焦がさない…。食通も認める名人芸のうなぎ職人が登場。追求心を忘れない８５歳、その夏の日々に密着！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130802013000 +0900" stop="20130802020000 +0900" channel="GR27">
+    <title lang="ja_JP">ＳＯＮＧＳ「德永英明」【字】【再】</title>
+    <desc lang="ja_JP">「レイニーブルー」「壊れかけのＲａｄｉｏ」などで知られるシンガーソングライター德永英明が香川県の直島をたずね、島のアート作品を鑑賞、自らの音楽活動を見つめ直す。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130802020000 +0900" stop="20130802021000 +0900" channel="GR27">
+    <title lang="ja_JP">特ダネ！投稿ＤＯ画【字】</title>
+    <desc lang="ja_JP">視聴者からの投稿動画やインターネット上の動画でつくる番組。今回はユニークでかわいいワンちゃんたちの動画をたっぷりお伝えします。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130802021000 +0900" stop="20130802024000 +0900" channel="GR27">
+    <title lang="ja_JP">タイムスクープハンター　＜終＞「村を守れ！投石バトル」【字】【再】</title>
+    <desc lang="ja_JP">シーズン５の第１４回（最終回）。時空ジャーナリストの沢嶋雄一（要潤）は戦国時代へ。織田軍から村を守るため、投石で立ち向かう村人の姿を密着ドキュメントする。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130802024000 +0900" stop="20130802031000 +0900" channel="GR27">
+    <title lang="ja_JP">生きものたちの地球「東アフリカ　野生の楽園　大サバンナ」</title>
+    <desc lang="ja_JP">見渡す限り広がる東アフリカのサバンナ。美しく雄大な自然景観と世界有数の“野生の楽園”に暮らす生きものたちの躍動する姿を音楽とともにゆったりと紹介する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130802031000 +0900" stop="20130802040500 +0900" channel="GR27">
+    <title lang="ja_JP">日本の名峰「南アルプス　八ヶ岳」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130802040500 +0900" stop="20130802041000 +0900" channel="GR27">
+    <title lang="ja_JP">みんなのうた「フンコロガシは、忙しい。」「だるまさんがころんだ」</title>
+    <desc lang="ja_JP">▽「フンコロガシは、忙しい。」うた：伊武雅刀　／▽「だるまさんがころんだ」うた：斉藤こず恵</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130802041000 +0900" stop="20130802041500 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130802041500 +0900" stop="20130802042000 +0900" channel="GR27">
+    <title lang="ja_JP">シリーズ世界遺産１００「バゲルハットの歴史的モスク都市〜バングラデシュ〜」【字】</title>
+    <desc lang="ja_JP">−カーン将軍の威光−　▽文化遺産　▽３６０ものモスクが立ち並んでいたというバゲルハット。この一大都市を築いた将軍は、神秘的な存在となり、伝説に彩られていった。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130802042000 +0900" stop="20130802043000 +0900" channel="GR27">
+    <title lang="ja_JP">視点・論点</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130802043000 +0900" stop="20130802050000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本</title>
+    <desc lang="ja_JP">▽ニュース　▽地域の課題や話題のリポート　▽日本と世界の気象情報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130802050000 +0900" stop="20130802063000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本</title>
+    <desc lang="ja_JP">▽ニュース　▽地域の課題や話題のリポート　▽ここが知りたい！　▽まちかど情報室　▽とれたてマイビデオ　▽気象情報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130802063000 +0900" stop="20130802070003 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本</title>
+    <desc lang="ja_JP">▽ニュース・７項目　▽スポーツ　▽気象情報　▽世界のニュースザッピング　▽まちかど情報室</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130802070003 +0900" stop="20130802074500 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本【字】</title>
+    <desc lang="ja_JP">ニュースをわかりやすく、関心のあるテーマをじっくりと、スポーツを詳しくお伝えします。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130802074500 +0900" stop="20130802080000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本【字】</title>
+    <desc lang="ja_JP">【キャスター】阿部渉，鈴木奈穂子</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130802080000 +0900" stop="20130802081500 +0900" channel="GR27">
+    <title lang="ja_JP">連続テレビ小説　あまちゃん（１０７）「おら、地元に帰ろう！？」【解】【字】【デ】</title>
+    <desc lang="ja_JP">ヒロイン・アキは、ついに東京で本格的にアイドルを目指すことに！　宮藤官九郎がオリジナルで描く人情喜劇。日本の朝に元気をお届けします。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130802081500 +0900" stop="20130802095500 +0900" channel="GR27">
+    <title lang="ja_JP">あさイチ「プレミアムトーク　水谷豊」【字】</title>
+    <desc lang="ja_JP">プレミアムトーク　水谷豊　▽あさイチグリーンスタイル「解決！ガーデニング　教えて矢澤先生〜夏休みの自由研究〜」【ゲスト】水谷豊，ヘイリー（直前変更の場合あり）</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130802095500 +0900" stop="20130802100000 +0900" channel="GR27">
+    <title lang="ja_JP">みんなの体操【解】【字】</title>
+    <desc lang="ja_JP">【出演】岡本美佳，有賀暁子，稲垣早織</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130802100000 +0900" stop="20130802100500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130802100500 +0900" stop="20130802101500 +0900" channel="GR27">
+    <title lang="ja_JP">くらし☆解説【字】</title>
+    <desc lang="ja_JP">【司会】岩渕梢</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130802101500 +0900" stop="20130802104000 +0900" channel="GR27">
+    <title lang="ja_JP">きょうの料理　決定版！夏のベストレシピ「今が旬！大人気“なす”おかずベスト３」【字】</title>
+    <desc lang="ja_JP">きょうの料理で夏場に人気を博したレシピをランキングで紹介するシリーズ。初日は夏に人気の「なす」のおかず。栗原はるみさんやコウケンテツさんなど人気講師が登場する。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130802104000 +0900" stop="20130802105000 +0900" channel="GR27">
+    <title lang="ja_JP">世界の名峰グレートサミッツエピソード１００▽オーストリア・グロースグロックナー【字】</title>
+    <desc lang="ja_JP">オーストリア最高峰グロースグロックナー（３７９８ｍ）は、国のシンボルの山として親しまれている。山頂に立つ巨大な「皇帝の十字架」にまつわる物語を紹介する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130802105000 +0900" stop="20130802105500 +0900" channel="GR27">
+    <title lang="ja_JP">リトル・チャロ４（日本語版）「Ｅｐ１５　リゲルの心」【字】</title>
+    <desc lang="ja_JP">子犬が主人公のアニメ「リトル・チャロ」の第４弾。今度はチャロがＮＹで映画に出演することになった！そこで繰り広げられる感動のストーリー。その日本語版。声：純名里沙</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130802105500 +0900" stop="20130802110000 +0900" channel="GR27">
+    <title lang="ja_JP">みんなのうた「サイボウの不思議」「勇気一つを友にして」</title>
+    <desc lang="ja_JP">▽「サイボウの不思議」うた：テツａｎｄトモ　／▽「勇気一つを友にして」うた：山田美也子</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130802110000 +0900" stop="20130802110500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130802110500 +0900" stop="20130802115400 +0900" channel="GR27">
+    <title lang="ja_JP">ひるまえほっと</title>
+    <desc lang="ja_JP">▽いま旬☆市場　▽かんたんごはん　▽首都圏ニュース　▽てくてく散歩　▽今週の「○○」　【キャスター】三好正人</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130802115400 +0900" stop="20130802120003 +0900" channel="GR27">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130802120003 +0900" stop="20130802122000 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130802122000 +0900" stop="20130802124500 +0900" channel="GR27">
+    <title lang="ja_JP">ＢＳコンシェルジュ「実践！にっぽん百名山」「ぐるっとインドシナ半島」【字】</title>
+    <desc lang="ja_JP">「実践！にっぽん百名山」の司会を務める女優の釈由美子さん、「ぐるっとインドシナ半島３０００キロ」に出演する女優の野村佑香さんをゲストに迎えて、番組の見所を伺う。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130802124500 +0900" stop="20130802130000 +0900" channel="GR27">
+    <title lang="ja_JP">連続テレビ小説　あまちゃん（１０７）「おら、地元に帰ろう！？」【解】【字】【デ】【再】</title>
+    <desc lang="ja_JP">ヒロイン・アキは、ついに東京で本格的にアイドルを目指すことに！　宮藤官九郎がオリジナルで描く人情喜劇。日本の朝に元気をお届けします。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130802130000 +0900" stop="20130802130500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130802130500 +0900" stop="20130802132700 +0900" channel="GR27">
+    <title lang="ja_JP">連続クイズ　ホールドオン！＜２３６＞【字】</title>
+    <desc lang="ja_JP">視聴者参加クイズ「連続クイズ　ホールドオン！」第２３６回。チャンピオンは、４人の挑戦者から防衛出来るか？新チャンピオン登場か？次は…あなたの出番です！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130802132700 +0900" stop="20130802140000 +0900" channel="GR27">
+    <title lang="ja_JP">スタジオパークからこんにちは　東野幸治【字】</title>
+    <desc lang="ja_JP">▽ＮＨＫクイズ番組司会　▽ダウンタウン浜田松本から学んだ笑いの極意　【ゲスト】東野幸治，【司会】伊藤雄彦，【リポーター】米田弥央</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130802140000 +0900" stop="20130802140500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130802140500 +0900" stop="20130802145500 +0900" channel="GR27">
+    <title lang="ja_JP">情報まるごと【字】</title>
+    <desc lang="ja_JP">▽ニュースと話題　▽にっぽんまるごと　▽にじさんぽ　▽気象情報　【キャスター】小澤康喬，實石あづさ，【気象キャスター】加藤祐子</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130802145500 +0900" stop="20130802150000 +0900" channel="GR27">
+    <title lang="ja_JP">テレビ体操【字】</title>
+    <desc lang="ja_JP">【出演】西川佳克，押味愛里沙，五日市祐子，松下亜実，【ピアノ】加藤由美子</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130802150000 +0900" stop="20130802151200 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130802151200 +0900" stop="20130802151500 +0900" channel="GR27">
+    <title lang="ja_JP">わたし流デジタルライフ「孫のために子ども番組をチェック」【字】</title>
+    <desc lang="ja_JP">京都府にお住まいの近藤さんは、お孫さんのために録画した子ども番組を、遊びに来たお孫さんと一緒にお風呂で楽しんでいる。近藤さんのデジタルライフを紹介。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130802151500 +0900" stop="20130802160000 +0900" channel="GR27">
+    <title lang="ja_JP">ろーかる直送便　金とく「中山道　謎めぐり　岐阜の旅」【字】</title>
+    <desc lang="ja_JP">タレント江戸むらさきの二人が中山道に眠る謎の数々を解き明かす旅に出る。歴史に記録のない奇妙な造形物や、新発見の史書、謎の和傘女性との遭遇などてんこ盛りの４３分。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130802160000 +0900" stop="20130802160500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130802160500 +0900" stop="20130802165400 +0900" channel="GR27">
+    <title lang="ja_JP">総合診療医　ドクターＧ「腰に激痛」【字】【再】</title>
+    <desc lang="ja_JP">新感覚！病名推理エンターテインメント「総合診療医ドクターＧ」。妻を介護する７３歳の元小学校教員。ある日、腰に激痛が走った！ぎっくり腰とは痛みが違う…。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130802165400 +0900" stop="20130802165500 +0900" channel="GR27">
+    <title lang="ja_JP">明日へ１ｍｉｎ．「こころフォト」（１４）</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130802165500 +0900" stop="20130802170000 +0900" channel="GR27">
+    <title lang="ja_JP">大河ドラマ八重の桜ダイジェスト　第３０回「再起への道」【字】</title>
+    <desc lang="ja_JP">八重（綾瀬はるか）たちは米沢藩の知人の家に身を寄せる。食いぶちを稼ぐため反物の行商に励む八重だが、食が細くやせ衰えていく佐久（風吹ジュン）のことが気にかかる。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130802170000 +0900" stop="20130802171000 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130802171000 +0900" stop="20130802180000 +0900" channel="GR27">
+    <title lang="ja_JP">ゆうどきネットワーク　よみがえる球児たちの感動・甲子園歴史館【字】</title>
+    <desc lang="ja_JP">甲子園歴史館に展示されている池田高校・蔦監督や、名勝負・箕島対星稜の延長１８回の戦い、東日本大震災で被災した大船渡高校など、ゆかりの品々に込められた思いを紹介。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130802180000 +0900" stop="20130802181000 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130802181000 +0900" stop="20130802185200 +0900" channel="GR27">
+    <title lang="ja_JP">首都圏ネットワーク【字】</title>
+    <desc lang="ja_JP">▽ニュース　▽特集　▽気象情報　【キャスター】村竹勝司，片山千恵子，【気象キャスター】関口奈美</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130802185200 +0900" stop="20130802190003 +0900" channel="GR27">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130802190003 +0900" stop="20130802193000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース７【二】【字】</title>
+    <desc lang="ja_JP">▽日本と世界のきょう　▽ニュースの背景　【キャスター】小郷知子，【サブキャスター】守本奈実，【気象キャスター】岡村真美子</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130802193000 +0900" stop="20130802195800 +0900" channel="GR27">
+    <title lang="ja_JP">特報首都圏「小児がん　少女の夢」【字】</title>
+    <desc lang="ja_JP">小児がんと闘いながらアイドルを目指す少女、「ゆいゆい」。友人や母親に支えられながら、いつも笑顔を絶やさない少女の姿を見つめます。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130802195800 +0900" stop="20130802200000 +0900" channel="GR27">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130802200000 +0900" stop="20130802204500 +0900" channel="GR27">
+    <title lang="ja_JP">キッチンが走る！「夏の日本海　エキゾチックフレンチ！〜新潟・糸魚川市〜」【字】</title>
+    <desc lang="ja_JP">日本海と急しゅんな山々に囲まれた糸魚川の旅。伝統の漁、漁師一家の温かな暮らし、山では丸ナス作りにかける名人に出会う。フレンチの吉川倫平シェフがふれあいを料理に。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130802204500 +0900" stop="20130802210000 +0900" channel="GR27">
+    <title lang="ja_JP">首都圏ニュース８４５【字】</title>
+    <desc lang="ja_JP">【キャスター】守本奈実，【気象キャスター】斉田季実治</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130802210000 +0900" stop="20130802220000 +0900" channel="GR27">
+    <title lang="ja_JP">ニュースウオッチ９【二】【字】</title>
+    <desc lang="ja_JP">▽きょうのニュースを詳しくわかりやすく　▽関心の高いテーマを特集　▽速報スポーツ　▽気象情報　ほか　【キャスター】大越健介，井上あさひほか</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130802220000 +0900" stop="20130802225000 +0900" channel="GR27">
+    <title lang="ja_JP">総合診療医　ドクターＧ「覚えていない」【字】</title>
+    <desc lang="ja_JP">新感覚！病名推理エンターテインメント「総合診療医ドクターＧ」。４２歳女性が、「肝心なことを覚えていない…」と診察室で訴えた。女性の体に一体何が起きていたのか？</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130802225000 +0900" stop="20130802225500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130802225500 +0900" stop="20130802232000 +0900" channel="GR27">
+    <title lang="ja_JP">ドキュメント７２時間「雨のち晴れ　コインランドリー物語」【字】</title>
+    <desc lang="ja_JP">様々な場所に３日だけカメラを据え、そこを通り過ぎる多様な人生の断片を切り取るドキュメント７２時間。今回は梅雨まっただ中のコインランドリーでの人間模様をみつめる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130802232000 +0900" stop="20130802233000 +0900" channel="GR27">
+    <title lang="ja_JP">Ｓｐｏｒｔｓプラス</title>
+    <desc lang="ja_JP">【キャスター】小宮山晃義</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130802233000 +0900" stop="20130803000000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＥＷＳ　ＷＥＢ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130803000000 +0900" stop="20130803001000 +0900" channel="GR27">
+    <title lang="ja_JP">時論公論</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130803001000 +0900" stop="20130803011000 +0900" channel="GR27">
+    <title lang="ja_JP">双方向クイズ　天下統一「ご当地キャラ」【双】</title>
+    <desc lang="ja_JP">クイズに答えて天下を取ろう！毎月第一金曜深夜、デジタルＴＶ・スマートフォン・ワンセグ・携帯から参加して、あなたも生放送でクイズに挑戦！　司会は中山秀征、皆藤愛子</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130803011000 +0900" stop="20130803011500 +0900" channel="GR27">
+    <title lang="ja_JP">５分で分かる“激流〜私を憶えていますか？〜”　第６回「真実への光明」【字】</title>
+    <desc lang="ja_JP">毎週火曜よる１０時に放送しているドラマ１０「激流〜私を憶えていますか？」の前回の内容を５分ダイジェストにまとめました。これを見れば、見逃した方もバッチリです！</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130803011500 +0900" stop="20130803014000 +0900" channel="GR27">
+    <title lang="ja_JP">探検バクモン「団地！団地！レボリューション　２号棟　平成編」【解】【字】【再】</title>
+    <desc lang="ja_JP">団地は時代のトップランナーだ！かつて「一歩先をゆく暮らし」の象徴だった団地。現代、様々な課題への取り組みでも一歩先を行っている。団地に未来へのヒントを探せ！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130803014000 +0900" stop="20130803041500 +0900" channel="GR27">
+    <title lang="ja_JP">ミッドナイトチャンネル</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130803041500 +0900" stop="20130803043000 +0900" channel="GR27">
+    <title lang="ja_JP">先どり　きょうの健康「正しく向き合う認知症　早めの受診がかぎ」【解】【字】</title>
+    <desc lang="ja_JP">認知症の原因として最も多いのがアルツハイマー病。まず物事を順序良く実行できなくなり、料理や仕事などが進めにくくなる。続いて記憶障害などの症状が見られる。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130803043000 +0900" stop="20130803050000 +0900" channel="GR27">
+    <title lang="ja_JP">日本の話芸　講談「名刀捨丸の由来」【解】【字】【再】</title>
+    <desc lang="ja_JP">宝井琴梅で、講談「名刀捨丸の由来」を放送する▽木曽の貧しい農家の息子治三郎。江戸へ出稼ぎに行き金を貯め、故郷へ帰る途中で山賊に身ぐるみはがされてしまう。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130803050000 +0900" stop="20130803051500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130803051500 +0900" stop="20130803054000 +0900" channel="GR27">
+    <title lang="ja_JP">小さな旅「青き海のなか〜鹿児島　奄美大島〜」【字】【再】</title>
+    <desc lang="ja_JP">九州・鹿児島から南へ３８０キロ、サンゴ礁に囲まれた奄美大島。素潜りで南国の魚を突く漁。潜りの漁師が集団で群れを追い込む漁。海の恵みと暮らす人々に出会う。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130803054000 +0900" stop="20130803055000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫ映像ファイル　あの人に会いたい「中沢啓治（漫画家）」【字】</title>
+    <desc lang="ja_JP">原爆が投下された広島を描いた漫画「はだしのゲン」の作者、中沢啓治さん。被爆体験を元に核兵器のもたらす悲惨さを訴えた中沢さんが「はだしのゲン」に込めた思いを語る。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130803055000 +0900" stop="20130803060000 +0900" channel="GR27">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130803060000 +0900" stop="20130803070003 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本</title>
+    <desc lang="ja_JP">ニュースをわかりやすく、関心のあるテーマをじっくりと、スポーツを詳しくお伝えします。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130803070003 +0900" stop="20130803073000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本【字】</title>
+    <desc lang="ja_JP">ニュースをわかりやすく、関心のあるテーマをじっくりと、スポーツを詳しくお伝えします。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130803073000 +0900" stop="20130803080000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本【字】</title>
+    <desc lang="ja_JP">　　　　【キャスター】近田雄一，江崎史恵</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130803080000 +0900" stop="20130803081500 +0900" channel="GR27">
+    <title lang="ja_JP">連続テレビ小説　あまちゃん（１０８）「おら、地元に帰ろう！？」【解】【字】【デ】</title>
+    <desc lang="ja_JP">ヒロイン・アキは、ついに東京で本格的にアイドルを目指すことに！　宮藤官九郎がオリジナルで描く人情喜劇。日本の朝に元気をお届けします。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130803081500 +0900" stop="20130803093000 +0900" channel="GR27">
+    <title lang="ja_JP">週刊　ニュース深読み【字】</title>
+    <desc lang="ja_JP">▽前半は今週のニュースをせき止めて　▽後半はテーマを絞って深層へ　【キャスター】小野文惠，高井正智，【気象キャスター】南利幸</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130803093000 +0900" stop="20130803095500 +0900" channel="GR27">
+    <title lang="ja_JP">アニメ　団地ともお（１７）「家族の仲を取り持つんだともお」ほか【字】</title>
+    <desc lang="ja_JP">家族の仲を取り持つんだともお／何か写ってるぞともお</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130803095500 +0900" stop="20130803100000 +0900" channel="GR27">
+    <title lang="ja_JP">Ｎスペ５ｍｉｎ．「調査報告　日本のインフラが危ない」</title>
+    <desc lang="ja_JP">多忙な人向けにＮＨＫスペシャルを５分に凝縮した当番組。中央道笹子トンネル事故後明らかになった全国各地のインフラリスクを検証し、安全性向上に何が必要かを考える。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130803100000 +0900" stop="20130803100500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130803100500 +0900" stop="20130803105000 +0900" channel="GR27">
+    <title lang="ja_JP">キッチンが走る！「夏の日本海　エキゾチックフレンチ！〜新潟・糸魚川市〜」【字】【再】</title>
+    <desc lang="ja_JP">日本海と急しゅんな山々に囲まれた糸魚川の旅。伝統の漁、漁師一家の温かな暮らし、山では丸ナス作りにかける名人に出会う。フレンチの吉川倫平シェフがふれあいを料理に。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130803105000 +0900" stop="20130803111500 +0900" channel="GR27">
+    <title lang="ja_JP">特報首都圏「小児がん　少女の夢」【字】【再】</title>
+    <desc lang="ja_JP">小児がんと闘いながらアイドルを目指す少女、「ゆいゆい」。友人や母親に支えられながら、いつも笑顔を絶やさない少女の姿を見つめます。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130803111500 +0900" stop="20130803112000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130803112000 +0900" stop="20130803112500 +0900" channel="GR27">
+    <title lang="ja_JP">復興支援ソング「花は咲く」</title>
+    <desc lang="ja_JP">「花は咲く」</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130803112500 +0900" stop="20130803113000 +0900" channel="GR27">
+    <title lang="ja_JP">シリーズ世界遺産１００「コロメンスコエの昇天教会〜ロシア〜」【字】</title>
+    <desc lang="ja_JP">−王からの贈り物−▽文化遺産▽モスクワ大公国王が息子イワン４世の誕生を祝って建てた教会。バルコニーには景色を眺める玉座が設けられ、イワン４世が休息をとった。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130803113000 +0900" stop="20130803115400 +0900" channel="GR27">
+    <title lang="ja_JP">目撃！日本列島「“匠（たくみ）の技”で勝て〜技能五輪に挑んだ若者〜」【字】</title>
+    <desc lang="ja_JP">７月、トヨタ自動車から選抜された若者が技能を競う五輪に出場した。待ち受けていたのは大舞台での思いがけない試練。世界のライバルとの闘いで若者が見出したものとは。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130803115400 +0900" stop="20130803120003 +0900" channel="GR27">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130803120003 +0900" stop="20130803121500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130803121500 +0900" stop="20130803124000 +0900" channel="GR27">
+    <title lang="ja_JP">バラエティー生活笑百科　▽迷いネコを探して！　▽床下のお宝発見！【字】</title>
+    <desc lang="ja_JP">くらしの中の相談事を笑いの中で解決するバラエティー。今回のゲストは女優の原幹恵。経験をまじえて明るく楽しいトークを披露する。出演は笑福亭仁鶴、桂吉弥ほか</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130803124000 +0900" stop="20130803124500 +0900" channel="GR27">
+    <title lang="ja_JP">週末プレマップ</title>
+    <desc lang="ja_JP">【キャスター】片山千恵子</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130803124500 +0900" stop="20130803130000 +0900" channel="GR27">
+    <title lang="ja_JP">連続テレビ小説　あまちゃん（１０８）「おら、地元に帰ろう！？」【解】【字】【デ】【再】</title>
+    <desc lang="ja_JP">ヒロイン・アキは、ついに東京で本格的にアイドルを目指すことに！　宮藤官九郎がオリジナルで描く人情喜劇。日本の朝に元気をお届けします。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130803130000 +0900" stop="20130803130500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130803130500 +0900" stop="20130803135000 +0900" channel="GR27">
+    <title lang="ja_JP">八重の桜（３０）「再起への道」【解】【字】【デ】【再】</title>
+    <desc lang="ja_JP">八重（綾瀬はるか）たちは米沢藩の知人の家に身を寄せる。食いぶちを稼ぐため反物の行商に励む八重だが、食が細くやせ衰えていく佐久（風吹ジュン）のことが気にかかる。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130803135000 +0900" stop="20130803150000 +0900" channel="GR27">
+    <title lang="ja_JP">土曜スタジオパーク　“八重の桜”京都スペシャル▽綾瀬はるか　オダギリジョー【字】</title>
+    <desc lang="ja_JP">「八重の桜」スペシャルｉｎ京都。ゲストに綾瀬はるかさん、オダギリジョーさんをお招きして新島夫婦ゆかりの京都・同志社大学より公開生放送。八重ゆかりの京都もご紹介</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130803150000 +0900" stop="20130803150500 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130803150500 +0900" stop="20130803155600 +0900" channel="GR27">
+    <title lang="ja_JP">トーハク女子高　夏期講習　カワイイのルーツは平安にあり！？【字】</title>
+    <desc lang="ja_JP">東京国立博物館の「和様の書」展の会場で行われた、とある女子高の夏期講習にＴＶカメラが潜入。テーマは「カワイイのルーツを探せ」。手がかりは展覧会場にあるのだが…。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130803155600 +0900" stop="20130803155800 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130803155800 +0900" stop="20130803160000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130803160000 +0900" stop="20130803165000 +0900" channel="GR27">
+    <title lang="ja_JP">原爆復興〜立ち上がった長崎市民〜【字】</title>
+    <desc lang="ja_JP">「世界新三大夜景」に選ばれた長崎。その美しい街並みは、６８年前の原爆投下の焦土から、市民が作りあげたものだった―。被爆からの復興をとげた長崎市民の物語。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130803165000 +0900" stop="20130803170000 +0900" channel="GR27">
+    <title lang="ja_JP">土曜ドラマ「夫婦善哉」のすべて</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130803170000 +0900" stop="20130803172500 +0900" channel="GR27">
+    <title lang="ja_JP">アニメ　団地ともお・セレクション「寝言に答えるなともお」ほか【字】</title>
+    <desc lang="ja_JP">寝言に答えるなともお／団地で部屋をゲットだともお</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130803172500 +0900" stop="20130803173000 +0900" channel="GR27">
+    <title lang="ja_JP">復興支援ソング「花は咲く」</title>
+    <desc lang="ja_JP">「花は咲く」</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130803173000 +0900" stop="20130803180000 +0900" channel="GR27">
+    <title lang="ja_JP">ダーウィンが来た！「カバは最強！？素顔に迫る」【字】【再】</title>
+    <desc lang="ja_JP">アフリカで人々が最も恐れる動物は、ライオンやゾウではなくカバだ。体長３ｍのワニを投げ飛ばすパワーと水中を時速３０ｋｍで走るスピードを持つ。カバ最強説の真相に迫る</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130803180000 +0900" stop="20130803181000 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130803181000 +0900" stop="20130803184400 +0900" channel="GR27">
+    <title lang="ja_JP">プロ野球「巨人」対「阪神」〜東京ドームから中継〜【SS】【字】</title>
+    <desc lang="ja_JP">　（試合開始　６：００）　【解説】梨田昌孝，小久保裕紀，【アナウンサー】冨坂和男　〜東京ドームから中継〜</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130803184400 +0900" stop="20130803184500 +0900" channel="GR27">
+    <title lang="ja_JP">野球中継　継続視聴のご案内　▽野球中継は【総合２】で放送しています</title>
+    <desc lang="ja_JP">【総合２】で「野球中継」を見るには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。または、ｄボタンを押すと切り替え画面に変わります。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130803184500 +0900" stop="20130803185300 +0900" channel="GR27">
+    <title lang="ja_JP">首都圏ニュース</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130803185300 +0900" stop="20130803190003 +0900" channel="GR27">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130803190003 +0900" stop="20130803193000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫニュース７【二】【字】</title>
+    <desc lang="ja_JP">▽日本と世界のきょう　▽ニュースの背景　【キャスター】小郷知子，【サブキャスター】佐藤龍文，【気象キャスター】寺川奈津美</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130803193000 +0900" stop="20130803211500 +0900" channel="GR27">
+    <title lang="ja_JP">プロ野球「巨人」対「阪神」〜東京ドームから中継〜【SS】【字】</title>
+    <desc lang="ja_JP">【解説】梨田昌孝，小久保裕紀，【アナウンサー】冨坂和男　〜東京ドームから中継〜</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130803211500 +0900" stop="20130803213000 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130803213000 +0900" stop="20130803223000 +0900" channel="GR27">
+    <title lang="ja_JP">土曜ドラマ　七つの会議（４）＜終＞「だれかが生き残る」【解】【字】</title>
+    <desc lang="ja_JP">フロンティアは不祥事の罪を坂戸（眞島秀和）ひとりに着せ、組織の生き残りをはかろうとする。承服できない原島（東山紀之）と八角（吉田鋼太郎）は独自の調査を開始する。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130803223000 +0900" stop="20130803230000 +0900" channel="GR27">
+    <title lang="ja_JP">サタデースポーツ</title>
+    <desc lang="ja_JP">　　　　【キャスター】松尾剛，杉浦友紀</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130803230000 +0900" stop="20130803231000 +0900" channel="GR27">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130803231000 +0900" stop="20130803234000 +0900" channel="GR27">
+    <title lang="ja_JP">ＳＯＮＧＳ「シャ乱Ｑ」【字】</title>
+    <desc lang="ja_JP">【ゲスト】シャ乱Ｑ，【語り】守本奈実</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130803234000 +0900" stop="20130803235000 +0900" channel="GR27">
+    <title lang="ja_JP">八重の桜ツアー「ただいま、東北」　▽初夏・いわき編【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130803235000 +0900" stop="20130804000000 +0900" channel="GR27">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+</tv>
