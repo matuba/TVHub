@@ -1,10 +1,6 @@
 package controllers;
 
-import play.*;
 import play.mvc.*;
-import play.libs.Akka;
-import java.util.concurrent.TimeUnit;
-import scala.concurrent.duration.*;
 import views.html.*;
 
 public class Application extends Controller {

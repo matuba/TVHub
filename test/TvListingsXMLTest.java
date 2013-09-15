@@ -1,9 +1,10 @@
 import java.util.Calendar;
 
+import models.TVProgramme;
+import models.TvListings;
+
 import org.junit.*;
 
-import tv.TVProgramme;
-import tv.TvListings;
 import static org.fest.assertions.Assertions.*;
 
 public class TvListingsXMLTest {
