@@ -1,4 +1,6 @@
 import java.util.Calendar;
+import java.util.Date;
+import java.util.List;
 
 import models.TVProgramme;
 import models.TvListings;
@@ -8,13 +10,13 @@ import org.junit.*;
 import static org.fest.assertions.Assertions.*;
 
 public class TvListingsXMLTest {
-	TvListings m_objXML = new TvListings();
+	TvListings listingsGR27 = new TvListings();
 	TVProgramme programme0 = null;
 	@Before
 	public void before(){
-		m_objXML = new TvListings();
-		m_objXML.LoadXML("public/listings/27ch.xml");
-    	programme0 = m_objXML.getProgramme(0);
+		listingsGR27 = new TvListings();
+		listingsGR27.LoadXML("public/listings/27ch.xml");
+    	programme0 = listingsGR27.getProgramme(0);
 	}
     @Test 
     public void test読み込み成功() {
@@ -23,15 +25,15 @@ public class TvListingsXMLTest {
     }
     @Test 
     public void testチャンネルID取得() {
-    	assertThat(m_objXML.getChannelID()).isEqualTo("GR27");
+    	assertThat(listingsGR27.getChannelID()).isEqualTo("GR27");
     }
     @Test 
     public void testチャンネル名取得() {
-    	assertThat(m_objXML.getChannelName()).isEqualTo("ＮＨＫ総合１・東京");
+    	assertThat(listingsGR27.getChannelName()).isEqualTo("ＮＨＫ総合１・東京");
     }
     @Test 
     public void test番組数取得() {
-    	assertThat(m_objXML.getProgrammeNum()).isEqualTo(459);
+    	assertThat(listingsGR27.getProgrammeNum()).isEqualTo(459);
     }
     @Test
     public void testProgramme0番目の番組タイトルをクラスに設定() {
@@ -47,7 +49,7 @@ public class TvListingsXMLTest {
     }
     @Test
     public void testProgramme0番目のチャンネル名をクラスに設定() {
-    	assertThat(programme0.channel).isEqualTo("");
+    	assertThat(programme0.channel).isEqualTo("GR27");
     }
     @Test
     public void testProgramme0番目の開始時刻をクラスに設定() {
@@ -60,6 +62,28 @@ public class TvListingsXMLTest {
     	Calendar calendor = Calendar.getInstance(); 
     	calendor.set(2013, 7, 27, 12, 15, 0);
     	assertThat(programme0.stop.toString()).isEqualTo(calendor.getTime().toString());
+    }
+    @Test
+    public void test12時から13時の番組を取得() {
+    	Calendar calendar = Calendar.getInstance(); 
+    	calendar.set(2013, 7, 27, 12, 00, 0);
+    	Date start = calendar.getTime();
+    	calendar.set(2013, 7, 27, 13, 00, 0);
+    	Date stop = calendar.getTime();
+
+    	List<TVProgramme> programme = listingsGR27.getTVProgrammeList(start, stop);
+    	assertThat(programme.size()).isEqualTo(4);
+    }
+    @Test
+    public void test13時から14時の番組を取得() {
+    	Calendar calendar = Calendar.getInstance(); 
+    	calendar.set(2013, 7, 27, 13, 00, 0);
+    	Date start = calendar.getTime();
+    	calendar.set(2013, 7, 27, 14, 00, 0);
+    	Date stop = calendar.getTime();
+
+    	List<TVProgramme> programme = listingsGR27.getTVProgrammeList(start, stop);
+    	assertThat(programme.size()).isEqualTo(3);
     }
        
 }

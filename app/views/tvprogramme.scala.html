@@ -1,13 +1,7 @@
 @(programme: TVProgramme)
-<p>
-<a href="#" rel="popover" 
-data-trigger="hover" 
-data-original-title="@programme.getStartHHMM()-@programme.getStopHHMM() @programme.category"
-data-placement="top"
-data-html="true"
-data-content="<h5>@programme.title</h5><small>@programme.desc</small>">
-@programme.getStartHHMM()&nbsp@programme.getTitle32()<br>
-</a>
-</p>
-
-
+	<a href="#" rel="popover" data-trigger="hover"
+		data-original-title="@programme.getStartHHMM()-@programme.getStopHHMM() @programme.category"
+		data-placement="top" data-html="true"
+		data-content="<h5>@programme.title</h5><small>@programme.desc</small>">
+		<small>@programme.getStartHHMM()&nbsp@programme.getTitle32()</small>
+	</a>

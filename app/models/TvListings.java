@@ -3,6 +3,7 @@ package models;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.Calendar;
+import java.util.Date;
 import java.util.List;
 
 import javax.xml.parsers.DocumentBuilder;
@@ -96,10 +97,26 @@ public class TvListings {
 		}
 		return programme;
 	}
+
 	public List<TVProgramme> getTVProgrammeList(){
 		List<TVProgramme> tvProgrammeList = new ArrayList<TVProgramme>();
 		for(int i=0;i<getProgrammeNum();i++){
 			tvProgrammeList.add(getProgramme(i));
+		}
+		return tvProgrammeList;
+	}
+
+	public List<TVProgramme> getTVProgrammeList(Date start, Date stop){
+		List<TVProgramme> tvProgrammeList = new ArrayList<TVProgramme>();
+		for(int i=0;i<getProgrammeNum();i++){
+			TVProgramme programme = getProgramme(i);
+			if(programme.start.before(start)){
+				continue;
+			}
+			if(programme.start.after(stop)){
+				break;
+			}
+			tvProgrammeList.add(programme);
 		}
 		return tvProgrammeList;
 	}
