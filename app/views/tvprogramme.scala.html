@@ -1,16 +1,13 @@
 @(programme: TVProgramme)
-        <div class="accordion" id="@programme.start">
-            <div class="accordion-group">
-                <div class="accordion-heading">
-                    <h5>@programme.title</h5>
-                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">詳細</a>
-                </div>
-                <div id="collapseOne" class="accordion-body collapse in">
-                    <div class="accordion-inner">
-						@programme.desc
-                    </div>
-                </div>
-            </div>
-        </div>
+<p>
+<a href="#" rel="popover" 
+data-trigger="hover" 
+data-original-title="@programme.getStartHHMM()-@programme.getStopHHMM() @programme.category"
+data-placement="top"
+data-html="true"
+data-content="<h5>@programme.title</h5><small>@programme.desc</small>">
+@programme.getStartHHMM()&nbsp@programme.getTitle32()<br>
+</a>
+</p>
 
 

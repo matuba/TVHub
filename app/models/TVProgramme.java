@@ -16,9 +16,30 @@ public class TVProgramme {
 		SimpleDateFormat sdf = new SimpleDateFormat("HH:mm");
 		return sdf.format(start);
 	}
+	public String getStopHHMM(){
+		SimpleDateFormat sdf = new SimpleDateFormat("HH:mm");
+		return sdf.format(stop);
+	}
+
 	public String getStartYYMMDDHHMM(){
-		SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMddHHmmss");
+		SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMddHHmm");
 		return sdf.format(start);
+	}
+	public String getProgrammeID(){
+		SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMddHHmmss");
+		return sdf.format(start) + channel;
+	}
+	public String getTitle32(){
+		if(title.length() < 32){
+			return title;
+		}
+		return title.substring(0, 32) + "...";
+	}
+	public String getDesc32(){
+		if(desc.length() < 32){
+			return desc;
+		}
+		return desc.substring(0, 32) + "...";
 	}
 
 }
