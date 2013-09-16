@@ -1,0 +1,16 @@
+@(programme: TVProgramme)
+        <div class="accordion" id="@programme.start">
+            <div class="accordion-group">
+                <div class="accordion-heading">
+                    <h5>@programme.title</h5>
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">詳細</a>
+                </div>
+                <div id="collapseOne" class="accordion-body collapse in">
+                    <div class="accordion-inner">
+						@programme.desc
+                    </div>
+                </div>
+            </div>
+        </div>
+
+

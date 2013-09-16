@@ -1,7 +1,9 @@
 package models;
 
 import java.io.File;
+import java.util.ArrayList;
 import java.util.Calendar;
+import java.util.List;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
@@ -68,6 +70,8 @@ public class TvListings {
 		try {
 			programme.title = (String)m_xpath.evaluate( "/tv/programme[" + Integer.toString(index) + "]/title[@lang='ja_JP']", m_doc, XPathConstants.STRING);
 			programme.category = (String)m_xpath.evaluate( "/tv/programme[" + Integer.toString(index) + "]/category[@lang='ja_JP']", m_doc, XPathConstants.STRING);
+			programme.desc = (String)m_xpath.evaluate( "/tv/programme[" + Integer.toString(index) + "]/desc[@lang='ja_JP']", m_doc, XPathConstants.STRING);
+			programme.channel = (String)m_xpath.evaluate( "/tv/programme[" + Integer.toString(index) + "]/@channel", m_doc, XPathConstants.STRING);
 
 			String startString = (String)m_xpath.evaluate( "/tv/programme[" + Integer.toString(index) + "]/@start", m_doc, XPathConstants.STRING);
 			int year = Integer.parseInt(startString.substring(0, 4));
@@ -91,6 +95,13 @@ public class TvListings {
 			return null;
 		}
 		return programme;
+	}
+	public List<TVProgramme> getTVProgrammeList(){
+		List<TVProgramme> tvProgrammeList = new ArrayList<TVProgramme>();
+		for(int i=0;i<getProgrammeNum();i++){
+			tvProgrammeList.add(getProgramme(i));
+		}
+		return tvProgrammeList;
 	}
 
 }

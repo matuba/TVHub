@@ -42,6 +42,14 @@ public class TvListingsXMLTest {
     	assertThat(programme0.category).isEqualTo("ニュース・報道");
     }
     @Test
+    public void testProgramme0番目の解説をクラスに設定() {
+    	assertThat(programme0.desc).isEqualTo("");
+    }
+    @Test
+    public void testProgramme0番目のチャンネル名をクラスに設定() {
+    	assertThat(programme0.channel).isEqualTo("");
+    }
+    @Test
     public void testProgramme0番目の開始時刻をクラスに設定() {
     	Calendar calendor = Calendar.getInstance(); 
     	calendor.set(2013, 7, 27, 12, 0, 0);
