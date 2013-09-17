@@ -29,13 +29,26 @@ public class TVProgramme {
 		SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMddHHmmss");
 		return sdf.format(start) + channel;
 	}
-	public String getTitle32(){
+	public String getTitle(){
+		long time = stop.getTime() - start.getTime();
+		if((time/1000)/60 <= 15){
+			if(title.length() < 6){
+				return title;
+			}
+			return title.substring(0, 6) + "‥.";
+		}
+		if((time/1000)/60 <= 30){
+			if(title.length() < 16){
+				return title;
+			}
+			return title.substring(0, 16) + ".‥";
+		}
 		if(title.length() < 32){
 			return title;
 		}
-		return title.substring(0, 32) + "...";
+		return title.substring(0, 32) + "‥.";
 	}
-	public String getDesc32(){
+	public String getDesc(){
 		if(desc.length() < 32){
 			return desc;
 		}

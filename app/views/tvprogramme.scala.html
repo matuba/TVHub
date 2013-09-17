@@ -1,7 +1,14 @@
 @(programme: TVProgramme)
 	<a href="#" rel="popover" data-trigger="hover"
-		data-original-title="@programme.getStartHHMM()-@programme.getStopHHMM() @programme.category"
+		data-original-title="@programme.getStartHHMM()-@programme.getStopHHMM()@programme.category"
 		data-placement="top" data-html="true"
-		data-content="<h5>@programme.title</h5><small>@programme.desc</small>">
-		<small>@programme.getStartHHMM()&nbsp@programme.getTitle32()</small>
+		data-content="<h5>@programme.title</h5><small>@programme.desc</small>"
+		onclick="return false">
+		<small>@programme.getStartHHMM()&nbsp@programme.getTitle()</small>
 	</a>
+	<br>
+<div class="btn-group">
+	<a class="btn btn-mini" href="#"><i class="icon-ok-circle"></i></a>
+	<a class="btn btn-mini" href="#"><i class="icon-wrench"></i></a>
+</div>
+	
