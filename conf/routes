@@ -7,3 +7,6 @@ GET     /                           controllers.Application.index()
 
 # Map static resources from the /public folder to the /assets URL path
 GET     /assets/*file               controllers.Assets.at(path="/public", file)
+
+#programmes JSON
+GET     /json/programmes/$year<[0-9]{4}>/$month<[0-9]{2}>/$day<[0-9]{2}>/$hour<[0-9]{2}>/$min<[0-9]{2}>/$ch<[0-9]{3}>      controllers.Application.getProgrammesJSON(year : String, month : String, day : String, hour : String, min : String, ch : String)
