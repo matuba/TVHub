@@ -1,0 +1,2318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="tsEPG2xml" generator-info-url="http://localhost/">
+  <channel id="18">
+    <display-name lang="ja_JP">ｔｖｋ１</display-name>
+  </channel>
+  <programme start="20130923180000 +0900" stop="20130923181000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋニュース＆天気予報</title>
+    <desc lang="ja_JP">最新ニュースと県内の天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130923181000 +0900" stop="20130923181500 +0900" channel="18">
+    <title lang="ja_JP">ドロンコロン</title>
+    <desc lang="ja_JP">あすの地球と子どもたちのために・・神奈川発・地球環境アニメーション</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130923181500 +0900" stop="20130923183000 +0900" channel="18">
+    <title lang="ja_JP">みぶりてれび【再】</title>
+    <desc lang="ja_JP">家族で体を動かして楽しむ、朝のダンスプログラム「みぶりてれび」南流石さん振付の楽しいダンスをまねして、ココロとカラダと脳をパワーアップ！未来のおとなを育てます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130923183000 +0900" stop="20130923185500 +0900" channel="18">
+    <title lang="ja_JP">音楽缶</title>
+    <desc lang="ja_JP">【ＯＰ曲：「ビーサン」サイレントサイレン】藤澤ノリマサ▽ガリレオガリレイ▽見田村千晴▽Ｓｕｐｅｒｆｌｙ</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130923185500 +0900" stop="20130923190000 +0900" channel="18">
+    <title lang="ja_JP">ＰＰＶ</title>
+    <desc lang="ja_JP">最新のミュージックビデオを紹介</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130923190000 +0900" stop="20130923193000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽トレーニング器具</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130923193000 +0900" stop="20130923195500 +0900" channel="18">
+    <title lang="ja_JP">日本ふるさと百景</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130923195500 +0900" stop="20130923200000 +0900" channel="18">
+    <title lang="ja_JP">ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ</title>
+    <desc lang="ja_JP">県内の天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130923200000 +0900" stop="20130923205500 +0900" channel="18">
+    <title lang="ja_JP">第２８回新鋭王座決定戦競艇中継・優勝戦</title>
+    <desc lang="ja_JP">▽ボートレース桐生【司会】荻原次晴【実況】椛島健一【アシスタント】磯山さやか【ゲスト】南明奈、朝日健太郎</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130923205500 +0900" stop="20130923210000 +0900" channel="18">
+    <title lang="ja_JP">ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ</title>
+    <desc lang="ja_JP">県内の天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130923210000 +0900" stop="20130923213000 +0900" channel="18">
+    <title lang="ja_JP">佐藤しのぶ　出逢いのハーモニー　第Ⅲ幕　〜レガーミ（絆）〜</title>
+    <desc lang="ja_JP">「アンコール月間」【ゲスト】保阪正康（ノンフィクション作家）【ＭＣ】佐藤しのぶ（声楽家）</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130923213000 +0900" stop="20130923214500 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽健康食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130923214500 +0900" stop="20130923215000 +0900" channel="18">
+    <title lang="ja_JP">あおほし</title>
+    <desc lang="ja_JP">イラストレーター、キン・シオタニが描く神奈川発・地球環境アニメーション</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130923215000 +0900" stop="20130923220000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋニュース＆天気予報</title>
+    <desc lang="ja_JP">最新ニュースと県内の天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130923220000 +0900" stop="20130923223000 +0900" channel="18">
+    <title lang="ja_JP">水曜どうでしょうＣｌａｓｓｉｃ</title>
+    <desc lang="ja_JP">「四国八十八カ所Ⅲ③」北海道が生んだ人気ドキュメントバラエティ【出演】大泉洋、鈴井貴之</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130923223000 +0900" stop="20130923230000 +0900" channel="18">
+    <title lang="ja_JP">カナガワニエン</title>
+    <desc lang="ja_JP">【ゲスト】ベイビーレイズ【出演】山崎樹範、ＣｈｅｅｋｙＰａｒａｄｅ、カナガワニ　ほか</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130923230000 +0900" stop="20130923233000 +0900" channel="18">
+    <title lang="ja_JP">キンシオ</title>
+    <desc lang="ja_JP">生きものの名前の地名の旅▽都内のとある街をぶらり旅▽旧東海道沿いの街で昔の名残を探す【出演】キン・シオタニ　ほか</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130923233000 +0900" stop="20130924000000 +0900" channel="18">
+    <title lang="ja_JP">ｓａｋｕ　ｓａｋｕ【再】</title>
+    <desc lang="ja_JP">【ゲスト：ケラケラ】恋愛臆病系ユニット！？／他▽俺のちぃっちゃい旅▽ＣＤランキング▽電車ネタいきます▽番組から年末に向けたお知らせ▽星占い　ほか</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130924000000 +0900" stop="20130924003000 +0900" channel="18">
+    <title lang="ja_JP">洋楽天国</title>
+    <desc lang="ja_JP">洋楽ファン必見の洋楽情報番組。新着ビデオやアーティストインタビュー、ライブ、チケットプレゼントなど洋楽情報満載の３０分！</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130924003000 +0900" stop="20130924003500 +0900" channel="18">
+    <title lang="ja_JP">ＰＰＶ</title>
+    <desc lang="ja_JP">最新のミュージックビデオを紹介</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130924003500 +0900" stop="20130924010000 +0900" channel="18">
+    <title lang="ja_JP">音楽缶</title>
+    <desc lang="ja_JP">【ＯＰ曲：「ビーサン」サイレントサイレン】藤澤ノリマサ▽ガリレオガリレイ▽見田村千晴▽Ｓｕｐｅｒｆｌｙ</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130924010000 +0900" stop="20130924013000 +0900" channel="18">
+    <title lang="ja_JP">片山右京の０２ＰＯＳＩＴＩＯＮ</title>
+    <desc lang="ja_JP">「競馬」【ゲスト】見栄晴【ＭＣ】片山右京、吉田理恵</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924013000 +0900" stop="20130924020000 +0900" channel="18">
+    <title lang="ja_JP">パチンコ　パチスロ　エンタメ情報　パチＦＵＮ！</title>
+    <desc lang="ja_JP">神奈川県限定・地域密着パチンコ＆パチスロ情報番組。パチンコ＆スロットの最新情報やホール情報など、楽しい企画を愉快なパチＦＵＮファミリーとともにお届け。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924020000 +0900" stop="20130924023000 +0900" channel="18">
+    <title lang="ja_JP">ロッケンロール</title>
+    <desc lang="ja_JP">「下衆すぎてもういいよというような話を紹介する下衆イイ話！！ パート①」【出演】二丁拳銃、加賀谷はつみ、ニブンノゴ！</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130924023000 +0900" stop="20130924030000 +0900" channel="18">
+    <title lang="ja_JP">温泉女子【再】</title>
+    <desc lang="ja_JP">温泉の数３千カ所以上と言われる、温泉天国日本。そんな数ある温泉を巡るために結成されたアイドルユニット「温泉女子」が、気軽に行ける温泉旅を紹介。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924030000 +0900" stop="20130924030500 +0900" channel="18">
+    <title lang="ja_JP">ＰＰＶ</title>
+    <desc lang="ja_JP">最新のミュージックビデオを紹介</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130924030500 +0900" stop="20130924030800 +0900" channel="18">
+    <title lang="ja_JP">あおほし</title>
+    <desc lang="ja_JP">イラストレーター、キン・シオタニが描く神奈川発・地球環境アニメーション</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130924030800 +0900" stop="20130924033300 +0900" channel="18">
+    <title lang="ja_JP">夜の周波数カード</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924045500 +0900" stop="20130924052500 +0900" channel="18">
+    <title lang="ja_JP">朝の周波数カード</title>
+    <desc lang="ja_JP">ＢＧＭ情報：アルバム「フォーエヴァー」アース・ウィンド＆ファイアー</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924052500 +0900" stop="20130924053000 +0900" channel="18">
+    <title lang="ja_JP">ドロンコロン</title>
+    <desc lang="ja_JP">あすの地球と子どもたちのために・・神奈川発・地球環境アニメーション</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130924053000 +0900" stop="20130924060000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽化粧品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924060000 +0900" stop="20130924063000 +0900" channel="18">
+    <title lang="ja_JP">情報特選街</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽健康食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924063000 +0900" stop="20130924064500 +0900" channel="18">
+    <title lang="ja_JP">リトルプリンセス</title>
+    <desc lang="ja_JP">＃３６「ビックリが大好き！」</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130924064500 +0900" stop="20130924070000 +0900" channel="18">
+    <title lang="ja_JP">みぶりてれび</title>
+    <desc lang="ja_JP">家族で体を動かして楽しむ、朝のダンスプログラム「みぶりてれび」南流石さん振付の楽しいダンスをまねして、ココロとカラダと脳をパワーアップ！未来のおとなを育てます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924070000 +0900" stop="20130924073000 +0900" channel="18">
+    <title lang="ja_JP">ハピはぴモーニング</title>
+    <desc lang="ja_JP">朝が変わる！チバテレ新情報番組▽交通情報▽お天気▽星占い【ＭＣ】知念沙也樺</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924073000 +0900" stop="20130924080000 +0900" channel="18">
+    <title lang="ja_JP">ｓａｋｕ　ｓａｋｕ</title>
+    <desc lang="ja_JP">【ゲスト：ケラケラ】最近、気になっていること／他▽馬謖問題▽メール、よみますっ！／こんなものをつくってみました▽星占い　ほか</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130924080000 +0900" stop="20130924083000 +0900" channel="18">
+    <title lang="ja_JP">赤毛のアン</title>
+    <desc lang="ja_JP">＃６「グリーン・ゲイブルズのアン」【全５０話】</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130924083000 +0900" stop="20130924090000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽健康食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924090000 +0900" stop="20130924092500 +0900" channel="18">
+    <title lang="ja_JP">音楽缶</title>
+    <desc lang="ja_JP">【ＯＰ曲：「ビーサン」サイレントサイレン】矢井田瞳▽ＤＯＥＳ▽ＳＣＡＮＤＡＬ▽ＡＡＡ</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130924092500 +0900" stop="20130924093000 +0900" channel="18">
+    <title lang="ja_JP">ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ</title>
+    <desc lang="ja_JP">県内の天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924093000 +0900" stop="20130924095900 +0900" channel="18">
+    <title lang="ja_JP">情報特選街</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽健康食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924095900 +0900" stop="20130924100000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋスポットニュース</title>
+    <desc lang="ja_JP">最新ニュースをお届け</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924100000 +0900" stop="20130924103000 +0900" channel="18">
+    <title lang="ja_JP">原田伸郎のめざせパーゴルフⅢ</title>
+    <desc lang="ja_JP">ゲストに男女プロを招きチーム別にチャレンジ！番組独自のポイント方式で勝敗を競います【出演】原田伸郎、井戸木鴻樹（プロゴルファー）、小塚舞子　ほか</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130924103000 +0900" stop="20130924105900 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽美容健康器具</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924105900 +0900" stop="20130924110000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋスポットニュース</title>
+    <desc lang="ja_JP">最新ニュースをお届け</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924110000 +0900" stop="20130924115500 +0900" channel="18">
+    <title lang="ja_JP">健やか元気人</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽健康食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924115500 +0900" stop="20130924115900 +0900" channel="18">
+    <title lang="ja_JP">ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ</title>
+    <desc lang="ja_JP">県内の天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924115900 +0900" stop="20130924120000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋスポットニュース</title>
+    <desc lang="ja_JP">最新ニュースをお届け</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924120000 +0900" stop="20130924140000 +0900" channel="18">
+    <title lang="ja_JP">ありがとッ！</title>
+    <desc lang="ja_JP">プロの料理人が通う店▽サンマ簡単レシピ▽温泉王子▽声優・飯塚雅弓さん　ほか【ＭＣ】松風雅也、三浦綾子（ｔｖｋアナウンサー）【火曜レギュラー】松本梨香、山川恵里佳</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924140000 +0900" stop="20130924142900 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽健康食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924142900 +0900" stop="20130924145900 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽スポーツジム</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924145900 +0900" stop="20130924150000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋスポットニュース</title>
+    <desc lang="ja_JP">最新ニュースをお届け</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924150000 +0900" stop="20130924152900 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽調理器具</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924152900 +0900" stop="20130924155500 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽トレーニング器具</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924155500 +0900" stop="20130924155900 +0900" channel="18">
+    <title lang="ja_JP">ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ</title>
+    <desc lang="ja_JP">県内の天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924155900 +0900" stop="20130924160000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋスポットニュース</title>
+    <desc lang="ja_JP">最新ニュースをお届け</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924160000 +0900" stop="20130924163000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽健康食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924163000 +0900" stop="20130924170000 +0900" channel="18">
+    <title lang="ja_JP">ごごたま</title>
+    <desc lang="ja_JP">▽ビフィズス菌について▽ガーデニング【パーソナリティ】椿姫彩菜【司会】山田香菜子（テレ玉アナウンサー）</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924170000 +0900" stop="20130924173000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽育毛剤</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924173000 +0900" stop="20130924180000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽ダイエット食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924180000 +0900" stop="20130924181500 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋニュース</title>
+    <desc lang="ja_JP">ニュース▽あすの天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924181500 +0900" stop="20130924183000 +0900" channel="18">
+    <title lang="ja_JP">みぶりてれび【再】</title>
+    <desc lang="ja_JP">家族で体を動かして楽しむ、朝のダンスプログラム「みぶりてれび」南流石さん振付の楽しいダンスをまねして、ココロとカラダと脳をパワーアップ！未来のおとなを育てます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924183000 +0900" stop="20130924185500 +0900" channel="18">
+    <title lang="ja_JP">音楽缶</title>
+    <desc lang="ja_JP">【ＯＰ曲：「ビーサン」サイレントサイレン】矢井田瞳▽ＤＯＥＳ▽ＳＣＡＮＤＡＬ▽ＡＡＡ</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130924185500 +0900" stop="20130924190000 +0900" channel="18">
+    <title lang="ja_JP">ＰＰＶ</title>
+    <desc lang="ja_JP">最新のミュージックビデオを紹介</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130924190000 +0900" stop="20130924193000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽美容健康器具</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924193000 +0900" stop="20130924200000 +0900" channel="18">
+    <title lang="ja_JP">ボウリング革命　Ｐ★ＬＥＡＧＵＥ</title>
+    <desc lang="ja_JP">技術・体力・精神力を兼ね備えた女性アスリートが真剣勝負！ボウリング界に革命をもたらすボウリングエンターテイメント</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130924200000 +0900" stop="20130924210000 +0900" channel="18">
+    <title lang="ja_JP">釣りビジョンアワー</title>
+    <desc lang="ja_JP">「楽釣楽磯宣言１１　武者泊底物パラダイス」（愛媛県武者泊／イシダイ）【出演】城本尚史・木村俊一</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130924210000 +0900" stop="20130924213000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽低反発寝具</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924213000 +0900" stop="20130924220000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋニュース９３０α</title>
+    <desc lang="ja_JP">次世代の「ものづくり」の主役▽スイフヨウまつりほか▽県内ニュース▽神奈川県内のきょうの出来事▽天気予報【キャスター】トーマスサリー（ｔｖｋアナウンサー）</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924220000 +0900" stop="20130924225500 +0900" channel="18">
+    <title lang="ja_JP">韓国ドラマ「ドリームハイ２」</title>
+    <desc lang="ja_JP">＃２「キリン芸高は問題だらけ！？」オズエンターテイメント所属のアイドルたちがキリン芸能高校に転校してきた。生徒たちは大喜びするが・・</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130924225500 +0900" stop="20130924230000 +0900" channel="18">
+    <title lang="ja_JP">ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ</title>
+    <desc lang="ja_JP">県内の天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924230000 +0900" stop="20130924233000 +0900" channel="18">
+    <title lang="ja_JP">白黒アンジャッシュ</title>
+    <desc lang="ja_JP">「売れてる芸能人あるあるクイズ　前編」白黒公認の占い師・ゲッターズ飯田が、売れっ子芸能人の共通点をクイズで出題！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130924233000 +0900" stop="20130925000000 +0900" channel="18">
+    <title lang="ja_JP">ｓａｋｕ　ｓａｋｕ【再】</title>
+    <desc lang="ja_JP">【ゲスト：ケラケラ】最近、気になっていること／他▽馬謖問題▽メール、よみますっ！／こんなものをつくってみました▽星占い　ほか</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925000000 +0900" stop="20130925003000 +0900" channel="18">
+    <title lang="ja_JP">洋楽天国ＰＲＥＭＩＵＭ　Ｒ４５</title>
+    <desc lang="ja_JP">新旧の洋楽アーティスト情報をお届け</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130925003000 +0900" stop="20130925003500 +0900" channel="18">
+    <title lang="ja_JP">ＰＰＶ</title>
+    <desc lang="ja_JP">最新のミュージックビデオを紹介</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130925003500 +0900" stop="20130925010000 +0900" channel="18">
+    <title lang="ja_JP">音楽缶</title>
+    <desc lang="ja_JP">【ＯＰ曲：「ビーサン」サイレントサイレン】矢井田瞳▽ＤＯＥＳ▽ＳＣＡＮＤＡＬ▽ＡＡＡ</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130925010000 +0900" stop="20130925013000 +0900" channel="18">
+    <title lang="ja_JP">みんなでおどろう！　カモン！カナガワン</title>
+    <desc lang="ja_JP">ｔｖｋ開局４０周年記念ジモトＬＯＶＥソング＆ダンス「カモン！カナガワン」のポイントを南流石が教えます！家族みんなで、元気に楽しく「カモン！カナガワン」を踊ろう！</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130925013000 +0900" stop="20130925020000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽美容健康器具</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925020000 +0900" stop="20130925023000 +0900" channel="18">
+    <title lang="ja_JP">戦国★男士【再】</title>
+    <desc lang="ja_JP">現代を舞台に、史実を取り込んだ歴史ストーリーを展開する“青春アクションドラマ”</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925023000 +0900" stop="20130925030000 +0900" channel="18">
+    <title lang="ja_JP">ガールズゴルフクラブ</title>
+    <desc lang="ja_JP">ゴルフ初心者の女性に向けた新しいゴルフ番組のカタチ！【出演】神戸蘭子、葛岡碧、女子プロゴルファー：坂之下侑子、池内絵梨藻、池内真梨藻</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130925030000 +0900" stop="20130925030500 +0900" channel="18">
+    <title lang="ja_JP">ＰＰＶ</title>
+    <desc lang="ja_JP">最新のミュージックビデオを紹介</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130925030500 +0900" stop="20130925030800 +0900" channel="18">
+    <title lang="ja_JP">あおほし</title>
+    <desc lang="ja_JP">イラストレーター、キン・シオタニが描く神奈川発・地球環境アニメーション</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130925030800 +0900" stop="20130925033300 +0900" channel="18">
+    <title lang="ja_JP">夜の周波数カード</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925045500 +0900" stop="20130925052500 +0900" channel="18">
+    <title lang="ja_JP">朝の周波数カード</title>
+    <desc lang="ja_JP">ＢＧＭ情報：アルバム「フォーエヴァー」アース・ウィンド＆ファイアー</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925052500 +0900" stop="20130925053000 +0900" channel="18">
+    <title lang="ja_JP">ドロンコロン</title>
+    <desc lang="ja_JP">あすの地球と子どもたちのために・・神奈川発・地球環境アニメーション</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130925053000 +0900" stop="20130925060000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽健康食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925060000 +0900" stop="20130925063000 +0900" channel="18">
+    <title lang="ja_JP">情報特選街</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽健康食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925063000 +0900" stop="20130925064500 +0900" channel="18">
+    <title lang="ja_JP">リトルプリンセス</title>
+    <desc lang="ja_JP">＃３７「自転車に乗りたいの！」</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130925064500 +0900" stop="20130925070000 +0900" channel="18">
+    <title lang="ja_JP">みぶりてれび</title>
+    <desc lang="ja_JP">家族で体を動かして楽しむ、朝のダンスプログラム「みぶりてれび」南流石さん振付の楽しいダンスをまねして、ココロとカラダと脳をパワーアップ！未来のおとなを育てます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925070000 +0900" stop="20130925073000 +0900" channel="18">
+    <title lang="ja_JP">ハピはぴモーニング</title>
+    <desc lang="ja_JP">朝が変わる！チバテレ新情報番組▽交通情報▽お天気▽星占い【ＭＣ】知念沙也樺</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925073000 +0900" stop="20130925080000 +0900" channel="18">
+    <title lang="ja_JP">ｓａｋｕ　ｓａｋｕ</title>
+    <desc lang="ja_JP">【ゲスト：ケラケラ】アンケートより／他▽おすすめ鉄道スポット▽ＤＶＤの世界▽月末はモノブライトがモノ申す！▽星占い　ほか</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925080000 +0900" stop="20130925083000 +0900" channel="18">
+    <title lang="ja_JP">赤毛のアン</title>
+    <desc lang="ja_JP">＃７「レイチェル夫人恐れをなす」【全５０話】</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130925083000 +0900" stop="20130925090000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽ヘアケア製品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925090000 +0900" stop="20130925093000 +0900" channel="18">
+    <title lang="ja_JP">イイコト！　１１５１０〜ハートフルナビゲーション〜</title>
+    <desc lang="ja_JP">番組独自の目線で見つけた、いろんな「いいこと」を紹介！流行を追いかけるだけでなく、他では取り上げないようなちょっとしたことも探してお届けします。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925093000 +0900" stop="20130925095900 +0900" channel="18">
+    <title lang="ja_JP">情報特選街</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽洗剤</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925095900 +0900" stop="20130925100000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋスポットニュース</title>
+    <desc lang="ja_JP">最新ニュースをお届け</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925100000 +0900" stop="20130925103000 +0900" channel="18">
+    <title lang="ja_JP">極上の宿　〜くつろぎの女子旅　ｉｎ　伊豆　河津〜</title>
+    <desc lang="ja_JP">東伊豆にある極上宿へ女子二人旅を誘います【出演】生稲晃子、杉原杏璃</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925103000 +0900" stop="20130925105900 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽健康食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925105900 +0900" stop="20130925110000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋスポットニュース</title>
+    <desc lang="ja_JP">最新ニュースをお届け</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925110000 +0900" stop="20130925113000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽健康食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925113000 +0900" stop="20130925115900 +0900" channel="18">
+    <title lang="ja_JP">情報特選街</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽ダイエット食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925115900 +0900" stop="20130925120000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋスポットニュース</title>
+    <desc lang="ja_JP">最新ニュースをお届け</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925120000 +0900" stop="20130925140000 +0900" channel="18">
+    <title lang="ja_JP">ありがとッ！</title>
+    <desc lang="ja_JP">カナガワの地域密着情報番組【ＭＣ】松風雅也、三浦綾子（ｔｖｋアナウンサー）【水曜レギュラー】北原照久、新田恵利</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925140000 +0900" stop="20130925142900 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽ダイエット食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925142900 +0900" stop="20130925145900 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽健康食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925145900 +0900" stop="20130925150000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋスポットニュース</title>
+    <desc lang="ja_JP">最新ニュースをお届け</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925150000 +0900" stop="20130925155500 +0900" channel="18">
+    <title lang="ja_JP">韓国ドラマ「大望」</title>
+    <desc lang="ja_JP">＃２２「次男の嫁として」【日本語字幕／全２６話】</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130925155500 +0900" stop="20130925155900 +0900" channel="18">
+    <title lang="ja_JP">ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ</title>
+    <desc lang="ja_JP">県内の天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925155900 +0900" stop="20130925160000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋスポットニュース</title>
+    <desc lang="ja_JP">最新ニュースをお届け</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925160000 +0900" stop="20130925163000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽健康食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925163000 +0900" stop="20130925170000 +0900" channel="18">
+    <title lang="ja_JP">ごごたま</title>
+    <desc lang="ja_JP">▽あなたの街Ｏｈ！しかけ隊【パーソナリティ】だいまじん【司会】山田香菜子（テレ玉アナウンサー）</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925170000 +0900" stop="20130925173000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽健康食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925173000 +0900" stop="20130925180000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽化粧品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925180000 +0900" stop="20130925181500 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋニュース</title>
+    <desc lang="ja_JP">ニュース▽あすの天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925181500 +0900" stop="20130925183000 +0900" channel="18">
+    <title lang="ja_JP">みぶりてれび【再】</title>
+    <desc lang="ja_JP">家族で体を動かして楽しむ、朝のダンスプログラム「みぶりてれび」南流石さん振付の楽しいダンスをまねして、ココロとカラダと脳をパワーアップ！未来のおとなを育てます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925183000 +0900" stop="20130925185500 +0900" channel="18">
+    <title lang="ja_JP">音楽缶</title>
+    <desc lang="ja_JP">【ＯＰ曲：「ビーサン」サイレントサイレン】Ｓｅｒｅｎａ▽Ｄｒｏｐ’ｓ▽スピッツ▽ｍｉｗａ</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130925185500 +0900" stop="20130925190000 +0900" channel="18">
+    <title lang="ja_JP">ＰＰＶ</title>
+    <desc lang="ja_JP">最新のミュージックビデオを紹介</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130925190000 +0900" stop="20130925193000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽調理用具</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925193000 +0900" stop="20130925200000 +0900" channel="18">
+    <title lang="ja_JP">戦国鍋ＴＶ【再】</title>
+    <desc lang="ja_JP">楽しく学べる歴史バラエティがパワーアップして再始動！戦国時代にとどまらず、江戸時代や幕末まで多彩な歴史上の人物が登場します。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925200000 +0900" stop="20130925205500 +0900" channel="18">
+    <title lang="ja_JP">スプレンドーレ伊香保２０１３</title>
+    <desc lang="ja_JP">６月に開催された、クラシックカーラリーの模様を紹介。歴史的・文化的価値のある貴重なクラシックカーが群馬のさまざまな観光地を走ります。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925205500 +0900" stop="20130925210000 +0900" channel="18">
+    <title lang="ja_JP">ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ</title>
+    <desc lang="ja_JP">県内の天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925210000 +0900" stop="20130925213000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽低反発寝具</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925213000 +0900" stop="20130925220000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋニュース９３０α</title>
+    <desc lang="ja_JP">▽県内ニュース▽神奈川県内のきょうの出来事▽天気予報【キャスター】三崎幸恵（ｔｖｋアナウンサー）</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925220000 +0900" stop="20130925225500 +0900" channel="18">
+    <title lang="ja_JP">ビルボード全米ＴＯＰ４０</title>
+    <desc lang="ja_JP">アメリカの音楽チャート誌「ビルボード」の最新ランキング上位４０位を紹介する洋楽カウントダウン番組【ＶＪ】中村真理</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130925225500 +0900" stop="20130925230000 +0900" channel="18">
+    <title lang="ja_JP">ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ</title>
+    <desc lang="ja_JP">県内の天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925230000 +0900" stop="20130925233000 +0900" channel="18">
+    <title lang="ja_JP">ＪＯＹｎｔ！</title>
+    <desc lang="ja_JP">「七番勝負第４弾　ウォールクライミング対決＋県外出張命令③」【出演】ＪＯＹ、小原春香　ほか</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925233000 +0900" stop="20130926000000 +0900" channel="18">
+    <title lang="ja_JP">ｓａｋｕ　ｓａｋｕ【再】</title>
+    <desc lang="ja_JP">【ゲスト：ケラケラ】アンケートより／他▽おすすめ鉄道スポット▽ＤＶＤの世界▽月末はモノブライトがモノ申す！▽星占い　ほか</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926000000 +0900" stop="20130926003000 +0900" channel="18">
+    <title lang="ja_JP">Ｍｕｔｏｍａ</title>
+    <desc lang="ja_JP">新人・中堅アーティストのＰＶ＆ライブ映像を紹介▽新人の登竜門「ミュートマダービー」も要チェック</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130926003000 +0900" stop="20130926003500 +0900" channel="18">
+    <title lang="ja_JP">ＰＰＶ</title>
+    <desc lang="ja_JP">最新のミュージックビデオを紹介</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130926003500 +0900" stop="20130926010000 +0900" channel="18">
+    <title lang="ja_JP">音楽缶</title>
+    <desc lang="ja_JP">【ＯＰ曲：「ビーサン」サイレントサイレン】Ｓｅｒｅｎａ▽Ｄｒｏｐ’ｓ▽スピッツ▽ｍｉｗａ</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130926010000 +0900" stop="20130926013000 +0900" channel="18">
+    <title lang="ja_JP">夢かなえるまで！２【終】</title>
+    <desc lang="ja_JP">若者が集う渋谷から、次世代のスターを発掘！公開収録オーディションの模様を紹介。さらに新人アーティストの情報をお伝えします。【出演】Ｃｈｉｅ、桜塚やっくん</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926013000 +0900" stop="20130926020000 +0900" channel="18">
+    <title lang="ja_JP">幻影ヲ駆ケル太陽</title>
+    <desc lang="ja_JP">＃１２▽二つのタロットカードに支配された世界。２２の血族から選ばれた少女たちはエレメンタル・タロットの使い手となり、人知れず闘いに身を投じる。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130926020000 +0900" stop="20130926023000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽化粧品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926023000 +0900" stop="20130926030000 +0900" channel="18">
+    <title lang="ja_JP">未来定番曲　〜Ｆｕｔｕｒｅ　Ｓｔａｎｄａｒｄ〜</title>
+    <desc lang="ja_JP">話題のアーティストや楽曲を紹介。さらに毎週３〜４アーティストをピックアップ、活動の舞台裏などに迫る。【メインパーソナリティー】市川紗椰</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130926030000 +0900" stop="20130926030500 +0900" channel="18">
+    <title lang="ja_JP">ＰＰＶ</title>
+    <desc lang="ja_JP">最新のミュージックビデオを紹介</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130926030500 +0900" stop="20130926030800 +0900" channel="18">
+    <title lang="ja_JP">あおほし</title>
+    <desc lang="ja_JP">イラストレーター、キン・シオタニが描く神奈川発・地球環境アニメーション</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130926045500 +0900" stop="20130926052500 +0900" channel="18">
+    <title lang="ja_JP">朝の周波数カード</title>
+    <desc lang="ja_JP">ＢＧＭ情報：アルバム「フォーエヴァー」アース・ウィンド＆ファイアー</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926052500 +0900" stop="20130926053000 +0900" channel="18">
+    <title lang="ja_JP">ドロンコロン</title>
+    <desc lang="ja_JP">あすの地球と子どもたちのために・・神奈川発・地球環境アニメーション</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130926053000 +0900" stop="20130926060000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽健康食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926060000 +0900" stop="20130926063000 +0900" channel="18">
+    <title lang="ja_JP">情報特選街</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽健康食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926063000 +0900" stop="20130926064500 +0900" channel="18">
+    <title lang="ja_JP">リトルプリンセス</title>
+    <desc lang="ja_JP">＃３８「やっぱりあたしお城にいたいの！」</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130926064500 +0900" stop="20130926070000 +0900" channel="18">
+    <title lang="ja_JP">みぶりてれび</title>
+    <desc lang="ja_JP">家族で体を動かして楽しむ、朝のダンスプログラム「みぶりてれび」南流石さん振付の楽しいダンスをまねして、ココロとカラダと脳をパワーアップ！未来のおとなを育てます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926070000 +0900" stop="20130926073000 +0900" channel="18">
+    <title lang="ja_JP">ハピはぴモーニング</title>
+    <desc lang="ja_JP">朝が変わる！チバテレ新情報番組▽交通情報▽お天気▽星占い【ＭＣ】未莉</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926073000 +0900" stop="20130926080000 +0900" channel="18">
+    <title lang="ja_JP">ｓａｋｕ　ｓａｋｕ</title>
+    <desc lang="ja_JP">【ゲスト：ケラケラ】アンケートより／他▽サクサク体操！▽おなじみビナウォークのコーナー▽星占い・週末運勢ランキング　ほか</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926080000 +0900" stop="20130926083000 +0900" channel="18">
+    <title lang="ja_JP">赤毛のアン</title>
+    <desc lang="ja_JP">＃８「アン日曜学校へ行く」【全５０話】</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130926083000 +0900" stop="20130926090000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽ダイエット食品ほか</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926090000 +0900" stop="20130926093000 +0900" channel="18">
+    <title lang="ja_JP">手づくり花づくり</title>
+    <desc lang="ja_JP">「秋に楽しむお花」【司会】高田薫</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926093000 +0900" stop="20130926095900 +0900" channel="18">
+    <title lang="ja_JP">情報特選街</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽食品▽美容健康器具▽掃除用具▽脚温器▽化粧品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926095900 +0900" stop="20130926100000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋスポットニュース</title>
+    <desc lang="ja_JP">最新ニュースをお届け</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926100000 +0900" stop="20130926103000 +0900" channel="18">
+    <title lang="ja_JP">達人道</title>
+    <desc lang="ja_JP">「コピーの達人」団塊世代夫婦が「自分たちライフ」を愉しめるような”実践的ノウハウ術”を紹介　【出演】森藤恵美　ほか</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926103000 +0900" stop="20130926105900 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽健康食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926105900 +0900" stop="20130926110000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋスポットニュース</title>
+    <desc lang="ja_JP">最新ニュースをお届け</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926110000 +0900" stop="20130926113000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽健康食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926113000 +0900" stop="20130926115900 +0900" channel="18">
+    <title lang="ja_JP">情報特選街</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽化粧品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926115900 +0900" stop="20130926120000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋスポットニュース</title>
+    <desc lang="ja_JP">最新ニュースをお届け</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926120000 +0900" stop="20130926140000 +0900" channel="18">
+    <title lang="ja_JP">ありがとッ！</title>
+    <desc lang="ja_JP">カナガワの地域密着情報番組【ＭＣ】松風雅也、三浦綾子（ｔｖｋアナウンサー）【木曜レギュラー】石黒彩、渡辺明日香</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926140000 +0900" stop="20130926142900 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽ダイエット食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926142900 +0900" stop="20130926145900 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽スポーツジム</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926145900 +0900" stop="20130926150000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋスポットニュース</title>
+    <desc lang="ja_JP">最新ニュースをお届け</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926150000 +0900" stop="20130926155500 +0900" channel="18">
+    <title lang="ja_JP">韓国ドラマ「お願い、キャプテン」</title>
+    <desc lang="ja_JP">＃１２「覗かれた秘密」【全２０話】</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130926155500 +0900" stop="20130926155900 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽カー用品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926155900 +0900" stop="20130926160000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋスポットニュース</title>
+    <desc lang="ja_JP">最新ニュースをお届け</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926160000 +0900" stop="20130926163000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽健康食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926163000 +0900" stop="20130926170000 +0900" channel="18">
+    <title lang="ja_JP">ごごたま</title>
+    <desc lang="ja_JP">▽映画情報「アンパンマン」▽演歌・歌謡曲知ってる歌【パーソナリティ】有村昆【司会】山田香菜子（テレ玉アナウンサー）</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926170000 +0900" stop="20130926173000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽健康食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926173000 +0900" stop="20130926180000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽低反発寝具</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926180000 +0900" stop="20130926181500 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋニュース</title>
+    <desc lang="ja_JP">ニュース▽あすの天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926181500 +0900" stop="20130926183000 +0900" channel="18">
+    <title lang="ja_JP">みぶりてれび【再】</title>
+    <desc lang="ja_JP">家族で体を動かして楽しむ、朝のダンスプログラム「みぶりてれび」南流石さん振付の楽しいダンスをまねして、ココロとカラダと脳をパワーアップ！未来のおとなを育てます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926183000 +0900" stop="20130926185500 +0900" channel="18">
+    <title lang="ja_JP">音楽缶</title>
+    <desc lang="ja_JP">【ＯＰ曲：「ビーサン」サイレントサイレン】ＦＬＯＷ▽ＨＫＴ４８▽ゴスペラーズ▽斉藤和義</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130926185500 +0900" stop="20130926190000 +0900" channel="18">
+    <title lang="ja_JP">ＰＰＶ</title>
+    <desc lang="ja_JP">最新のミュージックビデオを紹介</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130926190000 +0900" stop="20130926195500 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽健康食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926195500 +0900" stop="20130926200000 +0900" channel="18">
+    <title lang="ja_JP">ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ</title>
+    <desc lang="ja_JP">県内の天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926200000 +0900" stop="20130926205500 +0900" channel="18">
+    <title lang="ja_JP">探偵！ナイトスクープ</title>
+    <desc lang="ja_JP">家事に悩む７歳児／田村裕▽野生のニワトリを捕まえたい！／松村邦洋▽世界的ジャグラーができない普通のこと／竹山隆範【出演】西田敏行、松尾依里佳　ほか</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926205500 +0900" stop="20130926210000 +0900" channel="18">
+    <title lang="ja_JP">ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ</title>
+    <desc lang="ja_JP">県内の天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926210000 +0900" stop="20130926213000 +0900" channel="18">
+    <title lang="ja_JP">おにぎりあたためますか【字】</title>
+    <desc lang="ja_JP">「全国制覇２周目の旅　高知編３」【出演】大泉洋、戸次重幸、オクラホマ　ほか</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926213000 +0900" stop="20130926220000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋニュース９３０α</title>
+    <desc lang="ja_JP">▽県内ニュース▽神奈川県内のきょうの出来事▽天気予報【キャスター】三崎幸恵（ｔｖｋアナウンサー）</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926220000 +0900" stop="20130926223000 +0900" channel="18">
+    <title lang="ja_JP">アニメ「冬のソナタ」</title>
+    <desc lang="ja_JP">＃４「守れない約束」</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130926223000 +0900" stop="20130926230000 +0900" channel="18">
+    <title lang="ja_JP">猫侍事前特番</title>
+    <desc lang="ja_JP">１０月１日（火）夜９時スタート・癒しがテーマの新感覚時代劇「猫侍」の出演者が、撮影秘話と番組、そして猫の魅力を語る。猫の可愛いメイキング映像も満載！</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130926230000 +0900" stop="20130926233000 +0900" channel="18">
+    <title lang="ja_JP">雷イチゴ。</title>
+    <desc lang="ja_JP">「悠希も外へ出てみました」新企画・バンドマンと一緒に宇都宮を歩こう！メインＭＣ悠希が収録場所の近所をノープランでぶらぶら</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926233000 +0900" stop="20130927000000 +0900" channel="18">
+    <title lang="ja_JP">ｓａｋｕ　ｓａｋｕ【再】</title>
+    <desc lang="ja_JP">【ゲスト：ケラケラ】アンケートより／他▽サクサク体操！▽おなじみビナウォークのコーナー▽星占い・週末運勢ランキング　ほか</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130927000000 +0900" stop="20130927003000 +0900" channel="18">
+    <title lang="ja_JP">音楽缶♯【終】</title>
+    <desc lang="ja_JP">最新ミュージッククリップを放送▽注目アーティストのコーナー企画＆インタビュー▽今月の超プッシュアップアーティスト</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130927003000 +0900" stop="20130927010000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽電動のこぎり</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927010000 +0900" stop="20130927013000 +0900" channel="18">
+    <title lang="ja_JP">コージー冨田のものパチＪＰＮ！！【終】</title>
+    <desc lang="ja_JP">スペシャルバトルＭＡＸ頂上戦③！小島よしおが参戦・勝負はついに決着▽グランドフィーナーレではあの人が【ＭＣ】コージー冨田</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927013000 +0900" stop="20130927020000 +0900" channel="18">
+    <title lang="ja_JP">バナナ塾</title>
+    <desc lang="ja_JP">【ゲスト：篠崎愛】カラダがだらしなさ過ぎるのでショック療法で高カロリー食を止めさせる！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130927020000 +0900" stop="20130927023000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽洗剤</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927023000 +0900" stop="20130927030000 +0900" channel="18">
+    <title lang="ja_JP">ＨＥＡＲＴ　ＢＥＡＴ【終】</title>
+    <desc lang="ja_JP">全国で活躍する音楽バンドやソロシンガー、ダンスユニットやＤＪなど、様々なジャンルでプロを目指すアマチュアアーティストの活動を紹介する音楽番組</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130927030000 +0900" stop="20130927030300 +0900" channel="18">
+    <title lang="ja_JP">あおほし</title>
+    <desc lang="ja_JP">イラストレーター、キン・シオタニが描く神奈川発・地球環境アニメーション</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130927045500 +0900" stop="20130927052500 +0900" channel="18">
+    <title lang="ja_JP">朝の周波数カード</title>
+    <desc lang="ja_JP">ＢＧＭ情報：アルバム「フォーエヴァー」アース・ウィンド＆ファイアー</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927052500 +0900" stop="20130927053000 +0900" channel="18">
+    <title lang="ja_JP">ドロンコロン</title>
+    <desc lang="ja_JP">あすの地球と子どもたちのために・・神奈川発・地球環境アニメーション</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130927053000 +0900" stop="20130927060000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽ダイエット食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927060000 +0900" stop="20130927063000 +0900" channel="18">
+    <title lang="ja_JP">情報特選街</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽健康食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927063000 +0900" stop="20130927064500 +0900" channel="18">
+    <title lang="ja_JP">リトルプリンセス</title>
+    <desc lang="ja_JP">＃３９「一番の友達が欲しいの！」</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130927064500 +0900" stop="20130927070000 +0900" channel="18">
+    <title lang="ja_JP">みぶりてれび</title>
+    <desc lang="ja_JP">家族で体を動かして楽しむ、朝のダンスプログラム「みぶりてれび」南流石さん振付の楽しいダンスをまねして、ココロとカラダと脳をパワーアップ！未来のおとなを育てます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927070000 +0900" stop="20130927073000 +0900" channel="18">
+    <title lang="ja_JP">ハピはぴモーニング</title>
+    <desc lang="ja_JP">朝が変わる！チバテレ新情報番組▽交通情報▽お天気▽星占い【ＭＣ】未莉</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927073000 +0900" stop="20130927080000 +0900" channel="18">
+    <title lang="ja_JP">ｓａｋｕ　ｓａｋｕ</title>
+    <desc lang="ja_JP">【ゲスト：ケラケラ】シングル発売！／他▽メール、よみますっ！▽みんなでうたおうＺ市ヶ尾のうた▽今週のおすすめグッズ　ほか</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130927080000 +0900" stop="20130927083000 +0900" channel="18">
+    <title lang="ja_JP">キッズ劇場ピース【再】</title>
+    <desc lang="ja_JP">親子で楽しめるダンスや歌が満載！【出演】宮本佳那子、高橋秀幸、むーとん、カナガワニ　ほか</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130927083000 +0900" stop="20130927090000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽化粧品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927090000 +0900" stop="20130927093000 +0900" channel="18">
+    <title lang="ja_JP">いい伊豆みつけた</title>
+    <desc lang="ja_JP">「秋の熱海　洋食グルメとアート散策を大満喫！」レポーターが伊豆急行線沿線を巡り、伊豆の人々・観光・グルメなど、伊豆の魅力をお届けする観光番組</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927093000 +0900" stop="20130927095900 +0900" channel="18">
+    <title lang="ja_JP">情報特選街</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽化粧品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927095900 +0900" stop="20130927100000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋスポットニュース</title>
+    <desc lang="ja_JP">最新ニュースをお届け</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927100000 +0900" stop="20130927103000 +0900" channel="18">
+    <title lang="ja_JP">カフェ日和</title>
+    <desc lang="ja_JP">「栃木編」日光東照宮や那須高原で知られる栃木県の素敵なカフェやスポットをとちぎ美少女図鑑モデルが紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927103000 +0900" stop="20130927105900 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽調理用具</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927105900 +0900" stop="20130927110000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋスポットニュース</title>
+    <desc lang="ja_JP">最新ニュースをお届け</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927110000 +0900" stop="20130927112900 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽健康食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927112900 +0900" stop="20130927115500 +0900" channel="18">
+    <title lang="ja_JP">情報特選街</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽健康食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927115500 +0900" stop="20130927115900 +0900" channel="18">
+    <title lang="ja_JP">ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ</title>
+    <desc lang="ja_JP">県内の天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927115900 +0900" stop="20130927120000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋスポットニュース</title>
+    <desc lang="ja_JP">最新ニュースをお届け</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927120000 +0900" stop="20130927140000 +0900" channel="18">
+    <title lang="ja_JP">ありがとッ！</title>
+    <desc lang="ja_JP">カナガワの地域密着情報番組【ＭＣ】根岸佑輔（ｔｖｋアナウンサー）、トーマス・サリー（ｔｖｋアナウンサー）【金曜レギュラー】小山武明、サミ・ポップ</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927140000 +0900" stop="20130927142900 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽化粧品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927142900 +0900" stop="20130927145900 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽調理器具</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927145900 +0900" stop="20130927150000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋスポットニュース</title>
+    <desc lang="ja_JP">最新ニュースをお届け</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927150000 +0900" stop="20130927155500 +0900" channel="18">
+    <title lang="ja_JP">新必殺仕置人</title>
+    <desc lang="ja_JP">＃２６「抜穴無用」</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130927155500 +0900" stop="20130927155900 +0900" channel="18">
+    <title lang="ja_JP">ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ</title>
+    <desc lang="ja_JP">県内の天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927155900 +0900" stop="20130927160000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋスポットニュース</title>
+    <desc lang="ja_JP">最新ニュースをお届け</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927160000 +0900" stop="20130927163000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽健康食品▽化粧品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927163000 +0900" stop="20130927170000 +0900" channel="18">
+    <title lang="ja_JP">ごごたま</title>
+    <desc lang="ja_JP">▽たまリポ「日高市巾着田　彼岸花」生中継【パーソナリティ】遠近由美子【司会】山田香菜子（テレ玉アナウンサー）</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927170000 +0900" stop="20130927173000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽ダイエット食品▽掃除用具</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927173000 +0900" stop="20130927180000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽調理用具</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927180000 +0900" stop="20130927183000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋニュースハーバー</title>
+    <desc lang="ja_JP">▽ｔｖｋニュース▽あすの天気予報【キャスター】小林咲夏（ｔｖｋアナウンサー）</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927183000 +0900" stop="20130927185500 +0900" channel="18">
+    <title lang="ja_JP">音楽缶</title>
+    <desc lang="ja_JP">【ＯＰ曲：「ビーサン」サイレントサイレン】上間綾乃▽ＭＩＳＩＡ▽ポルノグラフィティ▽絢香</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130927185500 +0900" stop="20130927190000 +0900" channel="18">
+    <title lang="ja_JP">ＰＰＶ</title>
+    <desc lang="ja_JP">最新のミュージックビデオを紹介</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130927190000 +0900" stop="20130927192900 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽低反発寝具</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927192900 +0900" stop="20130927195500 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽ダイエット食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927195500 +0900" stop="20130927200000 +0900" channel="18">
+    <title lang="ja_JP">ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ</title>
+    <desc lang="ja_JP">県内の天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927200000 +0900" stop="20130927205500 +0900" channel="18">
+    <title lang="ja_JP">ええじゃないか。</title>
+    <desc lang="ja_JP">志摩市と南伊勢町で映画のロケ地をめぐる▽ガメラの手書き顔出し看板▽きいろいゾウの出演者も食べた味覚【出演】堀口文宏（あさりど）、萩美香　ほか</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130927205500 +0900" stop="20130927210000 +0900" channel="18">
+    <title lang="ja_JP">ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ</title>
+    <desc lang="ja_JP">県内の天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927210000 +0900" stop="20130927213000 +0900" channel="18">
+    <title lang="ja_JP">Ｔｅｅｎａｇｅ　Ｐａｒｔｙ　キメ☆パピチ【終】</title>
+    <desc lang="ja_JP">中高生のための青春応援バラエティ☆部活・恋バナ・勉強・・・中高生を徹底応援！【出演】フォンチー、翁長舞（ｔｖｋアナウンサー）　ほか</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130927213000 +0900" stop="20130927220000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋニュース９３０α</title>
+    <desc lang="ja_JP">▽県内ニュース▽神奈川県内のきょうの出来事▽天気予報【キャスター】三崎幸恵（ｔｖｋアナウンサー）</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927220000 +0900" stop="20130927223000 +0900" channel="18">
+    <title lang="ja_JP">キックオフＦ・マリノス</title>
+    <desc lang="ja_JP">▽リーグ戦第２６節・清水エスパルス戦▽練習試合・大宮アルディージャ戦【司会】鷲尾春果【解説】鈴木正治</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130927223000 +0900" stop="20130927225500 +0900" channel="18">
+    <title lang="ja_JP">ファイト！川崎フロンターレ</title>
+    <desc lang="ja_JP">【ＭＣ】木村朱美</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130927225500 +0900" stop="20130927230000 +0900" channel="18">
+    <title lang="ja_JP">ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ</title>
+    <desc lang="ja_JP">県内の天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927230000 +0900" stop="20130927233000 +0900" channel="18">
+    <title lang="ja_JP">モテ福</title>
+    <desc lang="ja_JP">モテる門には福来る！略して「モテ福」イイ男たちが女性をもてなすために日々奮闘するゆるいトークバラエティーショー</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130927233000 +0900" stop="20130928000000 +0900" channel="18">
+    <title lang="ja_JP">ｓａｋｕ　ｓａｋｕ【再】</title>
+    <desc lang="ja_JP">【ゲスト：ケラケラ】シングル発売！／他▽メール、よみますっ！▽みんなでうたおうＺ市ヶ尾のうた▽今週のおすすめグッズ　ほか</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928000000 +0900" stop="20130928003000 +0900" channel="18">
+    <title lang="ja_JP">伊藤政則のＲＯＣＫ　ＣＩＴＹ</title>
+    <desc lang="ja_JP">音楽評論家・伊藤政則がおくる洋楽の最新情報番組</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130928003000 +0900" stop="20130928010000 +0900" channel="18">
+    <title lang="ja_JP">＄１銀玉打闘会　〜ドル箱王への挑戦！！〜</title>
+    <desc lang="ja_JP">パチンコ自慢の芸能人やパチプロがガチンコ勝負！パチンコファンを熱狂の渦に巻き込む出玉バトルを繰り広げます！！【出演】辻よしなり　ほか</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928010000 +0900" stop="20130928011000 +0900" channel="18">
+    <title lang="ja_JP">ｍｍＴＶ</title>
+    <desc lang="ja_JP">『ｍｍＴＶ』：Ｍ＝ＭＵＳＩＣ　Ｍ＝ＭＯＶＩＥ　ＴＶ＝ＴＥＬＥＶＩＳＩＯＮ最新の音楽と映画を紹介する、深夜のエンターテイメント番組</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130928011000 +0900" stop="20130928011500 +0900" channel="18">
+    <title lang="ja_JP">北原コレクション</title>
+    <desc lang="ja_JP">世界的おもちゃコレクター北原照久氏の珠玉のコレクションの中から、毎回２点を素敵な音楽とともに紹介</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928011500 +0900" stop="20130928014500 +0900" channel="18">
+    <title lang="ja_JP">近未来回胴伝説　ガチスロ　ハンターバトル勃発！！</title>
+    <desc lang="ja_JP">伝説のギャラハンター“スイーツ・ベア”によって集められたハンターたちが、チームを結成し賞金を賭けて勝負に挑む！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928014500 +0900" stop="20130928021500 +0900" channel="18">
+    <title lang="ja_JP">伊集院光のばらえてぃーばんぐみ【再】</title>
+    <desc lang="ja_JP">企画構成はもちろん、演出に編集さらにはロケハンまで伊集院が参加。多くの無名芸人、タレント、そしてアイドルまでもが伊集院の脳内にドップリ浸かるバラエティー</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928021500 +0900" stop="20130928023000 +0900" channel="18">
+    <title lang="ja_JP">美味しさの秘密</title>
+    <desc lang="ja_JP">「こだわりぬいた　贅沢ご飯の秘密」【出演】磯辺さちよ</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928023000 +0900" stop="20130928030000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽発毛・育毛体験レポート</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928030000 +0900" stop="20130928033000 +0900" channel="18">
+    <title lang="ja_JP">ＭＵＳＩＣ　Ｂ．Ｂ．</title>
+    <desc lang="ja_JP">ウィークリーピックアップ／ＡＡＡ▽Ｂ．Ｂ．レコメンド／ＡＫＢ４８／かりゆし５８／藤澤ノリマサ▽着うた／クリフエッジ　ほか</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130928033000 +0900" stop="20130928033300 +0900" channel="18">
+    <title lang="ja_JP">あおほし</title>
+    <desc lang="ja_JP">イラストレーター、キン・シオタニが描く神奈川発・地球環境アニメーション</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130928045500 +0900" stop="20130928052500 +0900" channel="18">
+    <title lang="ja_JP">朝の周波数カード</title>
+    <desc lang="ja_JP">ＢＧＭ情報：アルバム「フォーエヴァー」アース・ウィンド＆ファイアー</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928052500 +0900" stop="20130928053000 +0900" channel="18">
+    <title lang="ja_JP">ドロンコロン</title>
+    <desc lang="ja_JP">あすの地球と子どもたちのために・・神奈川発・地球環境アニメーション</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130928053000 +0900" stop="20130928060000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928060000 +0900" stop="20130928065500 +0900" channel="18">
+    <title lang="ja_JP">ＧＬＯＢＡＬ　ＶＩＳＩＯＮ</title>
+    <desc lang="ja_JP">「世界の刺繍」“世界の日常”をお届けするドキュメンタリー。身近なテーマを通じて世界の人々の１日を紹介。【ナビゲーター】知花くらら</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928065500 +0900" stop="20130928070000 +0900" channel="18">
+    <title lang="ja_JP">ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ</title>
+    <desc lang="ja_JP">ｔｖｋ開局４０周年記念ジモトＬＯＶＥソング＆ダンス「カモン！カナガワン」をバックに、県内の天気予報をお伝えします。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928070000 +0900" stop="20130928071500 +0900" channel="18">
+    <title lang="ja_JP">ココ掘れキッズのおしえてＭＡＰ</title>
+    <desc lang="ja_JP">【出演】重石邑菜、森喜行</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928071500 +0900" stop="20130928073000 +0900" channel="18">
+    <title lang="ja_JP">やまがた発！旅の見聞録</title>
+    <desc lang="ja_JP">「映画「おしん」のロケ地をめぐる①」鶴岡市の庄内映画村オープンセットへ▽日本最大級のセットで本格的な殺陣を体験【リポーター】加藤紀子</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928073000 +0900" stop="20130928080000 +0900" channel="18">
+    <title lang="ja_JP">大ちゃんの釣りに行こう！</title>
+    <desc lang="ja_JP">「波止のカゴ釣り・リベンジ釣行？青モノ釣り！」島根県浜田市でヒラマサを狙う！【出演】岡田大輔、大畠聡　ほか</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928080000 +0900" stop="20130928085500 +0900" channel="18">
+    <title lang="ja_JP">キッズ劇場ピース</title>
+    <desc lang="ja_JP">親子で楽しめるダンスや歌が満載！【出演】宮本佳那子、高橋秀幸、むーとん、カナガワニ　ほか</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130928085500 +0900" stop="20130928090000 +0900" channel="18">
+    <title lang="ja_JP">ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ</title>
+    <desc lang="ja_JP">県内の天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928090000 +0900" stop="20130928091500 +0900" channel="18">
+    <title lang="ja_JP">ＬＯＶＥかわさき</title>
+    <desc lang="ja_JP">「東海道かわさき宿交流館オープン！」【レポーター】守永真彩【司会】有馬隼人、小林咲夏（ｔｖｋアナウンサー）</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928091500 +0900" stop="20130928093000 +0900" channel="18">
+    <title lang="ja_JP">うんめぇ！運命！ラーメンとの出会い</title>
+    <desc lang="ja_JP">「伝統の岡山豚骨醤油」日本をこよなく愛するダニエル・カールが、地元の人々と触れ合いながら、その土地に存在する“ご当地ラーメン”の魅力を紹介。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928093000 +0900" stop="20130928100000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928100000 +0900" stop="20130928101500 +0900" channel="18">
+    <title lang="ja_JP">童謡コーラス</title>
+    <desc lang="ja_JP">みんなで集まれば笑い声＆歌声がいっぱい！みんなで歌おう楽しい童謡コーラス</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130928101500 +0900" stop="20130928103000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽健康食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928103000 +0900" stop="20130928105500 +0900" channel="18">
+    <title lang="ja_JP">音楽缶</title>
+    <desc lang="ja_JP">【ＯＰ曲：「ビーサン」サイレントサイレン】藤澤ノリマサ▽ガリレオガリレイ▽見田村千晴▽Ｓｕｐｅｒｆｌｙ</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130928105500 +0900" stop="20130928110000 +0900" channel="18">
+    <title lang="ja_JP">ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ</title>
+    <desc lang="ja_JP">県内の天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928110000 +0900" stop="20130928113000 +0900" channel="18">
+    <title lang="ja_JP">クルマでいこう！【再】</title>
+    <desc lang="ja_JP">「ホンダ　アコード　ハイブリッド」モーターでスポーツする。次世代ハイブリッドの楽しさとは？</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928113000 +0900" stop="20130928120000 +0900" channel="18">
+    <title lang="ja_JP">情報特選街</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽トレーニング器具</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928120000 +0900" stop="20130928123000 +0900" channel="18">
+    <title lang="ja_JP">おとりよせ王子　飯田好実【再】</title>
+    <desc lang="ja_JP">＃４「キーマカレーうどん（游喜庵）」大人気おとりよせグルメ漫画が実写ドラマ化！あなたもＴＶを見ながら一緒に「お・と・り・よ・せ」</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130928123000 +0900" stop="20130928125500 +0900" channel="18">
+    <title lang="ja_JP">音楽缶</title>
+    <desc lang="ja_JP">【ＯＰ曲：「ビーサン」サイレントサイレン】藤澤ノリマサ▽ガリレオガリレイ▽見田村千晴▽Ｓｕｐｅｒｆｌｙ</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130928125500 +0900" stop="20130928130000 +0900" channel="18">
+    <title lang="ja_JP">ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ</title>
+    <desc lang="ja_JP">県内の天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928130000 +0900" stop="20130928133000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽電動のこぎり</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928133000 +0900" stop="20130928140000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽健康食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928140000 +0900" stop="20130928150000 +0900" channel="18">
+    <title lang="ja_JP">ＪＲＡ競馬中継</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130928150000 +0900" stop="20130928155500 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽宝飾品▽婦人用礼服▽調理器具▽寝具▽テーピングスパッツ▽洗剤</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928155500 +0900" stop="20130928160000 +0900" channel="18">
+    <title lang="ja_JP">ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ</title>
+    <desc lang="ja_JP">県内の天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928160000 +0900" stop="20130928163000 +0900" channel="18">
+    <title lang="ja_JP">Ｄ！アンビシャス</title>
+    <desc lang="ja_JP">「喜茂別町　地域おこし協力隊」北海道を拠点に活動をする人物にスポットを当てるドキュメンタリー</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928163000 +0900" stop="20130928165500 +0900" channel="18">
+    <title lang="ja_JP">音楽缶</title>
+    <desc lang="ja_JP">【ＯＰ曲：「ビーサン」サイレントサイレン】藤澤ノリマサ▽ガリレオガリレイ▽見田村千晴▽Ｓｕｐｅｒｆｌｙ</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130928165500 +0900" stop="20130928175000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928175000 +0900" stop="20130928180000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋニュース＆天気予報</title>
+    <desc lang="ja_JP">最新ニュースと県内の天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928180000 +0900" stop="20130928183000 +0900" channel="18">
+    <title lang="ja_JP">ハマナビ</title>
+    <desc lang="ja_JP">「音楽を奏でる都市横浜・横浜音祭り２０１３」【ナビゲーター】井上英里香</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928183000 +0900" stop="20130928190000 +0900" channel="18">
+    <title lang="ja_JP">つなぐ未来へ　光ネットワークが暮らしを変える</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928190000 +0900" stop="20130928193000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽ダイエット食品ほか</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928193000 +0900" stop="20130928200000 +0900" channel="18">
+    <title lang="ja_JP">テレビまんが　昭和物語【再】</title>
+    <desc lang="ja_JP">東京オリンピック開催、東海道新幹線開通など、高度成長期に沸く東京を舞台に、大家族を中心に描かれる心温まる人間ドラマ</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130928200000 +0900" stop="20130928202900 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽低反発寝具</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928202900 +0900" stop="20130928205500 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽美容健康器具</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928205500 +0900" stop="20130928215000 +0900" channel="18">
+    <title lang="ja_JP">あっぱれ！ＫＡＮＡＧＡＷＡ大行進</title>
+    <desc lang="ja_JP">県内の市町村を毎週行脚する「あっぱれ撮影隊」が地元の人しか知らないマニアックな町ネタを発掘！【出演】デビット伊東、細木美知代（ｔｖｋアナウンサー）</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928215000 +0900" stop="20130928220000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋニュース＆天気予報</title>
+    <desc lang="ja_JP">最新ニュースと県内の天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928220000 +0900" stop="20130928223000 +0900" channel="18">
+    <title lang="ja_JP">オンガク開放区</title>
+    <desc lang="ja_JP">「総集編②」【マンスリーライブ】ＢＩＧＭＡＭＡ【ＭＣ】松本素生、木本夕貴</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130928223000 +0900" stop="20130928230000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928230000 +0900" stop="20130928233000 +0900" channel="18">
+    <title lang="ja_JP">すぽらば</title>
+    <desc lang="ja_JP">未来のトップアスリートを夢見て日々頑張る子どもたちや、日本のスポーツの裾野を広げる地域スポーツを徹底的に応援します。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928233000 +0900" stop="20130929000000 +0900" channel="18">
+    <title lang="ja_JP">ＡＧ学園　あに☆ぶん</title>
+    <desc lang="ja_JP">アニメを中心に、ゲームやコミック、ドラマやＣＤ、ライトノベルやイベントなどの情報を紹介する情報番組。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929000000 +0900" stop="20130929003000 +0900" channel="18">
+    <title lang="ja_JP">＜物語＞シリーズ　セカンドシーズン</title>
+    <desc lang="ja_JP">＃１３西尾維新の青春小説＜物語＞シリーズをアニメ化。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929003000 +0900" stop="20130929010000 +0900" channel="18">
+    <title lang="ja_JP">競馬展望プラス</title>
+    <desc lang="ja_JP">【ＪＲＡ】スプリンターズＳ展望【地方競馬】東京盃・レディスプレリュード展望</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130929010000 +0900" stop="20130929013000 +0900" channel="18">
+    <title lang="ja_JP">走る男 ＴＨＥ　ＦＩＮＡＬ</title>
+    <desc lang="ja_JP">「兵庫県豊岡〜新温泉町」走る男〜ザファイナル日本一周ジョギング旅・兵庫県北部、豊岡から城崎温泉！そして西へ【出演】森脇健児</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929013000 +0900" stop="20130929020000 +0900" channel="18">
+    <title lang="ja_JP">Ｔｈｉｓ　Ｗｅｅｋ　ｉｎ　ｔｈｅ　ＷＷＥ</title>
+    <desc lang="ja_JP">全米が熱狂する極上のスポーツエンターテイメント『ＷＷＥ』（ワールド・レスリング・エンターテイメント）をオンエア！</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130929020000 +0900" stop="20130929023000 +0900" channel="18">
+    <title lang="ja_JP">全日本プロレス　マザー</title>
+    <desc lang="ja_JP">全日本プロレスによる“明るく楽しく激しく、そして新しいプロレス”をダイジェストでお届けします</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130929023000 +0900" stop="20130929030000 +0900" channel="18">
+    <title lang="ja_JP">ケータイ刑事　銭形愛</title>
+    <desc lang="ja_JP">＃１３「カメラはみていた！ワンシーン・ノーカット〜ＢＳ－ｉ連続殺人事件〜」【全２５話】</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130929030000 +0900" stop="20130929030500 +0900" channel="18">
+    <title lang="ja_JP">ＰＰＶ</title>
+    <desc lang="ja_JP">最新のミュージックビデオを紹介</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130929030500 +0900" stop="20130929033000 +0900" channel="18">
+    <title lang="ja_JP">音楽缶</title>
+    <desc lang="ja_JP">【ＯＰ曲：「ビーサン」サイレントサイレン】藤澤ノリマサ▽ガリレオガリレイ▽見田村千晴▽Ｓｕｐｅｒｆｌｙ</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130929033000 +0900" stop="20130929033300 +0900" channel="18">
+    <title lang="ja_JP">あおほし</title>
+    <desc lang="ja_JP">イラストレーター、キン・シオタニが描く神奈川発・地球環境アニメーション</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929050000 +0900" stop="20130929053000 +0900" channel="18">
+    <title lang="ja_JP">朝の周波数カード</title>
+    <desc lang="ja_JP">ＢＧＭ情報：アルバム「フォーエヴァー」アース・ウィンド＆ファイアー</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929053000 +0900" stop="20130929053500 +0900" channel="18">
+    <title lang="ja_JP">ドロンコロン</title>
+    <desc lang="ja_JP">あすの地球と子どもたちのために・・神奈川発・地球環境アニメーション</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929053500 +0900" stop="20130929055000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽健康食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929055000 +0900" stop="20130929055500 +0900" channel="18">
+    <title lang="ja_JP">ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ</title>
+    <desc lang="ja_JP">県内の天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929055500 +0900" stop="20130929062500 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽スポーツジム</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929062500 +0900" stop="20130929065500 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929065500 +0900" stop="20130929070000 +0900" channel="18">
+    <title lang="ja_JP">ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ</title>
+    <desc lang="ja_JP">ｔｖｋ開局４０周年記念ジモトＬＯＶＥソング＆ダンス「カモン！カナガワン」をバックに、県内の天気予報をお伝えします。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929070000 +0900" stop="20130929073000 +0900" channel="18">
+    <title lang="ja_JP">情報特選街</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽食品▽電気鍋▽インソール▽掃除用具▽電子辞書▽美容健康器具</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929073000 +0900" stop="20130929080000 +0900" channel="18">
+    <title lang="ja_JP">フィッシング倶楽部</title>
+    <desc lang="ja_JP">「尺半連発！亀山湖へら釣り」（ヘラブナ／千葉県亀山湖）【出演】熊谷充</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929080000 +0900" stop="20130929083000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929083000 +0900" stop="20130929090000 +0900" channel="18">
+    <title lang="ja_JP">ライフ・ライン</title>
+    <desc lang="ja_JP">「キリストの香り〜賛美の夕べ②」バイブルコーナー：板倉邦雄▽朝のひととき、毎週多彩なゲストを迎え心あたたまるさわやかな番組をお届けします【司会】関根弘興</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929090000 +0900" stop="20130929093000 +0900" channel="18">
+    <title lang="ja_JP">かながわ旬菜ナビ</title>
+    <desc lang="ja_JP">「大切なお水と新米の話」神奈川の農業の旬な話題をわかりやすくナビゲート！【レポーター】山崎彩</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929093000 +0900" stop="20130929100000 +0900" channel="18">
+    <title lang="ja_JP">カナフルＴＶ</title>
+    <desc lang="ja_JP">山あり、海あり、街あり・・・多彩な神奈川の魅力をカラフルにお伝えします！【司会】田崎日加理</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929100000 +0900" stop="20130929101500 +0900" channel="18">
+    <title lang="ja_JP">みんなの音楽会ＴＶ</title>
+    <desc lang="ja_JP">地域で活躍する音楽家の活動紹介（ソロ・ジョイントリサイタル・コンサート・オペラ）や、地元地域のコンサートを紹介します。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130929101500 +0900" stop="20130929103000 +0900" channel="18">
+    <title lang="ja_JP">気ままなグルメ一人旅</title>
+    <desc lang="ja_JP">「峠の町　大月・笹子の名物グルメ」レッド吉田がグルメを求めて気ままに一人旅。各地の美味しい名店や究極の名物料理を探し出し、その味の神髄を紹介します。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929103000 +0900" stop="20130929110000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929110000 +0900" stop="20130929113000 +0900" channel="18">
+    <title lang="ja_JP">キンシオ【再】</title>
+    <desc lang="ja_JP">吉祥寺を拠点に活動するアーティスト「キン・シオタニ」初のレギュラー番組！街をぶらりと歩いたり、いろいろやりつくすキンシオゆるシアター</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929113000 +0900" stop="20130929120000 +0900" channel="18">
+    <title lang="ja_JP">情報特選街</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽化粧品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929120000 +0900" stop="20130929125500 +0900" channel="18">
+    <title lang="ja_JP">浅草お茶の間寄席</title>
+    <desc lang="ja_JP">浅草演芸ホールから録画中継【出演・演目】桂歌春「崇徳院」、昔昔亭 桃太郎「春雨宿」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929125500 +0900" stop="20130929130000 +0900" channel="18">
+    <title lang="ja_JP">北原コレクション</title>
+    <desc lang="ja_JP">世界的おもちゃコレクター北原照久氏の珠玉のコレクションの中から、毎回２点を素敵な音楽とともに紹介</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929130000 +0900" stop="20130929133000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽化粧品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929133000 +0900" stop="20130929140000 +0900" channel="18">
+    <title lang="ja_JP">洋楽天国ＰＲＥＭＩＵＭ　Ｒ４５</title>
+    <desc lang="ja_JP">新旧の洋楽アーティスト情報をお届け</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130929140000 +0900" stop="20130929150000 +0900" channel="18">
+    <title lang="ja_JP">ＪＲＡ競馬中継</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130929150000 +0900" stop="20130929152900 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽掃除用具</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929152900 +0900" stop="20130929155500 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽美容健康器具</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929155500 +0900" stop="20130929160000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽発毛・育毛体験レポート</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929160000 +0900" stop="20130929163000 +0900" channel="18">
+    <title lang="ja_JP">野天湯へＧｏ！</title>
+    <desc lang="ja_JP">「蔵王かもしか温泉（宮城県）」屋外にある野趣溢れる温泉を求めて、ＯＬ温泉愛好家が全国を巡ります。【出演】山田べにこ</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929163000 +0900" stop="20130929165500 +0900" channel="18">
+    <title lang="ja_JP">音楽缶</title>
+    <desc lang="ja_JP">【ＯＰ曲：「ビーサン」サイレントサイレン】矢井田瞳▽ＤＯＥＳ▽ＳＣＡＮＤＡＬ▽ＡＡＡ</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130929165500 +0900" stop="20130929175000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽炊飯器▽掃除機▽宝飾品▽ノンフライヤー▽空気清浄機▽デジタルムービー</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929175000 +0900" stop="20130929180000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋニュース＆天気予報</title>
+    <desc lang="ja_JP">最新ニュースと県内の天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929180000 +0900" stop="20130929183000 +0900" channel="18">
+    <title lang="ja_JP">１×８いこうよ！</title>
+    <desc lang="ja_JP">「１×８教育研究所２０１２⑨尾木ママと対談①」北海道タレント・大泉洋と北海道アナ・木村洋二が道内の各地でロケを行う北海道地域密着バラエティ</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929183000 +0900" stop="20130929190000 +0900" channel="18">
+    <title lang="ja_JP">ブギウギ専務</title>
+    <desc lang="ja_JP">「ブギウギ奥の細道　秋の章②」謎の上杉ポンプ商会がくりひろげるファンキーでシュールな新感覚バラエティ！【出演】上杉周大、ＭＡＫＩ、大竹麻代　ほか</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929190000 +0900" stop="20130929200000 +0900" channel="18">
+    <title lang="ja_JP">横浜銀行カップ神奈川県学童軟式野球選手権大会</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130929200000 +0900" stop="20130929205500 +0900" channel="18">
+    <title lang="ja_JP">魅せられて台湾　美食の旅　〜山本麗子の幸福なキッチンＳＰ〜</title>
+    <desc lang="ja_JP">料理研究家の山本さんが、おすすめの台湾をあますところなく紹介！高級食材をふんだんに使ったスープや、世界一おいしい小籠包など台湾の名店を訪れます。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929205500 +0900" stop="20130929210000 +0900" channel="18">
+    <title lang="ja_JP">ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ</title>
+    <desc lang="ja_JP">県内の天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929210000 +0900" stop="20130929215000 +0900" channel="18">
+    <title lang="ja_JP">長良川小瀬鵜飼　捨て猫と鵜匠の百五十八夜</title>
+    <desc lang="ja_JP">関市の小瀬鵜飼を舞台に、伝統と向き合う鵜匠の姿を伝える。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929215000 +0900" stop="20130929220000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋニュース＆天気予報</title>
+    <desc lang="ja_JP">最新ニュースと県内の天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929220000 +0900" stop="20130929223000 +0900" channel="18">
+    <title lang="ja_JP">クルマでいこう！</title>
+    <desc lang="ja_JP">「ボルボ　Ｓ６０＆Ｖ６０」【出演】岡崎五朗（自動車ジャーナリスト）、藤島知子（自動車ジャーナリスト）</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929223000 +0900" stop="20130929230000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽低反発寝具</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929230000 +0900" stop="20130929233000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽トレーニング器具</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929233000 +0900" stop="20130930000000 +0900" channel="18">
+    <title lang="ja_JP">げんしけん二代目【終】</title>
+    <desc lang="ja_JP">＃１３椎央大学現代視覚文化研究会、通称「現視研」。腐女子、男の娘、留学生と超個性的な新入生を迎えた『げんしけん二代目』の活動が始まる！</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130930000000 +0900" stop="20130930003000 +0900" channel="18">
+    <title lang="ja_JP">宮河家の空腹</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130930003000 +0900" stop="20130930010000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽化粧品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930010000 +0900" stop="20130930013000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930013000 +0900" stop="20130930020000 +0900" channel="18">
+    <title lang="ja_JP">超次元ゲイム　ネプテューヌ【終】</title>
+    <desc lang="ja_JP">＃１２「明日への絆」架空のゲームハードをヒロインに見立て、ゲイムギョウ界を舞台に守護女神たちの友情と絆を描いた大人気ゲームをアニメ化！</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130930020000 +0900" stop="20130930020500 +0900" channel="18">
+    <title lang="ja_JP">ＰＰＶ</title>
+    <desc lang="ja_JP">最新のミュージックビデオを紹介</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130930020500 +0900" stop="20130930023000 +0900" channel="18">
+    <title lang="ja_JP">音楽缶</title>
+    <desc lang="ja_JP">【ＯＰ曲：「ビーサン」サイレントサイレン】矢井田瞳▽ＤＯＥＳ▽ＳＣＡＮＤＡＬ▽ＡＡＡ</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130930023000 +0900" stop="20130930023300 +0900" channel="18">
+    <title lang="ja_JP">あおほし</title>
+    <desc lang="ja_JP">イラストレーター、キン・シオタニが描く神奈川発・地球環境アニメーション</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130930045500 +0900" stop="20130930052500 +0900" channel="18">
+    <title lang="ja_JP">朝の周波数カード</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930052500 +0900" stop="20130930053000 +0900" channel="18">
+    <title lang="ja_JP">ドロンコロン</title>
+    <desc lang="ja_JP">あすの地球と子どもたちのために・・神奈川発・地球環境アニメーション</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130930053000 +0900" stop="20130930060000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽健康食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930060000 +0900" stop="20130930063000 +0900" channel="18">
+    <title lang="ja_JP">情報特選街</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽電動のこぎり</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930063000 +0900" stop="20130930064500 +0900" channel="18">
+    <title lang="ja_JP">リトルプリンセス</title>
+    <desc lang="ja_JP">＃４０「大伯母さんのキスはだいっきらい」</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130930064500 +0900" stop="20130930070000 +0900" channel="18">
+    <title lang="ja_JP">みぶりてれび</title>
+    <desc lang="ja_JP">家族で体を動かして楽しむ、朝のダンスプログラム「みぶりてれび」南流石さん振付の楽しいダンスをまねして、ココロとカラダと脳をパワーアップ！未来のおとなを育てます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930070000 +0900" stop="20130930073000 +0900" channel="18">
+    <title lang="ja_JP">ハピはぴモーニング</title>
+    <desc lang="ja_JP">朝が変わる！チバテレ新情報番組▽交通情報▽お天気▽星占い【ＭＣ】麻里奈</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930073000 +0900" stop="20130930080000 +0900" channel="18">
+    <title lang="ja_JP">ｓａｋｕ　ｓａｋｕ</title>
+    <desc lang="ja_JP">神奈川発、音楽情報バラエティ！【ＭＣ】トミタ栞、白井ヴィンセント</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130930080000 +0900" stop="20130930083000 +0900" channel="18">
+    <title lang="ja_JP">赤毛のアン</title>
+    <desc lang="ja_JP">＃９「おごそかな誓い」【全５０話】</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130930083000 +0900" stop="20130930090000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽ダイエット食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930090000 +0900" stop="20130930093000 +0900" channel="18">
+    <title lang="ja_JP">【手】目で聴くテレビ</title>
+    <desc lang="ja_JP">手話キャスターと字幕で聴覚障害者に役立つ情報を送る</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930093000 +0900" stop="20130930095900 +0900" channel="18">
+    <title lang="ja_JP">情報特選街</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽化粧品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930095900 +0900" stop="20130930100000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋスポットニュース</title>
+    <desc lang="ja_JP">最新ニュースをお届け</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930100000 +0900" stop="20130930103000 +0900" channel="18">
+    <title lang="ja_JP">かながわ旬菜ナビ【再】</title>
+    <desc lang="ja_JP">「大切なお水と新米の話」神奈川の農業の旬な話題をわかりやすくナビゲート！【レポーター】山崎彩</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930103000 +0900" stop="20130930105900 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽健康食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930105900 +0900" stop="20130930110000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋスポットニュース</title>
+    <desc lang="ja_JP">最新ニュースをお届け</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930110000 +0900" stop="20130930113000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽ダイエットサプリメント</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930113000 +0900" stop="20130930115900 +0900" channel="18">
+    <title lang="ja_JP">情報特選街</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930115900 +0900" stop="20130930120000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋスポットニュース</title>
+    <desc lang="ja_JP">最新ニュースをお届け</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930120000 +0900" stop="20130930140000 +0900" channel="18">
+    <title lang="ja_JP">ありがとッ！</title>
+    <desc lang="ja_JP">カナガワの地域密着情報番組【ＭＣ】松風雅也、三浦綾子（ｔｖｋアナウンサー）【月曜レギュラー】林マヤ</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930140000 +0900" stop="20130930142900 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽ダイエット食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930142900 +0900" stop="20130930145900 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽医薬品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930145900 +0900" stop="20130930150000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋスポットニュース</title>
+    <desc lang="ja_JP">最新ニュースをお届け</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930150000 +0900" stop="20130930152900 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽ダイエット食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930152900 +0900" stop="20130930155500 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽トレーニング器具</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930155500 +0900" stop="20130930155900 +0900" channel="18">
+    <title lang="ja_JP">ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ</title>
+    <desc lang="ja_JP">県内の天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930155900 +0900" stop="20130930160000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋスポットニュース</title>
+    <desc lang="ja_JP">最新ニュースをお届け</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930160000 +0900" stop="20130930163000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽健康食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930163000 +0900" stop="20130930170000 +0900" channel="18">
+    <title lang="ja_JP">ごごたま</title>
+    <desc lang="ja_JP">埼玉県内の話題・グルメ・お出かけなどローカル情報満載！個性あふれるパーソナリティとともに元気に楽しく情報をお届けします。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930170000 +0900" stop="20130930173000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽低反発寝具</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930173000 +0900" stop="20130930180000 +0900" channel="18">
+    <title lang="ja_JP">お買物情報</title>
+    <desc lang="ja_JP">暮らしに役立つ、選りすぐりの商品をご紹介します。▽健康食品</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930180000 +0900" stop="20130930181500 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋニュース</title>
+    <desc lang="ja_JP">ニュース▽あすの天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930181500 +0900" stop="20130930183000 +0900" channel="18">
+    <title lang="ja_JP">みぶりてれび【再】</title>
+    <desc lang="ja_JP">家族で体を動かして楽しむ、朝のダンスプログラム「みぶりてれび」南流石さん振付の楽しいダンスをまねして、ココロとカラダと脳をパワーアップ！未来のおとなを育てます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930183000 +0900" stop="20130930200000 +0900" channel="18">
+    <title lang="ja_JP">神奈川県議会中継</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930200000 +0900" stop="20130930205500 +0900" channel="18">
+    <title lang="ja_JP">台湾ドラマ「シュガーケーキガーデン〜翻糖花園〜」</title>
+    <desc lang="ja_JP">＃１７友情か愛か出世か？真実と嘘がからまった、甘くて切ないラブストーリー【全２４話／日本語字幕】</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130930205500 +0900" stop="20130930210000 +0900" channel="18">
+    <title lang="ja_JP">ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ</title>
+    <desc lang="ja_JP">県内の天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930210000 +0900" stop="20130930213000 +0900" channel="18">
+    <title lang="ja_JP">佐藤しのぶ　出逢いのハーモニー　第Ⅲ幕　〜レガーミ（絆）〜</title>
+    <desc lang="ja_JP">人それぞれの積み上げてきた人生、熱く情熱を注いだ瞬間。音楽の世界はもとより様々な世界から素敵なお客様を迎え、出逢いのハーモニーを奏でていきます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930213000 +0900" stop="20130930220000 +0900" channel="18">
+    <title lang="ja_JP">ｔｖｋニュース９３０α</title>
+    <desc lang="ja_JP">▽県内ニュース▽神奈川県内のきょうの出来事▽天気予報【キャスター】トーマスサリー（ｔｖｋアナウンサー）</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930220000 +0900" stop="20130930223000 +0900" channel="18">
+    <title lang="ja_JP">水曜どうでしょうＣｌａｓｓｉｃ</title>
+    <desc lang="ja_JP">「四国八十八カ所Ⅲ④」北海道が生んだ人気ドキュメントバラエティ【出演】大泉洋、鈴井貴之</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130930223000 +0900" stop="20130930230000 +0900" channel="18">
+    <title lang="ja_JP">カナガワニエン</title>
+    <desc lang="ja_JP">カナガワニと脇役界の主役・山崎樹範、アイドルグループのチィキィパレードが、さまざまなジャンルのスペシャリスト達からキッカケ」を学び、一流を目指すトークバラエティ</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130930230000 +0900" stop="20130930233000 +0900" channel="18">
+    <title lang="ja_JP">キンシオ</title>
+    <desc lang="ja_JP">生きものの名前の地名の旅▽交通量の多い交差点を出発。キンシオ好みの川沿いを歩く▽川にまつわる謎【出演】キン・シオタニ　ほか</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130930233000 +0900" stop="20131001000000 +0900" channel="18">
+    <title lang="ja_JP">ｓａｋｕ　ｓａｋｕ【再】</title>
+    <desc lang="ja_JP">神奈川発、音楽情報バラエティ！【ＭＣ】トミタ栞、白井ヴィンセント</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+</tv>

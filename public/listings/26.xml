@@ -1,0 +1,3380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="tsEPG2xml" generator-info-url="http://localhost/">
+  <channel id="26">
+    <display-name lang="ja_JP">ＮＨＫＥテレ１東京</display-name>
+  </channel>
+  <programme start="20130923180000 +0900" stop="20130923181000 +0900" channel="26">
+    <title lang="ja_JP">アニメ　おじゃる丸「ハンコあつめは辛いでおじゃる」【字】</title>
+    <desc lang="ja_JP">喫茶一服（きっさいっぷく）で一杯（いっぱい）のむたびにハンコを１コおしてくれるというポイントカードをもらったおじゃる丸。ハンコをあつめようとするが…。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130923181000 +0900" stop="20130923182000 +0900" channel="26">
+    <title lang="ja_JP">アニメ　忍たま乱太郎「突庵望太の実力の段」【字】</title>
+    <desc lang="ja_JP">乱太郎・きり丸・しんべヱは、忍術学園で学ぶ忍者のたまご「忍たま」。ユニークな先生や仲間たちと、明るく・たのしく・ゆかいな毎日がくり広げられる。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130923182000 +0900" stop="20130923185500 +0900" channel="26">
+    <title lang="ja_JP">大！天才てれびくん　▽当たり前企画　▽涙の番長　▽湘南対ワル</title>
+    <desc lang="ja_JP">出川哲朗特命プロデューサーのもと、てれび戦士達が様々な企画に挑戦する。「大天才テレビジョン番組表」へ！　ｈｔｔｐ：／／ｗｗｗ．ｎｈｋ．ｏｒ．ｊｐ／ｔｖｋｕｎ／</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130923185500 +0900" stop="20130923192500 +0900" channel="26">
+    <title lang="ja_JP">Ｒの法則「Ｒのコワ〜い話」</title>
+    <desc lang="ja_JP">絶対ゾ〜ッとする！怖〜い話の“トークの法則”を島田秀平が伝授。話の前の仕込みから、怖さ倍増のテクニックまで。これをマスターすれば、あなたも滑らない怖い話の達人！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130923192500 +0900" stop="20130923195500 +0900" channel="26">
+    <title lang="ja_JP">テストの花道「勝つ面接へ！３つの極意」【字】</title>
+    <desc lang="ja_JP">ＡＯ推薦入試攻略第１弾！志望理由書・面接で差をつける極意「キッチリ・スッキリ・ドッシリ」を伝授！さらに志望理由作成に役立つ新ツール＆入試担当による覆面座談会も！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130923195500 +0900" stop="20130923200000 +0900" channel="26">
+    <title lang="ja_JP">まいにちスクスク　ジュニア“あなたはこんな時どうしますか？”（１）</title>
+    <desc lang="ja_JP">思春期の子どもとのコミュニケーション、あなたはどうしていますか？親が困ってしまうシチュエーションの対応法を、専門家のアドバイスを交え、考えていきます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130923200000 +0900" stop="20130923203000 +0900" channel="26">
+    <title lang="ja_JP">ハートネットＴＶ　シリーズがんサバイバーの時代　第４回▽みなさんの声にこたえて【字】</title>
+    <desc lang="ja_JP">がんになった後どう自分らしく生きるかを考えるシリーズがんサバイバーの時代。仕事の悩み、生活の困り事、どう死と向き合うか。番組に寄せられた反響を専門家と読み解く。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130923203000 +0900" stop="20130923204500 +0900" channel="26">
+    <title lang="ja_JP">きょうの健康　早期に発見　関節リウマチ「症状を見逃さない」【解】【字】</title>
+    <desc lang="ja_JP">免疫異常で関節の炎症・腫れなどが生じる関節リウマチ。起床直後の手指の関節に力が入らないなどの症状に気づき、早期治療で関節の炎症を抑えられる「寛解」を目指したい。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130923204500 +0900" stop="20130923205200 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ手話ニュース８４５【手】</title>
+    <desc lang="ja_JP">【キャスター】野口岳史</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130923205200 +0900" stop="20130923205800 +0900" channel="26">
+    <title lang="ja_JP">ワンポイント手話「分かる・分からない」＜字幕スーパー＞</title>
+    <desc lang="ja_JP">「わかる」は手のひらを胸元ですっと下ろします。納得した、理解したという様がよく表れています。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130923205800 +0900" stop="20130923210000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130923210000 +0900" stop="20130923212500 +0900" channel="26">
+    <title lang="ja_JP">きょうの料理「３世代で楽しめるチーズおかず」【字】</title>
+    <desc lang="ja_JP">栄養満点のチーズで、子どもからお年寄りまで楽しめるレシピを、料理研究家の堀江ひろ子さん、ほりえさわこさん親子が紹介。和風チーズ卵焼き、チーズポテトパンケーキなど</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130923212500 +0900" stop="20130923213000 +0900" channel="26">
+    <title lang="ja_JP">きょうの料理ビギナーズ「甘くてほっくり　かぼちゃを使いこなす」【字】</title>
+    <desc lang="ja_JP">今月は秋の恵みを美味しくいただく方法をお伝えする。今日は「かぼちゃ」。シンプルメニューの「にんにくソテー」から簡単「ニョッキ」の作り方まで、基本を交えて紹介。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130923213000 +0900" stop="20130923215500 +0900" channel="26">
+    <title lang="ja_JP">趣味Ｄｏ楽　藤田寛之　続・シングルへの道　第８回「リカバリーショット」【解】【字】</title>
+    <desc lang="ja_JP">昨年の賞金王・藤田寛之プロが教える、ゴルフレッスン第２弾！第８回はリカバリーショット。さまざまなトラブルの状況を想定し、打ち手の技量に応じた脱出法を教える。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130923215500 +0900" stop="20130923220000 +0900" channel="26">
+    <title lang="ja_JP">まる得マガジン　ワンランクアップ！京料理人直伝の薬味術（５）「みょうが」【字】</title>
+    <desc lang="ja_JP">料理に欠かせない様々な薬味。上手に使えばご家庭の料理がワンランクアップ！京都の料理人・髙橋拓児さんがプロの技を伝授。今回は赤い色が特徴の「みょうが」。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130923220000 +0900" stop="20130923222500 +0900" channel="26">
+    <title lang="ja_JP">テレビでハングル講座　第２４課「可能と不可能の表現をマスターしよう！」</title>
+    <desc lang="ja_JP">「可能・不可能の表現」を学ぶ。２ＰＭフレーズは「オヌッチョギチョアヨ？（どちらがいいですか）」。更なる表現や会話のコツを学ぶ「ステップアップ」のコーナーも。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130923222500 +0900" stop="20130923225000 +0900" channel="26">
+    <title lang="ja_JP">テレビでイタリア語「ＥＵＲＯ２４　Ｌｅｚｉｏｎｅ２４」</title>
+    <desc lang="ja_JP">ヨーロッパの言葉と文化を学ぶ「ＥＵＲＯ２４」。俳優・竹財輝之助とともに、感覚を刺激する南伊の旅で出会う表現を学ぶ。歴史、アート、建築、料理、ファッションも満載。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130923225000 +0900" stop="20130923230000 +0900" channel="26">
+    <title lang="ja_JP">おとなの基礎英語「Ｓｅａｓｏｎ２　Ｅｐｉｓｏｄｅ９７」</title>
+    <desc lang="ja_JP">海外旅行などでちょっと英語を使ってみたい、というおとな向けの基礎英語。毎回１つの表現を身につければ、英語の世界がぐっと広がるはず。出演は坂下千里子・肘井美佳ほか</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130923230000 +0900" stop="20130923232500 +0900" channel="26">
+    <title lang="ja_JP">スーパープレゼンテーション「子どもにプログラミングを教えよう」</title>
+    <desc lang="ja_JP">メールやゲームは使い慣れていても、コンピューターのプログラムまでは書けない。そんな子供たちにプログラミングを教えよう。ＭＩＴメディアラボのレズニック教授が訴える</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130923232500 +0900" stop="20130923233000 +0900" channel="26">
+    <title lang="ja_JP">現代の妖怪（５）【字】</title>
+    <desc lang="ja_JP">日常生活で起きるちょっとおかしなこと。実は、妖怪の仕業だったのです。「現代の妖怪」が現代人を翻弄する様子をコミカルに描くシリーズ。第５回は妖怪ボウジャクブジン。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130923233000 +0900" stop="20130923235500 +0900" channel="26">
+    <title lang="ja_JP">あしたをつかめ〜しごともくらしも〜「鉄道会社・駅係員」【字】</title>
+    <desc lang="ja_JP">ＪＲ奈良駅で働く工藤祐輔さん（２８歳）は入社６年目の駅係員。乗客への対応も手慣れたもの。実は運転士志望だった工藤さんが希望とは違う任務の中で知ったやりがいとは？</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130923235500 +0900" stop="20130924000000 +0900" channel="26">
+    <title lang="ja_JP">Ｅテレ２３５５</title>
+    <desc lang="ja_JP">きょうの終わりにほっとひといき。『２３５５』は、見ると気持ちよくリラックスできる、おやすみ前にぴったりの５分番組です。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130924000000 +0900" stop="20130924003000 +0900" channel="26">
+    <title lang="ja_JP">Ｒの法則「Ｒのコワ〜い話」【再】</title>
+    <desc lang="ja_JP">絶対ゾ〜ッとする！怖〜い話の“トークの法則”を島田秀平が伝授。話の前の仕込みから、怖さ倍増のテクニックまで。これをマスターすれば、あなたも滑らない怖い話の達人！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924003000 +0900" stop="20130924010000 +0900" channel="26">
+    <title lang="ja_JP">オトナへのトビラＴＶ「“部屋”を片づけよう！」【字】【再】</title>
+    <desc lang="ja_JP">テーマは部屋の片づけ。部屋のホコリが健康に及ぼす影響から片づけ方の基本や「捨てる？捨てられない？」まで。ＭＣは有吉弘行さん、鈴木奈々さん。ゲストはＣＯＷＣＯＷ。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924010000 +0900" stop="20130924012500 +0900" channel="26">
+    <title lang="ja_JP">Ｇｏｏｄ　Ｊｏｂ！会社の星「“ワークライフバランス社員”ＳＰ」【字】【再】</title>
+    <desc lang="ja_JP">“ワークライフバランス”を重視して「６時間勤務」や「出退勤自由」という働き方をしている企業を取材。業務効率化の工夫や、時間に制約のある女性を活用する方法に迫る！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130924012500 +0900" stop="20130924053000 +0900" channel="26">
+    <title lang="ja_JP">放送休止</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924053000 +0900" stop="20130924055500 +0900" channel="26">
+    <title lang="ja_JP">先人たちの底力　知恵泉（ちえいず）ピンチを切り抜けろ！「松平信綱」（前編）【解】【字】【再】</title>
+    <desc lang="ja_JP">「知恵泉」ならぬ、「知恵伊豆」と呼ばれた男がいた。江戸時代初期に活躍した老中、松平伊豆守信綱。知恵が次々と湧き出たという。信綱流「ピンチの切り抜け方」を紹介。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924055500 +0900" stop="20130924060000 +0900" channel="26">
+    <title lang="ja_JP">もういちど、日本「恐山」</title>
+    <desc lang="ja_JP">青森県下北半島の恐山。火山帯ということで、特異な自然景観が広がり、この世とあの世をつなぐ場所と信じられてきた。恐山菩提寺には、亡き人をしのんで参拝者が訪れる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924060000 +0900" stop="20130924062000 +0900" channel="26">
+    <title lang="ja_JP">リトル・チャロ４　英語で歩くニューヨーク「ヒーロー」</title>
+    <desc lang="ja_JP">アニメ「リトル・チャロ４」の英語版を字幕なしで楽しむことで、英語が自然と上達して行く語学番組です。物語の舞台、ニューヨークの魅力をご紹介するコーナーもあります。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924062000 +0900" stop="20130924062500 +0900" channel="26">
+    <title lang="ja_JP">名曲アルバム「交響曲　第３番“イリヤ・ムロメッツ”」</title>
+    <desc lang="ja_JP">　グリエール作曲（管弦楽）東京フィルハーモニー交響楽団，（指揮）高関健　〜ロシア・ムロム、ウクライナ・キエフ〜</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130924062500 +0900" stop="20130924063500 +0900" channel="26">
+    <title lang="ja_JP">テレビ体操【字】</title>
+    <desc lang="ja_JP">西川佳克，【ピアノ】名川太郎</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130924063500 +0900" stop="20130924064000 +0900" channel="26">
+    <title lang="ja_JP">ピタゴラスイッチミニ</title>
+    <desc lang="ja_JP">私たちがふだん暮らしている中に隠れている、さまざまな法則や不思議な構造、面白い考え方を、アニメ、歌、体操、ピタゴラ装置など多彩なコーナーで紹介します。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924064000 +0900" stop="20130924064500 +0900" channel="26">
+    <title lang="ja_JP">てれび絵本「あしたうちにねこがくるの」</title>
+    <desc lang="ja_JP">子どもたちが愛する童話・絵本の世界を、その想像性豊かな原画と、音楽、ユニークな読み手で紹介し、「読み聞かせ」の魅力をあらためて子どもたちに伝えます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924064500 +0900" stop="20130924065500 +0900" channel="26">
+    <title lang="ja_JP">すすめ！キッチン戦隊クックルン「かわいいかぼちゃ怪人あらわる」</title>
+    <desc lang="ja_JP">不思議なパワーを得た、リンゴ・セージ・クミンの三人きょうだい。「キッチン戦隊クックルン」として悪の軍団・ダークイーターズと戦う。今日は、カワイイかぼちゃの怪人</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924065500 +0900" stop="20130924070000 +0900" channel="26">
+    <title lang="ja_JP">Ｅテレ０６５５</title>
+    <desc lang="ja_JP">１日のはじまりをつくる５分番組０６５５。「日めくりアニメ」「おはようソング」などの楽しいコーナーで、あなたを送り出します。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130924070000 +0900" stop="20130924071500 +0900" channel="26">
+    <title lang="ja_JP">シャキーン！</title>
+    <desc lang="ja_JP">登校前にシャキーン！と目覚め、楽しい一日のスタートを切ってもらおうという番組。クイズやアニメにコントなどコーナーが満載！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924071500 +0900" stop="20130924072500 +0900" channel="26">
+    <title lang="ja_JP">アニメ　はなかっぱ「やまびこ村飛行グランプリ」「これぞ、やまびこパン」</title>
+    <desc lang="ja_JP">頭の上に花が咲くかっぱ「はなかっぱ」と個性豊かな仲間達、そして謎の花「わか蘭」を狙う黒羽屋蝶兵衛一味が、緑いっぱいの「やまびこ村」で、てんやわんやの大騒ぎ！</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130924072500 +0900" stop="20130924073000 +0900" channel="26">
+    <title lang="ja_JP">デザインあ　５分版</title>
+    <desc lang="ja_JP">身の回りに当たり前に存在しているモノを「デザイン」の視点から見つめ、斬新な映像手法と音楽で表現。「デザインの面白さ」を伝え「デザイン的な視点と感性」を育みます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924073000 +0900" stop="20130924073500 +0900" channel="26">
+    <title lang="ja_JP">ニャンちゅうワールド放送局ミニ</title>
+    <desc lang="ja_JP">ニャンちゅうと河西里音の情報番組。世界まる見えスコープでは、イタリアのお祭りを紹介。ニャルビッシュ（樽美酒研二・ゴールデンボンバー）が、エアー相撲に挑戦するぞ！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924073500 +0900" stop="20130924074500 +0900" channel="26">
+    <title lang="ja_JP">えいごであそぼ</title>
+    <desc lang="ja_JP">子どもたちに英語に親しんで、興味を持ってもらうことを目的とした番組。キャラクターのＢＯ（ボー）やＢＥＡ（ビー）と絵本の世界を楽しみながら、自然な英語に触れる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924074500 +0900" stop="20130924080100 +0900" channel="26">
+    <title lang="ja_JP">みいつけた！【字】</title>
+    <desc lang="ja_JP">４〜５歳児を対象とし、「友達と遊ぶ楽しさ」「命の不思議」「出来る喜び」「思いやる気持ち」等さまざまな「発見」を通して楽しむことができる番組です。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924080100 +0900" stop="20130924082400 +0900" channel="26">
+    <title lang="ja_JP">おかあさんといっしょ【字】</title>
+    <desc lang="ja_JP">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924082400 +0900" stop="20130924082500 +0900" channel="26">
+    <title lang="ja_JP">パッコロリン「ねぞう」【字】</title>
+    <desc lang="ja_JP">まる・さんかく・しかくの顔かたちをした元気な３きょうだい、パックン、リン、コロン。楽しく遊ぶ中から、いろいろな発見をします。【声】折笠愛、水沢史絵、かないみか</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130924082500 +0900" stop="20130924084000 +0900" channel="26">
+    <title lang="ja_JP">いないいないばあっ！【字】</title>
+    <desc lang="ja_JP">０歳児から２歳児を対象にした番組です。番組の様々なコーナーを通して子どもたちに働きかけ、子どもの様々な可能性と能力を引き出すことをねらいとしています。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924084000 +0900" stop="20130924085000 +0900" channel="26">
+    <title lang="ja_JP">にほんごであそぼ</title>
+    <desc lang="ja_JP">２歳から小学校低学年くらいの子どもと親を対象にコミュニケーション能力や自己表現する感性を育てる番組。今回は、かるた、萬斎、うた／旅愁、ちゃわんむしのうた。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924085000 +0900" stop="20130924085500 +0900" channel="26">
+    <title lang="ja_JP">プチプチ・アニメ　ロボットパルタ「ヒゲ山城で巻物を探せ！」</title>
+    <desc lang="ja_JP">寝ぼすけであわてんぼうのパルタ。ガールフレンドのピプコや犬のコロタたちとの、ドタバタだけれども楽しい毎日。海や山、あらゆるところで大冒険が繰り広げられます。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130924085500 +0900" stop="20130924090000 +0900" channel="26">
+    <title lang="ja_JP">ミニアニメ　うっかりペネロペ「ペネロペのゆうびんやさん」</title>
+    <desc lang="ja_JP">コアラの女の子ペネロペは毎日楽しいことで大忙し。でもうっかりやさんのペネロペは、幼稚園にパジャマで行こうとしたり、靴下を手にはめたり、愛らしい失敗の連続です。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130924090000 +0900" stop="20130924091000 +0900" channel="26">
+    <title lang="ja_JP">できた　できた　できた（新・学校生活編）「いまはなにをするじかん？」【解】【字】</title>
+    <desc lang="ja_JP">小学１年生が学校生活になじめるよう、集団生活のルールや挨拶、椅子の座り方などの生活習慣を、歌やガッツ王子（斉藤慎二）が主人公のドラマでわかりやすく伝える。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924091000 +0900" stop="20130924092000 +0900" channel="26">
+    <title lang="ja_JP">考えるカラス〜科学の考え方〜（１０）【字】</title>
+    <desc lang="ja_JP">小学校高学年〜中学生を主な対象とした新しい科学教育番組。科学の知識ではなく、「考え方」を、歌やアニメーション、実験映像など様々なコーナーを通して伝える。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924092000 +0900" stop="20130924093000 +0900" channel="26">
+    <title lang="ja_JP">ふしぎがいっぱい「虫のからだ」【解】【字】</title>
+    <desc lang="ja_JP">小学校３年生向けの理科番組。今回は、チョウやバッタ、カブトムシなどの昆虫の体を比較しながら調べ、その体のつくりには決まりがあることに気づく。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924093000 +0900" stop="20130924094000 +0900" channel="26">
+    <title lang="ja_JP">ふしぎがいっぱい「金ぞくが大きくなる？」【解】【字】</title>
+    <desc lang="ja_JP">小学校４年生向けの理科番組。今回のテーマは「金属の熱膨張」。町工場の焼きばめという工法から熱すると金属は大きくなることに気付き、それを実験によって確かめていく。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924094000 +0900" stop="20130924095000 +0900" channel="26">
+    <title lang="ja_JP">ふしぎがいっぱい「川は流れて…」【解】【字】</title>
+    <desc lang="ja_JP">小学５年生向け理科番組。川の上流・中流・下流で、地形・流れる水の速さ・川原の石の大きさや形にそれぞれ違いがあることに気付く。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924095000 +0900" stop="20130924100000 +0900" channel="26">
+    <title lang="ja_JP">ふしぎがいっぱい「しま模様のひみつ」【解】【字】</title>
+    <desc lang="ja_JP">小学６年生の理科番組。地層を調べると、土の中から水中で暮らす生物の化石がでてくることがある。地層はいったいどのようにしてできたのだろうか考える。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924100000 +0900" stop="20130924101500 +0900" channel="26">
+    <title lang="ja_JP">しぜんとあそぼ「たんぼのいきもの」</title>
+    <desc lang="ja_JP">自然と縁遠くなったといわれる子どもたちに身近な生きものたちの生態をていねいに紹介し、生きものへの優しい気持ちと、自然の不思議や命の輝きに対する好奇心を育みます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924101500 +0900" stop="20130924102500 +0900" channel="26">
+    <title lang="ja_JP">おとなの基礎英語「Ｓｅａｓｏｎ２　Ｅｐｉｓｏｄｅ９４」</title>
+    <desc lang="ja_JP">海外旅行などでちょっと英語を使ってみたい、というおとな向けの基礎英語。毎回１つの表現を身につければ、英語の世界がぐっと広がるはず。出演は坂下千里子・肘井美佳ほか</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924102500 +0900" stop="20130924105500 +0900" channel="26">
+    <title lang="ja_JP">猫のしっぽ　カエルの手〜京都大原　ベニシアの手づくり暮らし〜「秋の川遊び」【字】【再】</title>
+    <desc lang="ja_JP">稲の収穫が始まった京都・大原。庭でセージの株分け。フェンネルを使ったニジマスのホイル焼きを作る。家族で川へ出かけてカヌーを楽しみ、夜は大原の祭りで踊りに加わる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924105500 +0900" stop="20130924110000 +0900" channel="26">
+    <title lang="ja_JP">まいにちスクスク　子育てアイデア傑作選（２）「あそび編」</title>
+    <desc lang="ja_JP">過去の「すくすくアイデア大賞」から、選りすぐりの作品をご紹介！子育ての悩みを解決して、育児を楽しくするアイデアがいっぱいです！今日は「あそび」編！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924110000 +0900" stop="20130924112500 +0900" channel="26">
+    <title lang="ja_JP">きょうの料理「３世代で楽しめるチーズおかず」【字】</title>
+    <desc lang="ja_JP">栄養満点のチーズで、子どもからお年寄りまで楽しめるレシピを、料理研究家の堀江ひろ子さん、ほりえさわこさん親子が紹介。和風チーズ卵焼き、チーズポテトパンケーキなど</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924112500 +0900" stop="20130924113000 +0900" channel="26">
+    <title lang="ja_JP">きょうの料理ビギナーズ「甘くてほっくり　かぼちゃを使いこなす」【字】</title>
+    <desc lang="ja_JP">今月は秋の恵みを美味しくいただく方法をお伝えする。今日は「かぼちゃ」。シンプルメニューの「にんにくソテー」から簡単「ニョッキ」の作り方まで、基本を交えて紹介。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924113000 +0900" stop="20130924115500 +0900" channel="26">
+    <title lang="ja_JP">趣味Ｄｏ楽　わたしと野菜のおいしい関係〜知って作って食べて〜第７回▽かぼちゃ【解】【字】</title>
+    <desc lang="ja_JP">ＹＯＵと博多大吉がナビゲートして、野菜との美味しいライフスタイルを提案する８回シリーズ。今回は、老化予防に役立つビタミンが豊富な、かぼちゃ。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924115500 +0900" stop="20130924120000 +0900" channel="26">
+    <title lang="ja_JP">まる得マガジン　ワンランクアップ！京料理人直伝の薬味術（２）「青じそ」【字】</title>
+    <desc lang="ja_JP">料理に欠かせない様々な薬味。上手に使えばご家庭の料理がワンランクアップ！京都の料理人・髙橋拓児さんがプロの技を伝授。今回は「青じそ」。切ればいっそう使いやすい。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924120000 +0900" stop="20130924122500 +0900" channel="26">
+    <title lang="ja_JP">テレビでドイツ語「ＥＵＲＯ２４　Ｌｅｋｔｉｏｎ２３」</title>
+    <desc lang="ja_JP">ヨーロッパ４か国の語学番組が連動するＥＵＲＯ２４。ドイツ語のナビゲーターは俳優の高橋光臣。旧東ドイツ・ザクセン州の魅力を体感しながら基礎のドイツ語を学んでいく。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924122500 +0900" stop="20130924125000 +0900" channel="26">
+    <title lang="ja_JP">先人たちの底力　知恵泉（ちえいず）ピンチを切り抜けろ！「松平信綱」（前編）【解】【字】【再】</title>
+    <desc lang="ja_JP">「知恵泉」ならぬ、「知恵伊豆」と呼ばれた男がいた。江戸時代初期に活躍した老中、松平伊豆守信綱。知恵が次々と湧き出たという。信綱流「ピンチの切り抜け方」を紹介。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924125000 +0900" stop="20130924125500 +0900" channel="26">
+    <title lang="ja_JP">リトル・チャロ２「生きているから」＜字幕スーパー＞</title>
+    <desc lang="ja_JP">子犬のチャロが冒険を繰り広げる英語アニメ。飼い主の翔太を追ってチャロが迷い込んだのは生と死のはざ間の世界。チャロは無事、翔太を救い出せるのか？声の出演：純名里沙</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924125500 +0900" stop="20130924130000 +0900" channel="26">
+    <title lang="ja_JP">みんなのうた「友〜旅立ちの時〜」「少年と魔法のロボット」</title>
+    <desc lang="ja_JP">▽「友〜旅立ちの時〜」うた：ゆず　／▽「少年と魔法のロボット」うた：４０ｍＰ　ｆｅａｔ．ＧＵＭＩ</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130924130000 +0900" stop="20130924130500 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ手話ニュース【手】</title>
+    <desc lang="ja_JP">【キャスター】金子恵理</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924130500 +0900" stop="20130924133500 +0900" channel="26">
+    <title lang="ja_JP">ハートネットＴＶ　アワーボイス９月（２）精神疾患とどうつきあいますか（後編）【字】【再】</title>
+    <desc lang="ja_JP">番組に届いた「こころの病」についての悩みに徹底的に応える。スタジオにはこころの病の当事者が出演。「生活のしづらさ」から抜け出す方法を、自身の経験からアドバイス。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924133500 +0900" stop="20130924135000 +0900" channel="26">
+    <title lang="ja_JP">きょうの健康　知っておきたい　肺がんの薬「副作用　どうする？」【解】【字】</title>
+    <desc lang="ja_JP">怖いイメージのある抗がん剤の副作用。薬の開発・副作用対策の進歩ではかなり軽減した。いつ・どのようなものがどの程度現れるのかを知り、治療前と同様の生活を送りたい。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924135000 +0900" stop="20130924140000 +0900" channel="26">
+    <title lang="ja_JP">視点・論点「クロマグロの危機」【再】</title>
+    <desc lang="ja_JP">政策研究大学院大学客員教授…小松正之</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924140000 +0900" stop="20130924141000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ高校講座　きみのピンチを救う！　ベーシック国語「“知的財産”に要注意」</title>
+    <desc lang="ja_JP">学習や生活の中で「日本語を使う力」を身につける新番組。高校生・達也が出会うさまざまな言葉のトラブルを、脳内に住む個性豊かな住人たちと「脳内会議」を開いて解決。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924141000 +0900" stop="20130924144000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ高校講座　情報Ａ「マルチメディア入門」</title>
+    <desc lang="ja_JP">パソコンでの実習を中心に、情報の収集・整理・発信などＩＴ社会で必要な知識を基礎から学びます。情報活用のおもしろさ、楽しさを具体的につかんでいきます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924144000 +0900" stop="20130924150000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ高校講座　科学と人間生活「課題研究の進め方」</title>
+    <desc lang="ja_JP">私たちの暮らしと科学はどのようにかかわっているのだろうか？素朴な疑問から、人類と科学の長くて深い関わりを明らかにしていく。出演：アンガールズ・岡野真也</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924150000 +0900" stop="20130924152500 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ短歌　短歌ｄｅ胸キュン「秋の増刊号」（前編）【字】</title>
+    <desc lang="ja_JP">初心者向け短歌講座「短歌ｄｅ胸キュン」。今回は秋の増刊号と題して、佐渡島へ。トキの観察を行っている小学校を訪ね、小学生と一緒に短歌を詠む。出演　スピードワゴン</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924152500 +0900" stop="20130924153000 +0900" channel="26">
+    <title lang="ja_JP">楽ラクワンポイント介護「湯船に入る時の移乗法〜手足の力がある人の場合〜」【字】</title>
+    <desc lang="ja_JP">シリーズ「お風呂での介助」その５は、比較的手足の力がある人を、湯船に入れるときの移乗法。介護する側にもされる側にも負担の少ない方法を実演・解説する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924153000 +0900" stop="20130924154000 +0900" channel="26">
+    <title lang="ja_JP">考えるカラス〜科学の考え方〜（１０）【字】</title>
+    <desc lang="ja_JP">小学校高学年〜中学生を主な対象とした新しい科学教育番組。科学の知識ではなく、「考え方」を、歌やアニメーション、実験映像など様々なコーナーを通して伝える。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924154000 +0900" stop="20130924154500 +0900" channel="26">
+    <title lang="ja_JP">プチプチ・アニメ　ロボットパルタ「ヒゲ山城で巻物を探せ！」</title>
+    <desc lang="ja_JP">寝ぼすけであわてんぼうのパルタ。ガールフレンドのピプコや犬のコロタたちとの、ドタバタだけれども楽しい毎日。海や山、あらゆるところで大冒険が繰り広げられます。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130924154500 +0900" stop="20130924160000 +0900" channel="26">
+    <title lang="ja_JP">しぜんとあそぼ「こおろぎ」</title>
+    <desc lang="ja_JP">自然と縁遠くなったといわれる子どもたちに身近な生きものたちの生態をていねいに紹介し、生きものへの優しい気持ちと、自然の不思議や命の輝きに対する好奇心を育みます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924160000 +0900" stop="20130924160500 +0900" channel="26">
+    <title lang="ja_JP">みんなのうた「カチャーシ☆ブギ」「絵はがき」</title>
+    <desc lang="ja_JP">▽「カチャーシ☆ブギ」うた：きいやま商店　／▽「絵はがき」うた：かとうれい子</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130924160500 +0900" stop="20130924161500 +0900" channel="26">
+    <title lang="ja_JP">えいごであそぼ</title>
+    <desc lang="ja_JP">子どもたちに英語に親しんで、興味を持ってもらうことを目的とした番組。キャラクターのＢＯ（ボー）やＢＥＡ（ビー）と絵本の世界を楽しみながら、自然な英語に触れる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924161500 +0900" stop="20130924162000 +0900" channel="26">
+    <title lang="ja_JP">デザインあ　５分版</title>
+    <desc lang="ja_JP">身の回りに当たり前に存在しているモノを「デザイン」の視点から見つめ、斬新な映像手法と音楽で表現。「デザインの面白さ」を伝え「デザイン的な視点と感性」を育みます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924162000 +0900" stop="20130924163600 +0900" channel="26">
+    <title lang="ja_JP">いないいないばあっ！【字】</title>
+    <desc lang="ja_JP">０歳児から２歳児を対象にした番組です。番組の様々なコーナーを通して子どもたちに働きかけ、子どもの様々な可能性と能力を引き出すことをねらいとしています。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924163600 +0900" stop="20130924165900 +0900" channel="26">
+    <title lang="ja_JP">おかあさんといっしょ【字】</title>
+    <desc lang="ja_JP">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924165900 +0900" stop="20130924170000 +0900" channel="26">
+    <title lang="ja_JP">パッコロリン「ねぞう」【字】</title>
+    <desc lang="ja_JP">まる・さんかく・しかくの顔かたちをした元気な３きょうだい、パックン、リン、コロン。楽しく遊ぶ中から、いろいろな発見をします。【声】折笠愛、水沢史絵、かないみか</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130924170000 +0900" stop="20130924171500 +0900" channel="26">
+    <title lang="ja_JP">みいつけた！【字】</title>
+    <desc lang="ja_JP">４〜５歳児を対象とし、「友達と遊ぶ楽しさ」「命の不思議」「出来る喜び」「思いやる気持ち」等さまざまな「発見」を通して楽しむことができる番組です。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924171500 +0900" stop="20130924172500 +0900" channel="26">
+    <title lang="ja_JP">にほんごであそぼ</title>
+    <desc lang="ja_JP">２歳から小学校低学年くらいの子どもと親を対象にコミュニケーション能力や自己表現する感性を育てる番組。今回は、かるた、萬斎、うた／旅愁、ちゃわんむしのうた。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924172500 +0900" stop="20130924173000 +0900" channel="26">
+    <title lang="ja_JP">ピタゴラスイッチミニ</title>
+    <desc lang="ja_JP">私たちがふだん暮らしている中に隠れている、さまざまな法則や不思議な構造、面白い考え方を、アニメ、歌、体操、ピタゴラ装置など多彩なコーナーで紹介します。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924173000 +0900" stop="20130924174000 +0900" channel="26">
+    <title lang="ja_JP">アニメ　はなかっぱ「やまびこ村飛行グランプリ」「これぞ、やまびこパン」</title>
+    <desc lang="ja_JP">頭の上に花が咲くかっぱ「はなかっぱ」と個性豊かな仲間達、そして謎の花「わか蘭」を狙う黒羽屋蝶兵衛一味が、緑いっぱいの「やまびこ村」で、てんやわんやの大騒ぎ！</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130924174000 +0900" stop="20130924175000 +0900" channel="26">
+    <title lang="ja_JP">すすめ！キッチン戦隊クックルン「かわいいかぼちゃ怪人あらわる」</title>
+    <desc lang="ja_JP">不思議なパワーを得た、リンゴ・セージ・クミンの三人きょうだい。「キッチン戦隊クックルン」として悪の軍団・ダークイーターズと戦う。今日は、カワイイかぼちゃの怪人</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924175000 +0900" stop="20130924180000 +0900" channel="26">
+    <title lang="ja_JP">フックブックロー</title>
+    <desc lang="ja_JP">本屋さんを舞台にパペットと人間が繰り広げるバラエティー。出演：谷本賢一郎　声の出演：中尾隆聖、折笠富美子、天野ひろゆき、浦嶋りんこ　人形操演：人形劇・木ぐつの木</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924180000 +0900" stop="20130924181000 +0900" channel="26">
+    <title lang="ja_JP">アニメ　おじゃる丸「満願神社　にぎやかになる」【字】</title>
+    <desc lang="ja_JP">おとし物（もの）をひろったおじゃる丸。交番（こうばん）へ足をむけたおじゃるだったが、なぜか行き着いた先は満願神社（まんがんじんじゃ）だった…。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130924181000 +0900" stop="20130924182000 +0900" channel="26">
+    <title lang="ja_JP">アニメ　忍たま乱太郎「間違えたのは？の段」【字】</title>
+    <desc lang="ja_JP">乱太郎・きり丸・しんべヱは、忍術学園で学ぶ忍者のたまご「忍たま」。ユニークな先生や仲間たちと、明るく・たのしく・ゆかいな毎日がくり広げられる。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130924182000 +0900" stop="20130924185500 +0900" channel="26">
+    <title lang="ja_JP">大！天才てれびくん　▽実に当たり前　▽ももちの実態　▽間違い【双】</title>
+    <desc lang="ja_JP">出川哲朗特命プロデューサーのもと、てれび戦士達が様々な企画に挑戦する。「大天才テレビジョン番組表」へ！　ｈｔｔｐ：／／ｗｗｗ．ｎｈｋ．ｏｒ．ｊｐ／ｔｖｋｕｎ／</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130924185500 +0900" stop="20130924192500 +0900" channel="26">
+    <title lang="ja_JP">Ｒの法則「プチ変身・初めてのカラーリング」</title>
+    <desc lang="ja_JP">夏休みの間だけちょっと違った自分になりたい「プチ変身」やってみたいこと一番は髪のカラーリング。お金をかけずに自分で染めたい１０代のために失敗しないやり方を伝授！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924192500 +0900" stop="20130924195000 +0900" channel="26">
+    <title lang="ja_JP">すイエんサー「東北大学からの挑戦状！完結編！！」【字】</title>
+    <desc lang="ja_JP">知力の格闘技。東北大“サイエンス・エンジェル”とすイエんサーガールズの女性対決ついに決着！手に汗握るギリギリの接戦で緊急事態発生！衝撃の結末に吉木りさも大感動！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130924195000 +0900" stop="20130924195500 +0900" channel="26">
+    <title lang="ja_JP">マリー＆ガリー「それでも地球は動いている！」【字】</title>
+    <desc lang="ja_JP">天動説を信じる者たちに捕まってしまったマリカたち。ガリレオと共に地動説を唱えた罪で裁判に。ガリハバラで学んだことをもとに、マリカは地動説を証明できるのか？</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130924195500 +0900" stop="20130924200000 +0900" channel="26">
+    <title lang="ja_JP">まいにちスクスク　ジュニア“あなたはこんな時どうしますか？”（２）</title>
+    <desc lang="ja_JP">思春期の子どもとのコミュニケーション、あなたはどうしていますか？親が困ってしまうシチュエーションの対応法を、専門家のアドバイスを交え、考えていきます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924200000 +0900" stop="20130924203000 +0900" channel="26">
+    <title lang="ja_JP">ハートネットＴＶ　シリーズがんサバイバーの時代　第５回みなさんの声にこたえて【字】</title>
+    <desc lang="ja_JP">反響編の２回目は、家族との関わり方がテーマ。子育て世代のがん患者は、家族に事実をどう伝えていけばいいのか悩むことが多い。そのサポートのあり方をゲストと考える。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924203000 +0900" stop="20130924204500 +0900" channel="26">
+    <title lang="ja_JP">きょうの健康　早期に発見　関節リウマチ「炎症をとめる治療」【解】【字】</title>
+    <desc lang="ja_JP">関節リウマチの主な治療は薬・手術・リハビリ。中でも関節の炎症を抑え、関節破壊を止める薬が基本に。早期治療できれば「寛解」を目指し、時に薬をやめることが可能に。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924204500 +0900" stop="20130924210000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ手話ニュース８４５【手】</title>
+    <desc lang="ja_JP">【キャスター】高島良宏，田中清</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924210000 +0900" stop="20130924212500 +0900" channel="26">
+    <title lang="ja_JP">きょうの料理「おいしく健康に！秋の減塩献立」【字】</title>
+    <desc lang="ja_JP">食欲の秋を最近注目の「減塩レシピ」で満喫！国立循環器病研究センター調理師長の竹田博幸さんが家庭でも減塩でおいしく仕上げる調理のノウハウを詰め込んだ献立を伝授。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924212500 +0900" stop="20130924213000 +0900" channel="26">
+    <title lang="ja_JP">きょうの料理ビギナーズ「味わい豊かに　しいたけメニュー」【字】</title>
+    <desc lang="ja_JP">今月は、秋の恵みを美味しくいただく方法をお伝えする。今日は「しいたけ」。うまみたっぷりで香りのよいしいたけを「香草パン粉焼き」や「バターソテー」で楽しむ。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924213000 +0900" stop="20130924215500 +0900" channel="26">
+    <title lang="ja_JP">趣味Ｄｏ楽　わたしと野菜のおいしい関係〜知って、作って、食べて〜第８回＜終＞【解】【字】</title>
+    <desc lang="ja_JP">ＹＯＵと博多大吉がナビゲートして、野菜との美味しいライフスタイルを提案する。最終回の今回は、野菜ではないけれど、究極の美食材と言われるアボカドを楽しむ。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924215500 +0900" stop="20130924220000 +0900" channel="26">
+    <title lang="ja_JP">まる得マガジン　ワンランクアップ！京料理人直伝の薬味術（６）「みつば」【字】</title>
+    <desc lang="ja_JP">料理に欠かせない様々な薬味。上手に使えばご家庭の料理がワンランクアップ！京都の料理人・髙橋拓児さんがプロの技を伝授。今回は「みつば」。葉と茎を使い分ける。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924220000 +0900" stop="20130924222500 +0900" channel="26">
+    <title lang="ja_JP">テレビで中国語「第２４課」</title>
+    <desc lang="ja_JP">中国語の基礎を固めながら、生徒役の北乃きいさんと「中国語を使って何かをする」ことを目指します。９月の目標は「中国語でパーソナルデータを伝えよう！」です。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924222500 +0900" stop="20130924225000 +0900" channel="26">
+    <title lang="ja_JP">テレビでドイツ語「ＥＵＲＯ２４　Ｌｅｋｔｉｏｎ２４」</title>
+    <desc lang="ja_JP">ヨーロッパ４か国の語学番組が連動するＥＵＲＯ２４。ドイツ語のナビゲーターは俳優の高橋光臣。旧東ドイツ・ザクセン州の魅力を体感しながら基礎のドイツ語を学んでいく。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924225000 +0900" stop="20130924230000 +0900" channel="26">
+    <title lang="ja_JP">おとなの基礎英語「Ｓｅａｓｏｎ２　Ｅｐｉｓｏｄｅ９８」</title>
+    <desc lang="ja_JP">海外旅行などでちょっと英語を使ってみたい、というおとな向けの基礎英語。毎回１つの表現を身につければ、英語の世界がぐっと広がるはず。出演は坂下千里子・肘井美佳ほか</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924230000 +0900" stop="20130924232500 +0900" channel="26">
+    <title lang="ja_JP">先人たちの底力　知恵泉（ちえいず）　ピンチを切り抜けろ！「松平信綱」（後編）【解】【字】</title>
+    <desc lang="ja_JP">「知恵泉」ならぬ、「知恵伊豆」と呼ばれた男がいた。江戸時代初期に活躍した老中、松平伊豆守信綱。明暦の大火後にとった型破りの復興策とは？埋もれていた業績を発掘。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924232500 +0900" stop="20130924233000 +0900" channel="26">
+    <title lang="ja_JP">ナイツの言い間違いで覚える　科学の法則（４）「フレミングの左手の法則」【字】</title>
+    <desc lang="ja_JP">「青山ワンセグ開発」優勝企画「ナイツの言い間違い」シリーズ第２弾。言い間違いの錬金術師ナイツが今回挑戦するのは「科学の法則」。師匠ネタももちろん健在です！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924233000 +0900" stop="20130924235500 +0900" channel="26">
+    <title lang="ja_JP">オイコノミア「やっぱり欲しい、マイホーム！？」（後編）【字】</title>
+    <desc lang="ja_JP">今、中古のマンションや戸建を全面的に改装し付加価値をつける「リノベーション」が注目されている。これは全国で増えている「空き家」の解消に一役買うと期待されている。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924235500 +0900" stop="20130925000000 +0900" channel="26">
+    <title lang="ja_JP">Ｅテレ２３５５</title>
+    <desc lang="ja_JP">きょうの終わりにほっとひといき。『２３５５』は、見ると気持ちよくリラックスできる、おやすみ前にぴったりの５分番組です。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130925000000 +0900" stop="20130925003000 +0900" channel="26">
+    <title lang="ja_JP">Ｒの法則「プチ変身・初めてのカラーリング」【再】</title>
+    <desc lang="ja_JP">夏休みの間だけちょっと違った自分になりたい「プチ変身」やってみたいこと一番は髪のカラーリング。お金をかけずに自分で染めたい１０代のために失敗しないやり方を伝授！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925003000 +0900" stop="20130925010000 +0900" channel="26">
+    <title lang="ja_JP">バリバラ〜障害者情報バラエティー〜　第１回「バリ・シネマ祭」【解】【字】【再】</title>
+    <desc lang="ja_JP">今回はバリ・シネマ祭。「障害と映画」をテーマに、バリバラおすすめのバリアフリー映画を紹介。出演者がそれぞれの視点からバリアフリーな名場面、名セリフをご紹介。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925010000 +0900" stop="20130925012500 +0900" channel="26">
+    <title lang="ja_JP">テレビでアラビア語　第２５課「総復習編」</title>
+    <desc lang="ja_JP">アラブが大好きなカメラマン、渡部陽一さんと一緒にアラビア語の基礎を学ぶ番組。今回はいよいよ最終回。卒業試験をクリアして渡部さんは日本に帰れるのか。ご期待下さい！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925012500 +0900" stop="20130925053000 +0900" channel="26">
+    <title lang="ja_JP">放送休止</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925053000 +0900" stop="20130925055500 +0900" channel="26">
+    <title lang="ja_JP">１００分ｄｅ名著　古事記　第３回「出雲神話という謎」【解】【字】</title>
+    <desc lang="ja_JP">出雲を舞台とする「出雲神話」を紹介する。実は近年、この神話に登場する神殿にそっくりの形をした巨大建造物の遺跡が発掘された。第３回では秘められた古代の歴史を探る。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925055500 +0900" stop="20130925060000 +0900" channel="26">
+    <title lang="ja_JP">もういちど、日本「鎌倉の雲水」</title>
+    <desc lang="ja_JP">古都・鎌倉で見かける修行僧の姿。家々を訪ね、ほどこしを受ける托鉢修行に励む雲水である。禅宗の寺・建長寺で修行する雲水たちの一日を描く。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925060000 +0900" stop="20130925062500 +0900" channel="26">
+    <title lang="ja_JP">スーパープレゼンテーション「子どもにプログラミングを教えよう」【再】</title>
+    <desc lang="ja_JP">メールやゲームは使い慣れていても、コンピューターのプログラムまでは書けない。そんな子供たちにプログラミングを教えよう。ＭＩＴメディアラボのレズニック教授が訴える</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925062500 +0900" stop="20130925063500 +0900" channel="26">
+    <title lang="ja_JP">テレビ体操【字】</title>
+    <desc lang="ja_JP">多胡肇，【ピアノ】幅しげみ</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130925063500 +0900" stop="20130925064000 +0900" channel="26">
+    <title lang="ja_JP">ピタゴラスイッチミニ</title>
+    <desc lang="ja_JP">さまざまな法則や不思議な構造、面白い考え方を、アニメ、歌、体操、ピタゴラ装置など多彩なコーナーで紹介。今回は「新しい生物〜ストロケラプス〜」など。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925064000 +0900" stop="20130925064500 +0900" channel="26">
+    <title lang="ja_JP">てれび絵本「ジロがなく」</title>
+    <desc lang="ja_JP">子どもたちが愛する童話・絵本の世界を、その想像性豊かな原画と、音楽、ユニークな読み手で紹介し、「読み聞かせ」の魅力をあらためて子どもたちに伝えます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925064500 +0900" stop="20130925065500 +0900" channel="26">
+    <title lang="ja_JP">すすめ！キッチン戦隊クックルン「彼女を連れて帰ってきたシラタマーン」</title>
+    <desc lang="ja_JP">不思議なパワーを得た、リンゴ・セージ・クミンの三兄妹。「キッチン戦隊クックルン」として悪の軍団・ダークイーターズと戦う。白玉の怪人『シラタマーン』が再び登場！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925065500 +0900" stop="20130925070000 +0900" channel="26">
+    <title lang="ja_JP">Ｅテレ０６５５</title>
+    <desc lang="ja_JP">１日のはじまりをつくる５分番組０６５５。「日めくりアニメ」「おはようソング」などの楽しいコーナーで、あなたを送り出します。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130925070000 +0900" stop="20130925071500 +0900" channel="26">
+    <title lang="ja_JP">シャキーン！</title>
+    <desc lang="ja_JP">登校前にシャキーン！と目覚め、楽しい一日のスタートを切ってもらおうという番組。クイズやアニメにコントなどコーナーが満載！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925071500 +0900" stop="20130925072500 +0900" channel="26">
+    <title lang="ja_JP">アニメ　はなかっぱ「蝶兵衛、ついに食べた！」「ピカピカ甲らで絶好調！」</title>
+    <desc lang="ja_JP">頭の上に花が咲くかっぱ「はなかっぱ」と個性豊かな仲間達、そして謎の花「わか蘭」を狙う黒羽屋蝶兵衛一味が、緑いっぱいの「やまびこ村」で、てんやわんやの大騒ぎ！</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130925072500 +0900" stop="20130925073000 +0900" channel="26">
+    <title lang="ja_JP">デザインあ　５分版</title>
+    <desc lang="ja_JP">身の回りに当たり前に存在しているモノを「デザイン」の視点から見つめ、斬新な映像手法と音楽で表現。「デザインの面白さ」を伝え「デザイン的な視点と感性」を育みます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925073000 +0900" stop="20130925073500 +0900" channel="26">
+    <title lang="ja_JP">ニャンちゅうワールド放送局ミニ</title>
+    <desc lang="ja_JP">ニャンちゅうと河西里音の情報番組。今日は、ポーランドのワルシャワからの中継。ニャルビッシュ（樽美酒研二・ゴールデンボンバー）が、エアーボウリングに挑戦するぞ！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925073500 +0900" stop="20130925074500 +0900" channel="26">
+    <title lang="ja_JP">えいごであそぼ</title>
+    <desc lang="ja_JP">子どもたちに英語に親しんで、興味を持ってもらうことを目的とした番組。キャラクターのＢＯ（ボー）やＢＥＡ（ビー）と絵本の世界を楽しみながら、自然な英語に触れる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925074500 +0900" stop="20130925080100 +0900" channel="26">
+    <title lang="ja_JP">みいつけた！【字】</title>
+    <desc lang="ja_JP">４〜５歳児を対象とし、「友達と遊ぶ楽しさ」「命の不思議」「出来る喜び」「思いやる気持ち」等さまざまな「発見」を通して楽しむことができる番組です。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925080100 +0900" stop="20130925082400 +0900" channel="26">
+    <title lang="ja_JP">おかあさんといっしょ【字】</title>
+    <desc lang="ja_JP">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925082400 +0900" stop="20130925082500 +0900" channel="26">
+    <title lang="ja_JP">パッコロリン「あわわわわ♪」【字】</title>
+    <desc lang="ja_JP">まる・さんかく・しかくの顔かたちをした元気な３きょうだい、パックン、リン、コロン。楽しく遊ぶ中から、いろいろな発見をします。【声】折笠愛、水沢史絵、かないみか</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130925082500 +0900" stop="20130925084000 +0900" channel="26">
+    <title lang="ja_JP">いないいないばあっ！【字】</title>
+    <desc lang="ja_JP">０歳児から２歳児を対象にした番組です。番組の様々なコーナーを通して子どもたちに働きかけ、子どもの様々な可能性と能力を引き出すことをねらいとしています。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925084000 +0900" stop="20130925085000 +0900" channel="26">
+    <title lang="ja_JP">にほんごであそぼ</title>
+    <desc lang="ja_JP">２歳から小学校低学年くらいの子どもと親を対象にコミュニケーション能力や自己表現する感性を育てる番組。今回は、かるた、うた／雨ニモマケズ、ちゃわんむしのうた</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925085000 +0900" stop="20130925085500 +0900" channel="26">
+    <title lang="ja_JP">プチプチ・アニメ　ちぃちゃんとヒゲおじさん「プレゼント」</title>
+    <desc lang="ja_JP">ちぃちゃんとヒゲおじさんは、動物たちと大の仲良し。パーティーをしたり、お空から落ちてきた迷子のカミナリくんと遊んだり。毎日楽しく過ごしています。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130925085500 +0900" stop="20130925090000 +0900" channel="26">
+    <title lang="ja_JP">ミニアニメ　ピムとポムのちっちゃな冒険「海の中」</title>
+    <desc lang="ja_JP">オランダのイラストレーター、フィープ・ヴェステンドルプ氏の作品で、アムステルダムの新聞『ヘット・パロール』に１９５８年から連載された２匹の子猫のお話をアニメ化。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130925090000 +0900" stop="20130925091000 +0900" channel="26">
+    <title lang="ja_JP">できた　できた　できた（家庭・社会生活編）「朝はやることがいっぱい」【解】【字】</title>
+    <desc lang="ja_JP">日常生活のマナーや社会のルールを、ドラマや歌でわかりやすく伝える番組。今回はガッツ王子（斉藤慎二）が、慌ただしい登校前の時間の使い方を考える。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925091000 +0900" stop="20130925092000 +0900" channel="26">
+    <title lang="ja_JP">知っトク地図帳「田んぼ」【解】【字】</title>
+    <desc lang="ja_JP">今回は田んぼ。福岡県柳川市が行う海沿いの低地というハンディを克服する秘策とは？米の食感を良くする地図作りや、クリーク（水路）の意外な利用法を紹介。地図記号は田。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925092000 +0900" stop="20130925093000 +0900" channel="26">
+    <title lang="ja_JP">社会のトビラ「これからの自動車」【解】【字】</title>
+    <desc lang="ja_JP">自動車は、これからどのように変わっていくのか？「無事故」「温暖化」「リサイクル」という３つのテーマを軸にして、これからの自動車のあるべき姿を考えていく。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925093000 +0900" stop="20130925094000 +0900" channel="26">
+    <title lang="ja_JP">歴史にドキリ「歌川広重」【解】【字】</title>
+    <desc lang="ja_JP">江戸時代、印刷技術の発達により手頃な価格で広まった浮世絵。歌川広重は、日本の名所風景を描き、旅にあこがれる人びとの心をとらえた。浮世絵から江戸時代の文化を見る。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925094000 +0900" stop="20130925095000 +0900" channel="26">
+    <title lang="ja_JP">どきどきこどもふどき「ふむふむ　なるほど　学校のなぞ」【解】【字】</title>
+    <desc lang="ja_JP">日本の伝統や風習は「ふしぎ」がいっぱい。そのルーツを探り、こめられた気持ちを探る「どきどきこどもふどき」。今回のテーマは学校。学校に込められた人々の思いを描く。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925095000 +0900" stop="20130925100000 +0900" channel="26">
+    <title lang="ja_JP">学ぼう　ＢＯＳＡＩ（防災）「防災ホームドクター〜鹿児島大学准教授　井村隆介」【解】【字】</title>
+    <desc lang="ja_JP">２０１１年の九州の新燃岳大噴火で鹿児島大学准教授の井村隆介さんは、地元の人達に火山の危険性を伝え命を守った。防災ホームドクターとも呼ばれる井村博士の活動を紹介。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925100000 +0900" stop="20130925101500 +0900" channel="26">
+    <title lang="ja_JP">見えるぞ！ニッポン「鹿児島県」【解】【字】</title>
+    <desc lang="ja_JP">都道府県の地理と産業を学ぶ小学校中学年向けの社会科番組。今回のテーマは鹿児島県。火山灰の土壌を生かしたサツマイモ作りや黒豚の飼育農家の努力を伝える。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925101500 +0900" stop="20130925102500 +0900" channel="26">
+    <title lang="ja_JP">おとなの基礎英語「Ｓｅａｓｏｎ２　Ｅｐｉｓｏｄｅ９５」</title>
+    <desc lang="ja_JP">海外旅行などでちょっと英語を使ってみたい、というおとな向けの基礎英語。毎回１つの表現を身につければ、英語の世界がぐっと広がるはず。出演は坂下千里子・肘井美佳ほか</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925102500 +0900" stop="20130925103000 +0900" channel="26">
+    <title lang="ja_JP">名曲アルバム「宵待草」</title>
+    <desc lang="ja_JP">　竹久夢二・作詞　多忠亮・作曲　ニウナオミ編曲（歌）黒田博，（ギター）鈴木大介，（指揮）円光寺雅彦，（管弦楽）東京フィルハーモニー交響楽団</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130925103000 +0900" stop="20130925105500 +0900" channel="26">
+    <title lang="ja_JP">すてきにハンドメイド「空き箱で！リボンがかわいい収納ＢＯＸ」【字】</title>
+    <desc lang="ja_JP">空き箱でカワイイ収納箱！空き箱をおしゃれにリメイクして２０年のパッチワーク・キルト作家こうの早苗さんが「かんたん＆かわいい」リメイク術とおしゃれな使い方を伝授。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925105500 +0900" stop="20130925110000 +0900" channel="26">
+    <title lang="ja_JP">まいにちスクスク　子育てアイデア傑作選（３）「魔法のことば編」</title>
+    <desc lang="ja_JP">過去の「すくすくアイデア大賞」から、選りすぐりの作品をご紹介！子育ての悩みを解決して、育児を楽しくするアイデアがいっぱいです！今日は「魔法のことば」編！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925110000 +0900" stop="20130925112500 +0900" channel="26">
+    <title lang="ja_JP">きょうの料理「おいしく健康に！秋の減塩献立」【字】</title>
+    <desc lang="ja_JP">食欲の秋を最近注目の「減塩レシピ」で満喫！国立循環器病研究センター調理師長の竹田博幸さんが家庭でも減塩でおいしく仕上げる調理のノウハウを詰め込んだ献立を伝授。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925112500 +0900" stop="20130925113000 +0900" channel="26">
+    <title lang="ja_JP">きょうの料理ビギナーズ「味わい豊かに　しいたけメニュー」【字】</title>
+    <desc lang="ja_JP">今月は、秋の恵みを美味しくいただく方法をお伝えする。今日は「しいたけ」。うまみたっぷりで香りのよいしいたけを「香草パン粉焼き」や「バターソテー」で楽しむ。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925113000 +0900" stop="20130925115500 +0900" channel="26">
+    <title lang="ja_JP">趣味Ｄｏ楽　柿沼康二　オレ流　書の冒険　第８回「自由な“書”への旅」【解】【字】</title>
+    <desc lang="ja_JP">「オレ流　書の冒険」もあと２回。卒業制作を前に、筆の里・広島県熊野町を訪ねる。町中が書の筆一色！職人の技を拝見し、幼稚園児の筆遣いに感激！書の原点の旅。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925115500 +0900" stop="20130925120000 +0900" channel="26">
+    <title lang="ja_JP">まる得マガジン　ワンランクアップ！京料理人直伝の薬味術（３）「ねぎ」【字】</title>
+    <desc lang="ja_JP">料理に欠かせない様々な薬味。上手に使えばご家庭の料理がワンランクアップ！京都の料理人・髙橋拓児さんがプロの技を伝授。今回は「ねぎ」。「あさつき」などの使い分け。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925120000 +0900" stop="20130925122500 +0900" channel="26">
+    <title lang="ja_JP">テレビでフランス語「ＥＵＲＯ２４　Ｌｅｃｏｎ２３」</title>
+    <desc lang="ja_JP">今年のテーマは「五感＋αでリヨンを体感」。元宝塚歌劇団・花組トップスターの真飛聖さんと共にフランス語の世界へ！　出演：川竹英克（明治大学教授）ほか</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925122500 +0900" stop="20130925125000 +0900" channel="26">
+    <title lang="ja_JP">１００分ｄｅ名著　古事記　第３回「出雲神話という謎」【解】【字】</title>
+    <desc lang="ja_JP">出雲を舞台とする「出雲神話」を紹介する。実は近年、この神話に登場する神殿にそっくりの形をした巨大建造物の遺跡が発掘された。第３回では秘められた古代の歴史を探る。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925125000 +0900" stop="20130925125200 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925125200 +0900" stop="20130925125500 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925125500 +0900" stop="20130925130000 +0900" channel="26">
+    <title lang="ja_JP">みんなのうた「カチャーシ☆ブギ」「絵はがき」</title>
+    <desc lang="ja_JP">▽「カチャーシ☆ブギ」うた：きいやま商店　／▽「絵はがき」うた：かとうれい子</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130925130000 +0900" stop="20130925130500 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ手話ニュース【手】</title>
+    <desc lang="ja_JP">【キャスター】工藤咲子</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925130500 +0900" stop="20130925133500 +0900" channel="26">
+    <title lang="ja_JP">ハートネットＴＶ　リハビリ・介護を生きる「私の介護論　六車由実」【字】【再】</title>
+    <desc lang="ja_JP">民俗学研究者・六車由実さんが介護現場で出会った豊かな語りと驚くべき多様な生活の歴史。聞き書きで様々な人生をつづりながら考えた、介護の世界での民俗学の可能性を聞く</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925133500 +0900" stop="20130925135000 +0900" channel="26">
+    <title lang="ja_JP">きょうの健康「脳卒中の後遺症　手足がつっぱったら」【解】【字】</title>
+    <desc lang="ja_JP">脳卒中発症後の後遺症の一つ、手足がつっぱる“けい縮”。治療しないと手足の筋肉が固まり、関節動作が制限、時に痛みが。ボツリヌス療法を中心に、けい縮の治療をご紹介。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925135000 +0900" stop="20130925140000 +0900" channel="26">
+    <title lang="ja_JP">視点・論点「女性リーダーはなぜ育たないか」【再】</title>
+    <desc lang="ja_JP">２１世紀職業財団会長…岩田喜美枝</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925140000 +0900" stop="20130925142000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ高校講座　化学基礎「原子量・分子量〜原子や分子の質量を表す〜」</title>
+    <desc lang="ja_JP">化学基礎は平成２４年度から新たに設けられた科目で、中学校から高校への橋渡しの役目をする内容です。基礎をしっかり学んで、本格的な化学の学習に役立ててください。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925142000 +0900" stop="20130925144000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ高校講座　物理基礎「熱と温度の関係を調べる〜熱と温度〜」</title>
+    <desc lang="ja_JP">熱が出入りして温度が変化する現象について学び、熱と温度の関係を調べる。学習のポイント①熱さや冷たさを表す尺度②熱の正体は何だろう③温度によって変わる物質の三態</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925144000 +0900" stop="20130925150000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ高校講座　地学基礎「地球内部の動き」</title>
+    <desc lang="ja_JP">「地球」は私たちにとって掛け替えのない存在です。その地球を、「宇宙の中の１つの星」「地球という物体」「地球の歴史」そして「環境」という視点から学んでいきます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925150000 +0900" stop="20130925152500 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ俳句　俳句さく咲く！　題「記念日」【字】</title>
+    <desc lang="ja_JP">初心者向け俳句講座「俳句さく咲く！」今回のテーマは記念日。俳句に詠む際には、具体的なモノを取り合わせるとよい。９月の記念日を題材に、全員で俳句を詠んでみる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925152500 +0900" stop="20130925153000 +0900" channel="26">
+    <title lang="ja_JP">ワンポイント手話「便利・不便」＜字幕スーパー＞</title>
+    <desc lang="ja_JP">「便利」、「不便」の表現を紹介する。「便利」は手のひらであごをなでる仕草、「不便」は手のひらをあごにあて、前にはじき出すようにして表す。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925153000 +0900" stop="20130925154000 +0900" channel="26">
+    <title lang="ja_JP">歴史にドキリ「陸奥宗光＋小村寿太郎」【解】【字】</title>
+    <desc lang="ja_JP">出演：中村獅童　音楽：前山田健一（ヒャダイン）　振付：振付稼業ａｉｒ：ｍａｎ（エアーマン）明治期、外国との不平等条約の改正を果たした陸奥宗光と小村寿太郎を紹介。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925154000 +0900" stop="20130925154500 +0900" channel="26">
+    <title lang="ja_JP">プチプチ・アニメ　ちぃちゃんとヒゲおじさん「プレゼント」</title>
+    <desc lang="ja_JP">ちぃちゃんとヒゲおじさんは、動物たちと大の仲良し。パーティーをしたり、お空から落ちてきた迷子のカミナリくんと遊んだり。毎日楽しく過ごしています。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130925154500 +0900" stop="20130925160000 +0900" channel="26">
+    <title lang="ja_JP">ノージーのひらめき工房「すきな料理をつくろう！」</title>
+    <desc lang="ja_JP">４〜５歳児からの子ども達に向けた工作・造形あそびの番組です。身の回りの出来事や材料をよく観察し、自分なりのひらめきで自由に作品を生み出す楽しさを伝えます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925160000 +0900" stop="20130925160500 +0900" channel="26">
+    <title lang="ja_JP">みんなのうた「友〜旅立ちの時〜」「少年と魔法のロボット」</title>
+    <desc lang="ja_JP">▽「友〜旅立ちの時〜」うた：ゆず　／▽「少年と魔法のロボット」うた：４０ｍＰ　ｆｅａｔ．ＧＵＭＩ</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130925160500 +0900" stop="20130925161500 +0900" channel="26">
+    <title lang="ja_JP">えいごであそぼ</title>
+    <desc lang="ja_JP">子どもたちに英語に親しんで、興味を持ってもらうことを目的とした番組。キャラクターのＢＯ（ボー）やＢＥＡ（ビー）と絵本の世界を楽しみながら、自然な英語に触れる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925161500 +0900" stop="20130925162000 +0900" channel="26">
+    <title lang="ja_JP">ニャンちゅうワールド放送局ミニ</title>
+    <desc lang="ja_JP">ニャンちゅうと河西里音の情報番組。今日は、ニャりきり！アニマル。が〜まるちょばの二人が、ニワトリになりきる方法を教えてくれる。やり方を覚えて、みんなに自慢しよう</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925162000 +0900" stop="20130925163600 +0900" channel="26">
+    <title lang="ja_JP">いないいないばあっ！【字】</title>
+    <desc lang="ja_JP">０歳児から２歳児を対象にした番組です。番組の様々なコーナーを通して子どもたちに働きかけ、子どもの様々な可能性と能力を引き出すことをねらいとしています。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925163600 +0900" stop="20130925165900 +0900" channel="26">
+    <title lang="ja_JP">おかあさんといっしょ【字】</title>
+    <desc lang="ja_JP">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925165900 +0900" stop="20130925170000 +0900" channel="26">
+    <title lang="ja_JP">パッコロリン「あわわわわ♪」【字】</title>
+    <desc lang="ja_JP">まる・さんかく・しかくの顔かたちをした元気な３きょうだい、パックン、リン、コロン。楽しく遊ぶ中から、いろいろな発見をします。【声】折笠愛、水沢史絵、かないみか</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130925170000 +0900" stop="20130925171500 +0900" channel="26">
+    <title lang="ja_JP">みいつけた！【字】</title>
+    <desc lang="ja_JP">４〜５歳児を対象とし、「友達と遊ぶ楽しさ」「命の不思議」「出来る喜び」「思いやる気持ち」等さまざまな「発見」を通して楽しむことができる番組です。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925171500 +0900" stop="20130925172500 +0900" channel="26">
+    <title lang="ja_JP">にほんごであそぼ</title>
+    <desc lang="ja_JP">２歳から小学校低学年くらいの子どもと親を対象にコミュニケーション能力や自己表現する感性を育てる番組。今回は、かるた、うた／雨ニモマケズ、ちゃわんむしのうた</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925172500 +0900" stop="20130925173000 +0900" channel="26">
+    <title lang="ja_JP">ピタゴラスイッチミニ</title>
+    <desc lang="ja_JP">さまざまな法則や不思議な構造、面白い考え方を、アニメ、歌、体操、ピタゴラ装置など多彩なコーナーで紹介。今回は「新しい生物〜ストロケラプス〜」など。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925173000 +0900" stop="20130925174000 +0900" channel="26">
+    <title lang="ja_JP">アニメ　はなかっぱ「蝶兵衛、ついに食べた！」「ピカピカ甲らで絶好調！」</title>
+    <desc lang="ja_JP">頭の上に花が咲くかっぱ「はなかっぱ」と個性豊かな仲間達、そして謎の花「わか蘭」を狙う黒羽屋蝶兵衛一味が、緑いっぱいの「やまびこ村」で、てんやわんやの大騒ぎ！</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130925174000 +0900" stop="20130925175000 +0900" channel="26">
+    <title lang="ja_JP">すすめ！キッチン戦隊クックルン「彼女を連れて帰ってきたシラタマーン」</title>
+    <desc lang="ja_JP">不思議なパワーを得た、リンゴ・セージ・クミンの三兄妹。「キッチン戦隊クックルン」として悪の軍団・ダークイーターズと戦う。白玉の怪人『シラタマーン』が再び登場！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925175000 +0900" stop="20130925180000 +0900" channel="26">
+    <title lang="ja_JP">フックブックロー</title>
+    <desc lang="ja_JP">本屋さんを舞台にパペットと人間が繰り広げるバラエティー。出演：谷本賢一郎　声の出演：中尾隆聖、折笠富美子、天野ひろゆき、浦嶋りんこ　人形操演：人形劇・木ぐつの木</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925180000 +0900" stop="20130925181000 +0900" channel="26">
+    <title lang="ja_JP">アニメ　おじゃる丸「エボシの中の金ちゃん２８号」【字】</title>
+    <desc lang="ja_JP">カズマのクラスメイトの石清水（いわしみず）くん、のペットの金ちゃん２８号（ごう）がおじゃる丸のエボシにすいこまれてしまった…。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130925181000 +0900" stop="20130925182000 +0900" channel="26">
+    <title lang="ja_JP">アニメ　忍たま乱太郎「中年な忍たまの段」【字】</title>
+    <desc lang="ja_JP">乱太郎・きり丸・しんべヱは、忍術学園で学ぶ忍者のたまご「忍たま」。ユニークな先生や仲間たちと、明るく・たのしく・ゆかいな毎日がくり広げられる。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130925182000 +0900" stop="20130925185500 +0900" channel="26">
+    <title lang="ja_JP">大！天才てれびくん　▽出川対マギー司郎＆審司　▽魔女　▽悪</title>
+    <desc lang="ja_JP">出川哲朗特命プロデューサーのもと、てれび戦士達が様々な企画に挑戦する。「大天才テレビジョン番組表」へ！　ｈｔｔｐ：／／ｗｗｗ．ｎｈｋ．ｏｒ．ｊｐ／ｔｖｋｕｎ／</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925185500 +0900" stop="20130925192500 +0900" channel="26">
+    <title lang="ja_JP">Ｒの法則「女子高校生ランジェリー事情」</title>
+    <desc lang="ja_JP">女子高校生のランジェリー事情をリサーチ！　選ぶ基準は？〇〇で女子力ＵＰ！？などなど。女子高校生の下着に関するこだわりを紹介。【ゲスト】千鳥</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925192500 +0900" stop="20130925195000 +0900" channel="26">
+    <title lang="ja_JP">ビクトリアス（１）「私はトリー・ベガ」【二】【字】</title>
+    <desc lang="ja_JP">『ビクトリアス』セレクション放送スタート！まずは記念すべき第１回から。初回放送を見逃した人もぜひ！トリーが歌う「Ｍａｋｅ　Ｉｔ　Ｓｈｉｎｅ」のステージは必見！</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130925195000 +0900" stop="20130925195500 +0900" channel="26">
+    <title lang="ja_JP">リトル・チャロ４（日本語版）「Ｅｐ２４　夢かなう時」【字】</title>
+    <desc lang="ja_JP">子犬が主人公のアニメ「リトル・チャロ」の第４弾。今度はチャロがＮＹで映画に出演することになった！そこで繰り広げられる感動のストーリー。その日本語版。声：純名里沙</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925195500 +0900" stop="20130925200000 +0900" channel="26">
+    <title lang="ja_JP">まいにちスクスク　ジュニア“あなたはこんな時どうしますか？”（３）</title>
+    <desc lang="ja_JP">思春期の子どもとのコミュニケーション、あなたはどうしていますか？親が困ってしまうシチュエーションの対応法を、専門家のアドバイスを交え、考えていきます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925200000 +0900" stop="20130925203000 +0900" channel="26">
+    <title lang="ja_JP">ハートネットＴＶ「福マガ９月号」【字】</title>
+    <desc lang="ja_JP">今月の注目の福祉ニュースを特集する「福マガ」。東京ビックサイトで開催される国際福祉機器展のトレンドと可能性。さらに高齢者医療・介護の先駆的な施設をリポートする。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925203000 +0900" stop="20130925204500 +0900" channel="26">
+    <title lang="ja_JP">きょうの健康「出生前診断って何？」【解】【字】</title>
+    <desc lang="ja_JP">２０１３年４月から臨床研究として始まった新しい検査を中心に出生前診断について伝える。新しい検査は体の負担が少なく精度は高いが、全ての疾患がわかるわけではない。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925204500 +0900" stop="20130925210000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ手話ニュース８４５【手】</title>
+    <desc lang="ja_JP">【キャスター】小野広祐，工藤咲子</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925210000 +0900" stop="20130925212500 +0900" channel="26">
+    <title lang="ja_JP">きょうの料理「味覚の秋！グッチ裕三のメシタビｉｎ北海道」（前編）【字】</title>
+    <desc lang="ja_JP">料理の腕が評判のエンターテイナー、グッチ裕三さんが、北海道の根室市で地元の人々と触れ合いながら、秋の味覚を紹介する特集。前編は秋鮭と昆布の魅力を満喫。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925212500 +0900" stop="20130925213000 +0900" channel="26">
+    <title lang="ja_JP">きょうの料理ビギナーズ「歯ごたえシコシコ　エリンギ活用術」【字】</title>
+    <desc lang="ja_JP">今月は秋の恵みを美味しくいただく方法をお伝えする。今日は「エリンギ」。歯ごたえが良い大満足のおかず「エリンギステーキ」と「エリンギと牛肉のすき煮」を紹介する。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925213000 +0900" stop="20130925215500 +0900" channel="26">
+    <title lang="ja_JP">趣味Ｄｏ楽　柿沼康二　オレ流　書の冒険　第９回「今のオレの心を」＜終＞【解】【字】</title>
+    <desc lang="ja_JP">「オレ流　書の冒険」最終回は、照英が巨大ステージで卒業制作に挑む！これまでの内容を振り返り、照英が体力の限界まで書を刻む模様を、密着ドキュメント！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925215500 +0900" stop="20130925220000 +0900" channel="26">
+    <title lang="ja_JP">まる得マガジン　ワンランクアップ！京料理人直伝の薬味術（７）「すだち＆ゆず」【字】</title>
+    <desc lang="ja_JP">料理に欠かせない様々な薬味。上手に使えばご家庭の料理がワンランクアップ！京都の料理人・髙橋拓児さんがプロの技を伝授。今回は「すだち」と「ゆず」の使い方。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925220000 +0900" stop="20130925222000 +0900" channel="26">
+    <title lang="ja_JP">リトル・チャロ４　英語で歩くニューヨーク　「夢かなう時」</title>
+    <desc lang="ja_JP">アニメ「リトル・チャロ４」の英語版を字幕なしで楽しむことで、英語が自然と上達して行く語学番組です。物語の舞台、ニューヨークの魅力をご紹介するコーナーもあります。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925222000 +0900" stop="20130925222500 +0900" channel="26">
+    <title lang="ja_JP">デザインあ　５分版</title>
+    <desc lang="ja_JP">身の回りに当たり前に存在しているモノを「デザイン」の視点から見つめ、斬新な映像手法と音楽で表現。「デザインの面白さ」を伝え「デザイン的な視点と感性」を育みます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925222500 +0900" stop="20130925225000 +0900" channel="26">
+    <title lang="ja_JP">テレビでフランス語「ＥＵＲＯ２４　Ｌｅｃｏｎ２４」</title>
+    <desc lang="ja_JP">今年のテーマは「五感＋αでリヨンを体感」。元宝塚歌劇団・花組トップスターの真飛聖さんと共にフランス語の世界へ！　出演：川竹英克（明治大学教授）ほか</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925225000 +0900" stop="20130925230000 +0900" channel="26">
+    <title lang="ja_JP">おとなの基礎英語「Ｓｅａｓｏｎ２　Ｅｐｉｓｏｄｅ９９」</title>
+    <desc lang="ja_JP">海外旅行などでちょっと英語を使ってみたい、というおとな向けの基礎英語。毎回１つの表現を身につければ、英語の世界がぐっと広がるはず。出演は坂下千里子・肘井美佳ほか</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925230000 +0900" stop="20130925232500 +0900" channel="26">
+    <title lang="ja_JP">１００分ｄｅ名著　古事記　＜終＞　第４回「古事記の正体とは」【解】【字】</title>
+    <desc lang="ja_JP">神話から天皇家の時代へと移り変わる部分を読む。実は古事記と日本書紀とでは、同じ出来事でも描き方が大きく違う。それはなぜなのか？古事記の秘められた正体を探る。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925232500 +0900" stop="20130925233000 +0900" channel="26">
+    <title lang="ja_JP">アニメ　ガッ活！　第２シリーズ「みんなの教室」</title>
+    <desc lang="ja_JP">テレビのドキュメンタリー番組が学活を取材に来た。何をやってもダメ出しされ、ディレクターに言われるがままに進行しようとするちほ。学活はどうなってしまうのか…！？</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130925233000 +0900" stop="20130925235500 +0900" channel="26">
+    <title lang="ja_JP">Ｇｏｏｄ　Ｊｏｂ！会社の星▽あなたの職場は“ブラック企業”？いま働き方を考える【字】</title>
+    <desc lang="ja_JP">今、大きな問題となっている「ブラック企業」。国も対策に乗り出している。若者の使い捨てが疑われるブラック企業の実態とは？身を守る方法とは？</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925235500 +0900" stop="20130926000000 +0900" channel="26">
+    <title lang="ja_JP">Ｅテレ２３５５</title>
+    <desc lang="ja_JP">きょうの終わりにほっとひといき。『２３５５』は、見ると気持ちよくリラックスできる、おやすみ前にぴったりの５分番組です。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130926000000 +0900" stop="20130926003000 +0900" channel="26">
+    <title lang="ja_JP">Ｒの法則「女子高校生ランジェリー事情」【再】</title>
+    <desc lang="ja_JP">女子高校生のランジェリー事情をリサーチ！　選ぶ基準は？〇〇で女子力ＵＰ！？などなど。女子高校生の下着に関するこだわりを紹介。【ゲスト】千鳥</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926003000 +0900" stop="20130926010000 +0900" channel="26">
+    <title lang="ja_JP">ミュージック・ポートレイト「阿川佐和子×藤山直美　第１夜」【字】【再】</title>
+    <desc lang="ja_JP">阿川佐和子と藤山直美、ともに偉大な父を持つ二人の「人生の１０曲」▽藤山が借金生活で聴いたビートルズ▽結婚に憧れた青春時代の歌▽坂本九＆薬師丸ひろ子＆矢沢永吉ほか</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130926010000 +0900" stop="20130926012500 +0900" channel="26">
+    <title lang="ja_JP">テレビでロシア語　第２５課「サンクトペテルブルクの絶景スポットへ」</title>
+    <desc lang="ja_JP">「サンクトペテルブルク・魅惑の旅」。歴史と文化の都を舞台に、旅に役立つやさしいフレーズを小林麻耶と学ぶ。アート、音楽、グルメ、人気スポット、現地最新情報も満載！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926012500 +0900" stop="20130926014000 +0900" channel="26">
+    <title lang="ja_JP">どうも！にほんご講座です。　第２４課「今まで生きてきた中でいちばん幸せ」</title>
+    <desc lang="ja_JP">外国人のための日本語講座。日本人なら誰でも知っている流行語や名ゼリフを教材にすぐに使える表現を学ぶ。今回の名ゼリフは『今まで生きてきた中でいちばん幸せ』。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926014000 +0900" stop="20130926053000 +0900" channel="26">
+    <title lang="ja_JP">放送休止</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926053000 +0900" stop="20130926055500 +0900" channel="26">
+    <title lang="ja_JP">テレビでアラビア語　第２５課「総復習編」</title>
+    <desc lang="ja_JP">アラブが大好きなカメラマン、渡部陽一さんと一緒にアラビア語の基礎を学ぶ番組。今回はいよいよ最終回。卒業試験をクリアして渡部さんは日本に帰れるのか。ご期待下さい！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926055500 +0900" stop="20130926060000 +0900" channel="26">
+    <title lang="ja_JP">もういちど、日本「聖なる島　雄島」</title>
+    <desc lang="ja_JP">日本三景のひとつ、宮城県松島。その奥の院と呼ばれる雄島には、全国から遺骨が運ばれ埋葬されるという風習が、平安から明治に至るまで続いた。聖なる島の歴史を紹介する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926060000 +0900" stop="20130926062000 +0900" channel="26">
+    <title lang="ja_JP">ニュースで英会話　▽ＩＯＣ総会で２０２０年東京五輪　決定</title>
+    <desc lang="ja_JP">旬の話題を、英語で表現する力を身につけるクロスメディア番組。今回は東京オリンピックが決まったことを受けて、ＩＯＣ総会での英語プレゼンテーションなどを扱う。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926062000 +0900" stop="20130926062500 +0900" channel="26">
+    <title lang="ja_JP">リトル・チャロ４（英語版）「Ｅｐ２４　Ａ　Ｌｉｏｎ　ｉｎ　Ｎｅｗ　Ｙｏｒｋ」字幕</title>
+    <desc lang="ja_JP">子犬が主人公の英語アニメ「リトル・チャロ」の第４弾。今度はチャロがニューヨークで映画に出演！そこで繰り広げられる感動のストーリー。日本語字幕で誰でも楽しめます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926062500 +0900" stop="20130926063500 +0900" channel="26">
+    <title lang="ja_JP">テレビ体操【字】</title>
+    <desc lang="ja_JP">岡本美佳，【ピアノ】名川太郎</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130926063500 +0900" stop="20130926064000 +0900" channel="26">
+    <title lang="ja_JP">ピタゴラスイッチミニ</title>
+    <desc lang="ja_JP">さまざまな法則や不思議な構造、面白い考え方を、アニメ、歌、体操、ピタゴラ装置など多彩なコーナーで紹介。今回は「こんなことできません」を特集する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926064000 +0900" stop="20130926064500 +0900" channel="26">
+    <title lang="ja_JP">てれび絵本「ぼくはカメレオン」</title>
+    <desc lang="ja_JP">子どもたちが愛する童話・絵本の世界を、その想像性豊かな原画と、音楽、ユニークな読み手で紹介し、「読み聞かせ」の魅力をあらためて子どもたちに伝えます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926064500 +0900" stop="20130926065500 +0900" channel="26">
+    <title lang="ja_JP">すすめ！キッチン戦隊クックルン「怪人オーディション、キングキャンディ」</title>
+    <desc lang="ja_JP">不思議なパワーを得たリンゴ・セージ・クミンの三人兄妹。「キッチン戦隊クックルン」として悪の軍団・ダークイーターズと戦う。今日は、怪人オーディションが開かれる！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926065500 +0900" stop="20130926070000 +0900" channel="26">
+    <title lang="ja_JP">Ｅテレ０６５５</title>
+    <desc lang="ja_JP">１日のはじまりをつくる５分番組０６５５。「日めくりアニメ」「おはようソング」などの楽しいコーナーで、あなたを送り出します。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130926070000 +0900" stop="20130926071500 +0900" channel="26">
+    <title lang="ja_JP">シャキーン！</title>
+    <desc lang="ja_JP">登校前にシャキーン！と目覚め、楽しい一日のスタートを切ってもらおうという番組。クイズやアニメにコントなどコーナーが満載！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926071500 +0900" stop="20130926072500 +0900" channel="26">
+    <title lang="ja_JP">アニメ　はなかっぱ「蝶兵衛屋敷のひみつ」「大人になれるかな」</title>
+    <desc lang="ja_JP">頭の上に花が咲くかっぱ「はなかっぱ」と個性豊かな仲間達、そして謎の花「わか蘭」を狙う黒羽屋蝶兵衛一味が、緑いっぱいの「やまびこ村」で、てんやわんやの大騒ぎ！</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130926072500 +0900" stop="20130926073000 +0900" channel="26">
+    <title lang="ja_JP">デザインあ　５分版</title>
+    <desc lang="ja_JP">身の回りに当たり前に存在しているモノを「デザイン」の視点から見つめ、斬新な映像手法と音楽で表現。「デザインの面白さ」を伝え「デザイン的な視点と感性」を育みます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926073000 +0900" stop="20130926073500 +0900" channel="26">
+    <title lang="ja_JP">ニャンちゅうワールド放送局ミニ</title>
+    <desc lang="ja_JP">ニャンちゅうと河西里音の情報番組。今日はりおんが実況中継の特訓。目の前で起こっていることを、正しく伝えられるのか？　ニャルビッシュ（樽美酒研二）のエアー砲丸投げ</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926073500 +0900" stop="20130926074500 +0900" channel="26">
+    <title lang="ja_JP">えいごであそぼ</title>
+    <desc lang="ja_JP">子どもたちに英語に親しんで、興味を持ってもらうことを目的とした番組。キャラクターのＢＯ（ボー）やＢＥＡ（ビー）と絵本の世界を楽しみながら、自然な英語に触れる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926074500 +0900" stop="20130926080100 +0900" channel="26">
+    <title lang="ja_JP">みいつけた！【字】</title>
+    <desc lang="ja_JP">４〜５歳児を対象とし、「友達と遊ぶ楽しさ」「命の不思議」「出来る喜び」「思いやる気持ち」等さまざまな「発見」を通して楽しむことができる番組です。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926080100 +0900" stop="20130926082400 +0900" channel="26">
+    <title lang="ja_JP">おかあさんといっしょ【字】</title>
+    <desc lang="ja_JP">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926082400 +0900" stop="20130926082500 +0900" channel="26">
+    <title lang="ja_JP">パッコロリン「ゆげおばけ」【字】</title>
+    <desc lang="ja_JP">まる・さんかく・しかくの顔かたちをした元気な３きょうだい、パックン、リン、コロン。楽しく遊ぶ中から、いろいろな発見をします。【声】折笠愛、水沢史絵、かないみか</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130926082500 +0900" stop="20130926084000 +0900" channel="26">
+    <title lang="ja_JP">いないいないばあっ！【字】</title>
+    <desc lang="ja_JP">０歳児から２歳児を対象にした番組です。番組の様々なコーナーを通して子どもたちに働きかけ、子どもの様々な可能性と能力を引き出すことをねらいとしています。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926084000 +0900" stop="20130926085000 +0900" channel="26">
+    <title lang="ja_JP">にほんごであそぼ</title>
+    <desc lang="ja_JP">２歳から小学校低学年くらいの子どもと親を対象にコミュニケーション能力や自己表現する感性を育てる番組。今回は、文楽、投稿ごもじもじい、うた／雲、でんでらりゅうば</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926085000 +0900" stop="20130926085500 +0900" channel="26">
+    <title lang="ja_JP">プチプチ・アニメ　ケンとかいじゅう「誕生日」</title>
+    <desc lang="ja_JP">冒険大好き少年ケンと夜になると扉のむこうからやって来る、ちょっぴり怖がりなモンスター。モンスターの不思議な魔法で今日はどんなことがおきるかな？</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130926085500 +0900" stop="20130926090000 +0900" channel="26">
+    <title lang="ja_JP">ミニアニメ　がんばれ！ルルロロ「おばあちゃんのおつかい」</title>
+    <desc lang="ja_JP">ふたごのルルとロロにおつかいを頼んだおばあちゃんは、内緒で二人について行くこと。成長した二人の姿を木陰から感慨深く見つめていると、二人がおばあちゃんに気づいて…</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130926090000 +0900" stop="20130926091000 +0900" channel="26">
+    <title lang="ja_JP">できた　できた　できた（健康・からだ編）「なみだが出るのはなぜ？」【解】【字】</title>
+    <desc lang="ja_JP">ガッツ王子（斉藤慎二）が通う体操教室を舞台に、体を動かすことの面白さや体のしくみ、健康に過ごす方法を伝える。今回のテーマは「目や涙のはたらき」。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926091000 +0900" stop="20130926092000 +0900" channel="26">
+    <title lang="ja_JP">スマイル！「まわりを見る魔法」【解】【字】</title>
+    <desc lang="ja_JP">学校では時間ごとに勉強や活動の内容が変わるが、その変化についていけない子もいる。まわりをよく見れば、次にやることがわかり、集団行動にもついていけるようになる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926092000 +0900" stop="20130926093000 +0900" channel="26">
+    <title lang="ja_JP">ストレッチマンⅤ（ファイブ）「たるなげチャレンジ」【解】【字】</title>
+    <desc lang="ja_JP">大阪に「はにわ怪人」が現れた。そこにかけつけたのはストレッチマン・オレンジ。オレンジと怪人の対決のゆくえはいかに！？あそびのコーナーは「たるなげチャレンジ」。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926093000 +0900" stop="20130926094000 +0900" channel="26">
+    <title lang="ja_JP">メディアのめ「気持ちを動かす！ＣＭのヒミツ」【解】【字】</title>
+    <desc lang="ja_JP">気づかないうちに強い印象を残すＣＭ。今回はＣＭ制作の第一線で活躍するＣＭプランナーの仕事を取材！人の気持ちを動かすＣＭの工夫と、ＣＭとの付き合い方を学ぶ。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926094000 +0900" stop="20130926095000 +0900" channel="26">
+    <title lang="ja_JP">大科学実験「かなりしょっぱいウェディング」【字】</title>
+    <desc lang="ja_JP">濃い塩水に衣装の形のフレームを入れ、時間をおくと、食塩の結晶がフレームについて成長する。塩の溶け方や結晶のできる様子を観察する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926095000 +0900" stop="20130926100500 +0900" channel="26">
+    <title lang="ja_JP">ノージーのひらめき工房「すきな料理をつくろう！」</title>
+    <desc lang="ja_JP">４〜５歳児からの子ども達に向けた工作・造形あそびの番組です。身の回りの出来事や材料をよく観察し、自分なりのひらめきで自由に作品を生み出す楽しさを伝えます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926100500 +0900" stop="20130926101500 +0900" channel="26">
+    <title lang="ja_JP">プレキソ英語「どこに住んでいる？」【解】</title>
+    <desc lang="ja_JP">小学生のための英語番組。好奇心旺盛なＡｈｈとＺｅｅが世界を旅して、不思議を発見する。色・形・数など簡単な英語でどんどん世界を広げていく。英語アニメも必見！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926101500 +0900" stop="20130926102500 +0900" channel="26">
+    <title lang="ja_JP">おとなの基礎英語「Ｓｅａｓｏｎ２　Ｅｐｉｓｏｄｅ９６」</title>
+    <desc lang="ja_JP">海外旅行などでちょっと英語を使ってみたい、というおとな向けの基礎英語。毎回１つの表現を身につければ、英語の世界がぐっと広がるはず。出演は坂下千里子・肘井美佳ほか</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926102500 +0900" stop="20130926103000 +0900" channel="26">
+    <title lang="ja_JP">名曲アルバム「月の沙漠」</title>
+    <desc lang="ja_JP">　加藤まさお・作詞　佐々木すぐる・作曲　和田薫・編曲　（歌）腰越満美，（指揮）円光寺雅彦，（管弦楽）東京フィルハーモニー交響楽団　〜千葉県・御宿町ほか〜</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130926103000 +0900" stop="20130926105500 +0900" channel="26">
+    <title lang="ja_JP">趣味の園芸「宿根アスター　活用新書」【字】</title>
+    <desc lang="ja_JP">宿根アスターの品種の特徴を見極めて花壇にコンテナに使い分ける。冬越しテクニック、春先の管理とあわせて紹介。司会・三上真史／ミニコーナー　玉さん庭をゆく、花信</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926105500 +0900" stop="20130926110000 +0900" channel="26">
+    <title lang="ja_JP">まいにちスクスク　子育てアイデア傑作選（４）「食事編」</title>
+    <desc lang="ja_JP">過去の「すくすくアイデア大賞」から、選りすぐりの作品をご紹介！子育ての悩みを解決して、育児を楽しくするアイデアがいっぱいです！今日は「食事」編！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926110000 +0900" stop="20130926112500 +0900" channel="26">
+    <title lang="ja_JP">きょうの料理「味覚の秋！グッチ裕三のメシタビｉｎ北海道」（前編）【字】</title>
+    <desc lang="ja_JP">料理の腕が評判のエンターテイナー、グッチ裕三さんが、北海道の根室市で地元の人々と触れ合いながら、秋の味覚を紹介する特集。前編は秋鮭と昆布の魅力を満喫。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926112500 +0900" stop="20130926113000 +0900" channel="26">
+    <title lang="ja_JP">きょうの料理ビギナーズ「歯ごたえシコシコ　エリンギ活用術」【字】</title>
+    <desc lang="ja_JP">今月は秋の恵みを美味しくいただく方法をお伝えする。今日は「エリンギ」。歯ごたえが良い大満足のおかず「エリンギステーキ」と「エリンギと牛肉のすき煮」を紹介する。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926113000 +0900" stop="20130926115500 +0900" channel="26">
+    <title lang="ja_JP">趣味の園芸　やさいの時間「始めてみよう！ポタジェ（６）茎ブロッコリー＆小カブ」【字】</title>
+    <desc lang="ja_JP">鑑賞菜園ポタジェ作りの第６回。今回から“秋冬野菜のポタジェ”に菜園を衣替えする。デザインを決め、土作りを行った後、まずは茎ブロッコリーと小カブを育てる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926115500 +0900" stop="20130926120000 +0900" channel="26">
+    <title lang="ja_JP">まる得マガジン　ワンランクアップ！京料理人直伝の薬味術（４）「わさび」【字】</title>
+    <desc lang="ja_JP">料理に欠かせない様々な薬味。上手に使えばご家庭の料理がワンランクアップ！京都の料理人・髙橋拓児さんがプロの技を伝授。今回は「わさび」。意外な使い方も。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926120000 +0900" stop="20130926122500 +0900" channel="26">
+    <title lang="ja_JP">テレビでスペイン語「ＥＵＲＯ２４　Ｌｅｃｃｉｏｎ２３」</title>
+    <desc lang="ja_JP">ヨーロッパの言葉と文化を学ぶ「ＥＵＲＯ２４」。俳優・平岳大とともに、感覚を刺激するアンダルシアの旅で出会う表現を学ぶ。歴史、芸術、建築、料理、アート情報も満載。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926122500 +0900" stop="20130926125000 +0900" channel="26">
+    <title lang="ja_JP">グレーテルのかまど「三浦雄一郎の命のケーキ」【字】【デ】【再】</title>
+    <desc lang="ja_JP">今年５月に８０歳でエベレスト登頂に成功した三浦雄一郎さん。彼が登山の度に持参するケーキがあった。そのケーキに秘められたエピソードの数々を特別にご紹介します。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926125000 +0900" stop="20130926125500 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926125500 +0900" stop="20130926130000 +0900" channel="26">
+    <title lang="ja_JP">みんなのうた「友〜旅立ちの時〜」「少年と魔法のロボット」</title>
+    <desc lang="ja_JP">▽「友〜旅立ちの時〜」うた：ゆず　／▽「少年と魔法のロボット」うた：４０ｍＰ　ｆｅａｔ．ＧＵＭＩ</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130926130000 +0900" stop="20130926130500 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ手話ニュース【手】</title>
+    <desc lang="ja_JP">【キャスター】小野寺善子</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926130500 +0900" stop="20130926133500 +0900" channel="26">
+    <title lang="ja_JP">ハートネットＴＶ　リハビリ・介護を生きる「私の介護論　平川克美」【字】【再】</title>
+    <desc lang="ja_JP">団塊世代の平川克美が父を介護した。余り気にかけなかった父のことをもっと知りたいと思ったが会話もろくに出来なかった。それでも介護はかけがえのない経験だったと語る。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926133500 +0900" stop="20130926135000 +0900" channel="26">
+    <title lang="ja_JP">きょうの健康　食で健康「みんなで食べたい“バランス弁当”」【解】【字】</title>
+    <desc lang="ja_JP">秋の行楽シーズンに向けて、家族みんなで楽しめる弁当づくりを紹介。適度な量で栄養のバランスも良い、オススメの「３・１・２弁当箱法」を一流料理人の技で実演紹介する。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926135000 +0900" stop="20130926140000 +0900" channel="26">
+    <title lang="ja_JP">視点・論点【再】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926140000 +0900" stop="20130926142000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ高校講座　社会と情報「情報の検索」</title>
+    <desc lang="ja_JP">膨大な情報の中から必要な情報をどのようにして選ぶか、情報の真偽の見抜きかた、自ら情報を作り出し発信する方法など、情報社会に必須のスキルや心構えを学ぶ。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926142000 +0900" stop="20130926144000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ高校講座　芸術「書道　篆（てん）書と篆（てん）刻〜書を刻む〜」</title>
+    <desc lang="ja_JP">美術と書道の２本柱で芸術に親しみます。第一線の作家とともに楽しむ創作ワークショップや鑑賞のヒントを満載したアニメなどを通して、美術や書道の魅力を伝えます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926144000 +0900" stop="20130926150000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ高校講座　家庭総合「今日から役立つ安全な食生活の基礎知識〜食の安全性〜」</title>
+    <desc lang="ja_JP">衣食住だけではなく福祉・経済・環境など、毎日の生活を豊かにするためのヒントがいっぱい！身の回りの様々な問題について、千原せいじさんが高校生と考えます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926150000 +0900" stop="20130926152300 +0900" channel="26">
+    <title lang="ja_JP">課外授業　ようこそ先輩▽故郷からチカラをもらおう〜ミュージシャン　新里英之【解】【字】【再】</title>
+    <desc lang="ja_JP">今回の先輩は、ミュージックバンド「ＨＹ」のリーダー新里英之。彼は、故郷の身近なものからチカラをもらって作詞する。こどもたちと共に故郷の野山にチカラを探しにいく。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926152300 +0900" stop="20130926152600 +0900" channel="26">
+    <title lang="ja_JP">ミニスキュル〜小さなムシの物語〜「クリスマス・キャンドル」</title>
+    <desc lang="ja_JP">フランスのＣＧアニメ。主人公は昆虫たち。美しい田園風景が広がるフランスの片田舎を舞台に、昆虫たちの激しいコミカル・ドラマが展開されていく…。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130926152600 +0900" stop="20130926153000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926153000 +0900" stop="20130926154000 +0900" channel="26">
+    <title lang="ja_JP">ストレッチマンⅤ（ファイブ）「たるなげチャレンジ」【解】【字】</title>
+    <desc lang="ja_JP">大阪に「はにわ怪人」が現れた。そこにかけつけたのはストレッチマン・オレンジ。オレンジと怪人の対決のゆくえはいかに！？あそびのコーナーは「たるなげチャレンジ」。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926154000 +0900" stop="20130926154500 +0900" channel="26">
+    <title lang="ja_JP">プチプチ・アニメ　ケンとかいじゅう「誕生日」</title>
+    <desc lang="ja_JP">冒険大好き少年ケンと夜になると扉のむこうからやって来る、ちょっぴり怖がりなモンスター。モンスターの不思議な魔法で今日はどんなことがおきるかな？</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130926154500 +0900" stop="20130926160000 +0900" channel="26">
+    <title lang="ja_JP">モリゾー・キッコロ　森へいこうよ！「海辺のマスコット生物を探せ！」【再】</title>
+    <desc lang="ja_JP">ウドちゃんと入来ちゃんが、佐々木さんと海辺のマスコット生物を探すことに。海に近い工場地帯にすむ貴重な鳥「コアジサシ」のヒナや干潟のユニークな生き物たちを探すよ。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926160000 +0900" stop="20130926160500 +0900" channel="26">
+    <title lang="ja_JP">みんなのうた「カチャーシ☆ブギ」「絵はがき」</title>
+    <desc lang="ja_JP">▽「カチャーシ☆ブギ」うた：きいやま商店　／▽「絵はがき」うた：かとうれい子</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130926160500 +0900" stop="20130926161500 +0900" channel="26">
+    <title lang="ja_JP">えいごであそぼ</title>
+    <desc lang="ja_JP">子どもたちに英語に親しんで、興味を持ってもらうことを目的とした番組。キャラクターのＢＯ（ボー）やＢＥＡ（ビー）と絵本の世界を楽しみながら、自然な英語に触れる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926161500 +0900" stop="20130926162000 +0900" channel="26">
+    <title lang="ja_JP">デザインあ　５分版</title>
+    <desc lang="ja_JP">身の回りに当たり前に存在しているモノを「デザイン」の視点から見つめ、斬新な映像手法と音楽で表現。「デザインの面白さ」を伝え「デザイン的な視点と感性」を育みます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926162000 +0900" stop="20130926163600 +0900" channel="26">
+    <title lang="ja_JP">いないいないばあっ！【字】</title>
+    <desc lang="ja_JP">０歳児から２歳児を対象にした番組です。番組の様々なコーナーを通して子どもたちに働きかけ、子どもの様々な可能性と能力を引き出すことをねらいとしています。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926163600 +0900" stop="20130926165900 +0900" channel="26">
+    <title lang="ja_JP">おかあさんといっしょ【字】</title>
+    <desc lang="ja_JP">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926165900 +0900" stop="20130926170000 +0900" channel="26">
+    <title lang="ja_JP">パッコロリン「ゆげおばけ」【字】</title>
+    <desc lang="ja_JP">まる・さんかく・しかくの顔かたちをした元気な３きょうだい、パックン、リン、コロン。楽しく遊ぶ中から、いろいろな発見をします。【声】折笠愛、水沢史絵、かないみか</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130926170000 +0900" stop="20130926171500 +0900" channel="26">
+    <title lang="ja_JP">みいつけた！【字】</title>
+    <desc lang="ja_JP">４〜５歳児を対象とし、「友達と遊ぶ楽しさ」「命の不思議」「出来る喜び」「思いやる気持ち」等さまざまな「発見」を通して楽しむことができる番組です。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926171500 +0900" stop="20130926172500 +0900" channel="26">
+    <title lang="ja_JP">にほんごであそぼ</title>
+    <desc lang="ja_JP">２歳から小学校低学年くらいの子どもと親を対象にコミュニケーション能力や自己表現する感性を育てる番組。今回は、文楽、投稿ごもじもじい、うた／雲、でんでらりゅうば</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926172500 +0900" stop="20130926173000 +0900" channel="26">
+    <title lang="ja_JP">ピタゴラスイッチミニ</title>
+    <desc lang="ja_JP">さまざまな法則や不思議な構造、面白い考え方を、アニメ、歌、体操、ピタゴラ装置など多彩なコーナーで紹介。今回は「こんなことできません」を特集する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926173000 +0900" stop="20130926174000 +0900" channel="26">
+    <title lang="ja_JP">アニメ　はなかっぱ「蝶兵衛屋敷のひみつ」「大人になれるかな」</title>
+    <desc lang="ja_JP">頭の上に花が咲くかっぱ「はなかっぱ」と個性豊かな仲間達、そして謎の花「わか蘭」を狙う黒羽屋蝶兵衛一味が、緑いっぱいの「やまびこ村」で、てんやわんやの大騒ぎ！</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130926174000 +0900" stop="20130926175000 +0900" channel="26">
+    <title lang="ja_JP">すすめ！キッチン戦隊クックルン「怪人オーディション、キングキャンディ」</title>
+    <desc lang="ja_JP">不思議なパワーを得たリンゴ・セージ・クミンの三人兄妹。「キッチン戦隊クックルン」として悪の軍団・ダークイーターズと戦う。今日は、怪人オーディションが開かれる！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926175000 +0900" stop="20130926180000 +0900" channel="26">
+    <title lang="ja_JP">フックブックロー</title>
+    <desc lang="ja_JP">本屋さんを舞台にパペットと人間が繰り広げるバラエティー。出演：谷本賢一郎　声の出演：中尾隆聖、折笠富美子、天野ひろゆき、浦嶋りんこ　人形操演：人形劇・木ぐつの木</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926180000 +0900" stop="20130926181000 +0900" channel="26">
+    <title lang="ja_JP">アニメ　おじゃる丸「冷徹斎　フリーターになる」【字】</title>
+    <desc lang="ja_JP">つじ占い師（うらないし）の冷徹斎（れいてつさい）。自分を占（うらな）ったところ、なんとフリーターになれとのおつげが…。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130926181000 +0900" stop="20130926182000 +0900" channel="26">
+    <title lang="ja_JP">アニメ　忍たま乱太郎「誰がナメクジを…の段」【字】</title>
+    <desc lang="ja_JP">乱太郎・きり丸・しんべヱは、忍術学園で学ぶ忍者のたまご「忍たま」。ユニークな先生や仲間たちと、明るく・たのしく・ゆかいな毎日がくり広げられる。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130926182000 +0900" stop="20130926185500 +0900" channel="26">
+    <title lang="ja_JP">大！天才てれびくん　▽リモコン参加　対戦にちびデビ登場？【双】</title>
+    <desc lang="ja_JP">出川哲朗特命プロデューサーのもと、てれび戦士達が様々な企画に挑戦する。「大天才テレビジョン番組表」へ！　ｈｔｔｐ：／／ｗｗｗ．ｎｈｋ．ｏｒ．ｊｐ／ｔｖｋｕｎ／</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926185500 +0900" stop="20130926192500 +0900" channel="26">
+    <title lang="ja_JP">Ｒの法則「ライブ＆トーク　湘南乃風」</title>
+    <desc lang="ja_JP">湘南乃風のライブ＆トーク。１０代に人気のあった３曲『睡蓮歌』『純恋歌』『黄金魂』の魅力を紹介。さらに名曲の誕生秘話からカラオケで盛り上げる方法まで大公開！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926192500 +0900" stop="20130926195500 +0900" channel="26">
+    <title lang="ja_JP">オトナへのトビラＴＶ「“服”を大切に」【字】</title>
+    <desc lang="ja_JP">テーマは「服を大切に」。洗濯や保管を失敗しないためには？そして服のリサイクルとは？有吉弘行さん、鈴木奈々さん、おしゃれ大好きの大地洋輔さんと見ていきます〜。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926195500 +0900" stop="20130926200000 +0900" channel="26">
+    <title lang="ja_JP">まいにちスクスク　ジュニア“あなたはこんな時どうしますか？”（４）</title>
+    <desc lang="ja_JP">思春期の子どもとのコミュニケーション、あなたはどうしていますか？親が困ってしまうシチュエーションの対応法を、専門家のアドバイスを交え、考えていきます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926200000 +0900" stop="20130926203000 +0900" channel="26">
+    <title lang="ja_JP">ハートネットＴＶ　シリーズ　町永俊雄×この人（１）「青田由幸」【字】</title>
+    <desc lang="ja_JP">「福祉ネットワーク」元キャスター・町永俊雄が、福祉のキーパーソンを訪ねる新シリーズ。１日目は原発事故後も福島で障害者・高齢者の支援を続けた青田由幸氏に話を聞く。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926203000 +0900" stop="20130926204500 +0900" channel="26">
+    <title lang="ja_JP">きょうの健康　運動で健康「しなやかな筋肉をめざせ」【解】【字】</title>
+    <desc lang="ja_JP">筋肉をしなやかに保つと、体の動きがスムーズになり歩行が楽になる。さらに、転倒の危険を下げ、関節や骨がもろくなるのも防ぐことができる。家庭で行える運動法を紹介。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926204500 +0900" stop="20130926210000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ手話ニュース８４５【手】</title>
+    <desc lang="ja_JP">【キャスター】木村晴美，板鼻英二</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926210000 +0900" stop="20130926212500 +0900" channel="26">
+    <title lang="ja_JP">きょうの料理「味覚の秋！グッチ裕三のメシタビｉｎ北海道」（後編）【字】</title>
+    <desc lang="ja_JP">料理の腕が評判のエンターテイナー、グッチ裕三さんが、北海道の根室市で地元の人々と触れ合いながら、秋の味覚を紹介する特集。後編は、さんまとほっき貝の魅力を満喫。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926212500 +0900" stop="20130926213000 +0900" channel="26">
+    <title lang="ja_JP">きょうの料理ビギナーズ「えのきだけで簡単レシピ」【字】</title>
+    <desc lang="ja_JP">今月は秋の恵みを美味しくいただく方法をお伝えする。今回は「えのきだけ」。明日からのおかずになる「えのきだけの豚肉巻き」と「えのきだけと鶏ひき肉のみそ汁」を紹介。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926213000 +0900" stop="20130926215500 +0900" channel="26">
+    <title lang="ja_JP">すてきにハンドメイド「シンプルシャツを自分流にカスタマイズ」【字】</title>
+    <desc lang="ja_JP">今月のテーマは「リメイク」。５回目は、お直し職人：高畠海さんがシンプルシャツのリメイク法を伝授。新たなデザインで、長く着続けられる簡単テクニックを紹介する。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926215500 +0900" stop="20130926220000 +0900" channel="26">
+    <title lang="ja_JP">まる得マガジン　ワンランクアップ！京料理人直伝の薬味術（８）「大根おろし」【字】</title>
+    <desc lang="ja_JP">料理に欠かせない様々な薬味。上手に使えばご家庭の料理がワンランクアップ！京都の料理人・髙橋拓児さんがプロの技を伝授。今回は「大根おろし」を使い分ける方法。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926220000 +0900" stop="20130926222000 +0900" channel="26">
+    <title lang="ja_JP">ニュースで英会話　▽ＩＯＣ総会で２０２０年東京五輪　決定【再】</title>
+    <desc lang="ja_JP">旬の話題を、英語で表現する力を身につけるクロスメディア番組。今回は東京オリンピックが決まったことを受けて、ＩＯＣ総会での英語プレゼンテーションなどを扱う。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926222000 +0900" stop="20130926222500 +0900" channel="26">
+    <title lang="ja_JP">リトル・チャロ４（英語版）「Ｅｐ２４　Ａ　Ｌｉｏｎ　ｉｎ　Ｎｅｗ　Ｙｏｒｋ」字幕</title>
+    <desc lang="ja_JP">子犬が主人公の英語アニメ「リトル・チャロ」の第４弾。今度はチャロがニューヨークで映画に出演！そこで繰り広げられる感動のストーリー。日本語字幕で誰でも楽しめます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926222500 +0900" stop="20130926225000 +0900" channel="26">
+    <title lang="ja_JP">テレビでスペイン語「ＥＵＲＯ２４　Ｌｅｃｃｉｏｎ２４」</title>
+    <desc lang="ja_JP">ヨーロッパの言葉と文化を学ぶ「ＥＵＲＯ２４」。俳優・平岳大とともに、感覚を刺激するアンダルシアの旅で出会う表現を学ぶ。歴史、芸術、建築、料理、アート情報も満載。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926225000 +0900" stop="20130926230000 +0900" channel="26">
+    <title lang="ja_JP">おとなの基礎英語　＜終＞「Ｓｅａｓｏｎ２　Ｅｐｉｓｏｄｅ１００」</title>
+    <desc lang="ja_JP">海外旅行などでちょっと英語を使ってみたい、というおとな向けの基礎英語。毎回１つの表現を身につければ、英語の世界がぐっと広がるはず。出演は坂下千里子・肘井美佳ほか</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926230000 +0900" stop="20130926232000 +0900" channel="26">
+    <title lang="ja_JP">東北発☆未来塾「まちづくりのチカラ　西郷流　ライフスタイルのブランド化とは」【解】【字】</title>
+    <desc lang="ja_JP">まちづくりは建物を建てたら終わりではない。ライフスタイルのブランド化をするとまちが生き生きしてくる。でもライフスタイルのブランド化って何？【ナレーター】瀧本美織</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926232000 +0900" stop="20130926232500 +0900" channel="26">
+    <title lang="ja_JP">あの日　わたしは〜証言記録　東日本大震災〜「茨城県大洗町　沼田禎之さん」【字】</title>
+    <desc lang="ja_JP">茨城県大洗水族館に勤める沼田さんは、地震発生後、館内にいた客を屋外へ誘導し、さらに高台に避難誘導した。その後、寒さをしのぐために、イルカ運搬に使う毛布を配った。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926232500 +0900" stop="20130926235500 +0900" channel="26">
+    <title lang="ja_JP">ミュージック・ポートレイト　＜終＞「阿川佐和子×藤山直美　第２夜」【字】</title>
+    <desc lang="ja_JP">藤山直美と阿川佐和子が人生の１０曲対談。４０代で結婚・出産をあきらめ仕事に生きる決意をした女たちのＢＧＭとは▽松田聖子：あなたに逢いたくて▽クレイジーケンバンド</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130926235500 +0900" stop="20130927000000 +0900" channel="26">
+    <title lang="ja_JP">Ｅテレ２３５５</title>
+    <desc lang="ja_JP">きょうの終わりにほっとひといき。『２３５５』は、見ると気持ちよくリラックスできる、おやすみ前にぴったりの５分番組です。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130927000000 +0900" stop="20130927003000 +0900" channel="26">
+    <title lang="ja_JP">Ｒの法則「ライブ＆トーク　湘南乃風」【再】</title>
+    <desc lang="ja_JP">湘南乃風のライブ＆トーク。１０代に人気のあった３曲『睡蓮歌』『純恋歌』『黄金魂』の魅力を紹介。さらに名曲の誕生秘話からカラオケで盛り上げる方法まで大公開！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927003000 +0900" stop="20130927005500 +0900" channel="26">
+    <title lang="ja_JP">青山ワンセグ開発「バトル２　９月期　最終ラウンド」【双】</title>
+    <desc lang="ja_JP">Ｅ−ｇｉｒｌｓが司会を務める企画オーディション番組。視聴者投票でレギュラー番組が決まる。テレビ・ワンセグのデータ放送と、ＰＣ・携帯サイトで投票を受け付ける。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130927005500 +0900" stop="20130927010000 +0900" channel="26">
+    <title lang="ja_JP">青山ワンセグ開発　おかっぱちゃん旅に出る　第５話「北海道のフシギなお祭り」【字】</title>
+    <desc lang="ja_JP">かるくノンフィクション型旅アニメ…ひとり旅が趣味の“おかっぱちゃん”ことイラストレーターＢｏｏｊｉｌが、色んな国で出会った楽しい話をカラフルなアニメで紹介する。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130927010000 +0900" stop="20130927011000 +0900" channel="26">
+    <title lang="ja_JP">１０ｍｉｎ．ボックス（理科２分野）「植物のからだ」</title>
+    <desc lang="ja_JP">中学校向けの理科番組。今回のテーマは「植物のからだ」。いろいろな植物の体のつくりの基本的な特徴を見出し、それらを光合成、呼吸、蒸散と関連付けてとらえます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927011000 +0900" stop="20130927012000 +0900" channel="26">
+    <title lang="ja_JP">１０ｍｉｎ．ボックス（公民）「情報化が進む社会」</title>
+    <desc lang="ja_JP">中学社会「公民」学習のための番組。ＮＨＫに蓄積された映像を活用し、少子高齢化、社会のグローバル化、国際社会の中での日本と複雑な社会の動向を、どう理解するか学ぶ。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927012000 +0900" stop="20130927013000 +0900" channel="26">
+    <title lang="ja_JP">１０ｍｉｎ．ボックス（日本史）「縄文時代と弥生時代」</title>
+    <desc lang="ja_JP">中高生「日本史」学習のための番組。新指導要領のポイントとなる「伝統と文化」等を意識しながら、ＮＨＫの豊富な映像素材を利用、各時代の特徴を１０分にまとめて伝える。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927013000 +0900" stop="20130927014000 +0900" channel="26">
+    <title lang="ja_JP">１０ｍｉｎ．ボックス（生活指導）「感染症に備える」</title>
+    <desc lang="ja_JP">中学・高校「特別活動」のための番組。「体と健康」「消費者教育」「さまざまな生き方」の３つのテーマを軸に、生徒たちが生活の中で直面するさまざまな問題を考える。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927014000 +0900" stop="20130927015000 +0900" channel="26">
+    <title lang="ja_JP">１０ｍｉｎ．ボックス（現代文）「羅生門（芥川龍之介）」</title>
+    <desc lang="ja_JP">飢きんに見舞われた京都、羅生門という舞台設定を映像で解説。生きるか死ぬかの究極的な状況下での悪やエゴイズムという作品のテーマ、緻密で緊迫感に満ちた文章を味わう。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927015000 +0900" stop="20130927022000 +0900" channel="26">
+    <title lang="ja_JP">理科３年　ふしぎだいすき　▽あらら！花からなーんだ▽大集合！たねにもいろいろ【解】【字】</title>
+    <desc lang="ja_JP">小学校３年生向け理科番組。植物は成長するとつぼみができて開花し、そのあとに種や実ができる。また種の運ばれ方には植物ごとに特色がある。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927022000 +0900" stop="20130927053000 +0900" channel="26">
+    <title lang="ja_JP">放送休止</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927053000 +0900" stop="20130927055500 +0900" channel="26">
+    <title lang="ja_JP">テレビでロシア語　第２５課「サンクトペテルブルクの絶景スポットへ」</title>
+    <desc lang="ja_JP">「サンクトペテルブルク・魅惑の旅」。歴史と文化の都を舞台に、旅に役立つやさしいフレーズを小林麻耶と学ぶ。アート、音楽、グルメ、人気スポット、現地最新情報も満載！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927055500 +0900" stop="20130927060000 +0900" channel="26">
+    <title lang="ja_JP">もういちど、日本「南部もぐり　潜水士」</title>
+    <desc lang="ja_JP">岩手県洋野町に伝わる潜水技術、南部もぐり。その技を受け継ぐため、日本で唯一、潜水技術を学科として学べる高校がある。潜水士を夢見る学生たちが日々励む姿を紹介する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927060000 +0900" stop="20130927062500 +0900" channel="26">
+    <title lang="ja_JP">テレビで中国語「第２４課」</title>
+    <desc lang="ja_JP">中国語の基礎を固めながら、生徒役の北乃きいさんと「中国語を使って何かをする」ことを目指します。９月の目標は「中国語でパーソナルデータを伝えよう！」です。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927062500 +0900" stop="20130927063500 +0900" channel="26">
+    <title lang="ja_JP">テレビ体操【字】</title>
+    <desc lang="ja_JP">多胡肇，【ピアノ】幅しげみ</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130927063500 +0900" stop="20130927064000 +0900" channel="26">
+    <title lang="ja_JP">ピタゴラスイッチミニ</title>
+    <desc lang="ja_JP">さまざまな法則や不思議な構造、面白い考え方を、アニメ、歌、体操、ピタゴラ装置など多彩なコーナーで紹介。今回は「１０本アニメ」、「はかけか」など。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927064000 +0900" stop="20130927064500 +0900" channel="26">
+    <title lang="ja_JP">てれび絵本「えほん寄席　鈴ヶ森」</title>
+    <desc lang="ja_JP">５分間で古典落語をおとどけ！絵本作家とイラストレーターの競演で落語がアニメーションに！個性豊かなはなし家さんがくりひろげる楽しく面白い、ひと味違う落語の世界です</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927064500 +0900" stop="20130927065500 +0900" channel="26">
+    <title lang="ja_JP">すすめ！キッチン戦隊クックルン「一週間ダイジェスト」</title>
+    <desc lang="ja_JP">不思議なパワーを得た、リンゴ・セージ・クミンの三人きょうだい。「キッチン戦隊クックルン」として悪の軍団・ダークイーターズと戦う。今日は一週間のダイジェスト</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927065500 +0900" stop="20130927070000 +0900" channel="26">
+    <title lang="ja_JP">Ｅテレ０６５５</title>
+    <desc lang="ja_JP">１日のはじまりをつくる５分番組０６５５。「日めくりアニメ」「おはようソング」などの楽しいコーナーで、あなたを送り出します。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130927070000 +0900" stop="20130927071500 +0900" channel="26">
+    <title lang="ja_JP">シャキーン！</title>
+    <desc lang="ja_JP">登校前にシャキーン！と目覚め、楽しい一日のスタートを切ってもらおうという番組。クイズやアニメにコントなどコーナーが満載！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927071500 +0900" stop="20130927072500 +0900" channel="26">
+    <title lang="ja_JP">アニメ　はなかっぱ「アンテナ草、咲いた！」「カラバッチョの時計」</title>
+    <desc lang="ja_JP">頭の上に花が咲くかっぱ「はなかっぱ」と個性豊かな仲間達、そして謎の花「わか蘭」を狙う黒羽屋蝶兵衛一味が、緑いっぱいの「やまびこ村」で、てんやわんやの大騒ぎ！</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130927072500 +0900" stop="20130927073000 +0900" channel="26">
+    <title lang="ja_JP">デザインあ　５分版</title>
+    <desc lang="ja_JP">身の回りに当たり前に存在しているモノを「デザイン」の視点から見つめ、斬新な映像手法と音楽で表現。「デザインの面白さ」を伝え「デザイン的な視点と感性」を育みます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927073000 +0900" stop="20130927073500 +0900" channel="26">
+    <title lang="ja_JP">ニャンちゅうワールド放送局ミニ</title>
+    <desc lang="ja_JP">ニャンちゅうと河西里音の情報番組。今日は、世界ニャンだろ？ネットワーク。変わった服を着て行うドイツのお祭りを紹介。ニャルビッシュ（樽美酒研二）がエアー野球に挑戦</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927073500 +0900" stop="20130927074500 +0900" channel="26">
+    <title lang="ja_JP">えいごであそぼ</title>
+    <desc lang="ja_JP">子どもたちに英語に親しんで、興味を持ってもらうことを目的とした番組。キャラクターのＢＯ（ボー）やＢＥＡ（ビー）と絵本の世界を楽しみながら、自然な英語に触れる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927074500 +0900" stop="20130927080100 +0900" channel="26">
+    <title lang="ja_JP">みいつけた！【字】</title>
+    <desc lang="ja_JP">４〜５歳児を対象とし、「友達と遊ぶ楽しさ」「命の不思議」「出来る喜び」「思いやる気持ち」等さまざまな「発見」を通して楽しむことができる番組です。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927080100 +0900" stop="20130927082400 +0900" channel="26">
+    <title lang="ja_JP">おかあさんといっしょ【字】</title>
+    <desc lang="ja_JP">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927082400 +0900" stop="20130927082500 +0900" channel="26">
+    <title lang="ja_JP">パッコロリン「おひげでびっくり！」【字】</title>
+    <desc lang="ja_JP">まる・さんかく・しかくの顔かたちをした元気な３きょうだい、パックン、リン、コロン。楽しく遊ぶ中から、いろいろな発見をします。【声】折笠愛、水沢史絵、かないみか</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130927082500 +0900" stop="20130927084000 +0900" channel="26">
+    <title lang="ja_JP">いないいないばあっ！【字】</title>
+    <desc lang="ja_JP">０歳児から２歳児を対象にした番組です。番組の様々なコーナーを通して子どもたちに働きかけ、子どもの様々な可能性と能力を引き出すことをねらいとしています。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927084000 +0900" stop="20130927085000 +0900" channel="26">
+    <title lang="ja_JP">にほんごであそぼ</title>
+    <desc lang="ja_JP">２歳から小学校低学年くらいの子どもと親を対象にコミュニケーション能力や自己表現する感性を育てる番組。今回は、萬斎、方言　紙芝居、ちゃわんむしのうた、鉄道唱歌。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927085000 +0900" stop="20130927085500 +0900" channel="26">
+    <title lang="ja_JP">プチプチ・アニメ　つながるアニマル「たすけあい」</title>
+    <desc lang="ja_JP">雪どけ間近の森の地下では、色んなどうぶつたちが春を心待ちにしながら、お互いに助け合って暮らしています。その動物たちにもなにか“つながり”があるようですが…。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130927085500 +0900" stop="20130927090000 +0900" channel="26">
+    <title lang="ja_JP">ミニアニメ　マノン「ふゆのおともだち」</title>
+    <desc lang="ja_JP">緑いっぱいの中、牧場の動物たちと暮らす少女、マノンの毎日は、ゆかいな出来事と冒険で満ちています。子どもたちの想像力を伸ばす、温かみと自然いっぱいのアニメです。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130927090000 +0900" stop="20130927091500 +0900" channel="26">
+    <title lang="ja_JP">ざわざわ森のがんこちゃん「ツムちゃんのおみせ」【解】【字】</title>
+    <desc lang="ja_JP">ハーブティーのお店を開くことになったツムとお母さん。ところがお母さんが過労で倒れてしまう。開店を前に、がんこたちがお手伝いをして活躍、働く楽しさを知る。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927091500 +0900" stop="20130927092500 +0900" channel="26">
+    <title lang="ja_JP">銀河銭湯パンタくん「やるときゃやらなきゃ！」【解】【字】</title>
+    <desc lang="ja_JP">【声】平尾明香，中尾良平，吉田小百合，葛谷知花，本多力，蓮池龍三，高木渉</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927092500 +0900" stop="20130927094000 +0900" channel="26">
+    <title lang="ja_JP">時々迷々「勇者になりたい」【解】【字】</title>
+    <desc lang="ja_JP">タカシは勇者になりたいと思っている。どうしたら僕は勇者のようにまっすぐで美しい生活が送れるのだろう。タカシの、自分自身との戦いが始まる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927094000 +0900" stop="20130927095000 +0900" channel="26">
+    <title lang="ja_JP">げんばるマン「いのちつながる川」【解】【字】</title>
+    <desc lang="ja_JP">今回げんばるマン（はんにゃ）が訪ねた現場は、千葉県の夷隅川。昔から自然を生かした川作りが行われ、全国でも有数の生き物の数を誇る。いのちを育むそのしくみを学ぶ。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927095000 +0900" stop="20130927095800 +0900" channel="26">
+    <title lang="ja_JP">いじめをノックアウト　第１０回「最後にぜったい忘れないでほしいこと」【解】【字】</title>
+    <desc lang="ja_JP">最後は、高橋みなみさんから大切なメッセージ。過去のいじめのせいで、今も心に大きな傷を負っている人たちからの手紙を紹介。いじめは人の一生を変えてしまうこともある…</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927095800 +0900" stop="20130927100000 +0900" channel="26">
+    <title lang="ja_JP">Ｎコン８０・いっしょに歌おう</title>
+    <desc lang="ja_JP">嵐がプロジェクトリーダーを務めるＮコン８０「いっしょに歌おう」。嵐による「ふるさと」と、全国のＮコン・コンクール会場での小学生の歌声をお届けする。【出演】嵐</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130927100000 +0900" stop="20130927101500 +0900" channel="26">
+    <title lang="ja_JP">道徳ドキュメント「あやちゃんの卒業式」【解】【字】</title>
+    <desc lang="ja_JP">大阪市淀川小６年１組には、２年前に亡くなった梶原文乃さんの写真が飾られている。あやちゃんと呼ばれ親しまれた文乃さんはダウン症だった。皆の心に文乃さんは生きている</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927101500 +0900" stop="20130927103000 +0900" channel="26">
+    <title lang="ja_JP">どうも！にほんご講座です。　第２４課「今まで生きてきた中でいちばん幸せ」</title>
+    <desc lang="ja_JP">外国人のための日本語講座。日本人なら誰でも知っている流行語や名ゼリフを教材にすぐに使える表現を学ぶ。今回の名ゼリフは『今まで生きてきた中でいちばん幸せ』。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927103000 +0900" stop="20130927110000 +0900" channel="26">
+    <title lang="ja_JP">すくすく子育て「ママのイライラ」【字】【再】</title>
+    <desc lang="ja_JP">子どもはかわいいけど毎日の育児にイライラ。今回は、視聴者からの「なぜこんなにイライラしてしまう？」「子育てが楽しめない」等の悩みについて専門家とともに考える。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927110000 +0900" stop="20130927114500 +0900" channel="26">
+    <title lang="ja_JP">団塊スタイル「今こそ挑戦！音楽生活」【解】【字】【再】</title>
+    <desc lang="ja_JP">誰もが一度は憧れる音楽生活。実は、時間もお金も余裕ができる第二の人生が音楽を楽しむチャンス。シニアが楽しむ音楽の世界を紹介する。【出演】南こうせつ、風吹ジュン</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927114500 +0900" stop="20130927120000 +0900" channel="26">
+    <title lang="ja_JP">ろうを生きる　難聴を生きる「災害に備える〜今、何をすべきか〜」＜字幕スーパー＞【再】</title>
+    <desc lang="ja_JP">聴覚障害者にとって災害時にどう情報を得るかが重要となる。被災したろう者の証言や「みやぎ被災聴覚障害者情報支援センター」（“みみサポ”）の活動を通して考える。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927120000 +0900" stop="20130927130000 +0900" channel="26">
+    <title lang="ja_JP">にっぽんの芸能「輝きつづける円熟の至芸」【再】</title>
+    <desc lang="ja_JP">輝きつづける円熟の至芸と題して、７０代８０代の女性実演家による清元の舞踊二題、箏曲をお送りする。古典芸能玉手箱は能で使われる面、能面についてリポートする。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927130000 +0900" stop="20130927130500 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ手話ニュース【手】</title>
+    <desc lang="ja_JP">【キャスター】中野佐世子</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927130500 +0900" stop="20130927135000 +0900" channel="26">
+    <title lang="ja_JP">チョイス＠病気になったとき「アフターフォロー“目がかすんだとき”」【字】【再】</title>
+    <desc lang="ja_JP">知らないうちに進行する「緑内障」をアフターフォローする。眼科で定期検査を受けているから安心と思ったら、兆候を見逃してしまうことも！オススメの選択肢とは。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927135000 +0900" stop="20130927140000 +0900" channel="26">
+    <title lang="ja_JP">視点・論点【再】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927140000 +0900" stop="20130927142000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ高校講座　地理「アメリカへようこそ（２）〜多文化共生社会〜」</title>
+    <desc lang="ja_JP">ユニークな旅行会社「全世界トラベル」が舞台。お笑いコンビ・サンドウィッチマンのコントで仮想世界旅行を楽しみながら、地理のエッセンスを存分に学んでもらいます！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927142000 +0900" stop="20130927144000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ高校講座　世界史「ルネサンスと宗教改革」</title>
+    <desc lang="ja_JP">歴史好きな「歴女」の部屋を、世界各国にルーツを持つゲストが訪れ、歴史上の人物のメッセージを届ける…ダ・ヴィンチとルターが個人主義の出発点となった時代を語る</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927144000 +0900" stop="20130927150000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ高校講座　生物「ＤＮＡが生む生物の共通性と多様性〜生物はしたたか〜」</title>
+    <desc lang="ja_JP">命のこと、脳のこと、体のしくみ…。生きるってどういうことか、疑問を解き明かしていく科目が生物です。基礎の基礎から最先端まで生命の不思議を楽しんでください。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927150000 +0900" stop="20130927153000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ高校講座　日本史「海外交流の実態〜４つの窓口〜」</title>
+    <desc lang="ja_JP">旧石器時代から現代までの基本的な特徴を、重要なキーワードとビビッドな映像で鮮やかに浮かび上がらせます。絵図や文書を丁寧に解説し、日本史を学ぶ楽しさがわかる！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927153000 +0900" stop="20130927154000 +0900" channel="26">
+    <title lang="ja_JP">銀河銭湯パンタくん「やるときゃやらなきゃ！」【解】【字】</title>
+    <desc lang="ja_JP">【声】平尾明香，中尾良平，吉田小百合，葛谷知花，本多力，蓮池龍三，高木渉</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927154000 +0900" stop="20130927154500 +0900" channel="26">
+    <title lang="ja_JP">プチプチ・アニメ　つながるアニマル「たすけあい」</title>
+    <desc lang="ja_JP">雪どけ間近の森の地下では、色んなどうぶつたちが春を心待ちにしながら、お互いに助け合って暮らしています。その動物たちにもなにか“つながり”があるようですが…。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130927154500 +0900" stop="20130927160000 +0900" channel="26">
+    <title lang="ja_JP">デザインあ（５１）</title>
+    <desc lang="ja_JP">身の回りに当たり前に存在しているモノを「デザイン」の視点から見つめ、斬新な映像手法と音楽で表現。「デザインの面白さ」を伝え「デザイン的な視点と感性」を育みます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927160000 +0900" stop="20130927160500 +0900" channel="26">
+    <title lang="ja_JP">みんなのうた「シャーロックホームズとワトソン博士」「クマのぬいぐるみ」</title>
+    <desc lang="ja_JP">▽「シャーロックホームズとワトソン博士」うた：谷啓　／▽「クマのぬいぐるみ」うた：吉岡雄介（東京放送児童劇団）</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130927160500 +0900" stop="20130927161500 +0900" channel="26">
+    <title lang="ja_JP">えいごであそぼ</title>
+    <desc lang="ja_JP">子どもたちに英語に親しんで、興味を持ってもらうことを目的とした番組。キャラクターのＢＯ（ボー）やＢＥＡ（ビー）と絵本の世界を楽しみながら、自然な英語に触れる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927161500 +0900" stop="20130927162000 +0900" channel="26">
+    <title lang="ja_JP">ニャンちゅうワールド放送局ミニ</title>
+    <desc lang="ja_JP">ニャンちゅうと河西里音の情報番組。今日は、世界ニャンだろ？ネットワーク。変わった服を着て行うドイツのお祭りを紹介。ニャルビッシュ（樽美酒研二）がエアー野球に挑戦</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927162000 +0900" stop="20130927163600 +0900" channel="26">
+    <title lang="ja_JP">いないいないばあっ！【字】</title>
+    <desc lang="ja_JP">０歳児から２歳児を対象にした番組です。番組の様々なコーナーを通して子どもたちに働きかけ、子どもの様々な可能性と能力を引き出すことをねらいとしています。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927163600 +0900" stop="20130927165900 +0900" channel="26">
+    <title lang="ja_JP">おかあさんといっしょ【字】</title>
+    <desc lang="ja_JP">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927165900 +0900" stop="20130927170000 +0900" channel="26">
+    <title lang="ja_JP">パッコロリン「おひげでびっくり！」【字】</title>
+    <desc lang="ja_JP">まる・さんかく・しかくの顔かたちをした元気な３きょうだい、パックン、リン、コロン。楽しく遊ぶ中から、いろいろな発見をします。【声】折笠愛、水沢史絵、かないみか</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130927170000 +0900" stop="20130927171500 +0900" channel="26">
+    <title lang="ja_JP">みいつけた！【字】</title>
+    <desc lang="ja_JP">４〜５歳児を対象とし、「友達と遊ぶ楽しさ」「命の不思議」「出来る喜び」「思いやる気持ち」等さまざまな「発見」を通して楽しむことができる番組です。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927171500 +0900" stop="20130927172500 +0900" channel="26">
+    <title lang="ja_JP">にほんごであそぼ</title>
+    <desc lang="ja_JP">２歳から小学校低学年くらいの子どもと親を対象にコミュニケーション能力や自己表現する感性を育てる番組。今回は、萬斎、方言　紙芝居、ちゃわんむしのうた、鉄道唱歌。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927172500 +0900" stop="20130927173000 +0900" channel="26">
+    <title lang="ja_JP">ピタゴラスイッチミニ</title>
+    <desc lang="ja_JP">さまざまな法則や不思議な構造、面白い考え方を、アニメ、歌、体操、ピタゴラ装置など多彩なコーナーで紹介。今回は「１０本アニメ」、「はかけか」など。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927173000 +0900" stop="20130927174000 +0900" channel="26">
+    <title lang="ja_JP">アニメ　はなかっぱ「アンテナ草、咲いた！」「カラバッチョの時計」</title>
+    <desc lang="ja_JP">頭の上に花が咲くかっぱ「はなかっぱ」と個性豊かな仲間達、そして謎の花「わか蘭」を狙う黒羽屋蝶兵衛一味が、緑いっぱいの「やまびこ村」で、てんやわんやの大騒ぎ！</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130927174000 +0900" stop="20130927175000 +0900" channel="26">
+    <title lang="ja_JP">すすめ！キッチン戦隊クックルン「一週間ダイジェスト」</title>
+    <desc lang="ja_JP">不思議なパワーを得た、リンゴ・セージ・クミンの三人きょうだい。「キッチン戦隊クックルン」として悪の軍団・ダークイーターズと戦う。今日は一週間のダイジェスト</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927175000 +0900" stop="20130927180000 +0900" channel="26">
+    <title lang="ja_JP">フックブックロー</title>
+    <desc lang="ja_JP">本屋さんを舞台にパペットと人間が繰り広げるバラエティー。出演：谷本賢一郎　声の出演：中尾隆聖、折笠富美子、天野ひろゆき、浦嶋りんこ　人形操演：人形劇・木ぐつの木</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927180000 +0900" stop="20130927181000 +0900" channel="26">
+    <title lang="ja_JP">アニメ　おじゃる丸「カズマプリン」【字】</title>
+    <desc lang="ja_JP">今日はプリンがなかった。どうやら愛（あい）ちゃんが作りわすれたようだ。がっかりしているおじゃる丸。そんなおじゃる丸を見てカズマが「作ってあげようか？」という。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130927181000 +0900" stop="20130927182000 +0900" channel="26">
+    <title lang="ja_JP">アニメ　忍たま乱太郎「勉強がしたいの段」【字】</title>
+    <desc lang="ja_JP">乱太郎・きり丸・しんべヱは、忍術学園で学ぶ忍者のたまご「忍たま」。ユニークな先生や仲間たちと、明るく・たのしく・ゆかいな毎日がくり広げられる。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130927182000 +0900" stop="20130927185500 +0900" channel="26">
+    <title lang="ja_JP">ビットワールド　▽迫る宇宙怪獣！顔でかへびさんを救え！【双】</title>
+    <desc lang="ja_JP">投稿アイデアをもとに展開する、視聴者参加型番組。地球に宇宙人たちが続々来訪、独自の生態と習慣を持つ彼らの目的は何か？セイコーたちが、諸君とともに知恵を絞る！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927185500 +0900" stop="20130927192500 +0900" channel="26">
+    <title lang="ja_JP">Ｅダンスアカデミー「第２３回」【字】</title>
+    <desc lang="ja_JP">ＥＸＩＬＥがダンスをわかりやすくレクチャーするプログラムの２３回目！ＥＸＩＬＥのヒット曲を使ってダンスのコツを完全伝授！　主任講師：ＵＳＡ　講師：ＴＥＴＳＵＹＡ</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927192500 +0900" stop="20130927194800 +0900" channel="26">
+    <title lang="ja_JP">課外授業　ようこそ先輩・選「働くって楽しい！〜デザイナー　山口絵理子〜」【解】【字】</title>
+    <desc lang="ja_JP">デザイナーの山口絵理子さんは、働く場と喜びを持ってもらおうとバングラデシュでバッグ製造工場を経営している。子どもたちに折鶴を作らせる中で働く楽しさを伝える。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927194800 +0900" stop="20130927195000 +0900" channel="26">
+    <title lang="ja_JP">ミニスキュル〜小さなムシの物語〜「鼻をめぐる戦い」</title>
+    <desc lang="ja_JP">フランスのＣＧアニメ。主人公は昆虫たち。美しい田園風景が広がるフランスの片田舎を舞台に、昆虫たちの激しいコミカル・ドラマが展開されていく…。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130927195000 +0900" stop="20130927195800 +0900" channel="26">
+    <title lang="ja_JP">いじめをノックアウト　第８回「“ケータイ”でいじめが起きるとき」【解】【字】</title>
+    <desc lang="ja_JP">ＡＫＢ４８の高橋みなみさんと一緒に“いじめ”について考えるシリーズ第８回。携帯電話やスマートフォンで起きる“ネットいじめ”。トラブルに巻き込まれないためには…？</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927195800 +0900" stop="20130927200000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927200000 +0900" stop="20130927204500 +0900" channel="26">
+    <title lang="ja_JP">団塊スタイル「女性を輝かせる服選び〜ファッションアドバイザー佐藤恵子〜」【解】【字】</title>
+    <desc lang="ja_JP">今回は、シニア女性のファッションアドバイザーとして活躍する、佐藤恵子さんの生き方に迫る。上手な着こなし方や色づかいなど、女性を輝かせるための工夫などを伺う。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927204500 +0900" stop="20130927210000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ手話ニュース８４５【手】</title>
+    <desc lang="ja_JP">【キャスター】那須英彰，赤堀仁美</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927210000 +0900" stop="20130927213000 +0900" channel="26">
+    <title lang="ja_JP">バリバラ〜障害者情報バラエティー〜「ネガティブのつぶやき」【解】【字】</title>
+    <desc lang="ja_JP">今回は「ネガティブのつぶやき」。統合失調症や強迫性障害など「障害ゆえに明るくなれない、でも分かってほしい」という障害者たち。彼らの心の声に耳を傾ける。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927213000 +0900" stop="20130927215500 +0900" channel="26">
+    <title lang="ja_JP">グレーテルのかまど・選「ひげのサムエルのローリー・ポーリー・プディング」【字】【デ】</title>
+    <desc lang="ja_JP">「絵本の宝石」とたたえられる「ピーターラビット」のシリーズの中に珍しいお菓子が登場するのをご存じ？「ローリーポーリープディング」という名のそのお菓子の正体とは？</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927215500 +0900" stop="20130927220000 +0900" channel="26">
+    <title lang="ja_JP">趣味の園芸ビギナーズ　観葉植物と涼しく暮らそう　１２の扉「ゴムの木」【字】</title>
+    <desc lang="ja_JP">５０年代に流行したゴムの木。種類も増えて今また人気。近年は気に入った枝の形を選んで購入する人も増えている。形を整えるための剪（せん）定の方法なども紹介する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927220000 +0900" stop="20130927230000 +0900" channel="26">
+    <title lang="ja_JP">にっぽんの芸能「昭和の名作舞踊を楽しむ　舞踊“豊後道成寺”」</title>
+    <desc lang="ja_JP">道成寺伝説を元に昭和５０年代に発表された舞踊「豊後道成寺」を紹介。出演は中村梅彌、丸茂祐佳ほか。木村孝の「付け下げ」の着物紹介や貴重な能面の復元の話題も紹介。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927230000 +0900" stop="20130927235500 +0900" channel="26">
+    <title lang="ja_JP">７年ごとの記録「２８歳になりました」（後編）【字】</title>
+    <desc lang="ja_JP">【語り】長塚圭史</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927235500 +0900" stop="20130928000000 +0900" channel="26">
+    <title lang="ja_JP">Ｅテレ２３５５</title>
+    <desc lang="ja_JP">きょうの終わりにほっとひといき。『２３５５』は、見ると気持ちよくリラックスできる、おやすみ前にぴったりの５分番組です。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130928000000 +0900" stop="20130928001500 +0900" channel="26">
+    <title lang="ja_JP">名作ホスピタル　公開収録スペシャルｗｉｔｈ園田学園女子大学「理想の朝食」</title>
+    <desc lang="ja_JP">兵庫県尼崎市での公開収録第２弾。園田学園女子大学の皆さんとアニメ「じゃりン子チエ」を題材に朝食について考える。学生が考えた短時間で出来る理想の朝ごはんを紹介。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928001500 +0900" stop="20130928004500 +0900" channel="26">
+    <title lang="ja_JP">ティーンズプロジェクト　フレ☆フレ「遠くへ行きたい〜１週間の自転車冒険記〜」【字】【再】</title>
+    <desc lang="ja_JP">自転車の日本一周旅行に憧れる高校１年生！初めての「一人旅」に挑戦する。大宮を出発して房総半島を一週間で一周する３５０キロの旅。思っても見ない困難の数々が襲う！？</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928004500 +0900" stop="20130928014500 +0900" channel="26">
+    <title lang="ja_JP">ＥＴＶ特集「“復興”はしたけれど〜神戸　新長田再開発・１９年目の現実〜」【字】【再】</title>
+    <desc lang="ja_JP">阪神・淡路大震災で深刻な被害を受けた神戸市新長田。市の再開発事業で生まれ変わった街でいま商店主たちが苦境に立たされている。いったい何があったのか。復興とは何か？</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928014500 +0900" stop="20130928050000 +0900" channel="26">
+    <title lang="ja_JP">放送休止</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928050000 +0900" stop="20130928052000 +0900" channel="26">
+    <title lang="ja_JP">ニュースで英会話　▽ＩＯＣ総会で２０２０年東京五輪　決定【再】</title>
+    <desc lang="ja_JP">旬の話題を、英語で表現する力を身につけるクロスメディア番組。今回は東京オリンピックが決まったことを受けて、ＩＯＣ総会での英語プレゼンテーションなどを扱う。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928052000 +0900" stop="20130928053000 +0900" channel="26">
+    <title lang="ja_JP">おとなの基礎英語「Ｓｅａｓｏｎ２　Ｅｐｉｓｏｄｅ９７」</title>
+    <desc lang="ja_JP">海外旅行などでちょっと英語を使ってみたい、というおとな向けの基礎英語。毎回１つの表現を身につければ、英語の世界がぐっと広がるはず。出演は坂下千里子・肘井美佳ほか</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928053000 +0900" stop="20130928054000 +0900" channel="26">
+    <title lang="ja_JP">おとなの基礎英語「Ｓｅａｓｏｎ２　Ｅｐｉｓｏｄｅ９８」</title>
+    <desc lang="ja_JP">海外旅行などでちょっと英語を使ってみたい、というおとな向けの基礎英語。毎回１つの表現を身につければ、英語の世界がぐっと広がるはず。出演は坂下千里子・肘井美佳ほか</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928054000 +0900" stop="20130928055000 +0900" channel="26">
+    <title lang="ja_JP">おとなの基礎英語「Ｓｅａｓｏｎ２　Ｅｐｉｓｏｄｅ９９」</title>
+    <desc lang="ja_JP">海外旅行などでちょっと英語を使ってみたい、というおとな向けの基礎英語。毎回１つの表現を身につければ、英語の世界がぐっと広がるはず。出演は坂下千里子・肘井美佳ほか</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928055000 +0900" stop="20130928060000 +0900" channel="26">
+    <title lang="ja_JP">おとなの基礎英語　＜終＞「Ｓｅａｓｏｎ２　Ｅｐｉｓｏｄｅ１００」</title>
+    <desc lang="ja_JP">海外旅行などでちょっと英語を使ってみたい、というおとな向けの基礎英語。毎回１つの表現を身につければ、英語の世界がぐっと広がるはず。出演は坂下千里子・肘井美佳ほか</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928060000 +0900" stop="20130928062500 +0900" channel="26">
+    <title lang="ja_JP">テレビでハングル講座　第２４課「可能と不可能の表現をマスターしよう！」</title>
+    <desc lang="ja_JP">「可能・不可能の表現」を学ぶ。２ＰＭフレーズは「オヌッチョギチョアヨ？（どちらがいいですか）」。更なる表現や会話のコツを学ぶ「ステップアップ」のコーナーも。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928062500 +0900" stop="20130928063500 +0900" channel="26">
+    <title lang="ja_JP">テレビ体操【字】</title>
+    <desc lang="ja_JP">西川佳克，【ピアノ】加藤由美子</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130928063500 +0900" stop="20130928064300 +0900" channel="26">
+    <title lang="ja_JP">いじめをノックアウト　第１０回「最後にぜったい忘れないでほしいこと」【解】【字】</title>
+    <desc lang="ja_JP">最後は、高橋みなみさんから大切なメッセージ。過去のいじめのせいで、今も心に大きな傷を負っている人たちからの手紙を紹介。いじめは人の一生を変えてしまうこともある…</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928064300 +0900" stop="20130928064500 +0900" channel="26">
+    <title lang="ja_JP">Ｎコン８０・いっしょに歌おう</title>
+    <desc lang="ja_JP">嵐がプロジェクトリーダーを務めるＮコン８０「いっしょに歌おう」。嵐による「ふるさと」と、全国のＮコン・コンクール会場での小学生の歌声をお届けする。【出演】嵐</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130928064500 +0900" stop="20130928070000 +0900" channel="26">
+    <title lang="ja_JP">しぜんとあそぼ「たんぼのいきもの」</title>
+    <desc lang="ja_JP">自然と縁遠くなったといわれる子どもたちに身近な生きものたちの生態をていねいに紹介し、生きものへの優しい気持ちと、自然の不思議や命の輝きに対する好奇心を育みます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928070000 +0900" stop="20130928071500 +0900" channel="26">
+    <title lang="ja_JP">デザインあ（５２）</title>
+    <desc lang="ja_JP">身の回りに当たり前に存在しているモノを「デザイン」の視点から見つめ、斬新な映像手法と音楽で表現。「デザインの面白さ」を伝え「デザイン的な視点と感性」を育みます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928071500 +0900" stop="20130928073000 +0900" channel="26">
+    <title lang="ja_JP">モリゾー・キッコロ　森へいこうよ！「鳴く虫の“神セブン”を探せ！」</title>
+    <desc lang="ja_JP">最強のアイドルグループが誕生！その名も「ＡＫＮ（あきのなくむし）４８」だ。今回は、中でも「神セブン」と呼ばれる鳴く虫たちを徹底捜索！さあ、虫の声に耳を傾けよう！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928073000 +0900" stop="20130928074500 +0900" channel="26">
+    <title lang="ja_JP">ノージーのひらめき工房「ふでのつかい方」</title>
+    <desc lang="ja_JP">４〜５歳児からの子ども達に向けた工作・造形あそびの番組です。身の回りの出来事や材料をよく観察し、自分なりのひらめきで自由に作品を生み出す楽しさを伝えます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928074500 +0900" stop="20130928080000 +0900" channel="26">
+    <title lang="ja_JP">ピタゴラスイッチ「“クネクネだいさくせん”のまき」</title>
+    <desc lang="ja_JP">不思議な構造や面白い考え方など、“子どもにとっての「なるほど！」”を紹介。今回は「クネクネだいさくせん　のまき」。そのほか「しめじソート」など。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928080000 +0900" stop="20130928082400 +0900" channel="26">
+    <title lang="ja_JP">おかあさんといっしょ　あつまれ！土曜日「名取ファミリーコンサート」【字】</title>
+    <desc lang="ja_JP">きょうの「あつまれ！土曜日」は「ファミリーコンサート名取公演２０１２」の模様をアンコール放送する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928082400 +0900" stop="20130928082500 +0900" channel="26">
+    <title lang="ja_JP">パッコロリン「水まき」【字】</title>
+    <desc lang="ja_JP">まる・さんかく・しかくの顔かたちをした元気な３きょうだい、パックン、リン、コロン。楽しく遊ぶ中から、いろいろな発見をします。【声】折笠愛、水沢史絵、かないみか</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130928082500 +0900" stop="20130928083500 +0900" channel="26">
+    <title lang="ja_JP">ムジカ・ピッコリーノ「プレゼント」【字】</title>
+    <desc lang="ja_JP">ムジカ・ピッコリーノ　〜プレゼント〜【出演】浜野謙太、斎藤アリーナ、山口康智、サンコンＪｒ．、ＲＯＬＬＹ、森啓一郎【ナレーション】リリー・フランキー</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130928083500 +0900" stop="20130928090000 +0900" channel="26">
+    <title lang="ja_JP">アニメ　おさるのジョージ「カーテンあけて、しめて」「妖精になりたい」【二】【字】</title>
+    <desc lang="ja_JP">世界中で半世紀にわたって、親から子へと親しまれてきた人気絵本「ひとまねこざる」「おさるのジョージ」が原作のテレビアニメシリーズ。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130928090000 +0900" stop="20130928092000 +0900" channel="26">
+    <title lang="ja_JP">アニメ　ひつじのショーン「トラブルトラクター」ほか【字】</title>
+    <desc lang="ja_JP">「トラブルトラクター」「ここほれ！メェーメェー」「ビッツァーのムシ歯」の３エピソード　〜アードマン・アニメーション制作〜</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130928092000 +0900" stop="20130928093000 +0900" channel="26">
+    <title lang="ja_JP">アニメ　はなかっぱ「おふろのヒミツ」「ふわ吉とマスターカッパー」</title>
+    <desc lang="ja_JP">頭の上に花が咲くかっぱ「はなかっぱ」と個性豊かな仲間達、そして謎の花「わか蘭」を狙う黒羽屋蝶兵衛一味が、緑いっぱいの「やまびこ村」で、てんやわんやの大騒ぎ！</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130928093000 +0900" stop="20130928095500 +0900" channel="26">
+    <title lang="ja_JP">すイエんサー「東北大学からの挑戦状！完結編！！」【字】【再】</title>
+    <desc lang="ja_JP">知力の格闘技。東北大“サイエンス・エンジェル”とすイエんサーガールズの女性対決ついに決着！手に汗握るギリギリの接戦で緊急事態発生！衝撃の結末に吉木りさも大感動！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928095500 +0900" stop="20130928100000 +0900" channel="26">
+    <title lang="ja_JP">リトル・チャロ４（日本語版）「Ｅｐ２４　夢かなう時」【字】</title>
+    <desc lang="ja_JP">子犬が主人公のアニメ「リトル・チャロ」の第４弾。今度はチャロがＮＹで映画に出演することになった！そこで繰り広げられる感動のストーリー。その日本語版。声：純名里沙</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928100000 +0900" stop="20130928103000 +0900" channel="26">
+    <title lang="ja_JP">テストの花道「勝つ面接へ！３つの極意」【字】【再】</title>
+    <desc lang="ja_JP">ＡＯ推薦入試攻略第１弾！志望理由書・面接で差をつける極意「キッチリ・スッキリ・ドッシリ」を伝授！さらに志望理由作成に役立つ新ツール＆入試担当による覆面座談会も！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928103000 +0900" stop="20130928110000 +0900" channel="26">
+    <title lang="ja_JP">Ｅダンスアカデミー「第２３回」【字】【再】</title>
+    <desc lang="ja_JP">ＥＸＩＬＥがダンスをわかりやすくレクチャーするプログラムの２３回目！ＥＸＩＬＥのヒット曲を使ってダンスのコツを完全伝授！　主任講師：ＵＳＡ　講師：ＴＥＴＳＵＹＡ</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928110000 +0900" stop="20130928112000 +0900" channel="26">
+    <title lang="ja_JP">テレビで基礎英語　続・発音だけならネイティブ並み！「決勝は日本名物“舞妓”対決」</title>
+    <desc lang="ja_JP">あの基礎英語がついにテレビに登場！面白トレーニングで英語を身につけよう！くみっきー（舟山久美子）、小籔千豊、まえだまえだ、田尻悟郎（関西大学・大学院教授）ほか</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928112000 +0900" stop="20130928114000 +0900" channel="26">
+    <title lang="ja_JP">東北発☆未来塾▽まちづくりのチカラ　西郷流　ライフスタイルのブランド化とは【解】【字】【再】</title>
+    <desc lang="ja_JP">まちづくりは建物を建てたら終わりではない。ライフスタイルのブランド化をするとまちが生き生きしてくる。でもライフスタイルのブランド化って何？【ナレーター】瀧本美織</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928114000 +0900" stop="20130928120000 +0900" channel="26">
+    <title lang="ja_JP">週間手話ニュース【手】</title>
+    <desc lang="ja_JP">この１週間の日本・世界で起きた出来事は？おもなニュースをコンパクトに紹介します。※放送するテーマは、決まり次第。掲載します。【キャスター】戸田康之・河合祐三子</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928120000 +0900" stop="20130928122500 +0900" channel="26">
+    <title lang="ja_JP">あしたをつかめ〜しごともくらしも〜「鉄道会社・駅係員」【字】【再】</title>
+    <desc lang="ja_JP">ＪＲ奈良駅で働く工藤祐輔さん（２８歳）は入社６年目の駅係員。乗客への対応も手慣れたもの。実は運転士志望だった工藤さんが希望とは違う任務の中で知ったやりがいとは？</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928122500 +0900" stop="20130928123000 +0900" channel="26">
+    <title lang="ja_JP">Ｎスペ５ｍｉｎ．「マネー動乱〜リーマンショック５年〜」</title>
+    <desc lang="ja_JP">多忙な人向けにＮＨＫスペシャルを５分に凝縮した当番組。金融緩和の縮小に転じたアメリカと、金融システム改革に着手した中国の狭間で翻弄される現場をドキュメントする。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928123000 +0900" stop="20130928130000 +0900" channel="26">
+    <title lang="ja_JP">サイエンスＺＥＲＯ▽コミュニケーションの根源に迫る自閉症スペクトラム最新研究【字】【再】</title>
+    <desc lang="ja_JP">コミュニケーション全盛の現代社会に、対人関係に悩む人たちが急増中！意外にも赤ちゃん時代の「あるもの」の使い方が、その後の人生を大きく左右することが分かってきた。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928130000 +0900" stop="20130928140000 +0900" channel="26">
+    <title lang="ja_JP">こころの時代〜宗教・人生〜「“源氏物語”と歩む」【再】</title>
+    <desc lang="ja_JP">源氏物語研究の第一人者、秋山虔さん。９０歳の今も教壇に立つ。戦時中の自分を反省すべく源氏物語に取り組んだ秋山さんは、作中の人物像と紫式部の人生観にとらえられた。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928140000 +0900" stop="20130928140500 +0900" channel="26">
+    <title lang="ja_JP">ムジカ・ピッコリーノ　カルテ</title>
+    <desc lang="ja_JP">ムジカ・ピッコリーノ　カルテ　【出演】浜野謙太、天内千尋、山口康智　“音楽”モンストロを救うピッコリーノ号、その活動報告を紹介するミニ番組。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130928140500 +0900" stop="20130928143000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ短歌　短歌ｄｅ胸キュン「秋の増刊号」（前編）【字】</title>
+    <desc lang="ja_JP">初心者向け短歌講座「短歌ｄｅ胸キュン」。今回は秋の増刊号と題して、佐渡島へ。トキの観察を行っている小学校を訪ね、小学生と一緒に短歌を詠む。出演　スピードワゴン</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928143000 +0900" stop="20130928170000 +0900" channel="26">
+    <title lang="ja_JP">第８０回ＮＨＫ全国学校音楽コンクール　関東甲信越ブロックコンクール　ハイライト</title>
+    <desc lang="ja_JP">ＮＨＫ全国学校音楽コンクール、通称Ｎコン。９月７日、８日に行われた関東甲信越ブロックコンクールの小学校、中学校、高等学校の三部門の合唱をハイライトでお届けする。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130928170000 +0900" stop="20130928180000 +0900" channel="26">
+    <title lang="ja_JP">第６８回国民体育大会〜スポーツ祭東京２０１３〜　開会式</title>
+    <desc lang="ja_JP">［延伸のとき以降の番組に変更あり］</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130928180000 +0900" stop="20130928180500 +0900" channel="26">
+    <title lang="ja_JP">ミニスキュル〜小さなムシの物語〜「くつろぎのリビング」</title>
+    <desc lang="ja_JP">フランスのＣＧアニメ。主人公は昆虫たち。美しい田園風景が広がるフランスの片田舎を舞台に、昆虫たちの激しいコミカル・ドラマが展開されていく…。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130928180500 +0900" stop="20130928181000 +0900" channel="26">
+    <title lang="ja_JP">ミニスキュル〜小さなムシの物語〜「知恵くらべ」</title>
+    <desc lang="ja_JP">フランスのＣＧアニメ。主人公は昆虫たち。美しい田園風景が広がるフランスの片田舎を舞台に、昆虫たちの激しいコミカル・ドラマが展開されていく…。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130928181000 +0900" stop="20130928181500 +0900" channel="26">
+    <title lang="ja_JP">びじゅチューン！「あしゅらコーラス」</title>
+    <desc lang="ja_JP">世界の美術をオリジナルの歌とアニメで紹介する番組「びじゅチューン！」。第１回目は３つの顔を持つ仏像が歌い踊る「あしゅらコーラス」。ポップな曲と映像がヘビロテ！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928181500 +0900" stop="20130928182000 +0900" channel="26">
+    <title lang="ja_JP">びじゅチューン！「委員長はヴィーナス」</title>
+    <desc lang="ja_JP">世界の美術をオリジナルの歌とアニメで紹介する番組「びじゅチューン！」。第２回目は「委員長はヴィーナス」。ボッティチェリが描いたヴィーナスが学級委員長だったら？？</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928182000 +0900" stop="20130928182500 +0900" channel="26">
+    <title lang="ja_JP">びじゅチューン！「風神雷神図屏風デート」</title>
+    <desc lang="ja_JP">世界の美術をオリジナルの歌とアニメで紹介する番組「びじゅチューン！」。第３回目「風神雷神図屏風デート」は、金屏風の中のキンキラの世界で展開されるふたりの恋物語。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928182500 +0900" stop="20130928185000 +0900" channel="26">
+    <title lang="ja_JP">アイ・カーリー（９９）「ハロウィーンやるぞ」【二】【字】</title>
+    <desc lang="ja_JP">大人気！『ｉＣａｒｌｙ』最新シーズン。ハロウィーンまであと半年…そんなに待てない！だったらハロウィーン中間パーティー盛大にやろう。その名も「ハーフォウィーン」！</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130928185000 +0900" stop="20130928190000 +0900" channel="26">
+    <title lang="ja_JP">プレキソ英語「あなたのラッキーアニマルは？」【解】</title>
+    <desc lang="ja_JP">小学生のための英語番組。好奇心旺盛なＡｈｈとＺｅｅが世界を旅して、不思議を発見する。色・形・数など簡単な英語でどんどん世界を広げていく。英語アニメも必見！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928190000 +0900" stop="20130928194500 +0900" channel="26">
+    <title lang="ja_JP">地球ドラマチック「大忙し！海の動物病院」【二】【字】</title>
+    <desc lang="ja_JP">米・サンフランシスコに傷ついた野生のアザラシやアシカの治療を専門とする世界でも珍しい動物病院がある。環境汚染の犠牲となった動物たちが次々と運び込まれる…。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928194500 +0900" stop="20130928195500 +0900" channel="26">
+    <title lang="ja_JP">大科学実験「水のナイフ」【字】</title>
+    <desc lang="ja_JP">水鉄砲で水を勢いよく押し出すと、小さな水車を回すことができる。押し出す力を強くしていけば、物を動かしたり、リンゴを切ったりすることもできるだろうか。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928195500 +0900" stop="20130928200000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ手話ニュース【手】</title>
+    <desc lang="ja_JP">【キャスター】田中清</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928200000 +0900" stop="20130928204500 +0900" channel="26">
+    <title lang="ja_JP">チョイス＠病気になったとき「心筋梗塞が起きたら」【字】</title>
+    <desc lang="ja_JP">心臓が突然止まり、命を奪う怖い「心筋梗塞」。心臓の血管が詰まるのが原因だ。心筋梗塞が起こるのを防ぐ手段は？起きた際の治療方法は？あなたの命を守る選択肢を紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928204500 +0900" stop="20130928205000 +0900" channel="26">
+    <title lang="ja_JP">楽ラクワンポイント介護「湯船から出る時の移乗法〜手足の力がある人の場合〜」【字】</title>
+    <desc lang="ja_JP">シリーズ「お風呂での介助」その６は、比較的手足の力がある人を、湯船から出すときの移乗法。介護する側にもされる側にも負担の少ない方法を伝える。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928205000 +0900" stop="20130928205500 +0900" channel="26">
+    <title lang="ja_JP">モタさんの“言葉”　第３３話「“自分だけが”と思わず、“相手だって”と思う」</title>
+    <desc lang="ja_JP">精神科医の斎藤茂太さんは、「人を妬んだところで何も生まれてこない。妬むぐらいなら大いに悔しがり、それを起爆力にして、自分も飛躍するエネルギーにしよう」と語る。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928205500 +0900" stop="20130928210000 +0900" channel="26">
+    <title lang="ja_JP">みんなのうたリクエスト「秋物語」「トゥモロウズ　ソング」</title>
+    <desc lang="ja_JP">▽「秋物語」うた：尾崎紀世彦　／▽「トゥモロウズ　ソング」うた：ＧＯＩＮＧ　ＵＮＤＥＲ　ＧＲＯＵＮＤ</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130928210000 +0900" stop="20130928213000 +0900" channel="26">
+    <title lang="ja_JP">エデュカチオ！「親子で学ぼう　危険から身を守る力」【字】</title>
+    <desc lang="ja_JP">子育てや教育に関するニュースに関心が高まる今、尾木ママこと尾木直樹さん、２人の子どものパパ、東山紀之さんとともに、保護者の疑問や不安を解消していく番組です。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928213000 +0900" stop="20130928220000 +0900" channel="26">
+    <title lang="ja_JP">ららら♪クラシック「笑って聴くとも！〜オッフェンバックの“天国と地獄”〜」【字】</title>
+    <desc lang="ja_JP">今回はオッフェンバックの喜歌劇「天国と地獄」。１９世紀のフランス社会の矛盾や偽善を笑いをつかって鋭く風刺したオッフェンバック！彼の笑いにこめた思いに迫る！</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130928220000 +0900" stop="20130928230000 +0900" channel="26">
+    <title lang="ja_JP">ＳＷＩＴＣＨインタビュー　達人達（たち）「ＴＡＯ×菊地成孔」【字】</title>
+    <desc lang="ja_JP">ハリウッド映画デビューを果たし注目の日本人トップモデルＴＡＯと、博覧強記のジャズミュージシャン菊地成孔。業界のし烈な舞台裏、ファッションと音楽の意外な関係とは？</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928230000 +0900" stop="20130929000000 +0900" channel="26">
+    <title lang="ja_JP">ＥＴＶ特集「海の放射能に立ちむかった日本人〜ビキニ事件と俊鶻丸〜」【字】</title>
+    <desc lang="ja_JP">今から５９年前、ビキニ水爆実験の放射能汚染を調査するため、日本の若き科学者たちが太平洋に乗り出した。世界で初めて海の放射能汚染の実態を解明した科学者たちの物語。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929000000 +0900" stop="20130929010000 +0900" channel="26">
+    <title lang="ja_JP">新世代が解く！ニッポンのジレンマ【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929010000 +0900" stop="20130929011500 +0900" channel="26">
+    <title lang="ja_JP">テクネ　映像の教室「ｖｏｌ．３　マルチスクリーン」【再】</title>
+    <desc lang="ja_JP">クリエイターの卵や映像に興味を持つ若い人に向けた新感覚の体験型クリエイティブ・エデュケーション番組。３回目は「マルチスクリーン」の技法をつかった新作制作に挑む。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929011500 +0900" stop="20130929013000 +0900" channel="26">
+    <title lang="ja_JP">テクネ　映像の教室「ｖｏｌ．２　影」【再】</title>
+    <desc lang="ja_JP">クリエイターの卵や映像に興味を持つ若い人に向けた新感覚の体験型クリエイティブ・エデュケーション番組。２回目は「影」を生かした技法の奥深さ・多様さに触れる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929013000 +0900" stop="20130929014500 +0900" channel="26">
+    <title lang="ja_JP">テクネ　映像の教室「サンプリング」【再】</title>
+    <desc lang="ja_JP">映像に興味を持つ若い人たちに贈る体験型クリエイティブ・エデュケーション番組。「サンプリング」の技法を使った古今東西のかっこいい映像が登場。気鋭の作家の新作も！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929014500 +0900" stop="20130929050000 +0900" channel="26">
+    <title lang="ja_JP">放送休止</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929050000 +0900" stop="20130929060000 +0900" channel="26">
+    <title lang="ja_JP">こころの時代〜宗教・人生〜「国境なき“針と糸”」</title>
+    <desc lang="ja_JP">アフガニスタン出身の医師レシャード・カレッドさんは、静岡県島田市の無医村老人医療介護に尽力すると共に戦火にまみれた故国への救援活動を続けて来た。その人生を聴く。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929060000 +0900" stop="20130929062500 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ短歌　短歌ｄｅ胸キュン「秋の増刊号」（後編）【字】</title>
+    <desc lang="ja_JP">佐渡島を訪ねる秋の増刊号の後編。一足はやく新米を味わった一行。いよいよトキの観察センターへ。小学生と短歌勝負を繰り広げる。出演　佐伯裕子　スピードワゴン</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929062500 +0900" stop="20130929063500 +0900" channel="26">
+    <title lang="ja_JP">テレビ体操【字】</title>
+    <desc lang="ja_JP">多胡肇，【ピアノ】幅しげみ</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130929063500 +0900" stop="20130929070000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ俳句　俳句さく咲く！　題「記念日」【字】</title>
+    <desc lang="ja_JP">初心者向け俳句講座「俳句さく咲く！」今回のテーマは記念日。俳句に詠む際には、具体的なモノを取り合わせるとよい。９月の記念日を題材に、全員で俳句を詠んでみる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929070000 +0900" stop="20130929072000 +0900" channel="26">
+    <title lang="ja_JP">きかんしゃトーマス「トーマスとコルクのせん」「ヘンリーはあんぜんだいいち」【字】</title>
+    <desc lang="ja_JP">世界的人気を誇る「きかんしゃトーマス」のＴＶシリーズがオールＣＧでパワーアップ！今回の放送は「トーマスとコルクのせん」「ヘンリーはあんぜんだいいち」の２本。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929072000 +0900" stop="20130929072500 +0900" channel="26">
+    <title lang="ja_JP">アニメ　おしりかじり虫（３）「大ピンチ、かじり虫！？」</title>
+    <desc lang="ja_JP">たーすけ君は、素晴らしいおしりの持ち主で、かじり虫は吸い込まれるようにおしりをかじろうとする。しかし、たーすけ君のおしりには危険なわなが！？そのわなとは？？？</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929072500 +0900" stop="20130929075500 +0900" channel="26">
+    <title lang="ja_JP">あつまれ！ワンワンわんだーらんど【字】</title>
+    <desc lang="ja_JP">ワンワンやうーたんでおなじみの人気幼児番組、「いないいないばあっ！」の出演者などが登場するステージショーのもようを紹介する番組の総集編。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929075500 +0900" stop="20130929080000 +0900" channel="26">
+    <title lang="ja_JP">みんなのうた「カチャーシ☆ブギ」「絵はがき」</title>
+    <desc lang="ja_JP">▽「カチャーシ☆ブギ」うた：きいやま商店　／▽「絵はがき」うた：かとうれい子</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130929080000 +0900" stop="20130929082500 +0900" channel="26">
+    <title lang="ja_JP">趣味の園芸　やさいの時間・選「驚き！保冷バッグでダイコン栽培」【字】</title>
+    <desc lang="ja_JP">＊２０１２年９月１６日のアンコール放送＊ダイコンの袋栽培に挑戦する。プランターの代わりに用いるのは夏のレジャーなどで使う「保冷バッグ」。講師・園芸家　深町貴子。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929082500 +0900" stop="20130929083000 +0900" channel="26">
+    <title lang="ja_JP">趣味の園芸ビギナーズ　観葉植物と涼しく暮らそう　１２の扉「ゴムの木」【字】</title>
+    <desc lang="ja_JP">５０年代に流行したゴムの木。種類も増えて今また人気。近年は気に入った枝の形を選んで購入する人も増えている。形を整えるための剪（せん）定の方法なども紹介する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929083000 +0900" stop="20130929085600 +0900" channel="26">
+    <title lang="ja_JP">趣味の園芸「秋から楽しむ　球根性ベゴニア」【字】</title>
+    <desc lang="ja_JP">人気のベゴニア。秋から楽しめる球根ベゴニア、エラチオールベゴニアを紹介。秋から翌年にかけての管理方法。司会・三上真史／ミニコーナー　玉さん庭をゆく、花信</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929085600 +0900" stop="20130929090000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929090000 +0900" stop="20130929094500 +0900" channel="26">
+    <title lang="ja_JP">日曜美術館「聖者のような芸術家になりたい〜夭折（ようせつ）の画家・石田徹也〜」【字】</title>
+    <desc lang="ja_JP">３１歳の若さでようせつした画家、石田徹也。現代社会に生きる人々の姿を鋭く風刺した作品は多くの人々に衝撃を与えてきた。絵に命を捧げた石田の人生と絵の秘密を読み解く</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929094500 +0900" stop="20130929100000 +0900" channel="26">
+    <title lang="ja_JP">日曜美術館　アートシーン　▽“ミケランジェロ展―天才の軌跡”展　ほか【字】</title>
+    <desc lang="ja_JP">「ミケランジェロ展―天才の軌跡」（国立西洋美術館　９月６日〜１１月１７日）ほか、展覧会情報</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929100000 +0900" stop="20130929103000 +0900" channel="26">
+    <title lang="ja_JP">将棋フォーカス「角交換型（３）“逆棒銀”で飛車先を逆襲」</title>
+    <desc lang="ja_JP">将棋の総合情報番組。「特集」では旬な話題、人物など…。あなたが知りたい様々な将棋界の話題を取り上げます。「将棋講座」はあなたの棋力向上に役立つことうけあいです。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929103000 +0900" stop="20130929120000 +0900" channel="26">
+    <title lang="ja_JP">第６３回　ＮＨＫ杯テレビ将棋トーナメント「２回戦・第８局」</title>
+    <desc lang="ja_JP">ＮＨＫ杯テレビ将棋トーナメントは、トップ棋士たち５０名がトーナメント方式で戦う早指し棋戦。昨年の優勝者は渡辺明ＮＨＫ杯。２０１４年３月まで熱戦が繰り広げられる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929120000 +0900" stop="20130929123000 +0900" channel="26">
+    <title lang="ja_JP">囲碁フォーカス「マジカル手筋腕試し（前期）」</title>
+    <desc lang="ja_JP">４月に開講した「万波姉妹の明日は勝てるマジカル手筋」。半年に渡ってさまざまな手筋を紹介してきたが、身についているか、高杉瑞穂さんと一緒に練習問題にチャレンジ！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929123000 +0900" stop="20130929140000 +0900" channel="26">
+    <title lang="ja_JP">第６１回　ＮＨＫ杯テレビ囲碁トーナメント「２回戦・第７局」</title>
+    <desc lang="ja_JP">５０名のトップ棋士がトーナメント方式で戦う早碁棋戦。今年度で６１回目。２回戦第７局は井山裕太棋聖と青木喜久代八段の対戦。来年３月まで熱戦が繰り広げられる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929140000 +0900" stop="20130929143000 +0900" channel="26">
+    <title lang="ja_JP">日本の話芸　講談「蘇生奇談」【解】【字】</title>
+    <desc lang="ja_JP">一龍斎貞水で、講談「蘇生奇談」を放送する</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929143000 +0900" stop="20130929150000 +0900" channel="26">
+    <title lang="ja_JP">テレビスポーツ教室「バドミントン」（１）</title>
+    <desc lang="ja_JP">「バドミントン」シリーズの１回目、講師は「オグシオペア」の小椋久美子さん。「サーブレシーブで主導権を奪え」をテーマに、世界で活躍した小椋さんが様々な極意を伝授。</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130929150000 +0900" stop="20130929154500 +0900" channel="26">
+    <title lang="ja_JP">“熱闘！ぶつかりあう１７音”〜俳句甲子園２０１３〜【字】</title>
+    <desc lang="ja_JP">愛媛県松山市で行われる高校生俳句全国大会「俳句甲子園」。学校生活や恋、東日本大震災、夢や不安、若者が言葉をひねり出し作り上げた「珠玉の１７音」。熱き闘いに密着。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929154500 +0900" stop="20130929155000 +0900" channel="26">
+    <title lang="ja_JP">ガールズクラフト「華やか！ヘッドアクセ」【字】</title>
+    <desc lang="ja_JP">モデルのニコルが女の子に向けてかわいいアイテムの手作り方法を教える番組。今回はひまわりの造花を組み合わせたヘッドアクセサリーの作り方を紹介する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929155000 +0900" stop="20130929155500 +0900" channel="26">
+    <title lang="ja_JP">ガールズクラフト「本物そっくり！スイーツのスマホケース」【字】</title>
+    <desc lang="ja_JP">モデルのニコルが女の子に向けてかわいいアイテムの手作り方法を伝える番組。今回はスイーツにみたてたアイテムで飾ったスマホケースの作り方を紹介する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929155500 +0900" stop="20130929155700 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929155700 +0900" stop="20130929160000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929160000 +0900" stop="20130929170000 +0900" channel="26">
+    <title lang="ja_JP">ＳＷＩＴＣＨインタビュー　達人達（たち）・選「宮崎駿×半藤一利」【字】</title>
+    <desc lang="ja_JP">零戦の設計者という実在の人物を主人公に、初めてリアリズムに挑んだ映画監督・宮崎駿と、歴史探偵・半藤一利。二人が読み解く「昭和」、現代に投げかけるメッセージとは？</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929170000 +0900" stop="20130929173000 +0900" channel="26">
+    <title lang="ja_JP">あつまれ！ワンワンわんだーらんど【字】【再】</title>
+    <desc lang="ja_JP">ワンワンやうーたんでおなじみの人気幼児番組、「いないいないばあっ！」の出演者などが登場するステージショーのもようを紹介する番組の総集編。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929173000 +0900" stop="20130929175500 +0900" channel="26">
+    <title lang="ja_JP">秋のＥテレアニメスペシャル〜ログ・ホライズン＆ファイブレイン【字】</title>
+    <desc lang="ja_JP">１０月からＥテレでスタートする新作アニメ「ログ・ホライズン」と「ファイ・ブレイン（第３シリーズ）」の見どころやキャラクターをたっぷり紹介！</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929175500 +0900" stop="20130929180000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929180000 +0900" stop="20130929183000 +0900" channel="26">
+    <title lang="ja_JP">猫のしっぽ　カエルの手〜京都大原　ベニシアの手づくり暮らし〜「移りゆく季節」【字】</title>
+    <desc lang="ja_JP">秋薫る京都、大原。ベニシアさんは今年最後のバジルを収穫し保存用のペストソースを作る。ブルーベリー農家の友人岩田康子さんを訪ね、種苗店では来年の庭を飾る苗を選ぶ。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929183000 +0900" stop="20130929184000 +0900" channel="26">
+    <title lang="ja_JP">学ぼう　ＢＯＳＡＩ（防災）「防災ホームドクター〜鹿児島大学准教授　井村隆介」【解】【字】</title>
+    <desc lang="ja_JP">２０１１年の九州の新燃岳大噴火で鹿児島大学准教授の井村隆介さんは、地元の人達に火山の危険性を伝え命を守った。防災ホームドクターとも呼ばれる井村博士の活動を紹介。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929184000 +0900" stop="20130929190000 +0900" channel="26">
+    <title lang="ja_JP">テレビで基礎英語　続・発音だけならネイティブ並み！</title>
+    <desc lang="ja_JP">あの基礎英語がついにテレビに登場！面白トレーニングで英語を身につけよう！くみっきー（舟山久美子）、小籔千豊、まえだまえだ、田尻悟郎（関西大学・大学院教授）ほか</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929190000 +0900" stop="20130929192500 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫみんなの手話「手話で話しかけられたら」【字】</title>
+    <desc lang="ja_JP">初級の手話を学ぶための番組。スキットに基づいて基本の手話表現を学ぶほか、絵本を手話で語るコーナー、手話の魅力やろう者の暮らしについて紹介するコーナーなどで構成。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929192500 +0900" stop="20130929193000 +0900" channel="26">
+    <title lang="ja_JP">ワンポイント手話「強い・弱い」＜字幕スーパー＞</title>
+    <desc lang="ja_JP">「強い」「弱い」の表現がテーマ。今回の例文は「酒に強い」というものだが会話の状況によって手話表現の使い分けが必要となる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929193000 +0900" stop="20130929194500 +0900" channel="26">
+    <title lang="ja_JP">ろうを生きる　難聴を生きる「補聴器の使いこなし術」＜字幕スーパー＞</title>
+    <desc lang="ja_JP">補聴器の発達はめざましくハウリングや騒音などの特定の周波数音の抑制が可能になった。それに伴って補聴器を自分仕様に調整する必要がある。補聴器の使いこなし術を紹介。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929194500 +0900" stop="20130929195500 +0900" channel="26">
+    <title lang="ja_JP">こども手話ウイークリー【手】</title>
+    <desc lang="ja_JP">お父さんお母さんが見るニュースはとても難しい！そんなあなたに見てほしいのがこの番組です。※放送するテーマは決まり次第、掲載します。【キャスター】河合祐三子</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929195500 +0900" stop="20130929200000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ手話ニュース【手】</title>
+    <desc lang="ja_JP">【キャスター】中野佐世子</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929200000 +0900" stop="20130929204500 +0900" channel="26">
+    <title lang="ja_JP">日曜美術館「“手”は無限なり〜第６０回　日本伝統工芸展〜」【字】【再】</title>
+    <desc lang="ja_JP">昭和２９年に始まり今年６０回目を迎える日本伝統工芸展。現代のたくみたちが、最高峰の技を競う美の祭典。今年の受賞作を一挙紹介。工房を訪ね、その手に込めた思いに迫る</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929204500 +0900" stop="20130929210000 +0900" channel="26">
+    <title lang="ja_JP">日曜美術館　アートシーン　▽“ミケランジェロ展―天才の軌跡”展　ほか【字】</title>
+    <desc lang="ja_JP">「ミケランジェロ展―天才の軌跡」（国立西洋美術館　９月６日〜１１月１７日）ほか、展覧会情報</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929210000 +0900" stop="20130929230000 +0900" channel="26">
+    <title lang="ja_JP">古典芸能への招待　歌舞伎「近江源氏先陣館〜盛綱陣屋〜」【多】【字】【デ】</title>
+    <desc lang="ja_JP">歌舞伎座・四月こけら落とし大歌舞伎の舞台から、片岡仁左衛門、中村吉右衛門ほか豪華俳優の出演で歌舞伎の名作「近江源氏先陣館〜盛綱陣屋〜」をお届けする。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929230000 +0900" stop="20130929232600 +0900" channel="26">
+    <title lang="ja_JP">美の壺・選「背広」【字】</title>
+    <desc lang="ja_JP">身近なテーマを中心に、美術鑑賞を３つのツボでわかりやすく指南する新感覚美術番組。今回は「背広」。案内役：草刈正雄</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929232600 +0900" stop="20130929233000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929233000 +0900" stop="20130930000000 +0900" channel="26">
+    <title lang="ja_JP">サイエンスＺＥＲＯ「祝★打ち上げ成功！新型ロケット　イプシロン」【字】</title>
+    <desc lang="ja_JP">日本中が注目したイプシロン・ロケットがついに打ち上げに成功！世界に先駆けた自動化システムで、より安くより早く宇宙探査を可能にしようと挑む舞台裏に密着する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930000000 +0900" stop="20130930004500 +0900" channel="26">
+    <title lang="ja_JP">地球ドラマチック「バングラデシュ“船の学校”で村を救え！」【二】【字】【再】</title>
+    <desc lang="ja_JP">海面上昇で村が次々と水没しているバングラデシュで、水没するなら水上で暮らせばいいと、学校も病院もボートにして浮かべている建築家がいる。彼のアイデアで村は元気に！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930004500 +0900" stop="20130930011000 +0900" channel="26">
+    <title lang="ja_JP">スーパープレゼンテーション「子どもにプログラミングを教えよう」【再】</title>
+    <desc lang="ja_JP">メールやゲームは使い慣れていても、コンピューターのプログラムまでは書けない。そんな子供たちにプログラミングを教えよう。ＭＩＴメディアラボのレズニック教授が訴える</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930011000 +0900" stop="20130930013500 +0900" channel="26">
+    <title lang="ja_JP">オイコノミア「やっぱり欲しい、マイホーム！？」（後編）【字】【再】</title>
+    <desc lang="ja_JP">今、中古のマンションや戸建を全面的に改装し付加価値をつける「リノベーション」が注目されている。これは全国で増えている「空き家」の解消に一役買うと期待されている。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930013500 +0900" stop="20130930053000 +0900" channel="26">
+    <title lang="ja_JP">放送休止</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930053000 +0900" stop="20130930055000 +0900" channel="26">
+    <title lang="ja_JP">テレビで基礎英語　続・発音だけならネイティブ並み！</title>
+    <desc lang="ja_JP">あの基礎英語がついにテレビに登場！面白トレーニングで英語を身につけよう！くみっきー（舟山久美子）、小籔千豊、まえだまえだ、田尻悟郎（関西大学・大学院教授）ほか</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930055000 +0900" stop="20130930060500 +0900" channel="26">
+    <title lang="ja_JP">名作ホスピタル　公開収録スペシャルｗｉｔｈ園田学園女子大学「理想の朝食」【再】</title>
+    <desc lang="ja_JP">兵庫県尼崎市での公開収録第２弾。園田学園女子大学の皆さんとアニメ「じゃりン子チエ」を題材に朝食について考える。学生が考えた短時間で出来る理想の朝ごはんを紹介。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930060500 +0900" stop="20130930062000 +0900" channel="26">
+    <title lang="ja_JP">どうも！にほんご講座です。　第１課「どうも、どうも、どうも」</title>
+    <desc lang="ja_JP">外国人のための初級〜中級向け日本語講座。日本人なら誰でも知っている流行語や名ゼリフを教材に、すぐに使える表現を学ぶ。今回の名ゼリフは『どうも、どうも、どうも』。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930062000 +0900" stop="20130930062500 +0900" channel="26">
+    <title lang="ja_JP">もういちど、日本「路面電車」</title>
+    <desc lang="ja_JP">小さな車両がコトコト走る路面電車。高度成長期にその多くが姿を消したが、エコの観点などから、今ふたたび注目されている。日本各地の特徴的な路面電車を紹介する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930062500 +0900" stop="20130930063500 +0900" channel="26">
+    <title lang="ja_JP">テレビ体操【字】</title>
+    <desc lang="ja_JP">岡本美佳，【ピアノ】加藤由美子</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130930063500 +0900" stop="20130930064000 +0900" channel="26">
+    <title lang="ja_JP">ピタゴラスイッチミニ</title>
+    <desc lang="ja_JP">さまざまな法則や不思議な構造、面白い考え方を、アニメ、歌、体操、ピタゴラ装置など多彩なコーナーで紹介。今回は「ポキポキアニメ」「パタトクカシー」など。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930064000 +0900" stop="20130930064500 +0900" channel="26">
+    <title lang="ja_JP">てれび絵本「かたあしのひよこ」</title>
+    <desc lang="ja_JP">子どもたちが愛する童話・絵本の世界を、その想像性豊かな原画と、音楽、ユニークな読み手で紹介し、「読み聞かせ」の魅力をあらためて子どもたちに伝えます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930064500 +0900" stop="20130930065500 +0900" channel="26">
+    <title lang="ja_JP">すすめ！キッチン戦隊クックルン「イクラ怪人のひみつ」</title>
+    <desc lang="ja_JP">リンゴ・セージ・クミンの三人きょうだい「キッチン戦隊クックルン」が、悪の軍団・ダークイーターズ戦う。今日はイクラの怪人『ザ・イークラーズ』。サケといくらの親子丼</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930065500 +0900" stop="20130930070000 +0900" channel="26">
+    <title lang="ja_JP">Ｅテレ０６５５</title>
+    <desc lang="ja_JP">１日のはじまりをつくる５分番組０６５５。「日めくりアニメ」「おはようソング」などの楽しいコーナーで、あなたを送り出します。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130930070000 +0900" stop="20130930071500 +0900" channel="26">
+    <title lang="ja_JP">シャキーン！</title>
+    <desc lang="ja_JP">登校前にシャキーン！と目覚め、楽しい一日のスタートを切ってもらおうという番組。クイズやアニメにコントなどコーナーが満載！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930071500 +0900" stop="20130930072500 +0900" channel="26">
+    <title lang="ja_JP">アニメ　はなかっぱ「大怪獣バラドン」「はなかっぱのアルバム」</title>
+    <desc lang="ja_JP">頭の上に花が咲くかっぱ「はなかっぱ」と個性豊かな仲間達、そして謎の花「わか蘭」を狙う黒羽屋蝶兵衛一味が、緑いっぱいの「やまびこ村」で、てんやわんやの大騒ぎ！</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130930072500 +0900" stop="20130930073500 +0900" channel="26">
+    <title lang="ja_JP">フックブックロー</title>
+    <desc lang="ja_JP">本屋さんを舞台にパペットと人間が繰り広げるバラエティー。出演：谷本賢一郎　声の出演：中尾隆聖、折笠富美子、天野ひろゆき、浦嶋りんこ　人形操演：人形劇・木ぐつの木</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930073500 +0900" stop="20130930074500 +0900" channel="26">
+    <title lang="ja_JP">えいごであそぼ</title>
+    <desc lang="ja_JP">子どもたちに英語に親しんで、興味を持ってもらうことを目的とした番組。キャラクターのＢＯ（ボー）やＢＥＡ（ビー）と絵本の世界を楽しみながら、自然な英語に触れる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930074500 +0900" stop="20130930080100 +0900" channel="26">
+    <title lang="ja_JP">みいつけた！【字】</title>
+    <desc lang="ja_JP">４〜５歳児を対象とし、「友達と遊ぶ楽しさ」「命の不思議」「出来る喜び」「思いやる気持ち」等さまざまな「発見」を通して楽しむことができる番組です。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930080100 +0900" stop="20130930082400 +0900" channel="26">
+    <title lang="ja_JP">おかあさんといっしょ【字】</title>
+    <desc lang="ja_JP">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930082400 +0900" stop="20130930082500 +0900" channel="26">
+    <title lang="ja_JP">パッコロリン「ちちんぷいぷい」【字】</title>
+    <desc lang="ja_JP">まる・さんかく・しかくの顔かたちをした元気な３きょうだい、パックン、リン、コロン。楽しく遊ぶ中から、いろいろな発見をします。【声】折笠愛、水沢史絵、かないみか</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130930082500 +0900" stop="20130930084000 +0900" channel="26">
+    <title lang="ja_JP">いないいないばあっ！【字】</title>
+    <desc lang="ja_JP">０歳児から２歳児を対象にした番組です。番組の様々なコーナーを通して子どもたちに働きかけ、子どもの様々な可能性と能力を引き出すことをねらいとしています。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930084000 +0900" stop="20130930085000 +0900" channel="26">
+    <title lang="ja_JP">にほんごであそぼ</title>
+    <desc lang="ja_JP">２歳から小学校低学年くらいの子どもと親を対象にコミュニケーション能力や自己表現する感性を育てる番組。今回は、萬斎、うた／草にすわる、村祭り、ちゃわんむしのうた。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930085000 +0900" stop="20130930085500 +0900" channel="26">
+    <title lang="ja_JP">プチプチ・アニメ　王さまものがたり「王さま雲にのる」</title>
+    <desc lang="ja_JP">のんびり屋だけれど好奇心いっぱいの王さま。外の世界には王さまにとって初めてのことがいっぱい。こっそりお城を抜け出して、さあ今日は何をしましょうか？</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130930085500 +0900" stop="20130930090000 +0900" channel="26">
+    <title lang="ja_JP">ミニアニメ　うさぎのモフィ「サンタさんに会いたい」</title>
+    <desc lang="ja_JP">クリスマス・イブ。サンタクロースに会いたいモフィたちは、ケリーの家でサンタが来るのを待つことに。みんなでサンタを見張る持ち場を決め、交代で寝ることにしたが…</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130930090000 +0900" stop="20130930091000 +0900" channel="26">
+    <title lang="ja_JP">おはなしのくに「祭りの晩」【解】【字】</title>
+    <desc lang="ja_JP">作：宮沢　賢治「助けた山男がくれたプレゼントとは？」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930091000 +0900" stop="20130930092000 +0900" channel="26">
+    <title lang="ja_JP">さんすう刑事ゼロ「分数詐欺のトリックを見やぶれ」【字】</title>
+    <desc lang="ja_JP">算数を使い事件を解決するミステリードラマ。舞台は分数で計り売りするケーキ屋。分数の足し算、通分の本当の意味とは？出演：モロ師岡、加藤慶祐、黒瀬純ほか</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930092000 +0900" stop="20130930093000 +0900" channel="26">
+    <title lang="ja_JP">お伝（つた）と伝（でん）じろう「ピンチ！意見が対立」【字】</title>
+    <desc lang="ja_JP">子どもたちが「どうしたら伝わるのか」を考えコミュニケーションスキルを育てる番組。今回のテーマは、話し合い（第二回）。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930093000 +0900" stop="20130930094000 +0900" channel="26">
+    <title lang="ja_JP">おはなしのくにクラシック「古事記“いなばの白うさぎ”」【解】【字】</title>
+    <desc lang="ja_JP">「古事記」から、子どもに親しまれている「いなばの白うさぎ」を原文で読む。また、日本神話の由来について解説する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930094000 +0900" stop="20130930095500 +0900" channel="26">
+    <title lang="ja_JP">ひょうたんからコトバ「うっかり！」【字】</title>
+    <desc lang="ja_JP">小学３〜６年生国語番組。ことわざや故事成語、古典などをとりあげ、子どもたちが「豊かな言葉の使い手」になることをめざす。出演：が〜まるちょば</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930095500 +0900" stop="20130930101000 +0900" channel="26">
+    <title lang="ja_JP">カラフル！〜世界の子どもたち〜「千恵のまいにち日っき」【解】【字】</title>
+    <desc lang="ja_JP">ダウン症の千恵さんは２年前から毎日必ず日記をつけている。そこには大好きな兄や友達のこと、嬉しいことや悔しいこと、千恵さんの気持ちがあふれている。２００９年制作</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930101000 +0900" stop="20130930101500 +0900" channel="26">
+    <title lang="ja_JP">ミクロワールド「精子が泳ぐ　イチョウの不思議」</title>
+    <desc lang="ja_JP">顕微鏡を使って拡大していくと突然開ける意外な世界。美しく鮮明なハイビジョンテレビ顕微鏡の機能を駆使し、生物分野を中心にミクロの世界を描き出す。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930101500 +0900" stop="20130930102500 +0900" channel="26">
+    <title lang="ja_JP">おとなの基礎英語「Ｓｅａｓｏｎ２　Ｅｐｉｓｏｄｅ９７」</title>
+    <desc lang="ja_JP">海外旅行などでちょっと英語を使ってみたい、というおとな向けの基礎英語。毎回１つの表現を身につければ、英語の世界がぐっと広がるはず。出演は坂下千里子・肘井美佳ほか</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930102500 +0900" stop="20130930105500 +0900" channel="26">
+    <title lang="ja_JP">ららら♪クラシック「笑って聴くとも！〜オッフェンバックの“天国と地獄”〜」【字】【再】</title>
+    <desc lang="ja_JP">今回はオッフェンバックの喜歌劇「天国と地獄」。１９世紀のフランス社会の矛盾や偽善を笑いをつかって鋭く風刺したオッフェンバック！彼の笑いにこめた思いに迫る！</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130930105500 +0900" stop="20130930110000 +0900" channel="26">
+    <title lang="ja_JP">まいにちスクスク　初めてでもカンタン！３歳からのお弁当（１）▽お弁当づくりのコツ</title>
+    <desc lang="ja_JP">今回のテーマは「３歳からのお弁当」。おかずのアレンジ、急いでいる時のスピード弁当など、子どもが食べやすいお弁当作りのコツをご紹介します！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930110000 +0900" stop="20130930112500 +0900" channel="26">
+    <title lang="ja_JP">きょうの料理「味覚の秋！グッチ裕三のメシタビｉｎ北海道」（後編）【字】</title>
+    <desc lang="ja_JP">料理の腕が評判のエンターテイナー、グッチ裕三さんが、北海道の根室市で地元の人々と触れ合いながら、秋の味覚を紹介する特集。後編は、さんまとほっき貝の魅力を満喫。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930112500 +0900" stop="20130930113000 +0900" channel="26">
+    <title lang="ja_JP">きょうの料理ビギナーズ「えのきだけで簡単レシピ」【字】</title>
+    <desc lang="ja_JP">今月は秋の恵みを美味しくいただく方法をお伝えする。今回は「えのきだけ」。明日からのおかずになる「えのきだけの豚肉巻き」と「えのきだけと鶏ひき肉のみそ汁」を紹介。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930113000 +0900" stop="20130930115500 +0900" channel="26">
+    <title lang="ja_JP">趣味Ｄｏ楽　藤田寛之　続・シングルへの道　第８回「リカバリーショット」【解】【字】</title>
+    <desc lang="ja_JP">昨年の賞金王・藤田寛之プロが教える、ゴルフレッスン第２弾！第８回はリカバリーショット。さまざまなトラブルの状況を想定し、打ち手の技量に応じた脱出法を教える。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930115500 +0900" stop="20130930120000 +0900" channel="26">
+    <title lang="ja_JP">まる得マガジン　ワンランクアップ！京料理人直伝の薬味術（５）「みょうが」【字】</title>
+    <desc lang="ja_JP">料理に欠かせない様々な薬味。上手に使えばご家庭の料理がワンランクアップ！京都の料理人・髙橋拓児さんがプロの技を伝授。今回は赤い色が特徴の「みょうが」。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930120000 +0900" stop="20130930122500 +0900" channel="26">
+    <title lang="ja_JP">テレビでイタリア語「ＥＵＲＯ２４　Ｌｅｚｉｏｎｅ２４」</title>
+    <desc lang="ja_JP">ヨーロッパの言葉と文化を学ぶ「ＥＵＲＯ２４」。俳優・竹財輝之助とともに、感覚を刺激する南伊の旅で出会う表現を学ぶ。歴史、アート、建築、料理、ファッションも満載。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930122500 +0900" stop="20130930125000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫみんなの手話「手話で話しかけられたら」【字】</title>
+    <desc lang="ja_JP">初級の手話を学ぶための番組。スキットに基づいて基本の手話表現を学ぶほか、絵本を手話で語るコーナー、手話の魅力やろう者の暮らしについて紹介するコーナーなどで構成。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930125000 +0900" stop="20130930125500 +0900" channel="26">
+    <title lang="ja_JP">リトル・チャロ「空港の迷子犬」＜字幕スーパー＞</title>
+    <desc lang="ja_JP">英語アニメ「リトル・チャロ」の再放送。ＮＹで迷子になった子犬のチャロが、飼い主の翔太に会いたい一心で様々な冒険を繰り広げる。チャロシリーズの原点。▽声：純名里沙</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930125500 +0900" stop="20130930130000 +0900" channel="26">
+    <title lang="ja_JP">みんなのうた「カチャーシ☆ブギ」「絵はがき」</title>
+    <desc lang="ja_JP">▽「カチャーシ☆ブギ」うた：きいやま商店　／▽「絵はがき」うた：かとうれい子</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130930130000 +0900" stop="20130930130500 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ手話ニュース【手】</title>
+    <desc lang="ja_JP">【キャスター】金子恵理</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930130500 +0900" stop="20130930133500 +0900" channel="26">
+    <title lang="ja_JP">ハートネットＴＶ　シリーズがんサバイバーの時代第４回▽みなさんの声にこたえて【字】【再】</title>
+    <desc lang="ja_JP">がんになった後どう自分らしく生きるかを考えるシリーズがんサバイバーの時代。仕事の悩み、生活の困り事、どう死と向き合うか。番組に寄せられた反響を専門家と読み解く。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930133500 +0900" stop="20130930135000 +0900" channel="26">
+    <title lang="ja_JP">きょうの健康　早期に発見　関節リウマチ「症状を見逃さない」【解】【字】</title>
+    <desc lang="ja_JP">免疫異常で関節の炎症・腫れなどが生じる関節リウマチ。起床直後の手指の関節に力が入らないなどの症状に気づき、早期治療で関節の炎症を抑えられる「寛解」を目指したい。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930135000 +0900" stop="20130930140000 +0900" channel="26">
+    <title lang="ja_JP">視点・論点【再】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930140000 +0900" stop="20130930141000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ高校講座　チョー基礎から始めよう！ベーシック数学「連立方程式を使う文章題」</title>
+    <desc lang="ja_JP">高校の数学がわからない、つまらない。そんな悩みは数学道場でふっとばせ！４０の「数学奥義」を身につければ、分数から２次関数まで完全マスター。もう数学は怖くない！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930141000 +0900" stop="20130930143000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ高校講座　数学Ⅰ「２次関数のグラフと２次方程式」（２）</title>
+    <desc lang="ja_JP">前回は、共有点が２つの場合を学んだ。今回の学習ポイントは１）グラフとｘ軸の共有点が１つだけのとき２）グラフとｘ軸の共有点がないとき３）共有点の個数とグラフの個数</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930143000 +0900" stop="20130930144000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ高校講座　チョー基礎から始めよう！ベーシック英語▽未来をつくろう〜ｗｉｌｌ</title>
+    <desc lang="ja_JP">高校の英語がわからない。そんなキミのための基礎力ＵＰ講座が登場。中１から中３までの英語のつまずきポイントを徹底攻略。文法の基礎や文章読解のコツを楽しく学ぼう！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930144000 +0900" stop="20130930150000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ高校講座　コミュニケーション英語Ⅰ「Ｌｅｓｓｏｎ　７−２」</title>
+    <desc lang="ja_JP">国際色豊かな住人の集まるシェアハウスを舞台にしたドラマで、英語のコミュニケーションと文法の基礎を身につけよう！　▽シェアハウスの創立記念パーティー！〜現在完了形</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930150000 +0900" stop="20130930153000 +0900" channel="26">
+    <title lang="ja_JP">日本の話芸　講談「蘇生奇談」【解】【字】【再】</title>
+    <desc lang="ja_JP">一龍斎貞水で、講談「蘇生奇談」を放送する</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930153000 +0900" stop="20130930154000 +0900" channel="26">
+    <title lang="ja_JP">さんすう刑事ゼロ「分数詐欺のトリックを見やぶれ」【字】</title>
+    <desc lang="ja_JP">算数を使い事件を解決するミステリードラマ。舞台は分数で計り売りするケーキ屋。分数の足し算、通分の本当の意味とは？出演：モロ師岡、加藤慶祐、黒瀬純ほか</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930154000 +0900" stop="20130930154500 +0900" channel="26">
+    <title lang="ja_JP">プチプチ・アニメ　王さまものがたり「王さま雲にのる」</title>
+    <desc lang="ja_JP">のんびり屋だけれど好奇心いっぱいの王さま。外の世界には王さまにとって初めてのことがいっぱい。こっそりお城を抜け出して、さあ今日は何をしましょうか？</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130930154500 +0900" stop="20130930160000 +0900" channel="26">
+    <title lang="ja_JP">ピタゴラスイッチ「“クネクネだいさくせん”のまき」</title>
+    <desc lang="ja_JP">不思議な構造や面白い考え方など、“子どもにとっての「なるほど！」”を紹介。今回は「クネクネだいさくせん　のまき」。そのほか「しめじソート」など。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930160000 +0900" stop="20130930160500 +0900" channel="26">
+    <title lang="ja_JP">みんなのうた「友〜旅立ちの時〜」「少年と魔法のロボット」</title>
+    <desc lang="ja_JP">▽「友〜旅立ちの時〜」うた：ゆず　／▽「少年と魔法のロボット」うた：４０ｍＰ　ｆｅａｔ．ＧＵＭＩ</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130930160500 +0900" stop="20130930161500 +0900" channel="26">
+    <title lang="ja_JP">えいごであそぼ</title>
+    <desc lang="ja_JP">子どもたちに英語に親しんで、興味を持ってもらうことを目的とした番組。キャラクターのＢＯ（ボー）やＢＥＡ（ビー）と絵本の世界を楽しみながら、自然な英語に触れる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930161500 +0900" stop="20130930162000 +0900" channel="26">
+    <title lang="ja_JP">ニャンちゅうワールド放送局ミニ</title>
+    <desc lang="ja_JP">ニャンちゅうと河西里音の情報番組。今日は、ニャりきり！アニマル。が〜まるちょばの二人が、ニワトリになりきる方法を教えてくれる。やり方を覚えて、みんなに自慢しよう</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930162000 +0900" stop="20130930163600 +0900" channel="26">
+    <title lang="ja_JP">いないいないばあっ！【字】</title>
+    <desc lang="ja_JP">０歳児から２歳児を対象にした番組です。番組の様々なコーナーを通して子どもたちに働きかけ、子どもの様々な可能性と能力を引き出すことをねらいとしています。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930163600 +0900" stop="20130930165900 +0900" channel="26">
+    <title lang="ja_JP">おかあさんといっしょ【字】</title>
+    <desc lang="ja_JP">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930165900 +0900" stop="20130930170000 +0900" channel="26">
+    <title lang="ja_JP">パッコロリン「ちちんぷいぷい」【字】</title>
+    <desc lang="ja_JP">まる・さんかく・しかくの顔かたちをした元気な３きょうだい、パックン、リン、コロン。楽しく遊ぶ中から、いろいろな発見をします。【声】折笠愛、水沢史絵、かないみか</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130930170000 +0900" stop="20130930171500 +0900" channel="26">
+    <title lang="ja_JP">みいつけた！【字】</title>
+    <desc lang="ja_JP">４〜５歳児を対象とし、「友達と遊ぶ楽しさ」「命の不思議」「出来る喜び」「思いやる気持ち」等さまざまな「発見」を通して楽しむことができる番組です。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930171500 +0900" stop="20130930172500 +0900" channel="26">
+    <title lang="ja_JP">にほんごであそぼ</title>
+    <desc lang="ja_JP">２歳から小学校低学年くらいの子どもと親を対象にコミュニケーション能力や自己表現する感性を育てる番組。今回は、萬斎、うた／草にすわる、村祭り、ちゃわんむしのうた。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930172500 +0900" stop="20130930173000 +0900" channel="26">
+    <title lang="ja_JP">ピタゴラスイッチミニ</title>
+    <desc lang="ja_JP">さまざまな法則や不思議な構造、面白い考え方を、アニメ、歌、体操、ピタゴラ装置など多彩なコーナーで紹介。今回は「ポキポキアニメ」「パタトクカシー」など。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930173000 +0900" stop="20130930174000 +0900" channel="26">
+    <title lang="ja_JP">アニメ　はなかっぱ「大怪獣バラドン」「はなかっぱのアルバム」</title>
+    <desc lang="ja_JP">頭の上に花が咲くかっぱ「はなかっぱ」と個性豊かな仲間達、そして謎の花「わか蘭」を狙う黒羽屋蝶兵衛一味が、緑いっぱいの「やまびこ村」で、てんやわんやの大騒ぎ！</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130930174000 +0900" stop="20130930175000 +0900" channel="26">
+    <title lang="ja_JP">すすめ！キッチン戦隊クックルン「イクラ怪人のひみつ」</title>
+    <desc lang="ja_JP">リンゴ・セージ・クミンの三人きょうだい「キッチン戦隊クックルン」が、悪の軍団・ダークイーターズ戦う。今日はイクラの怪人『ザ・イークラーズ』。サケといくらの親子丼</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930175000 +0900" stop="20130930180000 +0900" channel="26">
+    <title lang="ja_JP">フックブックロー</title>
+    <desc lang="ja_JP">本屋さんを舞台にパペットと人間が繰り広げるバラエティー。出演：谷本賢一郎　声の出演：中尾隆聖、折笠富美子、天野ひろゆき、浦嶋りんこ　人形操演：人形劇・木ぐつの木</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930180000 +0900" stop="20130930181000 +0900" channel="26">
+    <title lang="ja_JP">アニメ　おじゃる丸「うすい　よめないハッ」【字】</title>
+    <desc lang="ja_JP">少女マンガのコンクールに落選（らくせん）したうすいさん。おちこんでいると、ケンさんが一冊（いっさつ）の本をかしてくれた。せっかくだから読もうとするのだが…。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130930181000 +0900" stop="20130930182000 +0900" channel="26">
+    <title lang="ja_JP">アニメ　忍たま乱太郎「急ぎの老人の段」【字】</title>
+    <desc lang="ja_JP">乱太郎・きり丸・しんべヱは、忍術学園で学ぶ忍者のたまご「忍たま」。ユニークな先生や仲間たちと、明るく・たのしく・ゆかいな毎日がくり広げられる。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130930182000 +0900" stop="20130930185500 +0900" channel="26">
+    <title lang="ja_JP">大！天才てれびくん</title>
+    <desc lang="ja_JP">出川哲朗特命プロデューサーのもと、てれび戦士達が様々な企画に挑戦する。「大天才テレビジョン番組表」へ！　ｈｔｔｐ：／／ｗｗｗ．ｎｈｋ．ｏｒ．ｊｐ／ｔｖｋｕｎ／</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130930185500 +0900" stop="20130930192500 +0900" channel="26">
+    <title lang="ja_JP">Ｒの法則「クイズ★ニュースＷＥＢティーンズ」</title>
+    <desc lang="ja_JP">高校生が知りたい・気になるニュースをピックアップし、クイズ仕立てで次々に紹介。試験に出そうな重要ニュースはニュースＷＥＢの田中部長が真相をぶっちゃけ解説！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930192500 +0900" stop="20130930195500 +0900" channel="26">
+    <title lang="ja_JP">テストの花道「小論文は“型”で勝つ！」【字】</title>
+    <desc lang="ja_JP">ＡＯ推薦入試攻略第２弾！小論文を攻略するとっておきの型「だろうか・たしなよ」＆アイデアを広げるワザ「３Ｗ１Ｈ」を詳しく紹介！これでキミも小論文がスラスラ書ける！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930195500 +0900" stop="20130930200000 +0900" channel="26">
+    <title lang="ja_JP">まいにちスクスク　ジュニア“今ドキ！中学生のホンネ”１▽家族や大人に関するホンネ</title>
+    <desc lang="ja_JP">思春期の子育てのお悩みやアイデアを紹介する「まいにちスクスクジュニア」。今回のテーマは「中学生のホンネ」。普段なかなか聞けない、子どもたちの本音に迫ります！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930200000 +0900" stop="20130930203000 +0900" channel="26">
+    <title lang="ja_JP">ハートネットＴＶ　シリーズ　町永俊雄×この人（２）「和合亮一」【字】</title>
+    <desc lang="ja_JP">「福祉ネットワーク」元キャスター・町永俊雄が各地にキーパーソンを訪ねる新シリーズ。２日目は、大震災後の”不条理”を綴り続ける福島在住の詩人・和合亮一氏を訪ねる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930203000 +0900" stop="20130930204500 +0900" channel="26">
+    <title lang="ja_JP">きょうの健康　息苦しさは危険信号「この息苦しさ　なぜ？」【解】【字】</title>
+    <desc lang="ja_JP">坂道や階段で息が切れるのは、ＣＯＰＤや心不全、発作的な呼吸困難は、ぜんそく・不整脈・心筋梗塞・気胸などがそれぞれ疑われる。肺炎や過換気症候群も息苦しさの原因。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930204500 +0900" stop="20130930210000 +0900" channel="26">
+    <title lang="ja_JP">ＮＨＫ手話ニュース８４５【手】</title>
+    <desc lang="ja_JP">【キャスター】野口岳史，深海久美子</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930210000 +0900" stop="20130930212500 +0900" channel="26">
+    <title lang="ja_JP">きょうの料理　一度つくれば二度おいしい！秋ごはん「あぶり香味さば」【字】</title>
+    <desc lang="ja_JP">旬の安くておいしい食材をまとめ買いし、一度目はたっぷりつくり、二度目は大変身させて楽しむ特集の１日目。「さば」の絶品レシピを日本料理店主人の笠原将弘さんが紹介。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930212500 +0900" stop="20130930213000 +0900" channel="26">
+    <title lang="ja_JP">きょうの料理ビギナーズ「ふっくらご飯の炊き方　完全マスター」【字】</title>
+    <desc lang="ja_JP">実りの秋は、ご飯が美味しくなる季節。ふっくらとしたおいしいご飯を炊く基本のポイントと、「たらこと焼きしいたけ、細ねぎの混ぜご飯」など、混ぜご飯レシピを紹介する。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930213000 +0900" stop="20130930215500 +0900" channel="26">
+    <title lang="ja_JP">趣味Ｄｏ楽　藤田寛之　続・シングルへの道　＜終＞第９回「総集編」【解】【字】</title>
+    <desc lang="ja_JP">昨年の賞金王・藤田寛之プロが教える、ゴルフレッスン第２弾！最終回は総集編。これまでのレッスンから、特にコースマネージメントの重要なポイントを取り出して確認する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930215500 +0900" stop="20130930220000 +0900" channel="26">
+    <title lang="ja_JP">まる得マガジン　食材をなが〜く楽しむ　週末ストック塾（１）「野菜　冷蔵」【字】</title>
+    <desc lang="ja_JP">食材を少しでも長く楽しみたい！週末にできるストック術を伝承料理研究家・奥村彪生さんがミニ講座で伝授。今回は野菜を冷蔵庫で保管するポイント。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930220000 +0900" stop="20130930222500 +0900" channel="26">
+    <title lang="ja_JP">テレビでハングル講座　第２５課「文字と発音のおさらい」</title>
+    <desc lang="ja_JP">半年間の学習内容をおさらいする“復習①”。楽しい練習問題を交えながら、文字と発音をおさらいする。２ＰＭコーナーは子音字と母音字を組み合わせて単語を作るゲーム。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930222500 +0900" stop="20130930225000 +0900" channel="26">
+    <title lang="ja_JP">テレビでイタリア語「ＥＵＲＯ２４　第１課　あいさつしよう」</title>
+    <desc lang="ja_JP">ヨーロッパの言葉と文化を楽しむ「ＥＵＲＯ２４」。イタリア語は北村一輝が登場、ローマの人とふれあう街歩きフレーズを学ぶ。歴史、芸術、料理、モード、最新情報も満載！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930225000 +0900" stop="20130930230000 +0900" channel="26">
+    <title lang="ja_JP">しごとの基礎英語　＜新＞「お悩み　ケース１」</title>
+    <desc lang="ja_JP">【出演】篠山輝信，大西泰斗，ルース・ジャーマン・白石，麻里奈，チャド・マレーン，清水ゆみ，三木惇裕，大原裕子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930230000 +0900" stop="20130930232500 +0900" channel="26">
+    <title lang="ja_JP">スーパープレゼンテーション「コリン・パウエル　私が人生で学んだルール」</title>
+    <desc lang="ja_JP">「人生はどんな生まれかで決まるわけではなく、努力次第で何とでもなる」。元アメリカ国務長官、コリン・パウエルが自らの生い立ちと人生で学んだ教訓をユーモア交えて語る</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930232500 +0900" stop="20130930233000 +0900" channel="26">
+    <title lang="ja_JP">野田ともうします。シーズン３「第１話　ファッションがおしえてくれそうなこと」【字】</title>
+    <desc lang="ja_JP">亀田さんから、いつも同じような格好をしていると指摘されて、驚く野田さん。オシャレな服を見立ててもらおうと、富沢さんと亀田さんと一緒に行きつけの店にやってきたが…</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130930233000 +0900" stop="20130930235500 +0900" channel="26">
+    <title lang="ja_JP">あしたをつかめ〜しごともくらしも〜「金属製作加工会社　鋳造」【字】</title>
+    <desc lang="ja_JP">今回の主人公は、２７０度の金属を扱い製品を作る２５歳男子。自分のアイデアを形にしたい彼が挑むのは、新製品のデザインコンペ。採用目指し奮闘する姿に迫る。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930235500 +0900" stop="20131001000000 +0900" channel="26">
+    <title lang="ja_JP">Ｅテレ２３５５</title>
+    <desc lang="ja_JP">きょうの終わりにほっとひといき。『２３５５』は、見ると気持ちよくリラックスできる、おやすみ前にぴったりの５分番組です。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+</tv>

@@ -1,0 +1,1166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="tsEPG2xml" generator-info-url="http://localhost/">
+  <channel id="21">
+    <display-name lang="ja_JP">フジテレビ</display-name>
+  </channel>
+  <programme start="20130923190000 +0900" stop="20130923205400 +0900" channel="21">
+    <title lang="ja_JP">ジェネレーション天国２時間スペシャル【字】</title>
+    <desc lang="ja_JP">ＳＭＡＰ中居＆草彅が緊急参戦！今が旬！秋の食べ物ＳＰ！草彅が秋の食事デートで大失態！中居が今夜奇跡を連発！ダレノガレ大暴走で山Ｐ＆キスマイ北山絶句の嵐</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130923205400 +0900" stop="20130923210000 +0900" channel="21">
+    <title lang="ja_JP">ＦＮＮレインボー発・あすの天気【字】</title>
+    <desc lang="ja_JP">この時間帯で起きた最新ニュースを短い時間の中で、今伝えなければならない情報をコンパクトに、わかりやすく丁寧にお伝えします</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130923210000 +0900" stop="20130923230800 +0900" channel="21">
+    <title lang="ja_JP">金田一耕助ｖｓ明智小五郎【字】【多】</title>
+    <desc lang="ja_JP">「八つ墓村」、「犬神家の一族」の金田一が名探偵明智と世紀の推理対決！切断された頭部、黒頭巾の男、黒焦げの焼死体…予想を全て裏切る、奇怪な連続殺人の謎！</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130923230800 +0900" stop="20130923231400 +0900" channel="21">
+    <title lang="ja_JP">くいしん坊！万才【字】</title>
+    <desc lang="ja_JP">「岐阜シリーズ」松岡修造が各地を訪ね名物料理や郷土の味・珍味に挑戦！歴史や文化、人々の暮らしにふれながら食べることの喜びや出会いの楽しさを求めます。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130923231400 +0900" stop="20130923232000 +0900" channel="21">
+    <title lang="ja_JP">Ｈａｐｐｉｎｅｓｓ　ｉｓ・・・！【字】</title>
+    <desc lang="ja_JP">あなたにとって『幸せ』とは何ですか？スヌーピーとチャーリー・ブラウンが日本中に散らばるささやかだけれどあたたかい『幸せ』を探す旅にでかけます！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130923232000 +0900" stop="20130923235000 +0900" channel="21">
+    <title lang="ja_JP">クイズ・ソモサン⇔セッパ！【字】</title>
+    <desc lang="ja_JP">今夜決定！トンチ№１は誰だ？成績優秀者が大苦戦‼白熱の「決定戦」▽気持ちイイ問題連発…話題の何を撮影した写真集か…タイの企業ポスターの実話…説破せよ！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130923235000 +0900" stop="20130924005500 +0900" channel="21">
+    <title lang="ja_JP">ＬＩＶＥ２０１３　ニュースＪＡＰＡＮ＆すぽると！【字】</title>
+    <desc lang="ja_JP">ＪＲ北海道９７件異常放置▽白骨化遺体は１６歳少女か▽御蔵島の野生イルカ▽２４：１５〜　すぽると！香川マンＵダービーマッチ＆内田篤人▼プロ野球</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924005500 +0900" stop="20130924015500 +0900" channel="21">
+    <title lang="ja_JP">夏☆１グランプリ　ＴＨＥ　ＦＩＮＡＬ</title>
+    <desc lang="ja_JP">お笑い・イケメン・ダンス・歌・浴衣アイドルなど様々な夏☆１ＧＰ企画の決勝大会！やしろ優＆永野（秘）ネタ披露に小島瑠璃子＆よゐこ爆笑ＤＡＩＧＯミスコンに興奮</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130924015500 +0900" stop="20130924025500 +0900" channel="21">
+    <title lang="ja_JP">【終】たけしのコマ大数学科ＳＰ最終回だよ！全員卒業！</title>
+    <desc lang="ja_JP">たけしのコマ大数学科ＳＰ　最終回だよ！全員卒業！放送開始から７年半続いてきたコマ大数学科もいよいよ今夜が最終回！緊急１時間ＳＰ！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130924025500 +0900" stop="20130924032500 +0900" channel="21">
+    <title lang="ja_JP">ＤＪモノフェスタ</title>
+    <desc lang="ja_JP">通販のディノスが自信を持ってお届けするスグレモノ・新製品・話題のヒット商品・海外商品を、視聴者の皆様ひとりひとりに語りかける様に紹介して行く新型通販バラエティ！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924032500 +0900" stop="20130924035500 +0900" channel="21">
+    <title lang="ja_JP">ＤＪモノフェスタ</title>
+    <desc lang="ja_JP">通販のディノスが自信を持ってお届けするスグレモノ・新製品・話題のヒット商品・海外商品を、視聴者の皆様ひとりひとりに語りかける様に紹介して行く新型通販バラエティ！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924035500 +0900" stop="20130924040000 +0900" channel="21">
+    <title lang="ja_JP">ＳＯＵＮＤ　ＷＥＡＴＨＥＲ</title>
+    <desc lang="ja_JP">メジャー、インディーズを問わず、良質なポップミュージックのプロモーションビデオにのせて、翌日のお天気をお届けする音楽プログラム。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130924040000 +0900" stop="20130924042500 +0900" channel="21">
+    <title lang="ja_JP">めざにゅ〜</title>
+    <desc lang="ja_JP">ＪＲ北海道「レール異常問題」で連日の立ち入り調査▽楽天「初優勝」へ前進！▽倉木麻衣ライブ▽ふなっしー▽台風２０号最新情報▽旬の食材をカラッと！“ヘルシー”串揚げ</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924042500 +0900" stop="20130924052500 +0900" channel="21">
+    <title lang="ja_JP">めざにゅ〜</title>
+    <desc lang="ja_JP">ＪＲ北海道「レール異常問題」で連日の立ち入り調査▽楽天「初優勝」へ前進！▽倉木麻衣ライブ▽ふなっしー▽台風２０号最新情報▽旬の食材をカラッと！“ヘルシー”串揚げ</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924052500 +0900" stop="20130924080000 +0900" channel="21">
+    <title lang="ja_JP">めざましテレビ【デ】</title>
+    <desc lang="ja_JP">列島秋の気配▽草彅剛＆大島優子Ｗ生出演▽解禁ゴールデンボンバー新曲計画▽ココ調“公開選挙”告示▽はいさい沖縄めざましライブ▽紙彫りアート▽秋のチェック柄チェック</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924080000 +0900" stop="20130924095000 +0900" channel="21">
+    <title lang="ja_JP">とくダネ！</title>
+    <desc lang="ja_JP">▽事件の真相に迫る！▽渦中の人物に直撃！▽エンタメ＆芸能情報▽よくわかる政治経済▽人気スターが登場！▽天達ズバリ天気予報小倉智昭　菊川怜　笠井信輔</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924095000 +0900" stop="20130924112500 +0900" channel="21">
+    <title lang="ja_JP">ノンストップ！</title>
+    <desc lang="ja_JP">貯金切り崩し子育て…元祖グラドル細川ふみえの今▽豪華客船・買い物三昧…老後の夢一転！リタイア貧乏急増なぜ▽マドンナ</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924112500 +0900" stop="20130924113000 +0900" channel="21">
+    <title lang="ja_JP">国分太一のおさんぽジャパン【字】</title>
+    <desc lang="ja_JP">国分太一さんが日本全国をおさんぽします！四季折々の絶景や美味、歴史ある街並みなど、見どころの尽きない日本を巡り、全国各地に暮らす人々の魅力に迫ります！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130924113000 +0900" stop="20130924120000 +0900" channel="21">
+    <title lang="ja_JP">ＦＮＮスピーク【字】</title>
+    <desc lang="ja_JP">知りたいニュースをわかりやすく！ホットな情報は速報であなたの元へ！役立つニュースが詰まった３０分！被災地発ニュースも継続的に報道します。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924120000 +0900" stop="20130924130000 +0900" channel="21">
+    <title lang="ja_JP">笑っていいとも！</title>
+    <desc lang="ja_JP">幸せ絶頂（秘）芸能人の一族がテレビ初出演▽中居ローラ大竹バナナマン…がお気に入り（秘）部屋着を初公開▽半沢直樹で大ブレイクの俳優・銀行の支店長が初登場▽生ちょんまげ変身</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130924130000 +0900" stop="20130924133000 +0900" channel="21">
+    <title lang="ja_JP">ライオンのごきげんよう【字】【多】</title>
+    <desc lang="ja_JP">渡辺正行が合コンをどうしてもやめられない理由…▽壇蜜が語る両親のドラマチックな馴れ初めとは⁉▽秋野暢子、愛娘さんからの感謝の言葉にウルウル</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130924133000 +0900" stop="20130924135800 +0900" channel="21">
+    <title lang="ja_JP">潔子爛漫〜きよこらんまん〜　＃１７【字】【デ】</title>
+    <desc lang="ja_JP">押し付けられた借金に苦しむ潔子（福田沙紀）。何としても潔子を救いたい蒼太（石垣佑磨）が借金を肩代わりし、潔子に結婚を申し込む。愛を誓い合う二人にさらなる困難が…</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130924135800 +0900" stop="20130924153000 +0900" channel="21">
+    <title lang="ja_JP">アゲるテレビ【字】【デ】</title>
+    <desc lang="ja_JP">注目年金引き下げ来月から今後の減額どう備える▼今井美樹が語る現在海外生活＆ユーミン愛▼老け顔原因は血管⁉血流改善で若返る方法</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924153000 +0900" stop="20130924163000 +0900" channel="21">
+    <title lang="ja_JP">チャンネルα・抱きしめたい！　＃１０【再】【字】</title>
+    <desc lang="ja_JP">「私の気持ちが止まらない」　浅野温子　浅野ゆう子　岩城滉一　本木雅弘　石田純一　柳葉敏郎　布施博ほか</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130924163000 +0900" stop="20130924190000 +0900" channel="21">
+    <title lang="ja_JP">スーパーニュース【字】</title>
+    <desc lang="ja_JP">『ライブ＆ライフ』晴れの日も！嵐の日も！あなたと今を共有…最新ニュースを徹底取材▽注目！今日のゆるキャラは？太谷天気▽安藤優子　境鶴丸　石本沙織ほか</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924190000 +0900" stop="20130924205400 +0900" channel="21">
+    <title lang="ja_JP">カスペ！・とんねるず×さまぁ〜ずの一文無しジャーニー２×２〜はじめてのお伊勢…【字】</title>
+    <desc lang="ja_JP">２大お笑いが２組に分かれ日本の幸せ祈願に無一文＆ヒッチハイクで伊勢神宮を目指す旅石橋三村が走る‼木梨大竹が泣く‼２泊３日初の過酷旅完全密着ドキュメント</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130924205400 +0900" stop="20130924210000 +0900" channel="21">
+    <title lang="ja_JP">ＦＮＮレインボー発・あすの天気【字】</title>
+    <desc lang="ja_JP">この時間帯で起きた最新ニュースを短い時間の中で、今伝えなければならない情報をコンパクトに、わかりやすく丁寧にお伝えします</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924210000 +0900" stop="20130924224800 +0900" channel="21">
+    <title lang="ja_JP">神様のベレー帽〜手塚治虫のブラックジャック創作秘話〜【字】</title>
+    <desc lang="ja_JP">誰も見たことのない手塚治虫ドラマ！マンガの神様も人間だ！「僕に出来るんだから、あなたにだって出来ます！」“草彅剛の手塚治虫”が熱い情熱を私達の心に伝えます。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130924224800 +0900" stop="20130924225400 +0900" channel="21">
+    <title lang="ja_JP">タビノイロ。〜旅美人への手紙〜【字】</title>
+    <desc lang="ja_JP">今日の旅美人：逢沢りな。秋田県からの手紙に誘われ大仙市へ降り立ちました。あなたも日本有数の湧水群でおいしい食事と豊かな自然を楽しんでみませんか？</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924225400 +0900" stop="20130924230000 +0900" channel="21">
+    <title lang="ja_JP">ユメノハシラ【字】</title>
+    <desc lang="ja_JP">清塚信也さんからの信頼も厚いコンサートチューナー・程内隆哉さん。超繊細な技で、その日の状態に合わせて観客の心に響く音色を創り、コンサートを支えている。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924230000 +0900" stop="20130924233000 +0900" channel="21">
+    <title lang="ja_JP">【終】キャサリン三世【字】</title>
+    <desc lang="ja_JP">「新企画、プレゼントＯＫ男子！観月ありさに挑む男達、最後に大サプライズ⁉」</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130924233000 +0900" stop="20130925003500 +0900" channel="21">
+    <title lang="ja_JP">ＬＩＶＥ２０１３　ニュースＪＡＰＡＮ＆すぽると！【字】</title>
+    <desc lang="ja_JP">大島＆奥寺「夜の一本勝負！」あなたの疑問「私たちが全力で追いかけます」▽スポーツを愛する貴方へ…毎日が生放送！テレビだからこそ伝えることができる魅力をご提供！</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925003500 +0900" stop="20130925010500 +0900" channel="21">
+    <title lang="ja_JP">映画『そして父になる』公開記念！福山雅治×是枝裕和監督スペシャル対談</title>
+    <desc lang="ja_JP">９月２８日公開！映画「そして父になる」カンヌ国際映画祭の裏側や撮影時のメイキング映像、そして主演福山雅治と是枝裕和監督のスペシャル対談をお届けします！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925010500 +0900" stop="20130925020500 +0900" channel="21">
+    <title lang="ja_JP">東京アイドルフェスティバル２０１３＜Ｔナイト＞</title>
+    <desc lang="ja_JP">日本最大のアイドルイベント「東京アイドルフェスティバル」の魅力を凝縮してお届け。熱狂のライブステージやイベントの裏側をたっぷりお見せします。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130925020500 +0900" stop="20130925023500 +0900" channel="21">
+    <title lang="ja_JP">イタズラなＫｉｓｓ　Ｌｏｖｅ　ｉｎ　ＴＯＫＹＯ〜世界が熱狂！イタキス現象にカメ…</title>
+    <desc lang="ja_JP">入江君役の古川雄輝が、上海で行われたファンイベントに参加。その模様とファンが選ぶもう一度見たいキスシーンなど「イタキス」の魅力をたっぷりお届けします！！</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130925023500 +0900" stop="20130925033000 +0900" channel="21">
+    <title lang="ja_JP">＜ＦＮＳドキュメンタリー大賞＞みんなの夢を教えて下さい〜パティシエ清水慎一・菓…</title>
+    <desc lang="ja_JP">子供たちが描いた将来なりたい自分の夢の絵をケーキにして無料でプレゼントしている情熱パティシエの物語。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925033000 +0900" stop="20130925040000 +0900" channel="21">
+    <title lang="ja_JP">ＤＪモノフェスタ</title>
+    <desc lang="ja_JP">通販のディノスが自信を持ってお届けするスグレモノ・新製品・話題のヒット商品・海外商品を、視聴者の皆様ひとりひとりに語りかける様に紹介して行く新型通販バラエティ！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925040000 +0900" stop="20130925042500 +0900" channel="21">
+    <title lang="ja_JP">めざにゅ〜</title>
+    <desc lang="ja_JP">▽情報満載のＮＥＷＳを詳しく伝えます▽豊富なＥＮＴＥＲＴＡＩＮＭＥＮＴ情報▽詳しくて楽しいＷＥＡＴＨＥＲ予報▽前日のＳＰＯＲＴＳたっぷり見せます</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925042500 +0900" stop="20130925052500 +0900" channel="21">
+    <title lang="ja_JP">めざにゅ〜</title>
+    <desc lang="ja_JP">▽情報満載のＮＥＷＳを詳しく伝えます▽豊富なＥＮＴＥＲＴＡＩＮＭＥＮＴ情報▽詳しくて楽しいＷＥＡＴＨＥＲ予報▽前日のＳＰＯＲＴＳたっぷり見せます</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925052500 +0900" stop="20130925080000 +0900" channel="21">
+    <title lang="ja_JP">めざましテレビ【デ】</title>
+    <desc lang="ja_JP">２０年目も明るく元気に！▽最新ニュース全部見せ▽ココ調で話題をシェア▽イチ押し芸能たっぷり▽イマドキでトレンド先取り▽アプリでテレビに参加▽毎朝家族でじゃんけん</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925080000 +0900" stop="20130925095000 +0900" channel="21">
+    <title lang="ja_JP">とくダネ！</title>
+    <desc lang="ja_JP">▽事件の真相に迫る！▽渦中の人物に直撃！▽エンタメ＆芸能情報▽よくわかる政治経済▽人気スターが登場！▽天達ズバリ天気予報小倉智昭　菊川怜　笠井信輔</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925095000 +0900" stop="20130925112500 +0900" channel="21">
+    <title lang="ja_JP">ノンストップ！</title>
+    <desc lang="ja_JP">ＭＣバナナマン設楽統▽エンタメ情報＆海外セレブニュース＆美容健康情報…▽せきららスタジオ▽タブロイド▽エッセほか</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925112500 +0900" stop="20130925113000 +0900" channel="21">
+    <title lang="ja_JP">国分太一のおさんぽジャパン【字】</title>
+    <desc lang="ja_JP">国分太一さんが日本全国をおさんぽします！四季折々の絶景や美味、歴史ある街並みなど、見どころの尽きない日本を巡り、全国各地に暮らす人々の魅力に迫ります！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925113000 +0900" stop="20130925120000 +0900" channel="21">
+    <title lang="ja_JP">ＦＮＮスピーク【字】</title>
+    <desc lang="ja_JP">知りたいニュースをわかりやすく！ホットな情報は速報であなたの元へ！役立つニュースが詰まった３０分！被災地発ニュースも継続的に報道します。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925120000 +0900" stop="20130925130000 +0900" channel="21">
+    <title lang="ja_JP">笑っていいとも！</title>
+    <desc lang="ja_JP">タモリ・太田光・タカアンドトシ・柳原可奈子・栗原類・パンサー・アルコ＆ピース・ウエストランド・生田竜聖アナウンサー</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925130000 +0900" stop="20130925133000 +0900" channel="21">
+    <title lang="ja_JP">ライオンのごきげんよう【字】【多】</title>
+    <desc lang="ja_JP">壇蜜が苦手で苦手でどうしようもないコト▽渡辺正行、まさかの後輩芸人の交際宣言にウルウル涙▽間寛平、奥さんが夜９時に寝かせようとする深い理由</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925133000 +0900" stop="20130925135800 +0900" channel="21">
+    <title lang="ja_JP">潔子爛漫〜きよこらんまん〜　＃１８【字】【デ】</title>
+    <desc lang="ja_JP">押し付けられた借金に苦しむ潔子（福田沙紀）。何としても潔子を救いたい蒼太（石垣佑磨）が借金を肩代わりし、潔子に結婚を申し込む。愛を誓い合う二人にさらなる困難が…</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130925135800 +0900" stop="20130925153000 +0900" channel="21">
+    <title lang="ja_JP">アゲるテレビ【字】【デ】</title>
+    <desc lang="ja_JP">ニッポンの午後をアゲアゲに！暮らしやライフスタイルを「イノベーション」する最新・最先端の情報やエンタメ、気分をアゲる上向きニュースを毎日お届けします！</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925153000 +0900" stop="20130925163000 +0900" channel="21">
+    <title lang="ja_JP">チャンネルα・抱きしめたい！　＃１１【再】【字】</title>
+    <desc lang="ja_JP">「ついに私達オワリなのね」　浅野温子　浅野ゆう子　岩城滉一　本木雅弘　石田純一　野際陽子　布施博ほか</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130925163000 +0900" stop="20130925190000 +0900" channel="21">
+    <title lang="ja_JP">スーパーニュース【字】</title>
+    <desc lang="ja_JP">『ライブ＆ライフ』晴れの日も！嵐の日も！あなたと今を共有…最新ニュースを徹底取材▽注目！今日のゆるキャラは？太谷天気▽安藤優子　境鶴丸　石本沙織ほか</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925190000 +0900" stop="20130925205400 +0900" channel="21">
+    <title lang="ja_JP">世界行ってみたらホントはこんなトコだった！？大注目ロシア！モスクワからシベリ…【字】</title>
+    <desc lang="ja_JP">冬季五輪が開催目前！“ソチ”から学ぶ東京五輪！▽ＣＳＫＡ本田の本当の評判▽意外すぎるビーチリゾートが▽あの巨大隕石の落下場所…衝撃現在▽人類最強の男が</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925205400 +0900" stop="20130925210000 +0900" channel="21">
+    <title lang="ja_JP">ＦＮＮレインボー発・あすの天気【字】</title>
+    <desc lang="ja_JP">この時間帯で起きた最新ニュースを短い時間の中で、今伝えなければならない情報をコンパクトに、わかりやすく丁寧にお伝えします</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925210000 +0900" stop="20130925231800 +0900" channel="21">
+    <title lang="ja_JP">さんまのまんま　おもてなしでは負けないぞＳＰ【字】</title>
+    <desc lang="ja_JP">剛力彩芽がさんまをメロメロに！？メキシコからの国際電話も合わせて亀田三兄弟大集合！さんま、ももクロを完全コピーでスタジオは大騒ぎ！大物ゲストも続々登場！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925231800 +0900" stop="20130925232400 +0900" channel="21">
+    <title lang="ja_JP">【終】ベイビーＳｔｙｌｅ【字】</title>
+    <desc lang="ja_JP">ベイビーＳｔｙｌｅ…それは、赤ちゃんが加わったことで新たに生まれ変わったライフスタイルのこと。赤ちゃんを中心に回り始めた生活の素敵な瞬間をご紹介していきます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925232400 +0900" stop="20130925233000 +0900" channel="21">
+    <title lang="ja_JP">おふくろ、もう一杯【字】</title>
+    <desc lang="ja_JP">「もう一杯！」と思わず言ってしまうようなカツオ・昆布・いりこなどの出汁（だし）が効いた日本全国のこだわり料理を紹介します</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925233000 +0900" stop="20130926003500 +0900" channel="21">
+    <title lang="ja_JP">ＬＩＶＥ２０１３　ニュースＪＡＰＡＮ＆すぽると！【字】</title>
+    <desc lang="ja_JP">大島＆奥寺「夜の一本勝負！」あなたの疑問「私たちが全力で追いかけます」▽スポーツを愛する貴方へ…毎日が生放送！テレビだからこそ伝えることができる魅力をご提供！</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926003500 +0900" stop="20130926013500 +0900" channel="21">
+    <title lang="ja_JP">若者のすべて〜１９２４＋３〜</title>
+    <desc lang="ja_JP">宇多丸と若者が熱く語るトークドキュメンタリー「１９２４」が復活！斎藤佑樹、鈴木奈々など檜舞台で生きる若者たちも登場。今の「若者のすべて」が垣間見える。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926013500 +0900" stop="20130926020500 +0900" channel="21">
+    <title lang="ja_JP">【終】志村だヨ！</title>
+    <desc lang="ja_JP">爆笑‼優香バーゲンは戦争‼</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926020500 +0900" stop="20130926030500 +0900" channel="21">
+    <title lang="ja_JP">ボーカロイド歌謡祭２０１３（夏）〜Ｖｏｃａ　ＣＸ　Ｎｉｇｈｔ〜【再】</title>
+    <desc lang="ja_JP">ボカロの世界をテレビで体感！八王子ＰのＤＪを放送！あのボーカロイド歌謡祭が再び登場。今回はボカロＰを特集。ＤＪイベントの模様と最新ランキングを紹介！！</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130926030500 +0900" stop="20130926040000 +0900" channel="21">
+    <title lang="ja_JP">＜ＦＮＳドキュメンタリー大賞＞今を忘れない〜高次脳機能障害になって〜</title>
+    <desc lang="ja_JP">記憶をとどめられない障害と向き合い力強く歩む女性の姿を追う。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926040000 +0900" stop="20130926042500 +0900" channel="21">
+    <title lang="ja_JP">めざにゅ〜</title>
+    <desc lang="ja_JP">▽情報満載のＮＥＷＳを詳しく伝えます▽豊富なＥＮＴＥＲＴＡＩＮＭＥＮＴ情報▽詳しくて楽しいＷＥＡＴＨＥＲ予報▽前日のＳＰＯＲＴＳたっぷり見せます</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926042500 +0900" stop="20130926052500 +0900" channel="21">
+    <title lang="ja_JP">めざにゅ〜</title>
+    <desc lang="ja_JP">▽情報満載のＮＥＷＳを詳しく伝えます▽豊富なＥＮＴＥＲＴＡＩＮＭＥＮＴ情報▽詳しくて楽しいＷＥＡＴＨＥＲ予報▽前日のＳＰＯＲＴＳたっぷり見せます</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926052500 +0900" stop="20130926080000 +0900" channel="21">
+    <title lang="ja_JP">めざましテレビ【デ】</title>
+    <desc lang="ja_JP">２０年目も明るく元気に！▽最新ニュース全部見せ▽ココ調で話題をシェア▽イチ押し芸能たっぷり▽イマドキでトレンド先取り▽アプリでテレビに参加▽毎朝家族でじゃんけん</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926080000 +0900" stop="20130926095000 +0900" channel="21">
+    <title lang="ja_JP">とくダネ！</title>
+    <desc lang="ja_JP">▽事件の真相に迫る！▽渦中の人物に直撃！▽エンタメ＆芸能情報▽よくわかる政治経済▽人気スターが登場！▽天達ズバリ天気予報小倉智昭　菊川怜　笠井信輔</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926095000 +0900" stop="20130926112500 +0900" channel="21">
+    <title lang="ja_JP">ノンストップ！</title>
+    <desc lang="ja_JP">ＭＣバナナマン設楽統▽エンタメ情報＆海外セレブニュース＆美容健康情報…▽せきららスタジオ▽タブロイド▽エッセほか</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926112500 +0900" stop="20130926113000 +0900" channel="21">
+    <title lang="ja_JP">国分太一のおさんぽジャパン【字】</title>
+    <desc lang="ja_JP">国分太一さんが日本全国をおさんぽします！四季折々の絶景や美味、歴史ある街並みなど、見どころの尽きない日本を巡り、全国各地に暮らす人々の魅力に迫ります！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926113000 +0900" stop="20130926120000 +0900" channel="21">
+    <title lang="ja_JP">ＦＮＮスピーク【字】</title>
+    <desc lang="ja_JP">知りたいニュースをわかりやすく！ホットな情報は速報であなたの元へ！役立つニュースが詰まった３０分！被災地発ニュースも継続的に報道します。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926120000 +0900" stop="20130926130000 +0900" channel="21">
+    <title lang="ja_JP">笑っていいとも！</title>
+    <desc lang="ja_JP">タモリ・笑福亭鶴瓶・ベッキー・山崎弘也・ピース・倉田大誠アナウンサー</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926130000 +0900" stop="20130926133000 +0900" channel="21">
+    <title lang="ja_JP">ライオンのごきげんよう【字】【多】</title>
+    <desc lang="ja_JP">やはり天然‼西村知美が入院中に６本続けて壊した物は▽間寛平が反省…明石家さんまを激怒させたくだらない理由▽危うし渡辺正行自宅に泥棒‼その悪質手口と対策</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926133000 +0900" stop="20130926135800 +0900" channel="21">
+    <title lang="ja_JP">潔子爛漫〜きよこらんまん〜　＃１９【字】【デ】</title>
+    <desc lang="ja_JP">押し付けられた借金に苦しむ潔子（福田沙紀）。何としても潔子を救いたい蒼太（石垣佑磨）が借金を肩代わりし、潔子に結婚を申し込む。愛を誓い合う二人にさらなる困難が…</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130926135800 +0900" stop="20130926153000 +0900" channel="21">
+    <title lang="ja_JP">アゲるテレビ【字】【デ】</title>
+    <desc lang="ja_JP">ニッポンの午後をアゲアゲに！暮らしやライフスタイルを「イノベーション」する最新・最先端の情報やエンタメ、気分をアゲる上向きニュースを毎日お届けします！</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926153000 +0900" stop="20130926163000 +0900" channel="21">
+    <title lang="ja_JP">チャンネルα・抱きしめたい！　＃１２【再】【字】</title>
+    <desc lang="ja_JP">「今夜最後まで恋します」　浅野温子　浅野ゆう子　岩城滉一　本木雅弘　石田純一　野際陽子　布施博ほか</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130926163000 +0900" stop="20130926190000 +0900" channel="21">
+    <title lang="ja_JP">スーパーニュース【字】</title>
+    <desc lang="ja_JP">『ライブ＆ライフ』晴れの日も！嵐の日も！あなたと今を共有…最新ニュースを徹底取材▽注目！今日のゆるキャラは？太谷天気▽安藤優子　境鶴丸　石本沙織ほか</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926190000 +0900" stop="20130926195700 +0900" channel="21">
+    <title lang="ja_JP">ＶＳ嵐【字】【デ】</title>
+    <desc lang="ja_JP">内村航平率いる体操男子日本代表再び参戦！高校生・白井健三の余裕にチュートリアルもア然…田中理恵が大興奮！嵐が反則ギリギリ秘策連発で大奮闘＆バク転（秘）話も</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926195700 +0900" stop="20130926205400 +0900" channel="21">
+    <title lang="ja_JP">奇跡体験！アンビリバボー【字】</title>
+    <desc lang="ja_JP">今夜のアンビリは、祝！２０２０年東京オリンピック・パラリンピック決定企画としてお送りする。１９６４年の東京五輪開催の影に隠された感動のストーリーに涙！！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926205400 +0900" stop="20130926210000 +0900" channel="21">
+    <title lang="ja_JP">ＦＮＮレインボー発・あすの天気【字】</title>
+    <desc lang="ja_JP">この時間帯で起きた最新ニュースを短い時間の中で、今伝えなければならない情報をコンパクトに、わかりやすく丁寧にお伝えします</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926210000 +0900" stop="20130926231800 +0900" channel="21">
+    <title lang="ja_JP">とんねるずのみなさんのおかげでした秋の超特大２時間半ＳＰ【字】</title>
+    <desc lang="ja_JP">秋の特大ＳＰ！「前略、道の駅より」＆「第２回水落マスターズ」の超豪華企画２本立て！『めちゃイケ』メンバーやトップアイドルのセンターなど超豪華ゲストが多数登場‼</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926231800 +0900" stop="20130926232400 +0900" channel="21">
+    <title lang="ja_JP">ウマイハナシ【字】</title>
+    <desc lang="ja_JP">馬にまつわる感動秘話から名馬のウマイハナシ、更にはとっておきのウマいグルメを、トリンドル玲奈がお伝えする、ドラマ風情報バラエティー番組。</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130926232400 +0900" stop="20130926233000 +0900" channel="21">
+    <title lang="ja_JP">【終】Ａｓｉａｎ　Ｍｕｓｅ　〜世界を魅了する日本の美神たち〜【字】</title>
+    <desc lang="ja_JP">すみれさん（歌手・女優）</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926233000 +0900" stop="20130927003500 +0900" channel="21">
+    <title lang="ja_JP">ＬＩＶＥ２０１３　ニュースＪＡＰＡＮ＆すぽると！【字】</title>
+    <desc lang="ja_JP">大島＆奥寺「夜の一本勝負！」あなたの疑問「私たちが全力で追いかけます」▽スポーツを愛する貴方へ…毎日が生放送！テレビだからこそ伝えることができる魅力をご提供！</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927003500 +0900" stop="20130927033500 +0900" channel="21">
+    <title lang="ja_JP">逃走中２０１３〜新浦島太郎物語・玉手箱と乙姫の罠〜【再】【字】</title>
+    <desc lang="ja_JP">９月２９日日曜夜７時！半年ぶりに“逃走中”が帰ってくる！「逃走中〜最後のサムライ〜」…の前に大好評だった前回の逃走中を再放送！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130927033500 +0900" stop="20130927040000 +0900" channel="21">
+    <title lang="ja_JP">ＤＪモノフェスタ</title>
+    <desc lang="ja_JP">通販のディノスが自信を持ってお届けするスグレモノ・新製品・話題のヒット商品・海外商品を、視聴者の皆様ひとりひとりに語りかける様に紹介して行く新型通販バラエティ！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927040000 +0900" stop="20130927042500 +0900" channel="21">
+    <title lang="ja_JP">めざにゅ〜</title>
+    <desc lang="ja_JP">▽情報満載のＮＥＷＳを詳しく伝えます▽豊富なＥＮＴＥＲＴＡＩＮＭＥＮＴ情報▽詳しくて楽しいＷＥＡＴＨＥＲ予報▽前日のＳＰＯＲＴＳたっぷり見せます</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927042500 +0900" stop="20130927052500 +0900" channel="21">
+    <title lang="ja_JP">めざにゅ〜</title>
+    <desc lang="ja_JP">▽情報満載のＮＥＷＳを詳しく伝えます▽豊富なＥＮＴＥＲＴＡＩＮＭＥＮＴ情報▽詳しくて楽しいＷＥＡＴＨＥＲ予報▽前日のＳＰＯＲＴＳたっぷり見せます</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927052500 +0900" stop="20130927080000 +0900" channel="21">
+    <title lang="ja_JP">めざましテレビ【デ】</title>
+    <desc lang="ja_JP">２０年目も明るく元気に！▽最新ニュース全部見せ▽ココ調で話題をシェア▽イチ押し芸能たっぷり▽イマドキでトレンド先取り▽アプリでテレビに参加▽毎朝家族でじゃんけん</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927080000 +0900" stop="20130927095000 +0900" channel="21">
+    <title lang="ja_JP">とくダネ！</title>
+    <desc lang="ja_JP">▽事件の真相に迫る！▽渦中の人物に直撃！▽エンタメ＆芸能情報▽よくわかる政治経済▽人気スターが登場！▽天達ズバリ天気予報小倉智昭　菊川怜　笠井信輔</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927095000 +0900" stop="20130927112500 +0900" channel="21">
+    <title lang="ja_JP">ノンストップ！</title>
+    <desc lang="ja_JP">ＭＣバナナマン設楽統▽エンタメ情報＆海外セレブニュース＆美容健康情報…▽せきららスタジオ▽タブロイド▽エッセほか</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927112500 +0900" stop="20130927113000 +0900" channel="21">
+    <title lang="ja_JP">国分太一のおさんぽジャパン【字】</title>
+    <desc lang="ja_JP">国分太一さんが日本全国をおさんぽします！四季折々の絶景や美味、歴史ある街並みなど、見どころの尽きない日本を巡り、全国各地に暮らす人々の魅力に迫ります！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130927113000 +0900" stop="20130927120000 +0900" channel="21">
+    <title lang="ja_JP">ＦＮＮスピーク【字】</title>
+    <desc lang="ja_JP">知りたいニュースをわかりやすく！ホットな情報は速報であなたの元へ！役立つニュースが詰まった３０分！被災地発ニュースも継続的に報道します。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927120000 +0900" stop="20130927130000 +0900" channel="21">
+    <title lang="ja_JP">笑っていいとも！</title>
+    <desc lang="ja_JP">タモリ・関根勤・草彅剛・劇団ひとり・田中裕二・木下優樹菜・鈴木浩介・三田友梨佳アナウンサー</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130927130000 +0900" stop="20130927133000 +0900" channel="21">
+    <title lang="ja_JP">ライオンのごきげんよう【字】【多】</title>
+    <desc lang="ja_JP">早見優が明かす昔のアイドル同士の交際方法▽西村知美が１０年前に埋めたタイムカプセルを探しにグアムへ！▽間寛平が飛行機で遭遇した困った修学旅行生軍団</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130927133000 +0900" stop="20130927135800 +0900" channel="21">
+    <title lang="ja_JP">潔子爛漫〜きよこらんまん〜　＃２０【字】【デ】</title>
+    <desc lang="ja_JP">押し付けられた借金に苦しむ潔子（福田沙紀）。何としても潔子を救いたい蒼太（石垣佑磨）が借金を肩代わりし、潔子に結婚を申し込む。愛を誓い合う二人にさらなる困難が…</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130927135800 +0900" stop="20130927153000 +0900" channel="21">
+    <title lang="ja_JP">【終】アゲるテレビ【字】【デ】</title>
+    <desc lang="ja_JP">ニッポンの午後をアゲアゲに！暮らしやライフスタイルを「イノベーション」する最新・最先端の情報やエンタメ、気分をアゲる上向きニュースを毎日お届けします！</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927153000 +0900" stop="20130927163000 +0900" channel="21">
+    <title lang="ja_JP">チャンネルα・おでかけ日和プレゼンツ　スイーツＳＰ（仮）【字】</title>
+    <desc lang="ja_JP">もう１度見たかった過去の連続ドラマに思わず感動したり、その日の夜の人気番組と連動した企画で違う楽しみを見つけたり…テレビ好きにはたまらないラインアップです。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130927163000 +0900" stop="20130927190000 +0900" channel="21">
+    <title lang="ja_JP">スーパーニュース【字】</title>
+    <desc lang="ja_JP">『ライブ＆ライフ』晴れの日も！嵐の日も！あなたと今を共有…最新ニュースを徹底取材▽注目！今日のゆるキャラは？太谷天気▽安藤優子　境鶴丸　石本沙織ほか</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927190000 +0900" stop="20130927205400 +0900" channel="21">
+    <title lang="ja_JP">木村藤子のキセキ相談　美女たちのターニングポイントⅢ【字】</title>
+    <desc lang="ja_JP">人生相談のプロ・木村藤子が、芸能界の美女たちの心の苦しみに向き合い、問題を解決！シリーズ第３弾登場！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130927205400 +0900" stop="20130927210000 +0900" channel="21">
+    <title lang="ja_JP">ＦＮＮレインボー発・あすの天気【字】</title>
+    <desc lang="ja_JP">この時間帯で起きた最新ニュースを短い時間の中で、今伝えなければならない情報をコンパクトに、わかりやすく丁寧にお伝えします</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927210000 +0900" stop="20130927225200 +0900" channel="21">
+    <title lang="ja_JP">金曜プレステージ・特別企画屍活師〜女王の法医学【字】</title>
+    <desc lang="ja_JP">松下奈緒が初の医療ドラマで魅せる！横山裕（関ジャニ∞）、松重豊ら豪華共演者とともに「声なき死者の最期の声を生きるものに伝える法医学ドラマ」をお届けする！</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130927225200 +0900" stop="20130927230000 +0900" channel="21">
+    <title lang="ja_JP">空旅をあなたへ－ＰＲＥＭＩＵＭ　ＳＫＹ－【字】</title>
+    <desc lang="ja_JP">ある都市の「食」「遊」「楽」などの情報を紹介し、じっくりと１つの都市を味わいつくす上質な旅番組。毎回とっておきの現地情報を旅人である大人の女性が紹介致します。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927230000 +0900" stop="20130927233000 +0900" channel="21">
+    <title lang="ja_JP">テラスハウス【字】【多】</title>
+    <desc lang="ja_JP">口コミで話題沸騰！シェアハウスが舞台の青春密着ショー！初対面の男女６人の共同生活で起こる友情・恋愛・嫉妬・挫折…ドラマよりドラマチックなリアルを目撃！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130927233000 +0900" stop="20130927235800 +0900" channel="21">
+    <title lang="ja_JP">僕らの音楽１０【字】</title>
+    <desc lang="ja_JP">ゴスペラーズ×広末涼子なかよし対談！米米ＣＬＵＢ石井竜也共演！スピッツ名曲カバー！震災直後生放送特番の「涙くんさよなら」も！ナレーションＳＭＡＰ草彅剛</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130927235800 +0900" stop="20130928010500 +0900" channel="21">
+    <title lang="ja_JP">ＬＩＶＥ２０１３　ニュースＪＡＰＡＮ＆すぽると！【字】</title>
+    <desc lang="ja_JP">大島＆奥寺「夜の一本勝負！」あなたの疑問「私たちが全力で追いかけます」▽スポーツを愛する貴方へ…毎日が生放送！テレビだからこそ伝えることができる魅力をご提供！</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928010500 +0900" stop="20130928030500 +0900" channel="21">
+    <title lang="ja_JP">モテ女１００＜ゴールデンブレイク＞</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928030500 +0900" stop="20130928033500 +0900" channel="21">
+    <title lang="ja_JP">【終】ＡＳＩＡ　ＶＥＲＳＵＳ＜ゴールデンブレイク＞</title>
+    <desc lang="ja_JP">アジア各国の有力テレビ局と提携して、アジアの知られざるアマチュア音楽クリエイターと楽曲を発掘するプロジェクト。韓国、台湾、インドネシアでも放送。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130928033500 +0900" stop="20130928043500 +0900" channel="21">
+    <title lang="ja_JP">ミューサタＳＰ＜ゴールデンブレイク＞（仮）</title>
+    <desc lang="ja_JP">話題のアーティストをマンスリーゲストに迎えて音楽やプライベートまでを熱く語ってもらうコーナーをメインに注目の新人や最新ＰＶも紹介！最新型音楽バラエティ！</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130928043500 +0900" stop="20130928045000 +0900" channel="21">
+    <title lang="ja_JP">ＤＪモノフェスタ</title>
+    <desc lang="ja_JP">通販のディノスが自信を持ってお届けするスグレモノ・新製品・話題のヒット商品・海外商品を、視聴者の皆様ひとりひとりに語りかける様に紹介して行く新型通販バラエティ！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928045000 +0900" stop="20130928045200 +0900" channel="21">
+    <title lang="ja_JP">ＳＯＵＮＤ　ＷＥＡＴＨＥＲ</title>
+    <desc lang="ja_JP">メジャー、インディーズを問わず、良質なポップミュージックのプロモーションビデオにのせて、翌日のお天気をお届けする音楽プログラム。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130928045200 +0900" stop="20130928050000 +0900" channel="21">
+    <title lang="ja_JP">鉄人２８号ガオ！【字】</title>
+    <desc lang="ja_JP">「さらば鉄人危機一髪！」　朝から元気のない正太郎。いつも庭にいるはずの鉄人がいなかった！鉄人！！いったいどこに行っちゃったんだ！？</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130928050000 +0900" stop="20130928060000 +0900" channel="21">
+    <title lang="ja_JP">新・週刊フジテレビ批評</title>
+    <desc lang="ja_JP">フジテレビの放送番組についてチェックする自己検証番組。フジテレビの番組とその内容、テレビ界全体に対する意見、質問に答えます。又、スタジオで有識者に話を聞きます。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928060000 +0900" stop="20130928083000 +0900" channel="21">
+    <title lang="ja_JP">めざましどようび</title>
+    <desc lang="ja_JP">再発見！ニッポンの魅力▽世界の絶景スポット＆最先端レジャー体感旅▽独自色たっぷりエンタメ…愛子の部屋に旬なゲストを招いてとっておきトーク▽女子でもわかるスポーツ</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928083000 +0900" stop="20130928095500 +0900" channel="21">
+    <title lang="ja_JP">にじいろジーン</title>
+    <desc lang="ja_JP">①ぐっさん豪華ゲストの極私的空間のぞき見②地球まるごと見聞録〜世界の人気観光地（秘）情報③にじいろミラクルチェンジ〜一般女性がプロの手で（秘）大変身④素晴らしき田舎暮し</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928095500 +0900" stop="20130928113500 +0900" channel="21">
+    <title lang="ja_JP">【終】おでかけ日和ＳＰ（仮）【字】</title>
+    <desc lang="ja_JP">誰かを誘って「おでかけ」しませんか？お散歩初心者〜上級者の方まで楽しめる大人の女性へ向けたおでかけ番組！さて、今日はどんな場所へおでかけするのかな？</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928113500 +0900" stop="20130928114000 +0900" channel="21">
+    <title lang="ja_JP">ガイド</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928114000 +0900" stop="20130928114500 +0900" channel="21">
+    <title lang="ja_JP">ふくしまてくてく【字】</title>
+    <desc lang="ja_JP">魅力あふれる福島をぶらり散歩。１４０年の歴史の風を感じて走る『人力車』。心地良い揺れとギシギシ鳴る音があなたを文明開化の時代にタイムスリップさせます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928114500 +0900" stop="20130928120000 +0900" channel="21">
+    <title lang="ja_JP">ＦＮＮスピーク【字】</title>
+    <desc lang="ja_JP">知りたいニュースをわかりやすく！ホットな情報は速報であなたの元へ！役立つニュースが詰まった１５分！</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928120000 +0900" stop="20130928132500 +0900" channel="21">
+    <title lang="ja_JP">ぶらぶらサタデー・タカトシ温水の明日行ける！小さな旅（仮）【字】</title>
+    <desc lang="ja_JP">あなたの町の隠れた穴場や素敵な観光スポットを旅します！楽しいゲストと絶品グルメを食べながら街を再発見！皆さんも休日気軽に行けるような場所をご紹介します。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928132500 +0900" stop="20130928133000 +0900" channel="21">
+    <title lang="ja_JP">ガイド</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928133000 +0900" stop="20130928150000 +0900" channel="21">
+    <title lang="ja_JP">クイズ　１００人の学者が教えます【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928150000 +0900" stop="20130928150500 +0900" channel="21">
+    <title lang="ja_JP">ガイド</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928150500 +0900" stop="20130928173000 +0900" channel="21">
+    <title lang="ja_JP">土曜ワイド・ドラマスペシャル古畑任三郎ＶＳＳＭＡＰ【再】【字】</title>
+    <desc lang="ja_JP">「ＳＭＡＰコンサート会場で起きた完全犯罪…最強の敵に立ち向かうため自転車であの男が登場！」三谷幸喜脚本</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130928173000 +0900" stop="20130928180000 +0900" channel="21">
+    <title lang="ja_JP">ＦＮＮスーパーニュース【字】</title>
+    <desc lang="ja_JP">▽事件のニュースは素早くタイムリーに▽政治・経済は分かりやすく掘り下げて▽スポーツ・海外トピックスもたっぷり▽気になる天気予報はくわしくお届けします！</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928180000 +0900" stop="20130928183000 +0900" channel="21">
+    <title lang="ja_JP">ＭＵＳＩＣ　ＦＡＩＲ【字】</title>
+    <desc lang="ja_JP">名曲共演集ｍｉｗａ×ももいろクローバーＺ・堂本剛×水樹奈々・郷ひろみ×ＳＣＡＮＤＡＬ・西野カナ×ゴスペラーズ・華原朋美・ＡＡＡ西島隆弘・Ｅ－ｇｉｒｌｓ</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130928183000 +0900" stop="20130928190000 +0900" channel="21">
+    <title lang="ja_JP">もしもツアーズ【字】</title>
+    <desc lang="ja_JP">三保の松原で食べ遊び絶景ツアー▽富士山を眺めながら水上バス＆海沿いサイクリング▽世界遺産の中の温泉▽徳川家康ゆかりの御膳▽ちびまる子ちゃんと藤ヶ谷太輔</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928190000 +0900" stop="20130928205400 +0900" channel="21">
+    <title lang="ja_JP">超潜入！リアルスコープハイパー新幹線＆地下鉄の裏側全部見せます！２時間ＳＰ！【字】【デ】</title>
+    <desc lang="ja_JP">新幹線＆地下鉄の裏側全部見せます！みんなのギモン解決２時間ＳＰ！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928205400 +0900" stop="20130928210000 +0900" channel="21">
+    <title lang="ja_JP">ＦＮＮレインボー発・あすの天気【字】</title>
+    <desc lang="ja_JP">この時間帯で起きた最新ニュースを短い時間の中で、今伝えなければならない情報をコンパクトに、わかりやすく丁寧にお伝えします</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928210000 +0900" stop="20130928232500 +0900" channel="21">
+    <title lang="ja_JP">土曜プレミアム・踊る大捜査線ＢＡＹＳＩＤＥ　ＳＨＡＫＥＤＯＷＮ２</title>
+    <desc lang="ja_JP">「レインボーブリッジを封鎖せよ！」実写邦画歴代興収Ｎｏ．１『踊る大捜査線ＴＨＥＭＯＶＩＥ２』を特別編集した海外バージョンをお届け！何度見ても面白い！！</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130928232500 +0900" stop="20130929001000 +0900" channel="21">
+    <title lang="ja_JP">【終】＜土ドラ＞山田くんと７人の魔女　＃０８【字】</title>
+    <desc lang="ja_JP">とにかくキス・キス・キス！西内まりや地上波初主演！魔女の能力か！？キスで体が入れ替わる！？笑えてキュンとして、ちょっとエッチな学園ラブキス・コメディー</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130929001000 +0900" stop="20130929001500 +0900" channel="21">
+    <title lang="ja_JP">【終】ＬＯＶＥ×ＬＩＶＥ【字】</title>
+    <desc lang="ja_JP">誕生から１２年目を迎える『ａ－ｎａｔｉｏｎ』が今年もさらにパワーＵＰして帰ってくる！昨年の盛り上がりを振り返りながら待ちきれない夏を（秘）先取り！　鈴木ちなみ</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929001500 +0900" stop="20130929012000 +0900" channel="21">
+    <title lang="ja_JP">ＬＩＶＥ２０１３ニュース＆すぽると！</title>
+    <desc lang="ja_JP">▽スポーツを愛する貴方へ…毎日が生放送！▽プロ野球・サッカー・格闘技・バレーなどテレビだからこそ伝えることができる映像と情報でスポーツの魅力をご提供！</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130929012000 +0900" stop="20130929015000 +0900" channel="21">
+    <title lang="ja_JP">うまズキッ！</title>
+    <desc lang="ja_JP">おぎやはぎ＆ＡＫＢ小嶋陽菜＆乃木坂・白石麻衣が競馬を愛し、様々な角度から盛り上げる！▽矢作の競馬をカッコよくするプロジェクト▽小嶋陽菜の３連単ＢＯＸ</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130929015000 +0900" stop="20130929015800 +0900" channel="21">
+    <title lang="ja_JP">ゆるテレ＜ＳＡナイト＞</title>
+    <desc lang="ja_JP">夜、寝る前にゆるい気持ちで見ると、とってもイイ感じになる番組誕生！遠藤憲一出演ミニドラマ「女将と常連客」など盛り沢山でお送りします。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929015800 +0900" stop="20130929025800 +0900" channel="21">
+    <title lang="ja_JP">ＡＳＩＡ　ＳＨＯＰＰＩＮＧ　ＫＩＮＧ＜ＳＡナイト＞</title>
+    <desc lang="ja_JP">アジア各国のテレビショッピングで活躍するスゴ腕販売人が大集結。売れ筋商品を視聴者に売る巧みなプレゼンパフォーマンスを大披露。アジアの逸品をあなたに！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929025800 +0900" stop="20130929035800 +0900" channel="21">
+    <title lang="ja_JP">久保×みね　こじらせ女子旅＜ＳＡナイト＞【再】</title>
+    <desc lang="ja_JP">久保ヒャダスピンオフ！漫画家・久保ミツロウ×能町みね子＝こじらせ女子が沖縄で旅番組に挑戦するも結局は毒舌妄想ホンネ女子トーク番組▽結局司会はヒャダイン</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929035800 +0900" stop="20130929042800 +0900" channel="21">
+    <title lang="ja_JP">ＤＪモノフェスタ</title>
+    <desc lang="ja_JP">通販のディノスが自信を持ってお届けするスグレモノ・新製品・話題のヒット商品・海外商品を、視聴者の皆様ひとりひとりに語りかける様に紹介して行く新型通販バラエティ！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929042800 +0900" stop="20130929045800 +0900" channel="21">
+    <title lang="ja_JP">ＤＪモノフェスタ</title>
+    <desc lang="ja_JP">通販のディノスが自信を持ってお届けするスグレモノ・新製品・話題のヒット商品・海外商品を、視聴者の皆様ひとりひとりに語りかける様に紹介して行く新型通販バラエティ！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929045800 +0900" stop="20130929050800 +0900" channel="21">
+    <title lang="ja_JP">ＤＪモノフェスタ</title>
+    <desc lang="ja_JP">通販のディノスが自信を持ってお届けするスグレモノ・新製品・話題のヒット商品・海外商品を、視聴者の皆様ひとりひとりに語りかける様に紹介して行く新型通販バラエティ！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929050800 +0900" stop="20130929051000 +0900" channel="21">
+    <title lang="ja_JP">おらが町のお悩み陳情！第一次さんま内閣ＰＲ（仮）</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929051000 +0900" stop="20130929054000 +0900" channel="21">
+    <title lang="ja_JP">テレビ寺子屋</title>
+    <desc lang="ja_JP">毎回、各界で活躍する人達を講師に招き、子育てや家庭のあり方など様々なテーマを語り合う講演会形式の番組。司会は岡田友香。手話通訳は小縣ありす。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929054000 +0900" stop="20130929054500 +0900" channel="21">
+    <title lang="ja_JP">スワローズ　キッズアカデミー【字】</title>
+    <desc lang="ja_JP">野球人気復活に東京ヤクルトが立ち上がる！</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130929054500 +0900" stop="20130929060000 +0900" channel="21">
+    <title lang="ja_JP">皇室ご一家【字】</title>
+    <desc lang="ja_JP">天皇・皇后両陛下をはじめ天皇ご一家のみなさまのご公務や私的なご旅行、そしてご趣味などをくまなく取材。２１世紀を迎えた「皇室」の今をできる限り詳しく紹介します。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929060000 +0900" stop="20130929061500 +0900" channel="21">
+    <title lang="ja_JP">産経テレニュースＦＮＮ</title>
+    <desc lang="ja_JP">日曜日の午前は「産経テレニュースＦＮＮ」短いニュース番組ながら、全国のＦＮＮ系列の記者がしのぎを削って集めたニュース満載でお届けします。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929061500 +0900" stop="20130929063000 +0900" channel="21">
+    <title lang="ja_JP">ＧＯ！ＧＯ！チャギントン【字】【二】【デ】</title>
+    <desc lang="ja_JP">全世界で大ヒット！鉄道ＣＧアニメ「チャギントン」がリニューアル！新コーナーも増えてパワーアップしたよ！つるの剛士と宮澤アナの掛け合いにも注目！見てね！</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929063000 +0900" stop="20130929070000 +0900" channel="21">
+    <title lang="ja_JP">はやく起きた朝は・・・【字】</title>
+    <desc lang="ja_JP">お馴染みの「おそ昼」が朝にお引越し、これまで以上に爽やかな話題を三人の爆笑トークでお届けします。お休みも少なくなりファンの皆様に益々喜んで頂ける番組を目指します</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929070000 +0900" stop="20130929073000 +0900" channel="21">
+    <title lang="ja_JP">ボクらの時代【字】</title>
+    <desc lang="ja_JP">時代を彩る超一流の３人が自由気ままにトークする！ＭＣもなし台本もなし…「語り」の面白さを存分に楽しむトークドキュメンタリー</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929073000 +0900" stop="20130929085500 +0900" channel="21">
+    <title lang="ja_JP">新報道２００１</title>
+    <desc lang="ja_JP">経済・政治・事件・災害…現代社会の問題を徹底取材し、世の中を動かす大物キーマンにその解決策をスタジオで直談判。ニッポンの「未来力」を検証し「未来図」を提言する。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929085500 +0900" stop="20130929090000 +0900" channel="21">
+    <title lang="ja_JP">千葉の贈り物〜まごころ配達人〜【字】</title>
+    <desc lang="ja_JP">心のこもった“まごころ”で、全国から訪れる方々を迎えたい…そんな思いを込めて、千葉県のスポットとその魅力を支える人たちを紹介します。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929090000 +0900" stop="20130929093000 +0900" channel="21">
+    <title lang="ja_JP">トリコ【字】</title>
+    <desc lang="ja_JP">世はグルメ時代！人々は皆、未知なる美味を求めていた。伝説の美食屋としてうたわれる主人公トリコは、超危険地帯に身を投じてどう猛極まりない食材を調達する！</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929093000 +0900" stop="20130929100000 +0900" channel="21">
+    <title lang="ja_JP">ワンピース【字】</title>
+    <desc lang="ja_JP">週刊少年ジャンプで大人気連載中のアニメ。「ひとつなぎの大秘宝ＯＮＥＰＩＥＣＥ」を巡って海賊達が戦う大海賊時代。ルフィはそんな海賊に憧れて海賊王を目指し航海に出た</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929100000 +0900" stop="20130929114500 +0900" channel="21">
+    <title lang="ja_JP">笑っていいとも！増刊号</title>
+    <desc lang="ja_JP">テレフォンの名場面集放送終了後（秘）トークと今週のスペシャル企画ＣＭ中の未公開映像も▽タモリ・中居正広・草彅剛・香取慎吾・関根勤・竹内友佳アナウンサーほか</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929114500 +0900" stop="20130929115000 +0900" channel="21">
+    <title lang="ja_JP">Ｖメシ！ＪＡＰＡＮ【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130929115000 +0900" stop="20130929120000 +0900" channel="21">
+    <title lang="ja_JP">産経テレニュースＦＮＮ【字】</title>
+    <desc lang="ja_JP">日曜日の午前は「産経テレニュースＦＮＮ」短いニュース番組ながら、全国のＦＮＮ系列の記者がしのぎを削って集めたニュース満載でお届けします。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929120000 +0900" stop="20130929130000 +0900" channel="21">
+    <title lang="ja_JP">ウチくる！？【字】</title>
+    <desc lang="ja_JP">中山秀征＆中川翔子の二人が毎回ゲストを迎え、そのゲストに馴染みの地元を案内されながらゲストと楽しいトークを繰り広げます。ゲストが紹介するお店や（秘）情報も必見です！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929130000 +0900" stop="20130929135500 +0900" channel="21">
+    <title lang="ja_JP">ＳＭＡＰ　ＧＯ！ＧＯ！　直前ＳＰ（仮）【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929135500 +0900" stop="20130929140000 +0900" channel="21">
+    <title lang="ja_JP">ガイド</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929140000 +0900" stop="20130929145500 +0900" channel="21">
+    <title lang="ja_JP">ザ・ノンフィクション・転んでも転んでも〜三國清三の上海進出１０００日（仮）【字】</title>
+    <desc lang="ja_JP">今、日本は激動の時代。倒産、リストラ、そして家族までも…。そんな「日本の行方」を身近な視点で描き「本当に大切なもの」を考える「人間ドラマ」を届けます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929145500 +0900" stop="20130929150000 +0900" channel="21">
+    <title lang="ja_JP">Ｂａｃｋ　ｕｐ〜必見！日本の元気を応援するテレビ〜【字】</title>
+    <desc lang="ja_JP">日本を元気にする“商品やサービス”などの情報や日本で活躍する企業の“明るい未来”へのビジョンを企業トップへのインタビュー取材によって多面的に紹介します。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929150000 +0900" stop="20130929160000 +0900" channel="21">
+    <title lang="ja_JP">みんなのＫＥＩＢＡ</title>
+    <desc lang="ja_JP">競馬のカッコよさ、ダイナミックさ、壮大感など、その魅力を伝えます！▽大島麻衣が新加入！井崎脩五郎と新たな予想コーナー▽あの小室哲哉がテーマ曲を作曲！</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130929160000 +0900" stop="20130929160500 +0900" channel="21">
+    <title lang="ja_JP">ガイド</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929160500 +0900" stop="20130929172000 +0900" channel="21">
+    <title lang="ja_JP">おらが町のお悩み陳情！第１次さんま内閣【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929172000 +0900" stop="20130929172500 +0900" channel="21">
+    <title lang="ja_JP">ガイド</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929172500 +0900" stop="20130929173000 +0900" channel="21">
+    <title lang="ja_JP">きっかけの翼〜空がつなげた日本の想い〜【字】</title>
+    <desc lang="ja_JP">「旅」＋「出会い」＝世界が変わる！日本と世界の架け橋になった旅人の想いと共に旅の素晴らしさをご紹介します。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929173000 +0900" stop="20130929180000 +0900" channel="21">
+    <title lang="ja_JP">ＦＮＮスーパーニュース【字】</title>
+    <desc lang="ja_JP">▽事件のニュースは素早くタイムリーに▽政治・経済は分かりやすく掘り下げて▽スポーツ・海外トピックスもたっぷり▽気になる天気予報はくわしくお届けします！</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929180000 +0900" stop="20130929183000 +0900" channel="21">
+    <title lang="ja_JP">ちびまる子ちゃん【字】</title>
+    <desc lang="ja_JP">「山田の泥だんご」の巻　「まる子、お姉ちゃんのハガキを出してしまう」の巻</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929183000 +0900" stop="20130929190000 +0900" channel="21">
+    <title lang="ja_JP">サザエさん【字】</title>
+    <desc lang="ja_JP">▽まわれネジリン棒▽雨の夜の忘れもの▽男にまかせていられない</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929190000 +0900" stop="20130929214800 +0900" channel="21">
+    <title lang="ja_JP">逃走中２０１３〜最後のサムライ〜【字】</title>
+    <desc lang="ja_JP">明治時代の街を舞台に繰り広げられる心理逃走劇『逃走中』３時間スペシャル！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929214800 +0900" stop="20130929215400 +0900" channel="21">
+    <title lang="ja_JP">ＦＮＮレインボー発・あすの天気【字】</title>
+    <desc lang="ja_JP">この時間帯で起きた最新ニュースを短い時間の中で、今伝えなければならない情報をコンパクトに、わかりやすく丁寧にお伝えします</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929215400 +0900" stop="20130929220000 +0900" channel="21">
+    <title lang="ja_JP">１Ｈセンス【字】</title>
+    <desc lang="ja_JP">いま輝いている人たちが自分を高める１時間の過ごし方。忙しい彼らの心を満たし活力を生み出す空間、味、絶景とは？自分磨きの達人たちのライフスタイルに迫る。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929220000 +0900" stop="20130929231500 +0900" channel="21">
+    <title lang="ja_JP">Ｍｒ．サンデー</title>
+    <desc lang="ja_JP">宮根＆椿原がしゃべり倒す！日本が知るべき情報満載…政治・経済お金使い道・激変中国新ニッポン女子・日本の未来戦略！・普通の日本人秘話ニュース運命の舞台裏</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929231500 +0900" stop="20130929234500 +0900" channel="21">
+    <title lang="ja_JP">新堂本兄弟【字】</title>
+    <desc lang="ja_JP">未放送トーク！岡田准一・手越祐也・亀梨和也・西野カナ・ｍｉｗａ×ももクロ・ＳＫＥ・Ｅ－ｇｉｒｌｓ・三代目今市登坂・藤井フミヤ・前田敦子・ＳＣＡＮＤＡＬ</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929234500 +0900" stop="20130929235500 +0900" channel="21">
+    <title lang="ja_JP">ＦＮＮニュース</title>
+    <desc lang="ja_JP">きょう一日を振り返りながら、さらに新しいニュースを全国のＦＮＮ系列の記者が総力をあげ取材しお届けする日曜夜の定番ニュース「ＦＮＮニュース」　キャスター：田代尚子</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929235500 +0900" stop="20130930002500 +0900" channel="21">
+    <title lang="ja_JP">すぽると！</title>
+    <desc lang="ja_JP">▽スポーツを愛する貴方へ…毎日が生放送！▽プロ野球・サッカー・格闘技・バレーなどテレビだからこそ伝えることができる映像と情報でスポーツの魅力をご提供！</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130930002500 +0900" stop="20130930005500 +0900" channel="21">
+    <title lang="ja_JP">【終】ＡＫＢ映像センター</title>
+    <desc lang="ja_JP">話題沸騰！ＡＫＢ４８グループのメンバーが企画から演出まで映像制作に初挑戦！動画はＹｏｕＴｕｂｅで配信中！再生回数１位は誰だ！？フジテレビ本社から生放送！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130930005500 +0900" stop="20130930015500 +0900" channel="21">
+    <title lang="ja_JP">ＴＨＥ　ＬＡＳＴ　ＡＷＡＲＤ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130930015500 +0900" stop="20130930025500 +0900" channel="21">
+    <title lang="ja_JP">東方神起ＬＩＶＥ　ＴＯＵＲ２０１３〜ＴＩＭＥ〜</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130930025500 +0900" stop="20130930032500 +0900" channel="21">
+    <title lang="ja_JP">ＵＥＦＡチャンピオンズリーグ・マガジン</title>
+    <desc lang="ja_JP">世界中が注目「欧州最強決定戦」ＵＥＦＡチャンピオンズリーグ。今シーズン注目クラブの情報や選手独占インタビュー、さらには独占映像などを満載。興奮の３０分</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130930032500 +0900" stop="20130930033500 +0900" channel="21">
+    <title lang="ja_JP">中央競馬ダイジェスト</title>
+    <desc lang="ja_JP">日曜日のメインレースをたっぷりとご紹介！更に東京競馬場・中山競馬場の全レースの結果や他場のメインレースの結果もきっちりとお届けしています。競馬ファン必見です！！</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130930033500 +0900" stop="20130930040000 +0900" channel="21">
+    <title lang="ja_JP">ＤＪモノフェスタ</title>
+    <desc lang="ja_JP">通販のディノスが自信を持ってお届けするスグレモノ・新製品・話題のヒット商品・海外商品を、視聴者の皆様ひとりひとりに語りかける様に紹介して行く新型通販バラエティ！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930040000 +0900" stop="20130930042500 +0900" channel="21">
+    <title lang="ja_JP">めざにゅ〜</title>
+    <desc lang="ja_JP">▽情報満載のＮＥＷＳを詳しく伝えます▽豊富なＥＮＴＥＲＴＡＩＮＭＥＮＴ情報▽詳しくて楽しいＷＥＡＴＨＥＲ予報▽前日のＳＰＯＲＴＳたっぷり見せます</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930042500 +0900" stop="20130930052500 +0900" channel="21">
+    <title lang="ja_JP">めざにゅ〜</title>
+    <desc lang="ja_JP">▽情報満載のＮＥＷＳを詳しく伝えます▽豊富なＥＮＴＥＲＴＡＩＮＭＥＮＴ情報▽詳しくて楽しいＷＥＡＴＨＥＲ予報▽前日のＳＰＯＲＴＳたっぷり見せます</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930052500 +0900" stop="20130930080000 +0900" channel="21">
+    <title lang="ja_JP">めざましテレビ【デ】</title>
+    <desc lang="ja_JP">２０年目も明るく元気に！▽最新ニュース全部見せ▽ココ調で話題をシェア▽イチ押し芸能たっぷり▽イマドキでトレンド先取り▽アプリでテレビに参加▽毎朝家族でじゃんけん</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930080000 +0900" stop="20130930095000 +0900" channel="21">
+    <title lang="ja_JP">とくダネ！</title>
+    <desc lang="ja_JP">▽事件の真相に迫る！▽渦中の人物に直撃！▽エンタメ＆芸能情報▽よくわかる政治経済▽人気スターが登場！▽天達ズバリ天気予報小倉智昭　菊川怜　笠井信輔</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930095000 +0900" stop="20130930112500 +0900" channel="21">
+    <title lang="ja_JP">ノンストップ！【字】</title>
+    <desc lang="ja_JP">ＭＣバナナマン設楽統▽エンタメ情報＆海外セレブニュース＆美容健康情報…▽せきららスタジオ▽タブロイド▽エッセほか</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930112500 +0900" stop="20130930113000 +0900" channel="21">
+    <title lang="ja_JP">国分太一のおさんぽジャパン【字】</title>
+    <desc lang="ja_JP">国分太一さんが日本全国をおさんぽします！四季折々の絶景や美味、歴史ある街並みなど、見どころの尽きない日本を巡り、全国各地に暮らす人々の魅力に迫ります！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130930113000 +0900" stop="20130930120000 +0900" channel="21">
+    <title lang="ja_JP">ＦＮＮスピーク【字】</title>
+    <desc lang="ja_JP">知りたいニュースをわかりやすく！ホットな情報は速報であなたの元へ！役立つニュースが詰まった３０分！被災地発ニュースも継続的に報道します。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930120000 +0900" stop="20130930130000 +0900" channel="21">
+    <title lang="ja_JP">笑っていいとも！</title>
+    <desc lang="ja_JP">タモリ・香取慎吾・三村マサカズ・千原ジュニア・渡辺直美・指原莉乃・武井壮・生野陽子アナウンサー</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130930130000 +0900" stop="20130930133000 +0900" channel="21">
+    <title lang="ja_JP">ライオンのごきげんよう【字】</title>
+    <desc lang="ja_JP">♪何が出るカナ？何が出るカナ？♪サイコロ振ってゲストが面白トーク</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130930133000 +0900" stop="20130930140000 +0900" channel="21">
+    <title lang="ja_JP">潔子爛漫〜きよこらんまん〜　＃２１【字】【デ】</title>
+    <desc lang="ja_JP">弥彦（合田雅吏）と結婚した潔子（福田沙紀）だが「金で買われた嫁」と言われ深く傷つく。傷心のまま蒼太（石垣佑磨）を訪ねる潔子だが何も言えず…。そんな潔子に変化が…</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130930140000 +0900" stop="20130930155000 +0900" channel="21">
+    <title lang="ja_JP">ドラマチックα・松本清張スペシャル殺人行おくのほそ道【再】【字】</title>
+    <desc lang="ja_JP">松尾芭蕉が詠んだ「奥の細道」にゆかりのある土地で次々と起こる連続殺人事件。次第に見えてくる真実…そこには誰にも知られたくない秘密と悲しい過去があった。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130930155000 +0900" stop="20130930165000 +0900" channel="21">
+    <title lang="ja_JP">ドラマチックα・踊る大捜査線　＃０１【再】【字】</title>
+    <desc lang="ja_JP">「サラリーマン刑事と最初の難事件」　織田裕二　柳葉敏郎　深津絵里　水野美紀　小野武彦　ユースケ・サンタマリア　斉藤暁　北村総一朗　いかりや長介ほか</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130930165000 +0900" stop="20130930190000 +0900" channel="21">
+    <title lang="ja_JP">スーパーニュース【字】</title>
+    <desc lang="ja_JP">『ライブ＆ライフ』晴れの日も！嵐の日も！あなたと今を共有…最新ニュースを徹底取材▽注目！今日のゆるキャラは？太谷天気▽安藤優子　境鶴丸　石本沙織ほか</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930190000 +0900" stop="20130930232400 +0900" channel="21">
+    <title lang="ja_JP">開局５５周年特別番組ＳＭＡＰ　ＧＯ！ＧＯ！（仮）【デ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130930232400 +0900" stop="20130930233000 +0900" channel="21">
+    <title lang="ja_JP">くいしん坊！万才【字】</title>
+    <desc lang="ja_JP">くいしん坊松岡修造が全国各地を訪ね、名物料理や郷土の味・珍味に挑戦！その土地の歴史や文化、人々の暮らしにふれながら、食べることの喜びや出会いの楽しさを求めます。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930233000 +0900" stop="20131001003500 +0900" channel="21">
+    <title lang="ja_JP">ＬＩＶＥ２０１３　ニュースＪＡＰＡＮ＆すぽると！【字】</title>
+    <desc lang="ja_JP">大島＆奥寺「夜の一本勝負！」あなたの疑問「私たちが全力で追いかけます」▽スポーツを愛する貴方へ…毎日が生放送！テレビだからこそ伝えることができる魅力をご提供！</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+</tv>

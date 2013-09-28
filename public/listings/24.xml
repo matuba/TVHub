@@ -1,0 +1,1262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="tsEPG2xml" generator-info-url="http://localhost/">
+  <channel id="24">
+    <display-name lang="ja_JP">テレビ朝日</display-name>
+  </channel>
+  <programme start="20130923185300 +0900" stop="20130923214800 +0900" channel="24">
+    <title lang="ja_JP">クイズプレゼンバラエティ Ｑさま‼　３時間スペシャル【字】</title>
+    <desc lang="ja_JP">「東京インテリ軍団ｖｓ大阪インテリ軍団　徹底比較！徹底対決！スペシャル！！」豪華インテリ芸能人４０名が東京と大阪に分かれて全面対決！現役高校生も緊急参戦！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130923214800 +0900" stop="20130923215400 +0900" channel="24">
+    <title lang="ja_JP">世界の街道をゆく【字】</title>
+    <desc lang="ja_JP">彩りの街道・インドネシア…数百もの異なる民族が共に暮らす島嶼国家。ヒンドゥー教、仏教、イスラム教が栄えた。民族性に富んだ文化が脈々と伝わるこの国の街道を巡る。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130923215400 +0900" stop="20130923231000 +0900" channel="24">
+    <title lang="ja_JP">報道ステーション【デ】【字】</title>
+    <desc lang="ja_JP">世界的な異常気象が続く…世紀末に海面８１センチ上昇、各国が対応を協議へ…カギを握る米中２カ国は▽シリア化学兵器期限▽プロ野球！巨人、楽天は…工藤公康</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130923231000 +0900" stop="20130923231500 +0900" channel="24">
+    <title lang="ja_JP">世界の車窓から【字】</title>
+    <desc lang="ja_JP">スウェーデン・ノルウェー〜白夜の北欧、森と湖の大地を巡る旅〜＃９３５３『夏限定の観光列車』曲名♪「Ａｌｌ Ｏｆ Ｙｏｕ」by.Ｍｉｌｅｓ Ｄａｖｉｓ</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130923231500 +0900" stop="20130924001500 +0900" channel="24">
+    <title lang="ja_JP">ストライクＴＶ【字】</title>
+    <desc lang="ja_JP">爆笑問題と人気芸能人たちがストライクなトーク＆クイズにチャレンジ！ＯＶＥＲ４０！独身オヤジの主張ＳＰマイケル富岡・ココリコ遠藤・ドランク塚地らが登場！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130924001500 +0900" stop="20130924002000 +0900" channel="24">
+    <title lang="ja_JP">スマホPOLICE</title>
+    <desc lang="ja_JP">“スマホＰＯＬＩＣＥ”が芸能人たちが実際に使用しているスマホの中を抜き打ちチェック！！芸能人たちのプライベートを暴露し、最新アプリの機能も徹底紹介していく！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130924002000 +0900" stop="20130924011500 +0900" channel="24">
+    <title lang="ja_JP">お願い！ランキング</title>
+    <desc lang="ja_JP">テレビ朝日深夜ベルトで放送中！新感覚のランキングバラエティー！グルメ・旅・音楽・ナイトスポット…あらゆるジャンルのランキングを徹底調査して決定！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924011500 +0900" stop="20130924012100 +0900" channel="24">
+    <title lang="ja_JP">全力坂</title>
+    <desc lang="ja_JP">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924012100 +0900" stop="20130924015100 +0900" channel="24">
+    <title lang="ja_JP">ｍｕｓｉｃる　ＴＶ</title>
+    <desc lang="ja_JP">『音楽』をもっと楽しみたい！それが『ｍｕｓｉｃるＴＶ』話題のゲストアーティストが日常の様々なシチュエーションにハマる楽曲を選曲し、こだわりのプレイリストを提案！</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130924015100 +0900" stop="20130924022100 +0900" channel="24">
+    <title lang="ja_JP">【終】グリグリくりぃむ【字】</title>
+    <desc lang="ja_JP">くりぃむしちゅーの二人が、毎回ゆかいなゲストたちと一緒に様々な企画に挑戦していくバラエティ！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130924022100 +0900" stop="20130924023500 +0900" channel="24">
+    <title lang="ja_JP">よふかしゴーちゃん。</title>
+    <desc lang="ja_JP">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924023500 +0900" stop="20130924031000 +0900" channel="24">
+    <title lang="ja_JP">セレクションＸ</title>
+    <desc lang="ja_JP">おかげさまで１０周年！　ますますパワーアップ！！今話題のニューアイテムからプレミアグッズまでスペシャル・プライスでお届けします!!こだわりの逸品をアナタに!!</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924031000 +0900" stop="20130924034000 +0900" channel="24">
+    <title lang="ja_JP">テレメンタリー２０１３「“川ガキ”母なる川へ〜全国初のダム撤去〜」</title>
+    <desc lang="ja_JP">全国初の試みとして始まった熊本県八代市のダムの撤去作業が９月１日で１年を迎えた。かつて生活の場として川と共に暮らした人たちは母なる川の再生を待ち望む。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924034000 +0900" stop="20130924041000 +0900" channel="24">
+    <title lang="ja_JP">ナイトショッピング</title>
+    <desc lang="ja_JP">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924041000 +0900" stop="20130924045500 +0900" channel="24">
+    <title lang="ja_JP">特選いいものさがし</title>
+    <desc lang="ja_JP">いいものを厳選して紹介する「特選いいものさがし」！人気を集めた“逸品”のみを特選！これらの“逸品”を視聴者の皆様もお取り寄せできるショッピング番組です。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924045500 +0900" stop="20130924080000 +0900" channel="24">
+    <title lang="ja_JP">やじうまテレビ！〜マルごと生活情報局〜【デ】</title>
+    <desc lang="ja_JP">買え買え詐欺が急増中…ダイヤで誘う新手の手口▽ご用心！「秋バテ」って何？▽北島康介結婚で喜びコメント▽浜崎あゆみ、いきものががり、堂本剛が集結▽気になる台風情報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924080000 +0900" stop="20130924095500 +0900" channel="24">
+    <title lang="ja_JP">モーニングバード！</title>
+    <desc lang="ja_JP">羽鳥慎一と赤江珠緒が、今知っておきたい「世の中のできごと」を、明るく爽やかに伝えます。注目の重大事から、生活を豊かにするアイデアまで、情報満載でお届けします。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924095500 +0900" stop="20130924103000 +0900" channel="24">
+    <title lang="ja_JP">若大将のゆうゆう散歩【字】</title>
+    <desc lang="ja_JP">今日は都営新宿線『曙橋』駅周辺を散歩▽超精密“銅版画”に感動▽人間国宝と対面!日本舞踊の世界▽アイデア満載の折りたたみ自動車▽木のぬくもりに触れる おもちゃ博物館</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924103000 +0900" stop="20130924112500 +0900" channel="24">
+    <title lang="ja_JP">暴れん坊将軍１１　＃５【字】【再】</title>
+    <desc lang="ja_JP">「爺が引退！吉宗苦悩の決断 絵比べ御前試合」松平健ほか▽吉宗のもとに高家・川瀬但馬守が、京都御所より江戸の絵師が描いた水墨画が見たいとの要望があったと伝えてきた。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130924112500 +0900" stop="20130924130500 +0900" channel="24">
+    <title lang="ja_JP">ワイド！スクランブル</title>
+    <desc lang="ja_JP">優しさと芯の強さをあわせ持つ、大下容子アナ。取材経験豊富で切れ味鋭い寺崎貴司アナ。２人が充実したニュース＆情報を毎日お伝えします。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924130500 +0900" stop="20130924132000 +0900" channel="24">
+    <title lang="ja_JP">上沼恵美子のおしゃべりクッキング【デ】【字】</title>
+    <desc lang="ja_JP">「鶏のトマト煮込み」</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924132000 +0900" stop="20130924135500 +0900" channel="24">
+    <title lang="ja_JP">徹子の部屋【字】</title>
+    <desc lang="ja_JP">〜キューバで熱烈歓迎⁉５０代アイドル〜石野真子さんが今日のゲストです。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130924135500 +0900" stop="20130924135900 +0900" channel="24">
+    <title lang="ja_JP">東京サイト【字】</title>
+    <desc lang="ja_JP">築地で人気の「佃權」の“東京揚げ”は東京都地域特産品。材料はスケトウダラのすり身と大豆粉。クリーミーで素材の味が凝縮されたおいしさの秘密を紹介します。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924135900 +0900" stop="20130924140400 +0900" channel="24">
+    <title lang="ja_JP">ＡＮＮニュース【字】</title>
+    <desc lang="ja_JP">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924140400 +0900" stop="20130924155700 +0900" channel="24">
+    <title lang="ja_JP">デパート仕掛け人！天王寺珠美の殺人推理４【解】【字】【再】</title>
+    <desc lang="ja_JP">「史上最強のクレーマー現る！遺産相続の悲劇と老夫婦の究極の愛 社長殺害に秘められた驚愕の真実」泉ピン子、村田雄浩ほか</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130924155700 +0900" stop="20130924165300 +0900" channel="24">
+    <title lang="ja_JP">相棒セレクション　相棒３　＃１４【字】【再】</title>
+    <desc lang="ja_JP">「薔薇と口紅〜名門殺人学園の美女」水谷豊、寺脇康文ほか▽とある川から真っ赤な口紅を塗った男性の水死体が発見された。死因は水死で間違いないらしい。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130924165300 +0900" stop="20130924185300 +0900" channel="24">
+    <title lang="ja_JP">スーパーＪチャンネル</title>
+    <desc lang="ja_JP">視聴者が知りたいニュース・情報をズバリお伝えします！テレビ朝日の系列局２６局（ＡＮＮ）が総力取材！いち早く正確な情報を届けます。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924185300 +0900" stop="20130924214800 +0900" channel="24">
+    <title lang="ja_JP">たけしの健康エンターテインメント！みんなの家庭の医学　３時間スペシャル【字】</title>
+    <desc lang="ja_JP">長引く症状を名医が解決！名医のセカンドオピニオンＳＰ⑨◆少女の足を救え！…骨を凍らせガンを殺す奇跡の手術に密着◆神経の支配領域マップで腰痛解明◆神の耳</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924214800 +0900" stop="20130924215400 +0900" channel="24">
+    <title lang="ja_JP">世界の街道をゆく【字】</title>
+    <desc lang="ja_JP">彩りの街道・インドネシア…数百もの異なる民族が共に暮らす島嶼国家。ヒンドゥー教、仏教、イスラム教が栄えた。民族性に富んだ文化が脈々と伝わるこの国の街道を巡る。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924215400 +0900" stop="20130924231000 +0900" channel="24">
+    <title lang="ja_JP">報道ステーション【デ】【字】</title>
+    <desc lang="ja_JP">きょう何があったか！一日のしめくくりとして欠かせないニュース番組。古舘伊知郎を中心に正解のない時代のニュースを「まじめに」「前向きに」「正直に」お伝えします。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924231000 +0900" stop="20130924231500 +0900" channel="24">
+    <title lang="ja_JP">世界の車窓から【字】</title>
+    <desc lang="ja_JP">スウェーデン・ノルウェー〜白夜の北欧、森と湖の大地を巡る旅〜＃９３５４『あこがれの列車に乗って』曲名♪「Ｐｉｅｃｅ Ｏｆ Ｆｌｅｓｈ」by.Feather and Down</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924231500 +0900" stop="20130925001500 +0900" channel="24">
+    <title lang="ja_JP">中居正広のミになる図書館【字】</title>
+    <desc lang="ja_JP">『ミになる美文字大辞典　美文字勝ち抜き美女大集結ＳＰ！』今回は…勝ち抜きシステム！対戦相手を指名し１対１で美文字勝負！５戦連続勝ち抜けば賞金３０万円獲得</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925001500 +0900" stop="20130925002000 +0900" channel="24">
+    <title lang="ja_JP">スマホPOLICE</title>
+    <desc lang="ja_JP">“スマホＰＯＬＩＣＥ”が芸能人たちが実際に使用しているスマホの中を抜き打ちチェック！！芸能人たちのプライベートを暴露し、最新アプリの機能も徹底紹介していく！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925002000 +0900" stop="20130925011500 +0900" channel="24">
+    <title lang="ja_JP">お願い！ランキング</title>
+    <desc lang="ja_JP">テレビ朝日深夜ベルトで放送中！新感覚のランキングバラエティー！グルメ・旅・音楽・ナイトスポット…あらゆるジャンルのランキングを徹底調査して決定！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925011500 +0900" stop="20130925012100 +0900" channel="24">
+    <title lang="ja_JP">全力坂</title>
+    <desc lang="ja_JP">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925012100 +0900" stop="20130925015100 +0900" channel="24">
+    <title lang="ja_JP">林修先生の今やる！ハイスクール【字】</title>
+    <desc lang="ja_JP">次世代バラエティーを次々発掘していく道場！第３弾は『林修先生の今やる！ハイスクール』あの林修先生の初冠番組がいよいよスタート！！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925015100 +0900" stop="20130925022100 +0900" channel="24">
+    <title lang="ja_JP">【終】甘王の共感スクール</title>
+    <desc lang="ja_JP">伝説のホスト甘王が帰ってきた！！女性同士が共感するのはどんな悩み？女性の本音を男は理解できる？ホストたちを呼び集め、イマドキの女心を学ぶ「共感スクール」を開校！</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130925022100 +0900" stop="20130925023500 +0900" channel="24">
+    <title lang="ja_JP">よふかしゴーちゃん。</title>
+    <desc lang="ja_JP">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925023500 +0900" stop="20130925031000 +0900" channel="24">
+    <title lang="ja_JP">セレクションＸ</title>
+    <desc lang="ja_JP">おかげさまで１０周年！　ますますパワーアップ！！今話題のニューアイテムからプレミアグッズまでスペシャル・プライスでお届けします!!こだわりの逸品をアナタに!!</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925031000 +0900" stop="20130925034000 +0900" channel="24">
+    <title lang="ja_JP">ももクロＣｈａｎ</title>
+    <desc lang="ja_JP">▽あーりん＆杏果の新企画が始動！…初めてのノリつっこみに挑戦！？▽爆笑泥仕合は必見▽晩夏の『ももクロＣｈａｎ肝だめし』最終章…満を持して杏果が登場！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925034000 +0900" stop="20130925041000 +0900" channel="24">
+    <title lang="ja_JP">ダイレクトテレショップ</title>
+    <desc lang="ja_JP">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925041000 +0900" stop="20130925045500 +0900" channel="24">
+    <title lang="ja_JP">特選いいものさがし</title>
+    <desc lang="ja_JP">いいものを厳選して紹介する「特選いいものさがし」！人気を集めた“逸品”のみを特選！これらの“逸品”を視聴者の皆様もお取り寄せできるショッピング番組です。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925045500 +0900" stop="20130925080000 +0900" channel="24">
+    <title lang="ja_JP">やじうまテレビ！〜マルごと生活情報局〜【デ】</title>
+    <desc lang="ja_JP">水曜元気請負人は木田優夫。ニュースも専門家がズバリ解説。ケツメイシのテーマ曲にのせて明るく爽やかな朝をお届け。Ｏｇｇｉとコラボした女子アナの衣装も出勤の参考に。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925080000 +0900" stop="20130925095500 +0900" channel="24">
+    <title lang="ja_JP">モーニングバード！</title>
+    <desc lang="ja_JP">羽鳥慎一と赤江珠緒が、今知っておきたい「世の中のできごと」を、明るく爽やかに伝えます。注目の重大事から、生活を豊かにするアイデアまで、情報満載でお届けします。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925095500 +0900" stop="20130925103000 +0900" channel="24">
+    <title lang="ja_JP">若大将のゆうゆう散歩【字】</title>
+    <desc lang="ja_JP">今日は長野県・軽井沢駅周辺をお散歩▽姉妹で作ったドライフラワーに興味津々！▽感動！薪ストーブ専門店で優雅なひととき▽紅葉の名所・雲場池に秋の訪れ</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925103000 +0900" stop="20130925112500 +0900" channel="24">
+    <title lang="ja_JP">暴れん坊将軍１１　＃６【字】【再】</title>
+    <desc lang="ja_JP">「お杏が殺した男⁉心ない噂が母娘を襲う」松平健ほか▽め組の頭・栄五郎の妹のお杏は、幼馴染の文吉から、一緒になってほしいと懇願されるが断ってしまい…</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130925112500 +0900" stop="20130925130500 +0900" channel="24">
+    <title lang="ja_JP">ワイド！スクランブル</title>
+    <desc lang="ja_JP">優しさと芯の強さをあわせ持つ、大下容子アナ。取材経験豊富で切れ味鋭い寺崎貴司アナ。２人が充実したニュース＆情報を毎日お伝えします。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925130500 +0900" stop="20130925132000 +0900" channel="24">
+    <title lang="ja_JP">上沼恵美子のおしゃべりクッキング【デ】【字】</title>
+    <desc lang="ja_JP">「えびの醤油炒め」</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925132000 +0900" stop="20130925135500 +0900" channel="24">
+    <title lang="ja_JP">徹子の部屋【字】</title>
+    <desc lang="ja_JP">〜夫・高島忠夫を献身的に介護して〜寿美花代さんが今日のゲストです。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925135500 +0900" stop="20130925135900 +0900" channel="24">
+    <title lang="ja_JP">東京サイト【字】</title>
+    <desc lang="ja_JP">佃煮専門店「佃宝」の東京都地域特産品は、“上たらこ”など１７品。５０年以上つぎ足して使い続けてきた“秘伝のたれ”で作る佃煮はご飯にぴったりとか…。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925135900 +0900" stop="20130925140400 +0900" channel="24">
+    <title lang="ja_JP">ＡＮＮニュース【字】</title>
+    <desc lang="ja_JP">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925140400 +0900" stop="20130925155700 +0900" channel="24">
+    <title lang="ja_JP">事件１３【字】【再】</title>
+    <desc lang="ja_JP">「熟年離婚殺人 夫が愛人を殺した？妻が書いた離婚届が真相を暴く！ピザのアリバイトリック」北大路欣也、丘みつ子、松本莉緒ほか</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130925155700 +0900" stop="20130925165300 +0900" channel="24">
+    <title lang="ja_JP">相棒セレクション　相棒５　＃１２【字】【再】</title>
+    <desc lang="ja_JP">「狼の行方」水谷豊、寺脇康文ほか▽とある団地で小学生の雄一と亮司が誘拐された。が、右京と薫は、団地のゴミ捨て場から２人を発見する。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130925165300 +0900" stop="20130925185300 +0900" channel="24">
+    <title lang="ja_JP">スーパーＪチャンネル</title>
+    <desc lang="ja_JP">視聴者が知りたいニュース・情報をズバリお伝えします！テレビ朝日の系列局２６局（ＡＮＮ）が総力取材！いち早く正確な情報を届けます。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925185300 +0900" stop="20130925214800 +0900" channel="24">
+    <title lang="ja_JP">出張！徹子の部屋パート６　夢トーク豪華４本勝負　お宝映像も大放出スペシャル【字】</title>
+    <desc lang="ja_JP">放送するたびに大反響を呼んでいる『出張！徹子の部屋』待望の第６弾！今回も黒柳さんがスタジオを飛び出し、さまざまな場所で『徹子の部屋』を開催します！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925214800 +0900" stop="20130925215400 +0900" channel="24">
+    <title lang="ja_JP">世界の街道をゆく【字】</title>
+    <desc lang="ja_JP">彩りの街道・インドネシア…数百もの異なる民族が共に暮らす島嶼国家。ヒンドゥー教、仏教、イスラム教が栄えた。民族性に富んだ文化が脈々と伝わるこの国の街道を巡る。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925215400 +0900" stop="20130925231000 +0900" channel="24">
+    <title lang="ja_JP">報道ステーション【デ】【字】</title>
+    <desc lang="ja_JP">きょう何があったか！一日のしめくくりとして欠かせないニュース番組。古舘伊知郎を中心に正解のない時代のニュースを「まじめに」「前向きに」「正直に」お伝えします。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925231000 +0900" stop="20130925231500 +0900" channel="24">
+    <title lang="ja_JP">世界の車窓から【字】</title>
+    <desc lang="ja_JP">スウェーデン・ノルウェー〜白夜の北欧、森と湖の大地を巡る旅〜＃９３５５『フィーカ・タイム』曲名♪「Ｈｙｍｎ」by.Ｎｏｒｄｉｋ Ｔｒｅｅ</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925231500 +0900" stop="20130926001500 +0900" channel="24">
+    <title lang="ja_JP">マツコ＆有吉の怒り新党【字】</title>
+    <desc lang="ja_JP">国民の皆様から寄せられた「怒り」をもとに、マツコ幹事長と有吉政調会長と夏目総裁秘書が好き勝手に意見していくトークバラエティ！！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926001500 +0900" stop="20130926002000 +0900" channel="24">
+    <title lang="ja_JP">スマホPOLICE</title>
+    <desc lang="ja_JP">“スマホＰＯＬＩＣＥ”が芸能人たちが実際に使用しているスマホの中を抜き打ちチェック！！芸能人たちのプライベートを暴露し、最新アプリの機能も徹底紹介していく！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926002000 +0900" stop="20130926011500 +0900" channel="24">
+    <title lang="ja_JP">お願い！ランキング</title>
+    <desc lang="ja_JP">テレビ朝日深夜ベルトで放送中！新感覚のランキングバラエティー！グルメ・旅・音楽・ナイトスポット…あらゆるジャンルのランキングを徹底調査して決定！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926011500 +0900" stop="20130926012100 +0900" channel="24">
+    <title lang="ja_JP">全力坂</title>
+    <desc lang="ja_JP">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926012100 +0900" stop="20130926015100 +0900" channel="24">
+    <title lang="ja_JP">キス濱ラーニング２</title>
+    <desc lang="ja_JP">重い物の値段を当てる『おもプライス』後半戦！実際に持って巨大グラウンドの値段ゾーンへ運べ！！お神輿のお値段は？スワンボートのお値段は？ｖｓハライチ勝つのはどっち</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926015100 +0900" stop="20130926020600 +0900" channel="24">
+    <title lang="ja_JP">学生才能発掘バラエティ　学生HEROES！</title>
+    <desc lang="ja_JP">「学生の、学生による、学生のための番組」！オードリー春日大統領が日本に３００万人以上いる大学生・専門学校生達のピカピカ輝く才能を毎週発掘していきます。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926020600 +0900" stop="20130926022100 +0900" channel="24">
+    <title lang="ja_JP">東京上級デート</title>
+    <desc lang="ja_JP">今回の舞台は新宿区・高田馬場。学生街として知られるが、実は大人たちを魅了する飲食店が増えており、おしゃれなバルも数多く展開。さあ、とっておきのデートへ♪</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926022100 +0900" stop="20130926023500 +0900" channel="24">
+    <title lang="ja_JP">よふかしゴーちゃん。</title>
+    <desc lang="ja_JP">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926023500 +0900" stop="20130926031000 +0900" channel="24">
+    <title lang="ja_JP">セレクションＸ</title>
+    <desc lang="ja_JP">おかげさまで１０周年！　ますますパワーアップ！！今話題のニューアイテムからプレミアグッズまでスペシャル・プライスでお届けします!!こだわりの逸品をアナタに!!</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926031000 +0900" stop="20130926034000 +0900" channel="24">
+    <title lang="ja_JP">ザ・ショッピングタイム</title>
+    <desc lang="ja_JP">お買い得情報満載！あなたの欲しい物がきっと見つかる！自宅にいながら楽しくくつろぎショッピング！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926034000 +0900" stop="20130926041000 +0900" channel="24">
+    <title lang="ja_JP">ダイレクトテレショップ</title>
+    <desc lang="ja_JP">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926041000 +0900" stop="20130926045500 +0900" channel="24">
+    <title lang="ja_JP">特選いいものさがし</title>
+    <desc lang="ja_JP">いいものを厳選して紹介する「特選いいものさがし」！人気を集めた“逸品”のみを特選！これらの“逸品”を視聴者の皆様もお取り寄せできるショッピング番組です。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926045500 +0900" stop="20130926080000 +0900" channel="24">
+    <title lang="ja_JP">やじうまテレビ！〜マルごと生活情報局〜【デ】</title>
+    <desc lang="ja_JP">木曜元気請負人は田中雅美。ニュースも専門家がズバリ解説。ケツメイシのテーマ曲にのせて明るく爽やかな朝をお届け。Ｏｇｇｉとコラボした女子アナの衣装も出勤の参考に。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926080000 +0900" stop="20130926095500 +0900" channel="24">
+    <title lang="ja_JP">モーニングバード！</title>
+    <desc lang="ja_JP">羽鳥慎一と赤江珠緒が、今知っておきたい「世の中のできごと」を、明るく爽やかに伝えます。注目の重大事から、生活を豊かにするアイデアまで、情報満載でお届けします。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926095500 +0900" stop="20130926103000 +0900" channel="24">
+    <title lang="ja_JP">若大将のゆうゆう散歩【字】</title>
+    <desc lang="ja_JP">今日は長野県・軽井沢駅周辺をお散歩▽発見！旧軽井沢の歴史ある写真▽軽井沢彫り職人の技に関心▽ショー記念礼拝堂でオルガンの調べ</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926103000 +0900" stop="20130926112500 +0900" channel="24">
+    <title lang="ja_JP">暴れん坊将軍１１　＃７【字】【再】</title>
+    <desc lang="ja_JP">「父恋し！涙の子守唄・仇を狙う危険な旅」松平健ほか▽吉宗のもとで御前試合が行われ、八王子千人同心の里見朋一郎が勝者となった。朋一郎は、褒美を授けようとする吉宗に…</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130926112500 +0900" stop="20130926130500 +0900" channel="24">
+    <title lang="ja_JP">ワイド！スクランブル</title>
+    <desc lang="ja_JP">優しさと芯の強さをあわせ持つ、大下容子アナ。取材経験豊富で切れ味鋭い寺崎貴司アナ。２人が充実したニュース＆情報を毎日お伝えします。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926130500 +0900" stop="20130926132000 +0900" channel="24">
+    <title lang="ja_JP">上沼恵美子のおしゃべりクッキング【デ】【字】</title>
+    <desc lang="ja_JP">「ナスと玉ねぎのパスタ」</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926132000 +0900" stop="20130926135500 +0900" channel="24">
+    <title lang="ja_JP">徹子の部屋【字】</title>
+    <desc lang="ja_JP">〜７０歳迎え姉・真理とは今も親友関係〜吉村実子さんが今日のゲストです。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926135500 +0900" stop="20130926135900 +0900" channel="24">
+    <title lang="ja_JP">東京サイト【字】</title>
+    <desc lang="ja_JP">東京都地域特産品「あぶまた味噌」の“江戸甘みそ”。江戸時代から作られ、独特の風味が特徴です。江戸甘みそのちょっと驚く食べ方とは…。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926135900 +0900" stop="20130926140400 +0900" channel="24">
+    <title lang="ja_JP">ＡＮＮニュース【字】</title>
+    <desc lang="ja_JP">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926140400 +0900" stop="20130926155700 +0900" channel="24">
+    <title lang="ja_JP">温泉若おかみの殺人推理２２【字】【再】</title>
+    <desc lang="ja_JP">「花巻温泉郷〜殺人は下校チャイムで始まった‼白骨死体と駆け落ちした女」東ちづるほか▽老舗ホテルの若おかみ・美奈のホテルに、童話作家のあゆみが、夫・葉山と共に訪れ…</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130926155700 +0900" stop="20130926165300 +0900" channel="24">
+    <title lang="ja_JP">相棒セレクション　相棒１０　＃７【解】【字】【再】</title>
+    <desc lang="ja_JP">「すみれ色の研究」水谷豊、及川光博ほか▽「父は人を殺したんでしょうか？」女子高生・美咲から特命係に電話がかかってくる。美咲に会って相談を受けた尊は捜査を始めるが…</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130926165300 +0900" stop="20130926190000 +0900" channel="24">
+    <title lang="ja_JP">スーパーＪチャンネル</title>
+    <desc lang="ja_JP">視聴者が知りたいニュース・情報をズバリお伝えします！テレビ朝日の系列局２６局（ＡＮＮ）が総力取材！いち早く正確な情報を届けます。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926190000 +0900" stop="20130926214800 +0900" channel="24">
+    <title lang="ja_JP">アメトーーーーーーク　　おめぇ顔なげぇーーな　秋の３時間スペシャル【字】</title>
+    <desc lang="ja_JP">(1)掃除大好き芸人(2)顔で損してる芸人(3)結婚したくてしたくてタマらない芸人＋マル秘</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926214800 +0900" stop="20130926215400 +0900" channel="24">
+    <title lang="ja_JP">世界の街道をゆく【字】</title>
+    <desc lang="ja_JP">彩りの街道・インドネシア…数百もの異なる民族が共に暮らす島嶼国家。ヒンドゥー教、仏教、イスラム教が栄えた。民族性に富んだ文化が脈々と伝わるこの国の街道を巡る。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926215400 +0900" stop="20130926231000 +0900" channel="24">
+    <title lang="ja_JP">報道ステーション【デ】【字】</title>
+    <desc lang="ja_JP">きょう何があったか！一日のしめくくりとして欠かせないニュース番組。古舘伊知郎を中心に正解のない時代のニュースを「まじめに」「前向きに」「正直に」お伝えします。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926231000 +0900" stop="20130926231500 +0900" channel="24">
+    <title lang="ja_JP">世界の車窓から【字】</title>
+    <desc lang="ja_JP">スウェーデン・ノルウェー〜白夜の北欧、森と湖の大地を巡る旅〜＃９３５６『晴れた日の課外授業』曲名♪「Ｔｈｅ Ｌｉｍｅ Ｓｏｎｇｓ」by.Ｗｏｏｍｉｎ</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926231500 +0900" stop="20130927001500 +0900" channel="24">
+    <title lang="ja_JP">アメトーーク！【字】</title>
+    <desc lang="ja_JP">深夜の４時間目はハードロック芸人▽ツェッペリン、パープル、ガンズ、メタリカ…▽ビビる大木＆鬼奴＆ＲＧ▽衝撃映像＆スタジオＬＩＶＥ</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130927001500 +0900" stop="20130927002000 +0900" channel="24">
+    <title lang="ja_JP">スマホPOLICE</title>
+    <desc lang="ja_JP">“スマホＰＯＬＩＣＥ”が芸能人たちが実際に使用しているスマホの中を抜き打ちチェック！！芸能人たちのプライベートを暴露し、最新アプリの機能も徹底紹介していく！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130927002000 +0900" stop="20130927011500 +0900" channel="24">
+    <title lang="ja_JP">お願い！ランキング</title>
+    <desc lang="ja_JP">テレビ朝日深夜ベルトで放送中！新感覚のランキングバラエティー！グルメ・旅・音楽・ナイトスポット…あらゆるジャンルのランキングを徹底調査して決定！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927011500 +0900" stop="20130927012100 +0900" channel="24">
+    <title lang="ja_JP">全力坂</title>
+    <desc lang="ja_JP">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927012100 +0900" stop="20130927015100 +0900" channel="24">
+    <title lang="ja_JP">Ｂｒｅａｋ　Ｏｕｔ</title>
+    <desc lang="ja_JP">今話題の実力派男性アーティストをどこよりも早く紹介！ゆるカワキャラクター“ＢＯＮちゃん”がイケてるアーティストの特殊エネルギー「イケテール」を求め徹底調査</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130927015100 +0900" stop="20130927022100 +0900" channel="24">
+    <title lang="ja_JP">よくぞ行きましたＴＶ</title>
+    <desc lang="ja_JP">めったに見られない激レアな日本が続々登場！超個性派リポーターが額に汗かき、日本中を飛び回るロケバラエティー。最終回は、日本一厳しい断食修行に挑戦！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130927022100 +0900" stop="20130927025100 +0900" channel="24">
+    <title lang="ja_JP">だんくぼ【字】</title>
+    <desc lang="ja_JP">壇蜜・オアシズ大久保の２人が毎回様々な職場を訪れ、オリジナルなゲームやクイズを体験する「職場ゲームバラエティ」！さらに！「女のどうでもいい悩み相談」も開催！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130927025100 +0900" stop="20130927030000 +0900" channel="24">
+    <title lang="ja_JP">よふかしゴーちゃん。</title>
+    <desc lang="ja_JP">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたばかりのゴーちゃん。今夜の注目はなにかな？</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927030000 +0900" stop="20130927033500 +0900" channel="24">
+    <title lang="ja_JP">セレクションＸ</title>
+    <desc lang="ja_JP">おかげさまで１０周年！　ますますパワーアップ！！今話題のニューアイテムからプレミアグッズまでスペシャル・プライスでお届けします!!こだわりの逸品をアナタに!!</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927033500 +0900" stop="20130927040500 +0900" channel="24">
+    <title lang="ja_JP">ダイレクトテレショップ</title>
+    <desc lang="ja_JP">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927040500 +0900" stop="20130927042500 +0900" channel="24">
+    <title lang="ja_JP">特選いいものさがし</title>
+    <desc lang="ja_JP">いいものを厳選して紹介する「特選いいものさがし」！人気を集めた“逸品”のみを特選！これらの“逸品”を視聴者の皆様もお取り寄せできるショッピング番組です。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927042500 +0900" stop="20130927043000 +0900" channel="24">
+    <title lang="ja_JP">おはようゴーちゃん。</title>
+    <desc lang="ja_JP">９／２９（日）よる９時からは『ドラマスペシャル　特捜最前線２０１３〜７頭の警察犬』【出演】上川隆也、石黒賢、原沙知絵／笹野高史／平山浩行、小日向文世、小林稔侍</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927043000 +0900" stop="20130927045500 +0900" channel="24">
+    <title lang="ja_JP">渡辺篤史の建もの探訪</title>
+    <desc lang="ja_JP">「“箱階段”中心につながる家」埼玉県さいたま市・大原邸</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927045500 +0900" stop="20130927080000 +0900" channel="24">
+    <title lang="ja_JP">【終】やじうまテレビ！〜マルごと生活情報局〜【デ】</title>
+    <desc lang="ja_JP">金曜元気請負人は村主千香。ニュースも専門家がズバリ解説。ケツメイシのテーマ曲にのせて明るく爽やかな朝をお届け。Ｏｇｇｉとコラボした女子アナの衣装も出勤の参考に。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927080000 +0900" stop="20130927095500 +0900" channel="24">
+    <title lang="ja_JP">モーニングバード！</title>
+    <desc lang="ja_JP">羽鳥慎一と赤江珠緒が、今知っておきたい「世の中のできごと」を、明るく爽やかに伝えます。注目の重大事から、生活を豊かにするアイデアまで、情報満載でお届けします。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927095500 +0900" stop="20130927103000 +0900" channel="24">
+    <title lang="ja_JP">若大将のゆうゆう散歩【字】</title>
+    <desc lang="ja_JP">今日は横浜市『馬車道』をお散歩▽日本初のアイスクリーム 当時の価格にびっくり!▽創業120年!印章職人と爆笑対談▽横浜開港の歴史を学ぶ▽100年前のエレベーターを発見</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927103000 +0900" stop="20130927112500 +0900" channel="24">
+    <title lang="ja_JP">科捜研の女１１　＃１３【字】【再】</title>
+    <desc lang="ja_JP">「流された遺体！疑惑の音楽家、楽譜の筆跡が暴く愛憎」沢口靖子ほか▽京都市内の河原で、釣り船の中に横たわった女性の死体が発見された。マリコたち科捜研が調べたところ…</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130927112500 +0900" stop="20130927130500 +0900" channel="24">
+    <title lang="ja_JP">ワイド！スクランブル</title>
+    <desc lang="ja_JP">優しさと芯の強さをあわせ持つ、大下容子アナ。取材経験豊富で切れ味鋭い寺崎貴司アナ。２人が充実したニュース＆情報を毎日お伝えします。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927130500 +0900" stop="20130927132000 +0900" channel="24">
+    <title lang="ja_JP">上沼恵美子のおしゃべりクッキング【デ】【字】</title>
+    <desc lang="ja_JP">「にんにくパン粉の豚ロース」</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927132000 +0900" stop="20130927135500 +0900" channel="24">
+    <title lang="ja_JP">徹子の部屋【字】</title>
+    <desc lang="ja_JP">〜妻の介護と不慣れな家事に奮闘中〜堺すすむさんが今日のゲストです。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130927135500 +0900" stop="20130927135900 +0900" channel="24">
+    <title lang="ja_JP">東京サイト【字】</title>
+    <desc lang="ja_JP">東京都地域特産品に認証された、小平市の「小野農園」のジャム。素材をそのまま煮詰めて作るジャムは味が濃縮されています。農園おすすめの使い方も紹介します。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927135900 +0900" stop="20130927140400 +0900" channel="24">
+    <title lang="ja_JP">ＡＮＮニュース【字】</title>
+    <desc lang="ja_JP">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927140400 +0900" stop="20130927155700 +0900" channel="24">
+    <title lang="ja_JP">森村誠一の終着駅シリーズ２５「途中下車する女」【字】【再】</title>
+    <desc lang="ja_JP">「凶器のない密室殺人を追う‼置き忘れた写真の中の殺人構図…」片岡鶴太郎、岡江久美子、酒井美紀ほか</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130927155700 +0900" stop="20130927165300 +0900" channel="24">
+    <title lang="ja_JP">相棒セレクション　相棒３　＃１８【字】【再】</title>
+    <desc lang="ja_JP">「大統領の陰謀」水谷豊、寺脇康文ほか▽トランク詰めの女性の遺体が発見され、容疑者として１年前に獄死した浅倉が浮上し…。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130927165300 +0900" stop="20130927190000 +0900" channel="24">
+    <title lang="ja_JP">スーパーＪチャンネル</title>
+    <desc lang="ja_JP">視聴者が知りたいニュース・情報をズバリお伝えします！テレビ朝日の系列局２６局（ＡＮＮ）が総力取材！いち早く正確な情報を届けます。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927190000 +0900" stop="20130927214800 +0900" channel="24">
+    <title lang="ja_JP">ミュージックステーション　３時間スペシャル</title>
+    <desc lang="ja_JP">旬の超豪華アーティストがスタジオに集結し、最新のヒット曲を生披露。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130927214800 +0900" stop="20130927215400 +0900" channel="24">
+    <title lang="ja_JP">世界の街道をゆく【字】</title>
+    <desc lang="ja_JP">彩りの街道・インドネシア…数百もの異なる民族が共に暮らす島嶼国家。ヒンドゥー教、仏教、イスラム教が栄えた。民族性に富んだ文化が脈々と伝わるこの国の街道を巡る。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927215400 +0900" stop="20130927231000 +0900" channel="24">
+    <title lang="ja_JP">報道ステーション【デ】【字】</title>
+    <desc lang="ja_JP">きょう何があったか！一日のしめくくりとして欠かせないニュース番組。古舘伊知郎を中心に正解のない時代のニュースを「まじめに」「前向きに」「正直に」お伝えします。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927231000 +0900" stop="20130927231500 +0900" channel="24">
+    <title lang="ja_JP">世界の車窓から【字】</title>
+    <desc lang="ja_JP">スウェーデン・ノルウェー〜白夜の北欧、森と湖の大地を巡る旅〜＃９３５７『エステルスンド出発』曲名♪「Friday Night At The Drive－In Bingo」by.Jens Lekman</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927231500 +0900" stop="20130928001500 +0900" channel="24">
+    <title lang="ja_JP">ナンジャコレ珍百景【字】</title>
+    <desc lang="ja_JP">★水曜７時放送中「ナニコレ珍百景」が深夜に出没！深夜ならではの衝撃風景＝「ナンジャコレ！？」開いた口がふさがらない爆笑の風景を一挙紹介▼ネプチューン＆森葉子アナ</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928001500 +0900" stop="20130928002000 +0900" channel="24">
+    <title lang="ja_JP">スマホPOLICE</title>
+    <desc lang="ja_JP">“スマホＰＯＬＩＣＥ”が芸能人たちが実際に使用しているスマホの中を抜き打ちチェック！！芸能人たちのプライベートを暴露し、最新アプリの機能も徹底紹介していく！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928002000 +0900" stop="20130928005000 +0900" channel="24">
+    <title lang="ja_JP">タモリ倶楽部</title>
+    <desc lang="ja_JP">「販売本数１万本突破！ありがとうゼンハイザーＭＫＨ416」40年前に作られたのにいまだにＴＶ業界でもっとも使われ１万本も売れたガンマイクの魅力と操作ノウハウを学ぶ！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928005000 +0900" stop="20130928012000 +0900" channel="24">
+    <title lang="ja_JP">『ぷっ』すま【字】</title>
+    <desc lang="ja_JP">草彅剛とユースケ・サンタマリアがその独特のテンポで爆笑対決の数々を繰り広げていく超癒し系バラエティ！見る人全てを脱力させる『ぷっ』すまワールドが今夜も炸裂！！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928012000 +0900" stop="20130928012500 +0900" channel="24">
+    <title lang="ja_JP">よふかしゴーちゃん。</title>
+    <desc lang="ja_JP">９／２９（日）よる９時からは『ドラマスペシャル　特捜最前線２０１３〜７頭の警察犬』【出演】上川隆也、石黒賢、原沙知絵／笹野高史／平山浩行、小日向文世、小林稔侍</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928012500 +0900" stop="20130928042500 +0900" channel="24">
+    <title lang="ja_JP">朝まで生テレビ！</title>
+    <desc lang="ja_JP">１９８７年スタートのテレビ朝日を代表する長寿番組。“出たい人より出したい人に出演してもらう”をモットーに深夜番組に革命を起こしたこの番組！タブーにも挑戦します。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928042500 +0900" stop="20130928045500 +0900" channel="24">
+    <title lang="ja_JP">健康家族テレショップ</title>
+    <desc lang="ja_JP">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928045500 +0900" stop="20130928052500 +0900" channel="24">
+    <title lang="ja_JP">ダイレクトテレショップ</title>
+    <desc lang="ja_JP">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928052500 +0900" stop="20130928055000 +0900" channel="24">
+    <title lang="ja_JP">おかずのクッキング　海老フライ〜タルタル添え・鶏のごぼう照り焼き【字】</title>
+    <desc lang="ja_JP">「見るだけで料理上手」をコンセプトに、料理研究家・土井善晴先生らが家庭のおかずの作り方を教えます。アシスタントは久冨慶子アナウンサー。テキストも好評発売中。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928055000 +0900" stop="20130928060000 +0900" channel="24">
+    <title lang="ja_JP">ＡＮＮニュース</title>
+    <desc lang="ja_JP">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928060000 +0900" stop="20130928063000 +0900" channel="24">
+    <title lang="ja_JP">【終】大人の山歩き　〜自分に出会える百名山〜</title>
+    <desc lang="ja_JP">初めての富士登山冒険記、いよいよ富士山の頂上へ！８合目の山小屋で御来光を拝んだ後は最後の苦しい急登。初めての富士の頂上から見たものは、一体どんな景色だったのか？</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928063000 +0900" stop="20130928080000 +0900" channel="24">
+    <title lang="ja_JP">【終】あさナビ</title>
+    <desc lang="ja_JP">城島茂と共に、ニュース・エンタメ・健康・日本文化など、各ジャンルの専門家たちが自ら旬な話題をセレクトし、“使えるニュース＆情報”を発信していく情報バラエティー！</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928080000 +0900" stop="20130928093000 +0900" channel="24">
+    <title lang="ja_JP">朝だ！生です旅サラダ</title>
+    <desc lang="ja_JP">毎月一つの国を徹底的に紹介する海外の旅や、ゲストが訪ねる日本の旅、各地のこだわりの宿等、幅広い旅のスタイルを提案する旅とグルメの情報番組。【司会】神田正輝 ほか</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928093000 +0900" stop="20130928095500 +0900" channel="24">
+    <title lang="ja_JP">食彩の王国【字】</title>
+    <desc lang="ja_JP">今回の主役は生姜‼爽やかな香りと辛みで食卓を支えてきた生姜ですが、最近は“美味しい食材”としても大人気‼和洋中…様々な料理で活躍する生姜の魅力に迫ります。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928095500 +0900" stop="20130928100000 +0900" channel="24">
+    <title lang="ja_JP">美味しい百景〜アシタノゲンキ〜【字】</title>
+    <desc lang="ja_JP">日本全国に溢れる風光明媚な土地…そこで暮らす人々が誇りに思っている「素敵な風景」と「美味しい食」を訪ねます。その地でしか味わえない、郷土の味、名物料理とは？</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928100000 +0900" stop="20130928114500 +0900" channel="24">
+    <title lang="ja_JP">若大将のゆうゆう散歩・人気の観光地スペシャル【字】</title>
+    <desc lang="ja_JP">さあ、若大将と一緒に街に出ませんか？散歩の楽しみ方、お勧めコースをお茶の間に紹介。好奇心旺盛な加山さんが街の息づかい、人とのふれあいを皆さんと一緒に体験します。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928114500 +0900" stop="20130928120000 +0900" channel="24">
+    <title lang="ja_JP">ＡＮＮニュース【字】</title>
+    <desc lang="ja_JP">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928120000 +0900" stop="20130928135500 +0900" channel="24">
+    <title lang="ja_JP">タクシードライバーの推理日誌２９「塀の中からの乗客」【解】【字】【再】</title>
+    <desc lang="ja_JP">「星降る夜のアリバイ殺人‼吸い取られたＤＮＡと謎の記号の秘密！」渡瀬恒彦ほか▽夜明のタクシーに迎車の要請が入った。依頼人は夜明の元同僚、警視庁の警部だという…</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130928135500 +0900" stop="20130928135900 +0900" channel="24">
+    <title lang="ja_JP">ＡＮＮニュース【字】</title>
+    <desc lang="ja_JP">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928135900 +0900" stop="20130928160000 +0900" channel="24">
+    <title lang="ja_JP">相棒セレクション　相棒４　＃２１スペシャル【字】【再】</title>
+    <desc lang="ja_JP">「桜田門内の変」水谷豊、寺脇康文ほか▽警視庁内で青酸カリによる毒殺事件が２件同時に発生し、警察官２名が死亡した。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130928160000 +0900" stop="20130928172500 +0900" channel="24">
+    <title lang="ja_JP">路線バスで寄り道の旅　特別編【字】</title>
+    <desc lang="ja_JP">好評だった「鎌倉・葉山」「南房総」「高尾山」に続く第４弾は“箱根で温泉と花火を楽しもう旅”小田原で海の幸〜箱根で温泉〜芦ノ湖で花火…のんび〜り旅を満喫！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928172500 +0900" stop="20130928173000 +0900" channel="24">
+    <title lang="ja_JP">水彩物語【字】</title>
+    <desc lang="ja_JP">水の色って、どんな色ですか？この番組は、私たちにとって大切な『水』が魅せる様々な表情を、日本古来の色の世界と共にお届けする全く新しいスタイルのプログラムです。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928173000 +0900" stop="20130928180000 +0900" channel="24">
+    <title lang="ja_JP">ＡＮＮスーパーＪチャンネル【字】</title>
+    <desc lang="ja_JP">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928180000 +0900" stop="20130928183000 +0900" channel="24">
+    <title lang="ja_JP">人生の楽園【字】</title>
+    <desc lang="ja_JP">新しい人生を選択し、夢を実現した人がいます。「人生には楽園が必要だ」で始まるこの番組は、“新しい生き方”を提案する大人のための「いい人生の歩き方」発見番組です。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928183000 +0900" stop="20130928185600 +0900" channel="24">
+    <title lang="ja_JP">〜世界にひとつ〜ミラクルレシピ！【字】</title>
+    <desc lang="ja_JP">『家庭が変われば料理も変わる』をコンセプトに、全国の様々な家庭の料理の違いをご紹介。ハンバーグやカレーなどの定番料理に、その家庭ならではの「ミラクルレシピ」が‼</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928185600 +0900" stop="20130928205400 +0900" channel="24">
+    <title lang="ja_JP">関ジャニの仕分け∞　２時間スペシャル【字】</title>
+    <desc lang="ja_JP">関ジャニ∞が世の中の気になることを仕分ける仕分け対決バラエティ！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928205400 +0900" stop="20130928205800 +0900" channel="24">
+    <title lang="ja_JP">ＡＮＮニュース・あすの空もよう【字】</title>
+    <desc lang="ja_JP">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928205800 +0900" stop="20130928210000 +0900" channel="24">
+    <title lang="ja_JP">今夜の土曜ワイド【字】</title>
+    <desc lang="ja_JP">週末の夜の読み切り長尺ドラマ！　キャスト、ストーリーともに充実の強力ラインアップ で 、今宵もサスペンス三昧!!</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928210000 +0900" stop="20130928230600 +0900" channel="24">
+    <title lang="ja_JP">土曜ワイド劇場「森村誠一の終着駅シリーズ・悪の魂」【デ】【解】【字】</title>
+    <desc lang="ja_JP">ベストセラー小説に仕組まれた二重殺人の罠‼見知らぬ女が依頼する１億の殺人⁉</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130928230600 +0900" stop="20130928231200 +0900" channel="24">
+    <title lang="ja_JP">YOU MAY DREAM【字】</title>
+    <desc lang="ja_JP">有名人が寝ている時に見た“夢”を語り、そこから深層心理を読み解く番組です。【ゲスト】渡部豪太（俳優）</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928231200 +0900" stop="20130928231500 +0900" channel="24">
+    <title lang="ja_JP">裏Ｓｍａ</title>
+    <desc lang="ja_JP">このあとのＳｍａＳＴＡＴＩＯＮ！！は…</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928231500 +0900" stop="20130929000900 +0900" channel="24">
+    <title lang="ja_JP">SmaSTATION‼</title>
+    <desc lang="ja_JP">夢の競演！ハンバーガーチェーン・トップ３社を完全比較！長年愛されている各社看板メニューの中身解剖・売り上げランキング・遂に明かされる禁断のキッチン…保存版です！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929000900 +0900" stop="20130929001500 +0900" channel="24">
+    <title lang="ja_JP">AMAZING BANG FRONT</title>
+    <desc lang="ja_JP">今までにない新しい発見、新しい視点をもたらした才能や現象を発見しながら、あなたの毎日を彩る豊かな情報をお伝えしていきます！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929001500 +0900" stop="20130929004500 +0900" channel="24">
+    <title lang="ja_JP">ポータル　ＡＮＮニュース＆スポーツ</title>
+    <desc lang="ja_JP">ニュース＆スポーツをテンポよく。「ネットでこの1週間どんなニュースが注目を集めたか？」新コンセプトでwebニュース「テレ朝news」や番組公式facebookページなどと連動。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929004500 +0900" stop="20130929011500 +0900" channel="24">
+    <title lang="ja_JP">【終】あっちマニア【字】</title>
+    <desc lang="ja_JP">怪しいマニアたちの普段の活動、何をしているかわからない謎の団体や協会を調査‼そこには意外な目的や真実が…。マニアならではの行動からタメになる情報を得よう‼</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929011500 +0900" stop="20130929014500 +0900" channel="24">
+    <title lang="ja_JP">夏目☆記念日【字】</title>
+    <desc lang="ja_JP">日常に潜む意外と知られていない記念日を取り上げ、専門家と共に詳しく紹介する夏目三久司会の番組。重ねられる歴史を掘り下げると、ちょっと話したくなる事実があります</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929014500 +0900" stop="20130929021500 +0900" channel="24">
+    <title lang="ja_JP">さまぁ〜ず×さまぁ〜ず</title>
+    <desc lang="ja_JP">さまぁ〜ずの二人がお送りする深夜のトークライブ。フリートークに加え、マルチビジョンを使った大喜利コーナーもあり。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929021500 +0900" stop="20130929024500 +0900" channel="24">
+    <title lang="ja_JP">ブラマヨとゆかいな仲間たち　アツアツっ！</title>
+    <desc lang="ja_JP">どこまでも熱い芸人・ブラックマヨネーズが、ゲストと「アツアツっ！」な本音トークを繰り広げる激熱トークバラエティー。生ぬるいトークは厳禁です！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929024500 +0900" stop="20130929031500 +0900" channel="24">
+    <title lang="ja_JP">ワールドプロレスリング</title>
+    <desc lang="ja_JP">東北大熱狂！秋田史上初ＩＷＧＰヘビー級選手権‼プロレス新黄金時代を牽引するオカダがジュニアの絶対王者デヴィットと激突。ヘビーとジュニア…歴史的王者対決の結末は⁉</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130929031500 +0900" stop="20130929034500 +0900" channel="24">
+    <title lang="ja_JP">333</title>
+    <desc lang="ja_JP">最近少しずつメジャーになってきた？超若手３組のトリオ芸人が、毎回企画の中身は一切知らされず、番組に振り回されながら体当たりのロケに挑んでいく３３３（トリオさん）</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929034500 +0900" stop="20130929040500 +0900" channel="24">
+    <title lang="ja_JP">イベ検</title>
+    <desc lang="ja_JP">テレビ朝日がオススメするイベント情報！イベントの詳しい情報は『テレビ朝日　イベント』で検索！！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929040500 +0900" stop="20130929043500 +0900" channel="24">
+    <title lang="ja_JP">葉加瀬太郎ワールドツアーＳＰ！〜ジャポニズム〜</title>
+    <desc lang="ja_JP">葉加瀬太郎のワールド・ツアー世界６カ国（イギリス・ドイツ・アメリカほか）、国内３１都道府県、全４５本の規模で開催。今回のワールドツアーへの思いを葉加瀬が語ります</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130929043500 +0900" stop="20130929045000 +0900" channel="24">
+    <title lang="ja_JP">朝いち！ゴルフ</title>
+    <desc lang="ja_JP">日曜の朝、早起きしたゴルファーに送るちょっと得するゴルフ番組です。プレーに役立つレッスンから、ゴルフ中継を楽しく見るための情報など、お得な情報満載です。</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130929045000 +0900" stop="20130929052000 +0900" channel="24">
+    <title lang="ja_JP">秘湯ロマン</title>
+    <desc lang="ja_JP">「癒やし」をテーマに日本全国の秘湯と呼ばれる温泉の持つ魅力と歴史、それを支えてきた人々のこだわりや四季折々の景色を紹介する。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929052000 +0900" stop="20130929055000 +0900" channel="24">
+    <title lang="ja_JP">健康家族テレショップ</title>
+    <desc lang="ja_JP">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929055000 +0900" stop="20130929060000 +0900" channel="24">
+    <title lang="ja_JP">ＡＮＮニュース</title>
+    <desc lang="ja_JP">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929060000 +0900" stop="20130929063000 +0900" channel="24">
+    <title lang="ja_JP">日本！食紀行</title>
+    <desc lang="ja_JP">日本全国各地の「食」を通して、地域の歴史や文化、人々の英知や営みを学び、温かいコミュニティーなどを四季折々の美しい風景とともに描き出す教育ドキュメンタリー番組。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929063000 +0900" stop="20130929070000 +0900" channel="24">
+    <title lang="ja_JP">聖闘士星矢Ω</title>
+    <desc lang="ja_JP">【小馬座の涙！？覚醒する二つの聖衣！】呪われた聖衣は新たな聖闘士を拒絶するのか！？エクレウスと魂を通わせる時！お前の聖衣はその真価を発揮する！</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929070000 +0900" stop="20130929073000 +0900" channel="24">
+    <title lang="ja_JP">最強銀河　究極ゼロ【デ】【字】</title>
+    <desc lang="ja_JP">「究極祭だ！俺は灼熱のゼロ！！」レイは、お宝のありかを示す宇宙コンパスをかけ、灼熱のゼロに変身してバトルする！相手は、宇宙を仕切るギルドの一員、銀河三羽がらす！</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929073000 +0900" stop="20130929080000 +0900" channel="24">
+    <title lang="ja_JP">獣電戦隊キョウリュウジャー【デ】【字】</title>
+    <desc lang="ja_JP">遥かな太古に恐竜を滅ぼした超大魔王デーボス。今再びデーボスが復元し、人間が死滅する危機が来た！そこで現代の覇者・キョウリュウジャーが使命を受けて立ち上がる！！</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929080000 +0900" stop="20130929083000 +0900" channel="24">
+    <title lang="ja_JP">【終】仮面ライダーウィザード【デ】【字】</title>
+    <desc lang="ja_JP">第53話「終わらない物語」…空間の亀裂から新ライダーが飛び出してきた！魔宝石の主・アマダムが罪を犯し封印された魔法使いだと知った晴人は13人のライダー達とともに…！</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929083000 +0900" stop="20130929090000 +0900" channel="24">
+    <title lang="ja_JP">ドキドキ！プリキュア【デ】【字】</title>
+    <desc lang="ja_JP">第34回「ママはたいへん！ふきげんアイちゃん！」ぐずるアイちゃんが泣き出し機嫌がずっと直らない。そんなお手上げのマナたちは母親らから育児の思い出話を聞かされる。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929090000 +0900" stop="20130929093000 +0900" channel="24">
+    <title lang="ja_JP">題名のない音楽会</title>
+    <desc lang="ja_JP">佐渡裕が毎年夏にプロデュースしているオペラに密着取材。ヴァイオリニストの高嶋ちさ子さんが「セビリャの理髪師」の舞台ウラに潜入し見どころをレポートします。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130929093000 +0900" stop="20130929100000 +0900" channel="24">
+    <title lang="ja_JP">砂羽と可奈子があの街の美味しいギャップ大発見！だけど食堂【字】</title>
+    <desc lang="ja_JP">鈴木砂羽と柳原可奈子が「○○だけど美味しい」というギャップのある【だけど食堂】を求めて街をブラリ！見れば“行ってみたくなる”こと間違いなしのロケバラエティー！！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929100000 +0900" stop="20130929114500 +0900" channel="24">
+    <title lang="ja_JP">報道ステーション　ＳＵＮＤＡＹ【デ】</title>
+    <desc lang="ja_JP">日曜日も報道ステーション！週末起きた最新ニュースを報ステならではの取材力で追跡。時代を映し出すドキュメンタリー特集、キーパーソンとの生討論。最新スポーツ情報も。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929114500 +0900" stop="20130929125500 +0900" channel="24">
+    <title lang="ja_JP">サンデースクランブル</title>
+    <desc lang="ja_JP">気になるニュースを直撃撮！事件のナゾを完全解明！一週間の“なぜ？”を残さず、徹底的に追跡取材する「日曜日のニュースワイドショー」です！！</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929125500 +0900" stop="20130929132500 +0900" channel="24">
+    <title lang="ja_JP">新婚さんいらっしゃい！【解】【字】</title>
+    <desc lang="ja_JP">桂文枝・山瀬まみが新婚さんの楽しい話を聞くトークバラエティ。新婚カップルのアツアツぶりや微笑ましい失敗談などを、絶妙のトークで楽しむ爆笑番組。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929132500 +0900" stop="20130929135500 +0900" channel="24">
+    <title lang="ja_JP">パネルクイズ　アタック２５【字】</title>
+    <desc lang="ja_JP">４人の解答者がクイズに答えて２５枚のパネルを取り合う、視聴者参加型クイズ番組！優勝者は地中海クルーズ旅行をかけて、最後のＶＴＲクイズに挑戦。司会は浦川泰幸</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929135500 +0900" stop="20130929152000 +0900" channel="24">
+    <title lang="ja_JP">路線バスで寄り道の旅５【字】</title>
+    <desc lang="ja_JP">好評だった「鎌倉」「南房総」「高尾山」「箱根」に続く、第５弾は『食欲の秋！横浜絶品グルメ尽くしの旅』！仲良し美女２人と途中下車＆寄り道しながら横浜を目指します！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929152000 +0900" stop="20130929152500 +0900" channel="24">
+    <title lang="ja_JP">ＴＶクリップ</title>
+    <desc lang="ja_JP">人気番組の最新情報をギュッと凝縮してお届けします！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929152500 +0900" stop="20130929153000 +0900" channel="24">
+    <title lang="ja_JP">ＡＮＮニュース【字】</title>
+    <desc lang="ja_JP">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929153000 +0900" stop="20130929172500 +0900" channel="24">
+    <title lang="ja_JP">相棒セレクション　相棒５　＃１ スペシャル【字】【再】</title>
+    <desc lang="ja_JP">「杉下右京最初の事件〜２２年前の夜の秘密」水谷豊、寺脇康文ほか▽ホームレスの集落がミリタリーマニアの集団に襲われる事件が発生した…</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130929172500 +0900" stop="20130929173000 +0900" channel="24">
+    <title lang="ja_JP">世界が愛した絵本【字】</title>
+    <desc lang="ja_JP">今回の作品は『おしえて おしえて』（作：マーカス・フィスター、訳：谷川俊太郎、出版：講談社）をお送りします♪</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929173000 +0900" stop="20130929180000 +0900" channel="24">
+    <title lang="ja_JP">ＡＮＮスーパーＪチャンネル【字】</title>
+    <desc lang="ja_JP">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929180000 +0900" stop="20130929183000 +0900" channel="24">
+    <title lang="ja_JP">相葉マナブ【字】</title>
+    <desc lang="ja_JP">嵐の相葉雅紀が「ニッポンを元気に！」を合言葉に、謎の所長から指令を受け街に出て知られざるニッポンの素晴らしさを学びます‼家族で楽しく見られてタメになるバラエティ</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929183000 +0900" stop="20130929185600 +0900" channel="24">
+    <title lang="ja_JP">奇跡の地球物語〜近未来創造サイエンス〜【字】</title>
+    <desc lang="ja_JP">古代のミステリーから日常のふとした疑問まで、人間を取り巻くあらゆる物事を最先端科学で紐解いていく…。明日誰かに話したくなる、新しい発見がいっぱいの番組です。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929185600 +0900" stop="20130929205700 +0900" channel="24">
+    <title lang="ja_JP">シルシルミシルさんデー　２時間スペシャル【字】</title>
+    <desc lang="ja_JP">くりぃむしちゅーがお送りする情報バラエティ！有名企業のウラ側に密着し、人気商品の（秘）工場に潜入！全国都道府県のニッポン１の漁やご当地グルメなどを大特集！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929205700 +0900" stop="20130929210000 +0900" channel="24">
+    <title lang="ja_JP">今夜のドラマスペシャル【字】</title>
+    <desc lang="ja_JP">伝説の刑事ドラマ「特捜最前線」が復活!!スケール感溢れる銃撃戦あり爆破ありのアクションシーンも見どころ!!特捜課・７人の刑事と７頭の警察犬が連続殺人事件の謎を暴く!!</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929210000 +0900" stop="20130929231000 +0900" channel="24">
+    <title lang="ja_JP">ドラマスペシャル「特捜最前線２０１３〜７頭の警察犬」【デ】【字】</title>
+    <desc lang="ja_JP">あの伝説の刑事ドラマ「特捜最前線」が２６年ぶりに復活！警視庁特捜課の７人の刑事が７頭の警察犬とともに、東京〜京都500キロの殺人捜査！不可解な連続殺人の謎に挑む！</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130929231000 +0900" stop="20130929231500 +0900" channel="24">
+    <title lang="ja_JP">ｆｏｒ〜歓声を生んだ感動ストーリー〜【字】</title>
+    <desc lang="ja_JP">歓声が上がる瞬間には必ず感動の物語が…。誰のために何のために頑張ったのか。そこに秘められた感動ストーリーを紐解く。今回は競走馬「キズナ」に込められた想いの物語。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929231500 +0900" stop="20130930001000 +0900" channel="24">
+    <title lang="ja_JP">日曜×芸人【字】</title>
+    <desc lang="ja_JP">ちょっぴり憂鬱な日曜日の夜「明日に向かってポジティブに‼」を合言葉に山崎×若林×バカリズムの３人が、憂鬱感を吹き飛ばすため素敵なゲストと楽しむロケバラエティー</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130930001000 +0900" stop="20130930004500 +0900" channel="24">
+    <title lang="ja_JP">日本サッカー応援宣言　やべっちＦＣ</title>
+    <desc lang="ja_JP">サッカーを愛する“やべっち”ことナインティナインの矢部浩之が日本サッカーを熱く盛り上げる！どこよりも早い情報で海外サッカーから日本代表・Ｊリーグまで完全放送！！</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130930004500 +0900" stop="20130930024000 +0900" channel="24">
+    <title lang="ja_JP">Get　Sports</title>
+    <desc lang="ja_JP">Ｇｅｔ Ｓｐｏｒｔｓは数々のアスリート達の激白や徹底した取材から導き出される戦術分析を通じて、スポーツ競技の裏側にあるドラマを描くスポーツドキュメンタリーです！</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930024000 +0900" stop="20130930024200 +0900" channel="24">
+    <title lang="ja_JP">クロージング</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930044300 +0900" stop="20130930044500 +0900" channel="24">
+    <title lang="ja_JP">オープニング</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930044500 +0900" stop="20130930045000 +0900" channel="24">
+    <title lang="ja_JP">ＣＳテレ朝ナビ‼</title>
+    <desc lang="ja_JP">ＣＳテレ朝ｃｈ１では、深夜時代の『ココリコ黄金伝説』『ココリコＡ級伝説』をＣＳ初の独占放送！若きココリコが挑む破天荒な企画内容をお楽しみ下さい！！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930045000 +0900" stop="20130930045500 +0900" channel="24">
+    <title lang="ja_JP">おはようゴーちゃん。</title>
+    <desc lang="ja_JP">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今朝の注目はなにかな？</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930045500 +0900" stop="20130930080000 +0900" channel="24">
+    <title lang="ja_JP">【新】グッド！モーニング【デ】</title>
+    <desc lang="ja_JP">テレビ・新聞、ネットの情報をまとめてお届け。Yahoo!とのコラボで「ヒットの兆し」をキャッチするコーナーも。これであなたも「情報通」に。「快適な朝」をお届けします。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930080000 +0900" stop="20130930095500 +0900" channel="24">
+    <title lang="ja_JP">モーニングバード！</title>
+    <desc lang="ja_JP">羽鳥慎一と赤江珠緒が、今知っておきたい「世の中のできごと」を、明るく爽やかに伝えます。注目の重大事から、生活を豊かにするアイデアまで、情報満載でお届けします。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930095500 +0900" stop="20130930103000 +0900" channel="24">
+    <title lang="ja_JP">若大将のゆうゆう散歩【字】</title>
+    <desc lang="ja_JP">さあ、若大将と一緒に街に出ませんか？散歩の楽しみ方、お勧めコースをお茶の間に紹介。好奇心旺盛な加山さんが街の息づかい、人とのふれあいを皆さんと一緒に体験します。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930103000 +0900" stop="20130930112500 +0900" channel="24">
+    <title lang="ja_JP">暴れん坊将軍１１　＃１５【字】【再】</title>
+    <desc lang="ja_JP">「時効を待つ女・旧悪免除令の落し穴！」松平健ほか▽吉宗は、自分が定めた“旧悪免除”の法によって、め組の小頭・峰次が救われたという話を頭の栄五郎から聞かされる。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130930112500 +0900" stop="20130930130500 +0900" channel="24">
+    <title lang="ja_JP">ワイド！スクランブル</title>
+    <desc lang="ja_JP">優しさと芯の強さをあわせ持つ、大下容子アナ。取材経験豊富で切れ味鋭い寺崎貴司アナ。２人が充実したニュース＆情報を毎日お伝えします。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930130500 +0900" stop="20130930132000 +0900" channel="24">
+    <title lang="ja_JP">上沼恵美子のおしゃべりクッキング【デ】【字】</title>
+    <desc lang="ja_JP">「きのこの蓮根汁」ゲスト：Ｕ字工事（福田薫、益子卓郎）</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930132000 +0900" stop="20130930135500 +0900" channel="24">
+    <title lang="ja_JP">徹子の部屋【字】</title>
+    <desc lang="ja_JP">司会の黒柳徹子さんが、各界の著名人はもちろん、時の人、話題の人をゲストに迎え、絶妙の話術を駆使してゲストの魅力に迫る、昭和５１年放送開始の長寿トーク番組です。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130930135500 +0900" stop="20130930135900 +0900" channel="24">
+    <title lang="ja_JP">東京サイト【字】</title>
+    <desc lang="ja_JP">東京の魅力や暮らしに役立つ情報をお伝えする番組。一週間を通して一つのテーマを毎日丁寧にお伝えします。これであなたも“東京ツウ”になれる！</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930135900 +0900" stop="20130930140400 +0900" channel="24">
+    <title lang="ja_JP">ＡＮＮニュース【字】</title>
+    <desc lang="ja_JP">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930140400 +0900" stop="20130930155700 +0900" channel="24">
+    <title lang="ja_JP">相棒セレクション　相棒３　＃９スペシャル【字】【再】</title>
+    <desc lang="ja_JP">「潜入捜査〜私の彼を捜して！婚約指輪のイニシャルに隠された殺人メッセージ」水谷豊、寺脇康文ほか▽右京と薫は、急成長のＩＴ企業で潜入捜査をすることになった…</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130930155700 +0900" stop="20130930165300 +0900" channel="24">
+    <title lang="ja_JP">相棒セレクション　相棒９　＃１７【解】【字】【再】</title>
+    <desc lang="ja_JP">「陣川警部補の活躍」水谷豊、及川光博ほか▽陣川が帰宅途中に立ち寄ったコンビニで万引きの現行犯を逮捕。緊張気味に初めての取り調べに臨んだ陣川だったが…。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130930165300 +0900" stop="20130930185300 +0900" channel="24">
+    <title lang="ja_JP">スーパーＪチャンネル</title>
+    <desc lang="ja_JP">視聴者が知りたいニュース・情報をズバリお伝えします！テレビ朝日の系列局２６局（ＡＮＮ）が総力取材！いち早く正確な情報を届けます。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930185300 +0900" stop="20130930214800 +0900" channel="24">
+    <title lang="ja_JP">クイズプレゼンバラエティー Ｑさま‼　３時間スペシャル【字】</title>
+    <desc lang="ja_JP">脳力検定「プレッシャーＳＴＵＤＹ」！毎回さまざまなインテリ芸能人たちが次々と出題される常識レベル（？）の教科書問題に挑戦！インテリ芸能人の真の脳力を暴きます！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130930214800 +0900" stop="20130930215400 +0900" channel="24">
+    <title lang="ja_JP">世界の街道をゆく【字】</title>
+    <desc lang="ja_JP">彩りの街道・インドネシア…数百もの異なる民族が共に暮らす島嶼国家。ヒンドゥー教、仏教、イスラム教が栄えた。民族性に富んだ文化が脈々と伝わるこの国の街道を巡る。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930215400 +0900" stop="20130930231000 +0900" channel="24">
+    <title lang="ja_JP">報道ステーション【デ】【字】</title>
+    <desc lang="ja_JP">きょう何があったか！一日のしめくくりとして欠かせないニュース番組。古舘伊知郎を中心に正解のない時代のニュースを「まじめに」「前向きに」「正直に」お伝えします。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930231000 +0900" stop="20130930231500 +0900" channel="24">
+    <title lang="ja_JP">世界の車窓から【字】</title>
+    <desc lang="ja_JP">スウェーデン・ノルウェー〜白夜の北欧、森と湖の大地を巡る旅〜＃９３５８『野生の森をゆく』曲名♪「Ｖｒａｋｅｔ」by.Ｌｉｓａ Ｅｋｄａｈｌ</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930231500 +0900" stop="20131001001500 +0900" channel="24">
+    <title lang="ja_JP">ストライクＴＶ【字】</title>
+    <desc lang="ja_JP">爆笑問題と人気芸能人たちがストライクなトーク＆クイズにチャレンジ！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+</tv>

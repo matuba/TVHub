@@ -1,0 +1,2036 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="tsEPG2xml" generator-info-url="http://localhost/">
+  <channel id="20">
+    <display-name lang="ja_JP">ＴＯＫＹＯ　ＭＸ１</display-name>
+  </channel>
+  <programme start="20130923180000 +0900" stop="20130923181500 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130923181500 +0900" stop="20130923183000 +0900" channel="20">
+    <title lang="ja_JP">パンチ佐藤の美味いぞニッポン！</title>
+    <desc lang="ja_JP">大阪ベイエリア　なにわの絶品洋食！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130923183000 +0900" stop="20130923190000 +0900" channel="20">
+    <title lang="ja_JP">夢色パティシエール</title>
+    <desc lang="ja_JP">＃３４「史上最強のコンビ！」</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130923190000 +0900" stop="20130923193000 +0900" channel="20">
+    <title lang="ja_JP">クロスゲーム</title>
+    <desc lang="ja_JP">＃２６「知ってるよ」</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130923193000 +0900" stop="20130923200000 +0900" channel="20">
+    <title lang="ja_JP">コボちゃん</title>
+    <desc lang="ja_JP">＃１９「春風のいたずら」、「杉の木からの贈り物」</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130923200000 +0900" stop="20130923205500 +0900" channel="20">
+    <title lang="ja_JP">ＢＯＡＴ　ＲＡＣＥライブ・第２８回新鋭王座決定戦</title>
+    <desc lang="ja_JP">優勝戦〜ボートレース桐生</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130923205500 +0900" stop="20130923210000 +0900" channel="20">
+    <title lang="ja_JP">フラッシュ天気</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130923210000 +0900" stop="20130923215500 +0900" channel="20">
+    <title lang="ja_JP">【デ】ニッポン・ダンディ</title>
+    <desc lang="ja_JP">武井壮＆福田和也に加え、ダイアモンド☆ユカイがレギュラー参戦！カリスマダンディ達が２１時の東京の夜を熱くする！あらゆるニュース・出来事を一刀両断！</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130923215500 +0900" stop="20130923220000 +0900" channel="20">
+    <title lang="ja_JP">フラッシュ天気</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130923220000 +0900" stop="20130923223000 +0900" channel="20">
+    <title lang="ja_JP">パ・リーグ主義！</title>
+    <desc lang="ja_JP">大混戦のパ・リーグ！クライマックスシリーズ出場をかけた終盤戦の戦いをたっぷりお届け！</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130923223000 +0900" stop="20130923230000 +0900" channel="20">
+    <title lang="ja_JP">ＭＹ　ＭＯ　ＳＥＯＵＬ</title>
+    <desc lang="ja_JP">▽「風邪をひいた泣いている彼女をどう看病する？」　インスのまさかの動きにスタジオ大爆笑！　▽家庭料理が味わえる絶品レストラン！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130923230000 +0900" stop="20130923233000 +0900" channel="20">
+    <title lang="ja_JP">ＥＢｉＤＡＮ</title>
+    <desc lang="ja_JP">明日のスターを夢見る総勢３０名の美少年が大集合！歌とダンスのレッスンはもちろん、パジャマ姿でジャレ合いながら親への不満を思わず暴露！？更に、恋愛トークで激論！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130923233000 +0900" stop="20130924000000 +0900" channel="20">
+    <title lang="ja_JP">内村さまぁ〜ず</title>
+    <desc lang="ja_JP">超大自然クイズ２０１３！！　〜逗子の変〜前半戦（後編）</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130924000000 +0900" stop="20130924003000 +0900" channel="20">
+    <title lang="ja_JP">リスアニ！ＴＶ　ＳＰＥＣＩＡＬ－豊崎愛生－</title>
+    <desc lang="ja_JP">Ａｋｉ　Ｔｏｙｏｓａｋｉ　Ｌｏｖｅ　ｌｅｔｔｅｒｓ　前編</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130924003000 +0900" stop="20130924010000 +0900" channel="20">
+    <title lang="ja_JP">きんいろモザイク【終】</title>
+    <desc lang="ja_JP">＃１２「きんいろのとき」</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130924010000 +0900" stop="20130924013000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924013000 +0900" stop="20130924015900 +0900" channel="20">
+    <title lang="ja_JP">ハイスクールＤ×Ｄ　ＮＥＷ【終】</title>
+    <desc lang="ja_JP">＃１２「二天龍、激突！」</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130924015900 +0900" stop="20130924020000 +0900" channel="20">
+    <title lang="ja_JP">マッドボックスゾンビーズ</title>
+    <desc lang="ja_JP">＃３８「ぺナルティキック」</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130924020000 +0900" stop="20130924022900 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924022900 +0900" stop="20130924023000 +0900" channel="20">
+    <title lang="ja_JP">フラッシュ天気</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924023000 +0900" stop="20130924030000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924030000 +0900" stop="20130924033000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924033000 +0900" stop="20130924040000 +0900" channel="20">
+    <title lang="ja_JP">Ｉ　ｌｏｖｅ　ｆａｓｈｉｏｎ　ｔｖ！</title>
+    <desc lang="ja_JP">ニューヨークコレクション２０１４年春夏からＴＡＤＡＳＨＩ　ＳＨＯＪＩやＪＡＳＯＮ　ＷＵなど老舗から今注目の若手まで春が待ち遠しくなるショーをお送りします。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924040000 +0900" stop="20130924050000 +0900" channel="20">
+    <title lang="ja_JP">ヒーリングタイム＆ヘッドラインニュース</title>
+    <desc lang="ja_JP">東京点描　城北１</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924050000 +0900" stop="20130924053000 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924053000 +0900" stop="20130924060000 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924060000 +0900" stop="20130924070000 +0900" channel="20">
+    <title lang="ja_JP">【デ】ショップチャンネル　お買い物エンターテインメント</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924070000 +0900" stop="20130924080000 +0900" channel="20">
+    <title lang="ja_JP">【デ】ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP">センチュリーライド▽東京タワーのさんま▽最新のＮＥＷＳ▽天気▽交通情報▽芸能情報など満載でお届けします。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924080000 +0900" stop="20130924085900 +0900" channel="20">
+    <title lang="ja_JP">ＱＶＣ　世界最大級のテレビショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924085900 +0900" stop="20130924090000 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924090000 +0900" stop="20130924093000 +0900" channel="20">
+    <title lang="ja_JP">デイリー・キッチン</title>
+    <desc lang="ja_JP">浜内千波　ヘルシーメニューで健康に　“お利口食材”</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924093000 +0900" stop="20130924102500 +0900" channel="20">
+    <title lang="ja_JP">人生の切符・健やか元気人</title>
+    <desc lang="ja_JP">菅原洋一／東京都・角野卓造さん　龍虎　徳島県・野上哲男さん【健康情報番組】</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924102500 +0900" stop="20130924103000 +0900" channel="20">
+    <title lang="ja_JP">甘いお話</title>
+    <desc lang="ja_JP">麻布十番の瓦せんべいは…の巻</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924103000 +0900" stop="20130924105900 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924105900 +0900" stop="20130924110000 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924110000 +0900" stop="20130924113000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924113000 +0900" stop="20130924120000 +0900" channel="20">
+    <title lang="ja_JP">ハーフタイム</title>
+    <desc lang="ja_JP">火曜日ＭＣ大島麻衣▽『さよならエンタメチューズデー！イケメン迎えて大円団！！』　流行りのハンチングバスケット作り体験！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924120000 +0900" stop="20130924121500 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924121500 +0900" stop="20130924123000 +0900" channel="20">
+    <title lang="ja_JP">酒の肴つくってみ〜よ＋</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924123000 +0900" stop="20130924125900 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924125900 +0900" stop="20130924130000 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924130000 +0900" stop="20130924133000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924133000 +0900" stop="20130924135900 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924135900 +0900" stop="20130924140000 +0900" channel="20">
+    <title lang="ja_JP">フラッシュ天気</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924140000 +0900" stop="20130924145900 +0900" channel="20">
+    <title lang="ja_JP">韓国ドラマ「パラダイス牧場」</title>
+    <desc lang="ja_JP">＃２「契約同居！？」</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130924145900 +0900" stop="20130924150000 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924150000 +0900" stop="20130924153000 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924153000 +0900" stop="20130924155900 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924155900 +0900" stop="20130924160000 +0900" channel="20">
+    <title lang="ja_JP">フラッシュ天気</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924160000 +0900" stop="20130924163000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924163000 +0900" stop="20130924170000 +0900" channel="20">
+    <title lang="ja_JP">スマイルプリキュア！</title>
+    <desc lang="ja_JP">＃２「燃えろ！熱血キュアサニーやで！！」</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130924170000 +0900" stop="20130924180000 +0900" channel="20">
+    <title lang="ja_JP">【デ】５時に夢中！</title>
+    <desc lang="ja_JP">デンジャラスクイーン鬼嫁“北斗晶”と５時の暴走超特急“岡本夏生”がタッグを組んで森羅万象を一刀両断！！！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924180000 +0900" stop="20130924183000 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP">▽多摩川沿いの彼岸花が見ごろ▽事故が多い奥多摩周遊道路に新たな警告板を設置▽文京区では災害時の妊婦受け入れを想定した訓練が▽竹芝ふ頭では三宅島の写真展が…</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924183000 +0900" stop="20130924190000 +0900" channel="20">
+    <title lang="ja_JP">都議会の焦点</title>
+    <desc lang="ja_JP">第３回定例会▽各会派の幹事長に聞く</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924190000 +0900" stop="20130924210000 +0900" channel="20">
+    <title lang="ja_JP">プロ野球　ＳＴＲＯＮＧ！ホークス野球中継２０１３</title>
+    <desc lang="ja_JP">「福岡ソフトバンクホークス×オリックス・バファローズ」〜ヤフオクドーム</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130924210000 +0900" stop="20130924215500 +0900" channel="20">
+    <title lang="ja_JP">【デ】ニッポン・ダンディ</title>
+    <desc lang="ja_JP">岩上安身・ゴルゴ松本、多彩なゲストが登場！カリスマダンディ達が２１時の東京の夜を熱くする！あらゆるニュース・出来事を一刀両断！本音で迫る新感覚ニュースショウ！</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924215500 +0900" stop="20130924220000 +0900" channel="20">
+    <title lang="ja_JP">フラッシュ天気</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924220000 +0900" stop="20130924222900 +0900" channel="20">
+    <title lang="ja_JP">アニメの神様『ドラゴンボールＺ』</title>
+    <desc lang="ja_JP">＃９「ゴメンねロボットさん・砂漠に消えた涙」</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130924222900 +0900" stop="20130924230000 +0900" channel="20">
+    <title lang="ja_JP">アニメの神様『機動戦士ガンダムＳＥＥＤ　ＤＥＳＴＩＮＹ　ＨＤリマスター』</title>
+    <desc lang="ja_JP">＃２５「罪の在処」</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130924230000 +0900" stop="20130924233000 +0900" channel="20">
+    <title lang="ja_JP">コイ☆セント</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130924233000 +0900" stop="20130925003000 +0900" channel="20">
+    <title lang="ja_JP">よしもと新喜劇</title>
+    <desc lang="ja_JP">「探偵と呼ばれた男！？」今回の座長は内場勝則。舞台は結婚式場。よしもと新喜劇お楽しみに〜！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925003000 +0900" stop="20130925010000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925010000 +0900" stop="20130925013000 +0900" channel="20">
+    <title lang="ja_JP">ゴルゴ１３</title>
+    <desc lang="ja_JP">＃２６「冷血キャサリン」</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130925013000 +0900" stop="20130925015900 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925015900 +0900" stop="20130925020000 +0900" channel="20">
+    <title lang="ja_JP">マッドボックスゾンビーズ</title>
+    <desc lang="ja_JP">＃３９「トマト大王」</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130925020000 +0900" stop="20130925022900 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925022900 +0900" stop="20130925023000 +0900" channel="20">
+    <title lang="ja_JP">フラッシュ天気</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925023000 +0900" stop="20130925030000 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925030000 +0900" stop="20130925033000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925033000 +0900" stop="20130925040000 +0900" channel="20">
+    <title lang="ja_JP">ＭＵＳＩＣ　Ｂ．Ｂ．</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130925040000 +0900" stop="20130925050000 +0900" channel="20">
+    <title lang="ja_JP">ヒーリングタイム＆ヘッドラインニュース</title>
+    <desc lang="ja_JP">東京点描　城北１</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925050000 +0900" stop="20130925053000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925053000 +0900" stop="20130925060000 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925060000 +0900" stop="20130925063000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925063000 +0900" stop="20130925070000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925070000 +0900" stop="20130925080000 +0900" channel="20">
+    <title lang="ja_JP">【デ】ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925080000 +0900" stop="20130925083000 +0900" channel="20">
+    <title lang="ja_JP">都議会の焦点【再】</title>
+    <desc lang="ja_JP">第３回定例会▽各会派の幹事長に聞く</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925083000 +0900" stop="20130925085900 +0900" channel="20">
+    <title lang="ja_JP">Ｈａｗａｉｉ　ローカルＮＥＷＳ！</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925085900 +0900" stop="20130925090000 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925090000 +0900" stop="20130925093000 +0900" channel="20">
+    <title lang="ja_JP">アンナの美ｖｉスタッ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925093000 +0900" stop="20130925100000 +0900" channel="20">
+    <title lang="ja_JP">健やか元気人</title>
+    <desc lang="ja_JP">東京都・園まりさん　大分県・水野雅好さん　熊本県・石本隆男さん【健康情報番組】</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925100000 +0900" stop="20130925103000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925103000 +0900" stop="20130925105900 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925105900 +0900" stop="20130925110000 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925110000 +0900" stop="20130925113000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925113000 +0900" stop="20130925120000 +0900" channel="20">
+    <title lang="ja_JP">ハーフタイム</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925120000 +0900" stop="20130925121500 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925121500 +0900" stop="20130925123000 +0900" channel="20">
+    <title lang="ja_JP">気ままなグルメ一人旅</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925123000 +0900" stop="20130925125900 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925125900 +0900" stop="20130925130000 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925130000 +0900" stop="20130925133000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925133000 +0900" stop="20130925135900 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925135900 +0900" stop="20130925140000 +0900" channel="20">
+    <title lang="ja_JP">フラッシュ天気</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925140000 +0900" stop="20130925145900 +0900" channel="20">
+    <title lang="ja_JP">ＣＳＩ：４科学捜査班</title>
+    <desc lang="ja_JP">＃４「灼かれて眠れ（Ｆｅｅｌｉｎｇ　Ｔｈｅ　Ｈｅａｔ）」</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130925145900 +0900" stop="20130925150000 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925150000 +0900" stop="20130925153000 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925153000 +0900" stop="20130925155900 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925155900 +0900" stop="20130925160000 +0900" channel="20">
+    <title lang="ja_JP">フラッシュ天気</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925160000 +0900" stop="20130925163000 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925163000 +0900" stop="20130925170000 +0900" channel="20">
+    <title lang="ja_JP">スマイルプリキュア！</title>
+    <desc lang="ja_JP">＃３「じゃんけんポン♪でキュアピース！！」</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130925170000 +0900" stop="20130925180000 +0900" channel="20">
+    <title lang="ja_JP">【デ】５時に夢中！</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925180000 +0900" stop="20130925183000 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925183000 +0900" stop="20130925210000 +0900" channel="20">
+    <title lang="ja_JP">プロ野球　ＳＴＲＯＮＧ！ホークス野球中継２０１３</title>
+    <desc lang="ja_JP">「福岡ソフトバンクホークス×オリックス・バファローズ」〜ヤフオクドーム</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130925210000 +0900" stop="20130925215500 +0900" channel="20">
+    <title lang="ja_JP">【デ】ニッポン・ダンディ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925215500 +0900" stop="20130925220000 +0900" channel="20">
+    <title lang="ja_JP">フラッシュ天気</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925220000 +0900" stop="20130925222700 +0900" channel="20">
+    <title lang="ja_JP">スパルタンＭＸ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925222700 +0900" stop="20130925223000 +0900" channel="20">
+    <title lang="ja_JP">にゅるにゅる！！ＫＡＫＵＳＥＮくん</title>
+    <desc lang="ja_JP">＃１２</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130925223000 +0900" stop="20130925230000 +0900" channel="20">
+    <title lang="ja_JP">叱るＧＥＮＪＩ</title>
+    <desc lang="ja_JP">叱るＧＥＮＪＩ　お説教ゲスト　黒船軍団スペシャル</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925230000 +0900" stop="20130925233000 +0900" channel="20">
+    <title lang="ja_JP">原口あきまさの今が『ぱちドキッ！』</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925233000 +0900" stop="20130926000000 +0900" channel="20">
+    <title lang="ja_JP">エビ中の永遠に中学生（仮）２【終】</title>
+    <desc lang="ja_JP">〜２０１３年　初秋　初心編〜</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130926000000 +0900" stop="20130926003000 +0900" channel="20">
+    <title lang="ja_JP">ラフピー！〜沖縄国際映画祭への道〜</title>
+    <desc lang="ja_JP">１番感動した手紙を決めよう！新企画「なちぶさ〜ＧＰ」後編！故郷・沖縄を飛び出し、東京で芸人として頑張る息子へ宛てた、母からの手紙に一同大号泣。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926003000 +0900" stop="20130926010000 +0900" channel="20">
+    <title lang="ja_JP">Ｆｒｅｅ！【終】</title>
+    <desc lang="ja_JP">＃１２「遙かなるフリー！」</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130926010000 +0900" stop="20130926013000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926013000 +0900" stop="20130926015900 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926015900 +0900" stop="20130926020000 +0900" channel="20">
+    <title lang="ja_JP">マッドボックスゾンビーズ</title>
+    <desc lang="ja_JP">＃４０「魅惑の時計」</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130926020000 +0900" stop="20130926022900 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926022900 +0900" stop="20130926023000 +0900" channel="20">
+    <title lang="ja_JP">フラッシュ天気</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926023000 +0900" stop="20130926030000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926030000 +0900" stop="20130926033000 +0900" channel="20">
+    <title lang="ja_JP">Ａｎｉｍｅ－ＴＶ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130926033000 +0900" stop="20130926040000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926040000 +0900" stop="20130926050000 +0900" channel="20">
+    <title lang="ja_JP">ヒーリングタイム＆ヘッドラインニュース</title>
+    <desc lang="ja_JP">東京点描　城北１</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926050000 +0900" stop="20130926053000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926053000 +0900" stop="20130926060000 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926060000 +0900" stop="20130926070000 +0900" channel="20">
+    <title lang="ja_JP">【デ】ショップチャンネル　お買い物エンターテインメント</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926070000 +0900" stop="20130926080000 +0900" channel="20">
+    <title lang="ja_JP">【デ】ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926080000 +0900" stop="20130926085900 +0900" channel="20">
+    <title lang="ja_JP">ＱＶＣ　世界最大級のテレビショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926085900 +0900" stop="20130926090000 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926090000 +0900" stop="20130926093000 +0900" channel="20">
+    <title lang="ja_JP">料理の基本　ぜったい覚えたいレシピ１００</title>
+    <desc lang="ja_JP">汁もの・スープ編　「お味噌汁など」</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926093000 +0900" stop="20130926100000 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926100000 +0900" stop="20130926103000 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926103000 +0900" stop="20130926105900 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926105900 +0900" stop="20130926110000 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926110000 +0900" stop="20130926113000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926113000 +0900" stop="20130926120000 +0900" channel="20">
+    <title lang="ja_JP">ハーフタイム【終】</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926120000 +0900" stop="20130926121500 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926121500 +0900" stop="20130926123000 +0900" channel="20">
+    <title lang="ja_JP">パンチ佐藤の美味いぞニッポン！</title>
+    <desc lang="ja_JP">大阪・なんばで極上の大和肉鶏料理</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926123000 +0900" stop="20130926125900 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926125900 +0900" stop="20130926130000 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926130000 +0900" stop="20130926133000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926133000 +0900" stop="20130926135900 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926135900 +0900" stop="20130926140000 +0900" channel="20">
+    <title lang="ja_JP">フラッシュ天気</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926140000 +0900" stop="20130926145900 +0900" channel="20">
+    <title lang="ja_JP">【二】地上最強の美女たち！チャーリーズ・エンジェル第４シーズン</title>
+    <desc lang="ja_JP">＃２５「相続人！ケリー出生の秘密ＰＡＲＴ　Ⅰ」</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130926145900 +0900" stop="20130926150000 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926150000 +0900" stop="20130926153000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926153000 +0900" stop="20130926155900 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926155900 +0900" stop="20130926160000 +0900" channel="20">
+    <title lang="ja_JP">フラッシュ天気</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926160000 +0900" stop="20130926163000 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926163000 +0900" stop="20130926170000 +0900" channel="20">
+    <title lang="ja_JP">スマイルプリキュア！</title>
+    <desc lang="ja_JP">＃４「直球勝負！風のキュアマーチ！！」</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130926170000 +0900" stop="20130926180000 +0900" channel="20">
+    <title lang="ja_JP">【デ】５時に夢中！</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926180000 +0900" stop="20130926183000 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926183000 +0900" stop="20130926210000 +0900" channel="20">
+    <title lang="ja_JP">プロ野球　ＳＴＲＯＮＧ！ホークス野球中継２０１３</title>
+    <desc lang="ja_JP">「福岡ソフトバンクホークス×オリックス・バファローズ」〜ヤフオクドーム</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130926210000 +0900" stop="20130926215500 +0900" channel="20">
+    <title lang="ja_JP">【デ】ニッポン・ダンディ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926215500 +0900" stop="20130926220000 +0900" channel="20">
+    <title lang="ja_JP">人生酒場〜唄は夜につれママにつれ〜</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926220000 +0900" stop="20130926223000 +0900" channel="20">
+    <title lang="ja_JP">薄桜鬼－新選組奇譚－【終】</title>
+    <desc lang="ja_JP">＃１２「剣戟の彼方」</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130926223000 +0900" stop="20130926230000 +0900" channel="20">
+    <title lang="ja_JP">がんばれ！おでんくん　ででーんと秋の総集編！！</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130926230000 +0900" stop="20130926233000 +0900" channel="20">
+    <title lang="ja_JP">リトルバスターズ！</title>
+    <desc lang="ja_JP">＃２５</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130926233000 +0900" stop="20130927000000 +0900" channel="20">
+    <title lang="ja_JP">さらば青春の光　ふぁいなる</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130927000000 +0900" stop="20130927003000 +0900" channel="20">
+    <title lang="ja_JP">ＪＵＮＨＯ（Ｆｒｏｍ　２ＰＭ）のＳＡＹ　ＹＥＳ〜フレンドシップ〜</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130927003000 +0900" stop="20130927010000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927010000 +0900" stop="20130927013000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927013000 +0900" stop="20130927015900 +0900" channel="20">
+    <title lang="ja_JP">つんつべ♂バク音</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130927015900 +0900" stop="20130927020000 +0900" channel="20">
+    <title lang="ja_JP">マッドボックスゾンビーズ</title>
+    <desc lang="ja_JP">＃４１「た、たたりじゃぁー！」</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130927020000 +0900" stop="20130927022900 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927022900 +0900" stop="20130927023000 +0900" channel="20">
+    <title lang="ja_JP">フラッシュ天気</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927023000 +0900" stop="20130927030000 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927030000 +0900" stop="20130927033000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927033000 +0900" stop="20130927040000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927040000 +0900" stop="20130927042500 +0900" channel="20">
+    <title lang="ja_JP">ヒーリングタイム＆ヘッドラインニュース</title>
+    <desc lang="ja_JP">東京点描　城北１</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927042500 +0900" stop="20130927043000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927043000 +0900" stop="20130927050000 +0900" channel="20">
+    <title lang="ja_JP">うたなび！</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130927050000 +0900" stop="20130927053000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927053000 +0900" stop="20130927060000 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927060000 +0900" stop="20130927070000 +0900" channel="20">
+    <title lang="ja_JP">【デ】ショップチャンネル　お買い物エンターテインメント</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927070000 +0900" stop="20130927080000 +0900" channel="20">
+    <title lang="ja_JP">【デ】ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927080000 +0900" stop="20130927085900 +0900" channel="20">
+    <title lang="ja_JP">ＱＶＣ　世界最大級のテレビショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927085900 +0900" stop="20130927090000 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927090000 +0900" stop="20130927091500 +0900" channel="20">
+    <title lang="ja_JP">童謡コーラス♪名曲大合唱</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130927091500 +0900" stop="20130927093000 +0900" channel="20">
+    <title lang="ja_JP">ＩＴ’Ｓ　ＳＥＯＵＬ【再】</title>
+    <desc lang="ja_JP">韓国海苔</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927093000 +0900" stop="20130927100000 +0900" channel="20">
+    <title lang="ja_JP">健やか元気人</title>
+    <desc lang="ja_JP">大村崑　チビ玉三兄弟</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927100000 +0900" stop="20130927103000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927103000 +0900" stop="20130927105900 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927105900 +0900" stop="20130927110000 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927110000 +0900" stop="20130927113000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927113000 +0900" stop="20130927120000 +0900" channel="20">
+    <title lang="ja_JP">週末めとろポリシャン♪</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927120000 +0900" stop="20130927121500 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927121500 +0900" stop="20130927123000 +0900" channel="20">
+    <title lang="ja_JP">満喫！とちぎ日和</title>
+    <desc lang="ja_JP">川治・湯西川で水辺レジャーを満喫！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927123000 +0900" stop="20130927125900 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927125900 +0900" stop="20130927130000 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927130000 +0900" stop="20130927133000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927133000 +0900" stop="20130927135900 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927135900 +0900" stop="20130927140000 +0900" channel="20">
+    <title lang="ja_JP">フラッシュ天気</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927140000 +0900" stop="20130927145900 +0900" channel="20">
+    <title lang="ja_JP">【二】ラスベガス【終】</title>
+    <desc lang="ja_JP">＃２３「グッバイ　ラスベガス」</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130927145900 +0900" stop="20130927160000 +0900" channel="20">
+    <title lang="ja_JP">都知事定例会見</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927160000 +0900" stop="20130927163000 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927163000 +0900" stop="20130927170000 +0900" channel="20">
+    <title lang="ja_JP">スマイルプリキュア！</title>
+    <desc lang="ja_JP">＃５「美しき心！キュアビューティ！！」</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130927170000 +0900" stop="20130927180000 +0900" channel="20">
+    <title lang="ja_JP">【デ】５時に夢中！</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927180000 +0900" stop="20130927183000 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927183000 +0900" stop="20130927190000 +0900" channel="20">
+    <title lang="ja_JP">ポールのミラクル大作戦</title>
+    <desc lang="ja_JP">＃２７「聖母マリアの涙」</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130927190000 +0900" stop="20130927193000 +0900" channel="20">
+    <title lang="ja_JP">未来警察ウラシマン</title>
+    <desc lang="ja_JP">＃３７「変身！ダーティリュウ」</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130927193000 +0900" stop="20130927200000 +0900" channel="20">
+    <title lang="ja_JP">夢・応援！アストライア〜全国へ、そして世界へ〜</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130927200000 +0900" stop="20130927203000 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927203000 +0900" stop="20130927210000 +0900" channel="20">
+    <title lang="ja_JP">超×Ｄ　Ｍｕｓｉｃ＋</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130927210000 +0900" stop="20130927215500 +0900" channel="20">
+    <title lang="ja_JP">【デ】ニッポン・ダンディ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927215500 +0900" stop="20130927220000 +0900" channel="20">
+    <title lang="ja_JP">人生酒場〜唄は夜につれママにつれ〜</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927220000 +0900" stop="20130927223000 +0900" channel="20">
+    <title lang="ja_JP">Ｆ．Ｃ．ＴＯＫＹＯ魂！</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927223000 +0900" stop="20130927230000 +0900" channel="20">
+    <title lang="ja_JP">テリー伊藤の世界のタビセツ</title>
+    <desc lang="ja_JP">旅人、平田裕一郎〜カナダ　総集編その２</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130927230000 +0900" stop="20130927233000 +0900" channel="20">
+    <title lang="ja_JP">タイガーマスク</title>
+    <desc lang="ja_JP">＃７８「猛虎激突」</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130927233000 +0900" stop="20130928000000 +0900" channel="20">
+    <title lang="ja_JP">リスアニ！ＴＶ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130928000000 +0900" stop="20130928003000 +0900" channel="20">
+    <title lang="ja_JP">劇場版　空の境界【終】</title>
+    <desc lang="ja_JP">＃１３</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130928003000 +0900" stop="20130928010000 +0900" channel="20">
+    <title lang="ja_JP">とある科学の超電磁砲Ｓ【終】</title>
+    <desc lang="ja_JP">＃２４</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130928010000 +0900" stop="20130928013000 +0900" channel="20">
+    <title lang="ja_JP">超次元ゲイム　ネプテューヌ【終】</title>
+    <desc lang="ja_JP">＃１２</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130928013000 +0900" stop="20130928015900 +0900" channel="20">
+    <title lang="ja_JP">宮河家の空腹</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130928015900 +0900" stop="20130928020000 +0900" channel="20">
+    <title lang="ja_JP">マッドボックスゾンビーズ</title>
+    <desc lang="ja_JP">＃４２「美白ナンバー１コスメにご注意」</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130928020000 +0900" stop="20130928022900 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928022900 +0900" stop="20130928023000 +0900" channel="20">
+    <title lang="ja_JP">フラッシュ天気</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928023000 +0900" stop="20130928030000 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928030000 +0900" stop="20130928033000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928033000 +0900" stop="20130928040000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928040000 +0900" stop="20130928043000 +0900" channel="20">
+    <title lang="ja_JP">Ｇｉｒｌｓ　ＴＶ！　ｆｅａｔ．ＳＵＰＥＲ☆ＧｉＲＬＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928043000 +0900" stop="20130928050000 +0900" channel="20">
+    <title lang="ja_JP">ＣＭ　ＩＮＤＥＸ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928050000 +0900" stop="20130928053000 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928053000 +0900" stop="20130928060000 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928060000 +0900" stop="20130928065500 +0900" channel="20">
+    <title lang="ja_JP">グローバル・ビジョン</title>
+    <desc lang="ja_JP">世界の７歳</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928065500 +0900" stop="20130928070000 +0900" channel="20">
+    <title lang="ja_JP">がんばれ！おでんくん</title>
+    <desc lang="ja_JP">＃３８</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130928070000 +0900" stop="20130928073000 +0900" channel="20">
+    <title lang="ja_JP">みんなで！ニコリッチ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928073000 +0900" stop="20130928080000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928080000 +0900" stop="20130928083000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928083000 +0900" stop="20130928084500 +0900" channel="20">
+    <title lang="ja_JP">ＧＯ！ＧＯ！九ちゃんフィッシング</title>
+    <desc lang="ja_JP">「船でアジを釣ろう！　後篇」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928084500 +0900" stop="20130928085900 +0900" channel="20">
+    <title lang="ja_JP">比叡の光</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928085900 +0900" stop="20130928090000 +0900" channel="20">
+    <title lang="ja_JP">フラッシュ天気</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928090000 +0900" stop="20130928093000 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928093000 +0900" stop="20130928100000 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928100000 +0900" stop="20130928103000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928103000 +0900" stop="20130928110000 +0900" channel="20">
+    <title lang="ja_JP">西部邁ゼミナール</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928110000 +0900" stop="20130928115500 +0900" channel="20">
+    <title lang="ja_JP">東京スカイツリーからＴＯＫＹＯ　ＭＸ　サタデーＬＩＶＥ　東京新発見！【終】</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928115500 +0900" stop="20130928120000 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928120000 +0900" stop="20130928125500 +0900" channel="20">
+    <title lang="ja_JP">日本の祭り傑作選</title>
+    <desc lang="ja_JP">鹿児島県・川内大綱引き</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928125500 +0900" stop="20130928130000 +0900" channel="20">
+    <title lang="ja_JP">フラッシュ天気</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928130000 +0900" stop="20130928160000 +0900" channel="20">
+    <title lang="ja_JP">【デ】東京都議会中継ダイジェスト</title>
+    <desc lang="ja_JP">平成２５年第３回定例会　代表質問ダイジェスト</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928160000 +0900" stop="20130928185500 +0900" channel="20">
+    <title lang="ja_JP">スポーツ祭東京２０１３　第６８回国民体育大会　開会式</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130928185500 +0900" stop="20130928190000 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928190000 +0900" stop="20130928210000 +0900" channel="20">
+    <title lang="ja_JP">プロ野球　ＳＴＲＯＮＧ！ホークス野球中継２０１３</title>
+    <desc lang="ja_JP">「福岡ソフトバンクホークス×埼玉西武ライオンズ」〜ヤフオクドーム</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130928210000 +0900" stop="20130928213000 +0900" channel="20">
+    <title lang="ja_JP">どうする？東京</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928213000 +0900" stop="20130928215500 +0900" channel="20">
+    <title lang="ja_JP">世界史の扉を開けて</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928215500 +0900" stop="20130928220000 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928220000 +0900" stop="20130928223000 +0900" channel="20">
+    <title lang="ja_JP">ふたりはミルキィホームズ</title>
+    <desc lang="ja_JP">＃１２</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130928223000 +0900" stop="20130928230000 +0900" channel="20">
+    <title lang="ja_JP">戦姫絶唱シンフォギアＧ</title>
+    <desc lang="ja_JP">＃１３</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130928230000 +0900" stop="20130928233000 +0900" channel="20">
+    <title lang="ja_JP">ＴｏｋＹｏ，Ｂｏｙ【再】</title>
+    <desc lang="ja_JP">秋の多摩３大スポットバスツアー　〜やっぱり多摩が好き！〜　前編</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928233000 +0900" stop="20130929000000 +0900" channel="20">
+    <title lang="ja_JP">幻影ヲ駆ケル太陽【終】</title>
+    <desc lang="ja_JP">＃１３</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929000000 +0900" stop="20130929003000 +0900" channel="20">
+    <title lang="ja_JP">＜物語＞シリーズ　セカンドシーズン</title>
+    <desc lang="ja_JP">＃１３</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929003000 +0900" stop="20130929010000 +0900" channel="20">
+    <title lang="ja_JP">サーバント×サービス【終】</title>
+    <desc lang="ja_JP">＃１３</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929010000 +0900" stop="20130929013000 +0900" channel="20">
+    <title lang="ja_JP">げんしけん二代目【終】</title>
+    <desc lang="ja_JP">＃１３</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929013000 +0900" stop="20130929020000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929020000 +0900" stop="20130929022900 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929022900 +0900" stop="20130929023000 +0900" channel="20">
+    <title lang="ja_JP">フラッシュ天気</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929023000 +0900" stop="20130929030000 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929030000 +0900" stop="20130929033000 +0900" channel="20">
+    <title lang="ja_JP">真夜中のおバカ騒ぎ！</title>
+    <desc lang="ja_JP">女性が演技する時＆生き残りの結末は？</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929033000 +0900" stop="20130929040000 +0900" channel="20">
+    <title lang="ja_JP">ＴＶ男子ｉｎｇ　ラズベリーボーイ＆ガール（仮）</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929040000 +0900" stop="20130929045500 +0900" channel="20">
+    <title lang="ja_JP">ヒーリングタイム＆ヘッドラインニュース</title>
+    <desc lang="ja_JP">東京点描　城北１</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929045500 +0900" stop="20130929052500 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929052500 +0900" stop="20130929055500 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929055500 +0900" stop="20130929060000 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸからのお知らせ</title>
+    <desc lang="ja_JP">第１８１回放送番組審議会</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929060000 +0900" stop="20130929063000 +0900" channel="20">
+    <title lang="ja_JP">まんが世界昔ばなし</title>
+    <desc lang="ja_JP">＃３４「火うちばこと兵隊さん」「がちょう番の娘」</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929063000 +0900" stop="20130929070000 +0900" channel="20">
+    <title lang="ja_JP">韓流フォンデュ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929070000 +0900" stop="20130929073000 +0900" channel="20">
+    <title lang="ja_JP">東京スカイ座　一朝一席</title>
+    <desc lang="ja_JP">三遊亭遊馬「佐野山」（リピート）</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929073000 +0900" stop="20130929083000 +0900" channel="20">
+    <title lang="ja_JP">ときめきサンデー</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929083000 +0900" stop="20130929084500 +0900" channel="20">
+    <title lang="ja_JP">夢中にサンデー！</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929084500 +0900" stop="20130929085000 +0900" channel="20">
+    <title lang="ja_JP">妻たちの幸せ研究所</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929085000 +0900" stop="20130929085500 +0900" channel="20">
+    <title lang="ja_JP">フラッシュ天気</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929085500 +0900" stop="20130929090000 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929090000 +0900" stop="20130929093000 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929093000 +0900" stop="20130929100000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929100000 +0900" stop="20130929103000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929103000 +0900" stop="20130929110000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929110000 +0900" stop="20130929113000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929113000 +0900" stop="20130929120000 +0900" channel="20">
+    <title lang="ja_JP">どうする？東京【再】</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929120000 +0900" stop="20130929130000 +0900" channel="20">
+    <title lang="ja_JP">Ｄｉｓｃｏ　Ｔｒａｉｎ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130929130000 +0900" stop="20130929150000 +0900" channel="20">
+    <title lang="ja_JP">【デ】東京都議会中継ダイジェスト</title>
+    <desc lang="ja_JP">平成２５年第３回定例会　一般質問ダイジェスト</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929150000 +0900" stop="20130929153000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929153000 +0900" stop="20130929155900 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929155900 +0900" stop="20130929160000 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929160000 +0900" stop="20130929163000 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929163000 +0900" stop="20130929165500 +0900" channel="20">
+    <title lang="ja_JP">西園誠一郎　Ｊｏｕｒｎａｌ　ｓｕｃｒｅ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929165500 +0900" stop="20130929185500 +0900" channel="20">
+    <title lang="ja_JP">夢・応援！女子プロ野球中継２０１３〜全国へ、そして世界へ〜</title>
+    <desc lang="ja_JP">ティアラカップ〜サーティーフォー相模原球場（録画）※雨天の場合、変更あり</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130929185500 +0900" stop="20130929190000 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929190000 +0900" stop="20130929210000 +0900" channel="20">
+    <title lang="ja_JP">プロ野球　ＳＴＲＯＮＧ！ホークス野球中継２０１３</title>
+    <desc lang="ja_JP">「福岡ソフトバンクホークス×東北楽天ゴールデンイーグルス」〜ヤフオクドーム</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130929210000 +0900" stop="20130929213000 +0900" channel="20">
+    <title lang="ja_JP">ＴｏｋＹｏ，Ｂｏｙ</title>
+    <desc lang="ja_JP">秋の多摩３大スポットバスツアー　〜やっぱり多摩が好き！〜　後編</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929213000 +0900" stop="20130929215800 +0900" channel="20">
+    <title lang="ja_JP">水曜どうでしょう　Ｃｌａｓｓｉｃ【再】</title>
+    <desc lang="ja_JP">原付日本列島制覇　第１０夜</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929215800 +0900" stop="20130929220000 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929220000 +0900" stop="20130929222700 +0900" channel="20">
+    <title lang="ja_JP">有頂天家族【終】</title>
+    <desc lang="ja_JP">＃１３</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929222700 +0900" stop="20130929223000 +0900" channel="20">
+    <title lang="ja_JP">てーきゅう</title>
+    <desc lang="ja_JP">＃２５</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929223000 +0900" stop="20130929230000 +0900" channel="20">
+    <title lang="ja_JP">八犬伝―東方八犬異聞―【終】</title>
+    <desc lang="ja_JP">＃２６</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929230000 +0900" stop="20130929233000 +0900" channel="20">
+    <title lang="ja_JP">検討中</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130929233000 +0900" stop="20130930000000 +0900" channel="20">
+    <title lang="ja_JP">進撃の巨人【終】</title>
+    <desc lang="ja_JP">＃２５</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130930000000 +0900" stop="20130930003000 +0900" channel="20">
+    <title lang="ja_JP">ファンタジスタドール</title>
+    <desc lang="ja_JP">＃１２</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130930003000 +0900" stop="20130930010000 +0900" channel="20">
+    <title lang="ja_JP">ロウきゅーぶ！ＳＳ【終】</title>
+    <desc lang="ja_JP">＃１２</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130930010000 +0900" stop="20130930013000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930013000 +0900" stop="20130930020000 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930020000 +0900" stop="20130930023000 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930053000 +0900" stop="20130930060000 +0900" channel="20">
+    <title lang="ja_JP">ＴＡＫＡＲＡＺＵＫＡ　〜Ｃａｆｅ　ｂｒｅａｋ〜</title>
+    <desc lang="ja_JP">月組　凪七瑠海</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930060000 +0900" stop="20130930070000 +0900" channel="20">
+    <title lang="ja_JP">【デ】ショップチャンネル　お買い物エンターテインメント</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930070000 +0900" stop="20130930080000 +0900" channel="20">
+    <title lang="ja_JP">【デ】ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930080000 +0900" stop="20130930085900 +0900" channel="20">
+    <title lang="ja_JP">ＱＶＣ　世界最大級のテレビショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930085900 +0900" stop="20130930090000 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930090000 +0900" stop="20130930093000 +0900" channel="20">
+    <title lang="ja_JP">どさんこクッキング</title>
+    <desc lang="ja_JP">おやつにもなる大満足メニュー</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930093000 +0900" stop="20130930100000 +0900" channel="20">
+    <title lang="ja_JP">人生の切符</title>
+    <desc lang="ja_JP">もみじ饅頭</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930100000 +0900" stop="20130930103000 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930103000 +0900" stop="20130930105900 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930105900 +0900" stop="20130930110000 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930110000 +0900" stop="20130930113000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930113000 +0900" stop="20130930120000 +0900" channel="20">
+    <title lang="ja_JP">石神秀幸の決断！ラーメン旅</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930120000 +0900" stop="20130930121500 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930121500 +0900" stop="20130930123000 +0900" channel="20">
+    <title lang="ja_JP">うんめぇ！運命！ラーメンとの出会い</title>
+    <desc lang="ja_JP">喜多方ラーメンのなまえ？</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930123000 +0900" stop="20130930125900 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930125900 +0900" stop="20130930130000 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930130000 +0900" stop="20130930133000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930133000 +0900" stop="20130930135900 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930135900 +0900" stop="20130930140000 +0900" channel="20">
+    <title lang="ja_JP">フラッシュ天気</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930140000 +0900" stop="20130930145900 +0900" channel="20">
+    <title lang="ja_JP">【二】韓国ドラマ「恋愛マニュアル〜まだ結婚したい女」</title>
+    <desc lang="ja_JP">＃７「告白」</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130930145900 +0900" stop="20130930150000 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930150000 +0900" stop="20130930153000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930153000 +0900" stop="20130930155900 +0900" channel="20">
+    <title lang="ja_JP">お買い物情報</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930155900 +0900" stop="20130930160000 +0900" channel="20">
+    <title lang="ja_JP">フラッシュ天気</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930160000 +0900" stop="20130930163000 +0900" channel="20">
+    <title lang="ja_JP">ＭＸショッピング</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930163000 +0900" stop="20130930170000 +0900" channel="20">
+    <title lang="ja_JP">極上の宿〜くつろぎの女子旅　ＩＮ　伊豆　河津〜</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930170000 +0900" stop="20130930180000 +0900" channel="20">
+    <title lang="ja_JP">【デ】５時に夢中！</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930180000 +0900" stop="20130930183000 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930183000 +0900" stop="20130930190000 +0900" channel="20">
+    <title lang="ja_JP">夢色パティシエール</title>
+    <desc lang="ja_JP">＃３５「ようこそ、アンリ先生」</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130930190000 +0900" stop="20130930193000 +0900" channel="20">
+    <title lang="ja_JP">クロスゲーム</title>
+    <desc lang="ja_JP">＃２７「…かもしんない」</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130930193000 +0900" stop="20130930200000 +0900" channel="20">
+    <title lang="ja_JP">世界の子どもの日常生活―Ｔｅｌｌ　Ｍｅ　Ａｂｏｕｔ　Ｙｏｕｒｓｅｌｆ</title>
+    <desc lang="ja_JP">エチオピアの子どもたちに光を３</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930200000 +0900" stop="20130930203000 +0900" channel="20">
+    <title lang="ja_JP">ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930203000 +0900" stop="20130930210000 +0900" channel="20">
+    <title lang="ja_JP">学びＥｙｅ！</title>
+    <desc lang="ja_JP">名古屋最強スタミナ食　〜味噌かつ　熟成豆味噌とジューシー豚肉があなたの食欲そそります〜</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930210000 +0900" stop="20130930215500 +0900" channel="20">
+    <title lang="ja_JP">【デ】ニッポン・ダンディ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930215500 +0900" stop="20130930220000 +0900" channel="20">
+    <title lang="ja_JP">フラッシュ天気</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930220000 +0900" stop="20130930223000 +0900" channel="20">
+    <title lang="ja_JP">パ・リーグ主義！</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130930223000 +0900" stop="20130930230000 +0900" channel="20">
+    <title lang="ja_JP">ＭＹ　ＭＯ　ＳＥＯＵＬ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130930230000 +0900" stop="20130930233000 +0900" channel="20">
+    <title lang="ja_JP">ＥＢｉＤＡＮ</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130930233000 +0900" stop="20131001000000 +0900" channel="20">
+    <title lang="ja_JP">内村さまぁ〜ず</title>
+    <desc lang="ja_JP"> </desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+</tv>
