@@ -10,6 +10,7 @@
 
 <script src="@routes.Assets.at("javascripts/jquery-1.9.0.min.js")" type="text/javascript"></script>
 <script src="@routes.Assets.at("javascripts/jquery.bottom-1.0.js")" type="text/javascript"></script>
+<script src="@routes.Assets.at("javascripts/jQuery.ajaxQueue.js")" type="text/javascript"></script>
 <script src="@routes.Assets.at("javascripts/bootstrap.min.js")" type="text/javascript"></script>
 <script src="@routes.Assets.at("javascripts/main.js")" type="text/javascript"></script>
 <script src="@routes.Assets.at("javascripts/json.js")" type="text/javascript"></script>
@@ -18,59 +19,50 @@
 <script>
 nowTime = new Date()
 $(function() {
-	nowTime.setMinutes(0)
-	nowTime.setSeconds(0)
+	nowTime = new Date(2013, 9, 25, 13, 0, 0);
 
-	json27 = new Json(getJsonURL(nowTime, 240, "27"));
-	json27.setTable("#tvlistingGR27")
-	
-/*
-	json26 = new Json(getJsonURL(nowTime, 480, "26"));
-	json26.setTable("#tvlistingGR26")
-	
-	json25 = new Json(getJsonURL(nowTime, 480, "25"));
-	json25.setTable("#tvlistingGR25")
-
-	json24 = new Json(getJsonURL(nowTime, 480, "24"));
-	json24.setTable("#tvlistingGR24")
-
-	json23 = new Json(getJsonURL(nowTime, 480, "23"));
-	json23.setTable("#tvlistingGR23")
-
-	json22 = new Json(getJsonURL(nowTime, 480, "22"));
-	json22.setTable("#tvlistingGR22")
-
-	json21 = new Json(getJsonURL(nowTime, 480, "21"));
-	json21.setTable("#tvlistingGR21")
-
-	json20 = new Json(getJsonURL(nowTime, 480, "20"));
-	json20.setTable("#tvlistingGR20")
-	
-	json18 = new Json(getJsonURL(nowTime, 480, "18"));
-	json18.setTable("#tvlistingGR18")
-*/	
 	createTimeTable( nowTime.getTime(), "#tvlistingTime")
 	prependTimeTable("#tvlistingTime")
 	appendTimeTable("#tvlistingTime")
+	
+	json27 = new Json( "#tvlistingGR27");
+	json26 = new Json( "#tvlistingGR26");
+	json25 = new Json( "#tvlistingGR25");
+	json24 = new Json( "#tvlistingGR24");
+	json23 = new Json( "#tvlistingGR23");
+	json22 = new Json( "#tvlistingGR22");
+	json21 = new Json( "#tvlistingGR21");
+	json20 = new Json( "#tvlistingGR20");
 
+	prevTime = new Date(nowTime.getTime() - (1000 * 60 * 60 * 4))
+	nextTime = new Date(nowTime.getTime() + (1000 * 60 * 60 * 4))
+	json27.createListingTable( getJsonURL(nowTime, 240, "27"), nowTime)
+	json27.prependTr( getJsonURL(prevTime, 240, "27"), 240 * 4)
+//	json27.appendTr( getJsonURL(nextTime, 240, "27"))
+
+	scrollBy( 0, 960);
 	$(window).bind("scroll", function() {
 		scrollHeight = $(document).height();
 		scrollPosition = $(window).height() + $(window).scrollTop();
-		if ( (scrollHeight - scrollPosition) / scrollHeight <= 0.1) {
-			nowTime = new Date(nowTime.getTime() + (1000 * 60 * 60 * 4))
-			appendTimeTable("#tvlistingTime")
-			dropFirstTimeTable("#tvlistingTime")
-			scrollBy( 0, -960);
+		if ( (scrollHeight - scrollPosition) / scrollHeight <= 0.2) {
+//			nowTime = new Date(nowTime.getTime() + (1000 * 60 * 60 * 4))
+//			json27.appendTr( getJsonURL(new Date(nowTime.getTime() + (1000 * 60 * 60 * 4)), 240, "27"))
+//			appendTimeTable("#tvlistingTime")
 
+//			dropFirstTimeTable("#tvlistingTime")
+//			scrollBy( 0, -960);
 //			json27 = new Json(getJsonURL(nowTime, 240, "27"));
 //			json27.appendTr("#tvlistingGR27")
 		}
-		else if ( (scrollHeight - scrollPosition) / scrollHeight >= 0.7) {
+		else if (!json27.getLoading() && (scrollHeight - scrollPosition) / scrollHeight >= 0.7) {
 			nowTime = new Date(nowTime.getTime() - (1000 * 60 * 60 * 4))
+			json27.prependTr( getJsonURL(new Date(nowTime.getTime() - (1000 * 60 * 60 * 4)), 240, "27"), 240 * 4)
 			prependTimeTable( "#tvlistingTime")
-			dropLastTimeTable("#tvlistingTime")
-			scrollBy( 0, 960);
+			scrollBy( 0, 960)
 			
+
+			
+//			dropLastTimeTable("#tvlistingTime")
 //			json27 = new Json(getJsonURL(nowTime, 240, "27"));
 //			json27.prependTr("#tvlistingGR27")
 		}

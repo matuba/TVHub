@@ -31,7 +31,7 @@ timeBetween = 4
 		$(tablename).append( @createTimeTableTag( new Date(start).getHours()))
 
 @prependTimeTable = ( tablename) ->
-	hour = $(tablename + ' tr:first-child td').text() 
+	hour = $(tablename + ' tr:first-child td').text()
 	hour = parseInt(hour, 10)
 	startDate = new Date();
 	startDate.setHours(hour)

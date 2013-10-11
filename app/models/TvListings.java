@@ -113,12 +113,11 @@ public class TvListings {
 		List<TVProgramme> tvProgrammeList = new ArrayList<TVProgramme>();
 		for(int i=0;i<getProgrammeNum();i++){
 			TVProgramme programme = getProgramme(i);
-//			if(programme.start.before(start)){
 			if(start.compareTo(programme.start) > 0){
 				continue;
 			}
-			if(programme.start.after(stop)){
-				break;
+			if(stop.compareTo(programme.start) < 0){
+				continue;
 			}
 			tvProgrammeList.add(programme);
 		}
