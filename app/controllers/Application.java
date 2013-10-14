@@ -52,7 +52,7 @@ public class Application extends Controller {
 
     public static Result getProgrammesJSON(String year, String month, String day, String hour, String min, String length, String ch) {
     	Calendar calendar = Calendar.getInstance(); 
-    	calendar.set( Integer.parseInt(year), Integer.parseInt(month) - 1,  Integer.parseInt(day),  Integer.parseInt(hour),  Integer.parseInt(min),  0);
+    	calendar.set( Integer.parseInt(year), Integer.parseInt(month),  Integer.parseInt(day),  Integer.parseInt(hour),  Integer.parseInt(min),  0);
     	calendar.set(Calendar.MILLISECOND, 0);
     	Date start = calendar.getTime();
     	calendar.add(Calendar.MINUTE, Integer.parseInt(length));

@@ -21,9 +21,9 @@ nowTime = new Date()
 prependTime = new Date()
 appendTime = new Date()
 $(function() {
-	nowTime = new Date(2013, 9, 29, 10, 0, 0);
-	prependTime = new Date(2013, 9, 29, 10, 0, 0);
-	appendTime = new Date(2013, 9, 29, 10, 0, 0);
+	nowTime = new Date(2013, 8, 28, 10, 0, 0);
+	prependTime = new Date(2013, 8, 28, 10, 0, 0);
+	appendTime = new Date(2013, 8, 28, 10, 0, 0);
 
 	createTimeTable( nowTime.getTime(), "#tvlistingTime")
 	prependTimeTable("#tvlistingTime")
@@ -87,9 +87,9 @@ $(function() {
 			&& !json27.getLoading() 
 			&& (scrollHeight - scrollPosition) / scrollHeight <= 0.4
 			) {
+
 			appendTime = new Date(appendTime.getTime() + (1000 * 60 * 60 * 4))
 			appendTimeTable("#tvlistingTime")
-
 			json27.appendTr( getJsonURL(new Date(appendTime.getTime() + (1000 * 60 * 60 * 4)), 240, "27"))
 			json26.appendTr( getJsonURL(new Date(appendTime.getTime() + (1000 * 60 * 60 * 4)), 240, "26"))
 			json25.appendTr( getJsonURL(new Date(appendTime.getTime() + (1000 * 60 * 60 * 4)), 240, "25"))
@@ -98,9 +98,6 @@ $(function() {
 			json22.appendTr( getJsonURL(new Date(appendTime.getTime() + (1000 * 60 * 60 * 4)), 240, "22"))
 			json21.appendTr( getJsonURL(new Date(appendTime.getTime() + (1000 * 60 * 60 * 4)), 240, "21"))
 			json20.appendTr( getJsonURL(new Date(appendTime.getTime() + (1000 * 60 * 60 * 4)), 240, "20"))
-//			dropFirstTimeTable("#tvlistingTime")
-//			json27 = new Json(getJsonURL(nowTime, 240, "27"));
-//			json27.appendTr("#tvlistingGR27")
 		}
 		if (!json20.getLoading() 
 				&& !json21.getLoading() 
@@ -122,11 +119,8 @@ $(function() {
 			json22.prependTr( getJsonURL(new Date(prependTime.getTime() - (1000 * 60 * 60 * 4)), 240, "22"), 240 * 4)
 			json21.prependTr( getJsonURL(new Date(prependTime.getTime() - (1000 * 60 * 60 * 4)), 240, "21"), 240 * 4)
 			json20.prependTr( getJsonURL(new Date(prependTime.getTime() - (1000 * 60 * 60 * 4)), 240, "20"), 240 * 4)
-
 			scrollBy( 0, 960)
-//			dropLastTimeTable("#tvlistingTime")
-//			json27 = new Json(getJsonURL(nowTime, 240, "27"));
-//			json27.prependTr("#tvlistingGR27")
+
 		}
 		else {
 		}
