@@ -137,14 +137,6 @@ class @Json
 				height = height + @getProgrammeHeight( programmes[i].stop, programmes[i+1].start)
 			height = height + @getProgrammeHeight( programmes[i].start, programmes[i].stop)
 			table.prepend(@createListingTableTag( programmes[i]));
-
-		###
-		i = programmes.length
-		while i--
-			programme = programmes[i]
-			height = height + @getProgrammeHeight( programme.start, programme.stop)
-			table.prepend(@createListingTableTag( programme));
-		###
 		table.attr({"loading":false});
 		height = $(tablename + ' caption').height() - height
 		$(tablename + ' caption').css("height", height.toString() + "px")
