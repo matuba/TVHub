@@ -11,11 +11,14 @@ import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.xpath.XPath;
 import javax.xml.xpath.XPathConstants;
+import javax.xml.xpath.XPathExpression;
 import javax.xml.xpath.XPathFactory;
 
 import org.codehaus.jackson.node.ObjectNode;
 import org.w3c.dom.Document;
+import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
+import org.w3c.dom.Node;
 
 import play.Logger;
 import play.libs.Json;
@@ -84,6 +87,7 @@ public class TvListings {
 			int hour = Integer.parseInt(startString.substring(8, 10));
 			int min = Integer.parseInt(startString.substring(10, 12));
 			calendar.set(year, month, day, hour, min, 0);
+			calendar.set(Calendar.MILLISECOND, 0);
 			programme.start = calendar.getTime();
 
 			String stopString = (String)m_xpath.evaluate( "/tv/programme[" + Integer.toString(index) + "]/@stop", m_doc, XPathConstants.STRING);
@@ -93,6 +97,7 @@ public class TvListings {
 			hour = Integer.parseInt(stopString.substring(8, 10));
 			min = Integer.parseInt(stopString.substring(10, 12));
 			calendar.set(year, month, day, hour, min, 0);
+			calendar.set(Calendar.MILLISECOND, 0);
 			programme.stop = calendar.getTime();
 		} catch (Exception e) {
 	    	Logger.info(e.getMessage());
@@ -101,6 +106,57 @@ public class TvListings {
 		return programme;
 	}
 
+	public TVProgramme getProgramme(Node node){
+		TVProgramme programme = new TVProgramme();
+		Calendar calendar = Calendar.getInstance();
+		NodeList childNodes = node.getChildNodes();
+
+		try {
+			for (int j = 0; j < childNodes.getLength(); j++) {
+				Node nodeItem = childNodes.item(j);
+				if(nodeItem.getNodeName().equals("title")){
+					programme.title = nodeItem.getTextContent();
+				}
+				if(nodeItem.getNodeName().equals("category")){
+					Node nodeLang = nodeItem.getAttributes().item(0);
+					if(nodeLang.getNodeValue().equals("en") && nodeLang.getNodeName().equals("lang")){
+						programme.category = nodeItem.getTextContent();
+					}
+				}
+				if(nodeItem.getNodeName().equals("desc")){
+					programme.desc = nodeItem.getTextContent();
+				}
+			}
+			String channel = ((Element)node).getAttribute("channel");
+			String startString = ((Element)node).getAttribute("start");
+			String stopString = ((Element)node).getAttribute("stop");
+
+			programme.channel = channel;
+			int year = Integer.parseInt(startString.substring(0, 4));
+			int month = Integer.parseInt(startString.substring(4, 6));
+			int day = Integer.parseInt(startString.substring(6, 8));
+			int hour = Integer.parseInt(startString.substring(8, 10));
+			int min = Integer.parseInt(startString.substring(10, 12));
+			calendar.set(year, month - 1, day, hour, min, 0);
+			calendar.set(Calendar.MILLISECOND, 0);
+			programme.start = calendar.getTime();
+
+			year = Integer.parseInt(stopString.substring(0, 4));
+			month = Integer.parseInt(stopString.substring(4, 6));
+			day = Integer.parseInt(stopString.substring(6, 8));
+			hour = Integer.parseInt(stopString.substring(8, 10));
+			min = Integer.parseInt(stopString.substring(10, 12));
+			calendar.set(year, month - 1, day, hour, min, 0);
+			calendar.set(Calendar.MILLISECOND, 0);
+			programme.stop = calendar.getTime();
+		} catch (Exception e) {
+	    	Logger.info(e.getMessage());
+			return null;
+		}
+		return programme;
+	}
+
+	
 	public List<TVProgramme> getTVProgrammeList(){
 		List<TVProgramme> tvProgrammeList = new ArrayList<TVProgramme>();
 		for(int i=0;i<getProgrammeNum();i++){
@@ -111,17 +167,39 @@ public class TvListings {
 
 	public List<TVProgramme> getTVProgrammeList(Date start, Date stop){
 		List<TVProgramme> tvProgrammeList = new ArrayList<TVProgramme>();
+		XPathExpression expr = null;
+		NodeList nodes = null;
+		try {
+			expr = m_xpath.compile("/tv/programme");
+			nodes = (NodeList) expr.evaluate( m_doc, XPathConstants.NODESET);
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+		for (int i = 0; i < nodes.getLength(); i++) {
+			TVProgramme programme = getProgramme(nodes.item(i));
+			if(start.compareTo(programme.start) > 0){
+				continue;
+			}
+			if(stop.compareTo(programme.start) <= 0){
+				continue;
+			}
+			tvProgrammeList.add(programme);
+		}
+
+		return tvProgrammeList;
+/*
 		for(int i=0;i<getProgrammeNum();i++){
 			TVProgramme programme = getProgramme(i);
 			if(start.compareTo(programme.start) > 0){
 				continue;
 			}
-			if(stop.compareTo(programme.start) < 0){
+			if(stop.compareTo(programme.start) <= 0){
 				continue;
 			}
 			tvProgrammeList.add(programme);
 		}
 		return tvProgrammeList;
+*/
 	}
 
 

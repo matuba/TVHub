@@ -16,17 +16,24 @@ class @Json
 			return title.substring(0, 10)
 		return ""
 
-	@getProgrammeHeight:( programme) ->
-		timeMin = (programme.stop - programme.start) / (1000 * 60);
-		return timeMin * 4
+	@getProgrammeHeight:( start, stop) ->
+		return (( stop - start) / (1000 * 60)) * 4;
 
 	getLoading:( loading) ->
 		if $(@tablename).attr("loading") == "true"
 			return true
 		return false
 
+	@createListingTableSpaceTag:( start, stop) ->
+		tr = $('<tr/>')
+		tr.attr({"start":start});
+		tr.attr({"stop":stop});
+		height = @getProgrammeHeight( stop, start)
+		tr.css("height", height.toString() + "px")
+		return tr
+
 	@createListingTableTag:( programme) ->
-		height = @getProgrammeHeight( programme)
+		height = @getProgrammeHeight( programme.start, programme.stop)
 		tr = $('<tr/>')
 		td = $('<td/>')
 		small = $('<small/>')
@@ -48,8 +55,8 @@ class @Json
 		td.css("padding", "0px")
 #		td.css("margin", "0px")
 #		td.css("border", "0px")
-
-		tr.attr({"id":programme.programmeID});
+		tr.attr({"start":programme.start});
+		tr.attr({"stop":programme.stop});
 		tr.css("height", height.toString() + "px")
 	
 		small.appendTo(td);
@@ -64,41 +71,86 @@ class @Json
 		caption.text('')
 		caption.css("height", "0px")
 		caption.attr({"loading":"false"});
-
 		table.append(caption)
-#		$.getJSON( url, (programmes) => Json.createTrCallBack( programmes, @tablename, start));
 		jQuery.ajaxQueue( {url:url, success:(programmes) => Json.createTrCallBack( programmes, @tablename, start)});
 
 	@createTrCallBack:(programmes, tablename, start) ->
+		table = $(tablename)
+		if programmes.length is 0
+			table.attr({"loading":false});
+			return
+
 		height = (programmes[0].start - start.getTime())/(1000 * 60)
 		height = height * 4
 		height = $(tablename + ' caption').height() + height
 		$(tablename + ' caption').css("height", height.toString() + "px")
 		for programme in programmes
-			$(tablename).append(@createListingTableTag(programme))
+			table.append(@createListingTableTag(programme))
 
 	@appendTrCallBack:(programmes, tablename) ->
-		for programme in programmes
-			$(tablename).append(@createListingTableTag(programme))
+		table = $(tablename)
+		if programmes.length is 0
+			table.attr({"loading":false});
+			return
+
+		tr = $( tablename + " tr:last")
+		stop = parseInt( tr.attr("stop"), 10)
+		appendArray= []
+		if stop isnt programmes[0].start
+			appendArray.push( @createListingTableSpaceTag( programmes[0].start, stop))
+		appendArray.push(@createListingTableTag(programmes[0]))
+		i = 1
+		while i <= programmes.length-1
+			if programmes[i-1].stop isnt programmes[i].start
+				appendArray.push(@createListingTableSpaceTag( programmes[i].start, programmes[i-1].stop))
+			appendArray.push(@createListingTableTag(programmes[i]))
+			i++
+		table.attr({"loading":false});
+		table.append( appendArray)
 
 	appendTr:(url) ->
+		@startTime = new Date()
+		$(@tablename).attr({"loading":true});
 		jQuery.ajaxQueue( {url:url, success:(programmes) => Json.appendTrCallBack( programmes, @tablename)});
-#		$.getJSON( url, (programmes) => Json.appendTrCallBack(programmes, @tablename))
 
 	@prependTrCallBack:(programmes, tablename) ->
+		table = $(tablename)
+		if programmes.length is 0
+			table.attr({"loading":false});
+			return
+		height = 0
+
+		tr = $( tablename + " tr:first")
+		start = parseInt( tr.attr("start"), 10)
+		programmeLast = programmes[programmes.length-1]
+
+		if programmeLast.stop isnt start
+			table.prepend( @createListingTableSpaceTag( start, programmeLast.stop))
+			height = height + @getProgrammeHeight( programmeLast.stop, start)
+		table.prepend(@createListingTableTag( programmeLast))
+		height = height + @getProgrammeHeight( programmeLast.start, programmeLast.stop)
+
+		i = programmes.length - 1
+		while i--
+			if programmes[i].stop isnt programmes[i+1].start
+				table.prepend(@createListingTableSpaceTag( programmes[i+1].start, programmes[i].stop))
+				height = height + @getProgrammeHeight( programmes[i].stop, programmes[i+1].start)
+			height = height + @getProgrammeHeight( programmes[i].start, programmes[i].stop)
+			table.prepend(@createListingTableTag( programmes[i]));
+
+		###
 		i = programmes.length
 		while i--
 			programme = programmes[i]
-			height = $(tablename + ' caption').height() - @getProgrammeHeight( programme)
-			$(tablename + ' caption').css("height", height.toString() + "px")
-			$(tablename).prepend(@createListingTableTag(programme));
-		$(tablename).attr({"loading":false});
+			height = height + @getProgrammeHeight( programme.start, programme.stop)
+			table.prepend(@createListingTableTag( programme));
+		###
+		table.attr({"loading":false});
+		height = $(tablename + ' caption').height() - height
+		$(tablename + ' caption').css("height", height.toString() + "px")
 
 	prependTr:( url, height) ->
 		$(@tablename).attr({"loading":true});
-
 		height = $(@tablename + ' caption').height() + height
 		$(@tablename + ' caption').css("height", height.toString() + "px")
-
 		jQuery.ajaxQueue( {url:url, success:(programmes) => Json.prependTrCallBack( programmes, @tablename)});
-#		$.getJSON( url, (programmes) => Json.prependTrCallBack(programmes, @tablename, height))

@@ -19,11 +19,12 @@
 <script>
 nowTime = new Date()
 $(function() {
-	nowTime = new Date(2013, 9, 25, 13, 0, 0);
+	nowTime = new Date(2013, 9, 29, 10, 0, 0);
 
 	createTimeTable( nowTime.getTime(), "#tvlistingTime")
 	prependTimeTable("#tvlistingTime")
 	appendTimeTable("#tvlistingTime")
+	scrollBy( 0, 960);
 	
 	json27 = new Json( "#tvlistingGR27");
 	json26 = new Json( "#tvlistingGR26");
@@ -36,32 +37,87 @@ $(function() {
 
 	prevTime = new Date(nowTime.getTime() - (1000 * 60 * 60 * 4))
 	nextTime = new Date(nowTime.getTime() + (1000 * 60 * 60 * 4))
+
 	json27.createListingTable( getJsonURL(nowTime, 240, "27"), nowTime)
 	json27.prependTr( getJsonURL(prevTime, 240, "27"), 240 * 4)
-//	json27.appendTr( getJsonURL(nextTime, 240, "27"))
+	json27.appendTr( getJsonURL(nextTime, 240, "27"))
 
-	scrollBy( 0, 960);
+	json26.createListingTable( getJsonURL(nowTime, 240, "26"), nowTime)
+	json26.prependTr( getJsonURL(prevTime, 240, "26"), 240 * 4)
+	json26.appendTr( getJsonURL(nextTime, 240, "26"))
+
+	json25.createListingTable( getJsonURL(nowTime, 240, "25"), nowTime)
+	json25.prependTr( getJsonURL(prevTime, 240, "25"), 240 * 4)
+	json25.appendTr( getJsonURL(nextTime, 240, "25"))
+
+	json24.createListingTable( getJsonURL(nowTime, 240, "24"), nowTime)
+	json24.prependTr( getJsonURL(prevTime, 240, "24"), 240 * 4)
+	json24.appendTr( getJsonURL(nextTime, 240, "24"))
+
+	json23.createListingTable( getJsonURL(nowTime, 240, "23"), nowTime)
+	json23.prependTr( getJsonURL(prevTime, 240, "23"), 240 * 4)
+	json23.appendTr( getJsonURL(nextTime, 240, "23"))
+
+	json22.createListingTable( getJsonURL(nowTime, 240, "22"), nowTime)
+	json22.prependTr( getJsonURL(prevTime, 240, "22"), 240 * 4)
+	json22.appendTr( getJsonURL(nextTime, 240, "22"))
+
+	json21.createListingTable( getJsonURL(nowTime, 240, "21"), nowTime)
+	json21.prependTr( getJsonURL(prevTime, 240, "21"), 240 * 4)
+	json21.appendTr( getJsonURL(nextTime, 240, "21"))
+
+	json20.createListingTable( getJsonURL(nowTime, 240, "20"), nowTime)
+	json20.prependTr( getJsonURL(prevTime, 240, "20"), 240 * 4)
+	json20.appendTr( getJsonURL(nextTime, 240, "20"))
+
 	$(window).bind("scroll", function() {
 		scrollHeight = $(document).height();
 		scrollPosition = $(window).height() + $(window).scrollTop();
-		if ( (scrollHeight - scrollPosition) / scrollHeight <= 0.2) {
-//			nowTime = new Date(nowTime.getTime() + (1000 * 60 * 60 * 4))
-//			json27.appendTr( getJsonURL(new Date(nowTime.getTime() + (1000 * 60 * 60 * 4)), 240, "27"))
-//			appendTimeTable("#tvlistingTime")
+		if (!json20.getLoading() 
+			&& !json21.getLoading() 
+			&& !json22.getLoading() 
+			&& !json23.getLoading() 
+			&& !json24.getLoading() 
+			&& !json25.getLoading() 
+			&& !json26.getLoading() 
+			&& !json27.getLoading() 
+			&& (scrollHeight - scrollPosition) / scrollHeight <= 0.4) {
+			nowTime = new Date(nowTime.getTime() + (1000 * 60 * 60 * 4))
+			appendTimeTable("#tvlistingTime")
 
+			json27.appendTr( getJsonURL(new Date(nowTime.getTime() + (1000 * 60 * 60 * 4)), 240, "27"))
+			json26.appendTr( getJsonURL(new Date(nowTime.getTime() + (1000 * 60 * 60 * 4)), 240, "26"))
+			json25.appendTr( getJsonURL(new Date(nowTime.getTime() + (1000 * 60 * 60 * 4)), 240, "25"))
+			json24.appendTr( getJsonURL(new Date(nowTime.getTime() + (1000 * 60 * 60 * 4)), 240, "24"))
+			json23.appendTr( getJsonURL(new Date(nowTime.getTime() + (1000 * 60 * 60 * 4)), 240, "23"))
+			json22.appendTr( getJsonURL(new Date(nowTime.getTime() + (1000 * 60 * 60 * 4)), 240, "22"))
+			json21.appendTr( getJsonURL(new Date(nowTime.getTime() + (1000 * 60 * 60 * 4)), 240, "21"))
+			json20.appendTr( getJsonURL(new Date(nowTime.getTime() + (1000 * 60 * 60 * 4)), 240, "20"))
 //			dropFirstTimeTable("#tvlistingTime")
-//			scrollBy( 0, -960);
 //			json27 = new Json(getJsonURL(nowTime, 240, "27"));
 //			json27.appendTr("#tvlistingGR27")
 		}
-		else if (!json27.getLoading() && (scrollHeight - scrollPosition) / scrollHeight >= 0.7) {
+		if (!json20.getLoading() 
+				&& !json21.getLoading() 
+				&& !json22.getLoading() 
+				&& !json23.getLoading() 
+				&& !json24.getLoading() 
+				&& !json25.getLoading() 
+				&& !json26.getLoading() 
+				&& !json27.getLoading() 
+				&& (scrollHeight - scrollPosition) / scrollHeight >= 0.6) {
 			nowTime = new Date(nowTime.getTime() - (1000 * 60 * 60 * 4))
-			json27.prependTr( getJsonURL(new Date(nowTime.getTime() - (1000 * 60 * 60 * 4)), 240, "27"), 240 * 4)
 			prependTimeTable( "#tvlistingTime")
-			scrollBy( 0, 960)
-			
+			json27.prependTr( getJsonURL(new Date(nowTime.getTime() - (1000 * 60 * 60 * 4)), 240, "27"), 240 * 4)
+			json26.prependTr( getJsonURL(new Date(nowTime.getTime() - (1000 * 60 * 60 * 4)), 240, "26"), 240 * 4)
+			json25.prependTr( getJsonURL(new Date(nowTime.getTime() - (1000 * 60 * 60 * 4)), 240, "25"), 240 * 4)
+			json24.prependTr( getJsonURL(new Date(nowTime.getTime() - (1000 * 60 * 60 * 4)), 240, "24"), 240 * 4)
+			json23.prependTr( getJsonURL(new Date(nowTime.getTime() - (1000 * 60 * 60 * 4)), 240, "23"), 240 * 4)
+			json22.prependTr( getJsonURL(new Date(nowTime.getTime() - (1000 * 60 * 60 * 4)), 240, "22"), 240 * 4)
+			json21.prependTr( getJsonURL(new Date(nowTime.getTime() - (1000 * 60 * 60 * 4)), 240, "21"), 240 * 4)
+			json20.prependTr( getJsonURL(new Date(nowTime.getTime() - (1000 * 60 * 60 * 4)), 240, "20"), 240 * 4)
 
-			
+			scrollBy( 0, 960)
 //			dropLastTimeTable("#tvlistingTime")
 //			json27 = new Json(getJsonURL(nowTime, 240, "27"));
 //			json27.prependTr("#tvlistingGR27")
@@ -69,9 +125,6 @@ $(function() {
 		else {
 		}
 	});
-	
-	scrollBy( 0, 960);
-
 });
 </script>
 

@@ -18,24 +18,4 @@ public class TVProgramme {
 	public String category;
 	public String desc;
 	public String channel;
-
-	public String getProgrammeID(){
-		SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMddHHmmss");
-		return sdf.format(start) + channel;
-	}
-	public String getCategory(){
-		if(category.equals("ニュース・報道")){
-			return "news";
-		}
-		if(category.equals("情報")){
-			return "ifno";
-		}
-		if(category.equals("バラエティ")){
-			return "vari";
-		}
-		if(category.equals("ドラマ")){
-			return "drma";
-		}
-		return "etc";
-	}
 }
