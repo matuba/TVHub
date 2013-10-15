@@ -41,26 +41,40 @@ class @Json
 
 		start = new Date(programme.start)	
 		stop = new Date(programme.stop)	
-		td.attr({"rel":"popover"});
-		td.attr({"data-trigger":"hover"});
+		td.attr({"rel":"popover"})
+		td.attr({"data-trigger":"hover"})
 		popupTitle = ("0"+start.getHours()).slice(-2) + ":" + ("0"+start.getMinutes()).slice(-2) + "-" + ("0"+stop.getHours()).slice(-2) + ":" + ("0"+stop.getMinutes()).slice(-2)
-		td.attr({"data-original-title": popupTitle});
-		td.attr({"data-placement":"right"});
-		td.attr({"data-html":"true"});
-		td.attr({"data-content": "<h5>"+ programme.title + "</h5>" + programme.desc});
-		td.attr({"onclick":"return false"});
-		td.attr({"class":programme.category});
-		td.popover();
+		td.attr({"data-original-title": popupTitle})
+		td.attr({"data-placement":"right"})
+		td.attr({"data-html":"true"})
+		td.attr({"data-content": "<h5>"+ programme.title + "</h5>" + programme.desc})
+		td.attr({"onclick":"return false"})
+		td.attr({"class":programme.category})
+		td.popover()
+
+		td.hover ->
+			$('.marquee').html(programme.desc)
+			$('.marquee').marquee({
+			speed: 10000,
+			gap: 200,
+			delayBeforeStart: 700,
+			direction: 'left',
+			duplicated: true,
+			pauseOnHover: true
+			});
+		#	$("#programmeInfo").val(programme.desc)
+			
+
 
 		td.css("padding", "0px")
 #		td.css("margin", "0px")
 #		td.css("border", "0px")
-		tr.attr({"start":programme.start});
-		tr.attr({"stop":programme.stop});
+		tr.attr({"start":programme.start})
+		tr.attr({"stop":programme.stop})
 		tr.css("height", height.toString() + "px")
 	
-		small.appendTo(td);
-		td.appendTo(tr);
+		small.appendTo(td)
+		td.appendTo(tr)
 		return tr
 
 	createListingTable:( url, start) ->
