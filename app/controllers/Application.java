@@ -60,6 +60,11 @@ public class Application extends Controller {
 
     	TvListings tvlistingsGR27 = new TvListings();
     	tvlistingsGR27.LoadXML("public/listings/" + ch + ".xml");
-		return ok(Json.toJson(tvlistingsGR27.getTVProgrammeList(start, stop)));
+		return ok(Json.toJson(tvlistingsGR27.getTVProgrammeList( ch, start, stop)));
     }
+    public static Result getChannelNameJSON(String ch){
+    	TvListings tvlistings = new TvListings();
+    	tvlistings.LoadXML("public/listings/" + ch + ".xml");
+		return ok(Json.toJson(tvlistings.getChannelName(ch)));
+    }   
 }

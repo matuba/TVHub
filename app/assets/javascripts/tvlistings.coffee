@@ -1,4 +1,4 @@
-class @Json
+class @tvlistings
 	constructor:( @tablename, @channelname, @timerange, @programmeheight) ->
 
 	@adjustTitle:(title, height) ->
@@ -66,7 +66,7 @@ class @Json
 		return tr
 
 	createListingTable:(createtime) ->
-		url = getJsonURL(createtime, @timerange, @channelname)
+		url = getJsonProgrammesURL(createtime, @timerange, @channelname)
 
 		table = $(@tablename)
 		table.css("width", "140px");
@@ -76,7 +76,7 @@ class @Json
 		caption.css("height", "0px")
 		caption.attr({"loading":"false"});
 		table.append(caption)
-		jQuery.ajaxQueue( {url:url, success:(programmes) => Json.createTrCallBack( programmes, @tablename, createtime)});
+		jQuery.ajaxQueue( {url:url, success:(programmes) => tvlistings.createTrCallBack( programmes, @tablename, createtime)});
 
 	@createTrCallBack:(programmes, tablename, start) ->
 		table = $(tablename)
@@ -113,10 +113,10 @@ class @Json
 		table.append( appendArray)
 
 	appendTr:(appendTime) ->
-		url = getJsonURL(appendTime, @timerange, @channelname)
+		url = getJsonProgrammesURL(appendTime, @timerange, @channelname)
 		@startTime = new Date()
 		$(@tablename).attr({"loading":true});
-		jQuery.ajaxQueue( {url:url, success:(programmes) => Json.appendTrCallBack( programmes, @tablename)});
+		jQuery.ajaxQueue( {url:url, success:(programmes) => tvlistings.appendTrCallBack( programmes, @tablename)});
 
 	@prependTrCallBack:(programmes, tablename) ->
 		table = $(tablename)
@@ -147,8 +147,15 @@ class @Json
 		$(tablename + ' caption').css("height", height.toString() + "px")
 
 	prependTr:( prependtime) ->
-		url = getJsonURL(prependtime, @timerange, @channelname)
+		url = getJsonProgrammesURL(prependtime, @timerange, @channelname)
 		$(@tablename).attr({"loading":true});
 		height = $(@tablename + ' caption').height() + @programmeheight
 		$(@tablename + ' caption').css("height", height.toString() + "px")
-		jQuery.ajaxQueue( {url:url, success:(programmes) => Json.prependTrCallBack( programmes, @tablename)});
+		jQuery.ajaxQueue( {url:url, success:(programmes) => tvlistings.prependTrCallBack( programmes, @tablename)});
+		
+	@getChannelNameCallBack:(programmes, tablename) ->
+
+	getChannelName:( id, ch) ->
+		url = getJsonChannelNameURL(ch)
+		jQuery.ajaxQueue( {url:url, success:(channelName) => $(id).text(channelName)});
+		

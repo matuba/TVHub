@@ -49,9 +49,9 @@ public class TvListings {
 			return "";
 		}
 	}
-	public String getChannelName(){
+	public String getChannelName(String ch){
 		try {
-			return (String)m_xpath.evaluate( "/tv/channel/display-name[@lang='ja_JP']", m_doc, XPathConstants.STRING);
+			return (String)m_xpath.evaluate( "/tv/channel[@id='"+ch+"']/display-name[@lang='ja_JP']", m_doc, XPathConstants.STRING);
 		} catch (Exception e) {
 	    	Logger.info(e.getMessage());
 			return "";
@@ -106,53 +106,52 @@ public class TvListings {
 		return programme;
 	}
 
-	public TVProgramme getProgramme(Node node){
+	public TVProgramme getProgramme(String ch, Node node){
+		String channel = ((Element)node).getAttribute("channel");
+		if(!channel.equals(ch)){
+			return null;
+		}
+		String startString = ((Element)node).getAttribute("start");
+		String stopString = ((Element)node).getAttribute("stop");
 		TVProgramme programme = new TVProgramme();
 		Calendar calendar = Calendar.getInstance();
 		NodeList childNodes = node.getChildNodes();
+		programme.channel = channel;
 
-		try {
-			for (int j = 0; j < childNodes.getLength(); j++) {
-				Node nodeItem = childNodes.item(j);
-				if(nodeItem.getNodeName().equals("title")){
-					programme.title = nodeItem.getTextContent();
-				}
-				if(nodeItem.getNodeName().equals("category")){
-					Node nodeLang = nodeItem.getAttributes().item(0);
-					if(nodeLang.getNodeValue().equals("en") && nodeLang.getNodeName().equals("lang")){
-						programme.category = nodeItem.getTextContent();
-					}
-				}
-				if(nodeItem.getNodeName().equals("desc")){
-					programme.desc = nodeItem.getTextContent();
+
+		for (int j = 0; j < childNodes.getLength(); j++) {
+			Node nodeItem = childNodes.item(j);
+			if(nodeItem.getNodeName().equals("title")){
+				programme.title = nodeItem.getTextContent();
+			}
+			if(nodeItem.getNodeName().equals("category")){
+				Node nodeLang = nodeItem.getAttributes().item(0);
+				if(nodeLang.getNodeValue().equals("en") && nodeLang.getNodeName().equals("lang")){
+					programme.category = nodeItem.getTextContent();
 				}
 			}
-			String channel = ((Element)node).getAttribute("channel");
-			String startString = ((Element)node).getAttribute("start");
-			String stopString = ((Element)node).getAttribute("stop");
-
-			programme.channel = channel;
-			int year = Integer.parseInt(startString.substring(0, 4));
-			int month = Integer.parseInt(startString.substring(4, 6));
-			int day = Integer.parseInt(startString.substring(6, 8));
-			int hour = Integer.parseInt(startString.substring(8, 10));
-			int min = Integer.parseInt(startString.substring(10, 12));
-			calendar.set(year, month - 1, day, hour, min, 0);
-			calendar.set(Calendar.MILLISECOND, 0);
-			programme.start = calendar.getTime();
-
-			year = Integer.parseInt(stopString.substring(0, 4));
-			month = Integer.parseInt(stopString.substring(4, 6));
-			day = Integer.parseInt(stopString.substring(6, 8));
-			hour = Integer.parseInt(stopString.substring(8, 10));
-			min = Integer.parseInt(stopString.substring(10, 12));
-			calendar.set(year, month - 1, day, hour, min, 0);
-			calendar.set(Calendar.MILLISECOND, 0);
-			programme.stop = calendar.getTime();
-		} catch (Exception e) {
-	    	Logger.info(e.getMessage());
-			return null;
+			if(nodeItem.getNodeName().equals("desc")){
+				programme.desc = nodeItem.getTextContent();
+			}
 		}
+		int year = Integer.parseInt(startString.substring(0, 4));
+		int month = Integer.parseInt(startString.substring(4, 6));
+		int day = Integer.parseInt(startString.substring(6, 8));
+		int hour = Integer.parseInt(startString.substring(8, 10));
+		int min = Integer.parseInt(startString.substring(10, 12));
+		calendar.set(year, month - 1, day, hour, min, 0);
+		calendar.set(Calendar.MILLISECOND, 0);
+		programme.start = calendar.getTime();
+
+		year = Integer.parseInt(stopString.substring(0, 4));
+		month = Integer.parseInt(stopString.substring(4, 6));
+		day = Integer.parseInt(stopString.substring(6, 8));
+		hour = Integer.parseInt(stopString.substring(8, 10));
+		min = Integer.parseInt(stopString.substring(10, 12));
+		calendar.set(year, month - 1, day, hour, min, 0);
+		calendar.set(Calendar.MILLISECOND, 0);
+		programme.stop = calendar.getTime();
+
 		return programme;
 	}
 
@@ -165,7 +164,7 @@ public class TvListings {
 		return tvProgrammeList;
 	}
 
-	public List<TVProgramme> getTVProgrammeList(Date start, Date stop){
+	public List<TVProgramme> getTVProgrammeList(String ch, Date start, Date stop){
 		List<TVProgramme> tvProgrammeList = new ArrayList<TVProgramme>();
 		XPathExpression expr = null;
 		NodeList nodes = null;
@@ -176,7 +175,10 @@ public class TvListings {
 			// TODO: handle exception
 		}
 		for (int i = 0; i < nodes.getLength(); i++) {
-			TVProgramme programme = getProgramme(nodes.item(i));
+			TVProgramme programme = getProgramme(ch, nodes.item(i));
+			if(programme == null){
+				continue;
+			}
 			if(start.compareTo(programme.start) > 0){
 				continue;
 			}

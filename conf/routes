@@ -10,3 +10,5 @@ GET     /assets/*file               controllers.Assets.at(path="/public", file)
 
 #programmes JSON
 GET     /json/programmes/$year<[0-9]{4}>/$month<[0-9]{2}>/$day<[0-9]{2}>/$hour<[0-9]{2}>/$min<[0-9]{2}>/$length<[0-9]{3}>/:ch      controllers.Application.getProgrammesJSON(year : String, month : String, day : String, hour : String, min : String, length : String, ch : String)
+#channel name JSON
+GET     /json/name/:ch      controllers.Application.getChannelNameJSON(ch : String)

@@ -34,14 +34,22 @@ $(function() {
 	appendTimeTable("#tvlistingTime")
 	scrollBy( 0, 960);
 	
-	json27 = new Json( "#tvlistingGR27", "27", 240, 240 * 4);
-	json26 = new Json( "#tvlistingGR26", "26", 240, 240 * 4);
-	json25 = new Json( "#tvlistingGR25", "25", 240, 240 * 4);
-	json24 = new Json( "#tvlistingGR24", "24", 240, 240 * 4);
-	json23 = new Json( "#tvlistingGR23", "23", 240, 240 * 4);
-	json22 = new Json( "#tvlistingGR22", "22", 240, 240 * 4);
-	json21 = new Json( "#tvlistingGR21", "21", 240, 240 * 4);
-	json20 = new Json( "#tvlistingGR20", "20", 240, 240 * 4);
+	json27 = new tvlistings( "#tvlistingGR27", "27", 240, 240 * 4);
+	json27.getChannelName("#title1","27")
+	json26 = new tvlistings( "#tvlistingGR26", "26", 240, 240 * 4);
+	json27.getChannelName("#title2","26")
+	json25 = new tvlistings( "#tvlistingGR25", "25", 240, 240 * 4);
+	json27.getChannelName("#title3","25")
+	json24 = new tvlistings( "#tvlistingGR24", "24", 240, 240 * 4);
+	json27.getChannelName("#title4","24")
+	json23 = new tvlistings( "#tvlistingGR23", "23", 240, 240 * 4);
+	json27.getChannelName("#title5","23")
+	json22 = new tvlistings( "#tvlistingGR22", "22", 240, 240 * 4);
+	json27.getChannelName("#title6","22")
+	json21 = new tvlistings( "#tvlistingGR21", "21", 240, 240 * 4);
+	json27.getChannelName("#title7","21")
+	json20 = new tvlistings( "#tvlistingGR20", "20", 240, 240 * 4);
+	json27.getChannelName("#title8","20")
 
 	prevTime = new Date(nowTime.getTime() - (1000 * 60 * 60 * 4))
 	nextTime = new Date(nowTime.getTime() + (1000 * 60 * 60 * 4))
@@ -154,7 +162,7 @@ $(function() {
 							<a href="#">予約一覧</a>
 						</li>
 						<li class="active" style="font-size:small;">
-							<a href="#">設定</a>
+							<a data-toggle="modal" href="#config">設定</a>
 						</li>
 						<li class="active" style="font-size:small;">
 							<a href="#">
@@ -170,8 +178,20 @@ $(function() {
 					</ul>
 				</div>
 			</div>
+			<table>
+			<tr>
+			<td style="width:30px"></td>
+			<td id="title1" style="text-align:center;font-size:x-small;color:white;width:140px"></td>
+			<td id="title2" style="text-align:center;font-size:x-small;color:white;width:140px"></td>
+			<td id="title3" style="text-align:center;font-size:x-small;color:white;width:140px"></td>
+			<td id="title4" style="text-align:center;font-size:x-small;color:white;width:140px"></td>
+			<td id="title5" style="text-align:center;font-size:x-small;color:white;width:140px"></td>
+			<td id="title6" style="text-align:center;font-size:x-small;color:white;width:140px"></td>
+			<td id="title7" style="text-align:center;font-size:x-small;color:white;width:140px"></td>
+			<td id="title8" style="text-align:center;font-size:x-small;color:white;width:140px"></td>
+			</tr>
+			</table>
 		</div>
-
 	</div>
 	<table id="tvlistingTime" class="table table-bordered table-condensed">
 	</table>
@@ -200,6 +220,55 @@ $(function() {
 
 	<table id="tvlistingGR18" class="table table-bordered table-condensed">
 	</table>
+
+	<div id="config" class="modal hide">
+		<form class="form-horizontal">
+			<div class="modal-header">
+				<a class="close" data-dismiss="modal">&times;</a>
+				<h3>設定</h3>
+			</div>
+			<div class="modal-body">
+				<h4>イベント設定</h4>
+				<p>
+					<div class="control-group">
+						<label class="control-label" for="listingsGetStartH">番組表取得時間</label>
+						<div class="controls">
+							<input class="input-mini focused" id="listingsGetStartH"
+								type="text" value="">:
+							<input class="input-mini focused" id="listingsGetStartM"
+								type="text" value="">
+						</div>
+					</div>
+				</p>
+
+				<h4>ディレクトリ設定</h4>
+				<p>
+					<div class="control-group">
+						<label class="control-label" for="recordFileSaveDir">録画ファイル保存先</label>
+						<div class="controls">
+							<input class="input-large focused" id="recordFileSaveDir"
+								type="text" value="">
+						</div>
+					</div>
+					<div class="control-group">
+						<label class="control-label" for="listingsFileSaveDir">番組表ファイル保存先</label>
+						<div class="controls">
+							<input class="input-large focused" id="listingsFileSaveDir"
+								type="text" value="">
+						</div>
+					</div>
+				</p>
+
+			</div>
+
+			<div class="modal-footer">
+				<a href="#" class="btn btn-primary">変更を保存する</a> <a href="#"
+					class="btn" data-dismiss="modal">閉じる</a>
+			</div>
+		</form>
+	</div>
+
+
 </body>
 </html>
 
