@@ -23,24 +23,7 @@ import org.w3c.dom.Node;
 import play.Logger;
 import play.libs.Json;
 
-public class TvListings {
-	Document m_doc = null;
-	XPath m_xpath = null;
-
-	public boolean LoadXML(String filename){
-		File file = new File(filename);
-		DocumentBuilderFactory fact = DocumentBuilderFactory.newInstance();
-		try{
-			m_xpath = XPathFactory.newInstance().newXPath();
-			DocumentBuilder builder = fact.newDocumentBuilder();
-			m_doc = builder.parse(file);
-		}
-		catch(Exception e){
-	    	Logger.info(e.getMessage());
-			return false;
-		}
-		return true;
-	}
+public class TvListings extends XmlFileXpath{
 	public String getChannelID(){
 		try {
 			return (String)m_xpath.evaluate( "/tv/channel/@id", m_doc, XPathConstants.STRING);
