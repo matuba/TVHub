@@ -172,7 +172,7 @@ public class TvListings {
 			expr = m_xpath.compile("/tv/programme");
 			nodes = (NodeList) expr.evaluate( m_doc, XPathConstants.NODESET);
 		} catch (Exception e) {
-			// TODO: handle exception
+			return null;
 		}
 		for (int i = 0; i < nodes.getLength(); i++) {
 			TVProgramme programme = getProgramme(ch, nodes.item(i));
@@ -189,19 +189,6 @@ public class TvListings {
 		}
 
 		return tvProgrammeList;
-/*
-		for(int i=0;i<getProgrammeNum();i++){
-			TVProgramme programme = getProgramme(i);
-			if(start.compareTo(programme.start) > 0){
-				continue;
-			}
-			if(stop.compareTo(programme.start) <= 0){
-				continue;
-			}
-			tvProgrammeList.add(programme);
-		}
-		return tvProgrammeList;
-*/
 	}
 
 

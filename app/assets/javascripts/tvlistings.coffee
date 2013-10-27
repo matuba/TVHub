@@ -66,7 +66,7 @@ class @tvlistings
 		return tr
 
 	createListingTable:(createtime) ->
-		url = getJsonProgrammesURL(createtime, @timerange, @channelname)
+		url = getJsonProgrammesURL(createtime, @timerange, "GR", @channelname)
 
 		table = $(@tablename)
 		table.css("width", "140px");
@@ -113,7 +113,7 @@ class @tvlistings
 		table.append( appendArray)
 
 	appendTr:(appendTime) ->
-		url = getJsonProgrammesURL(appendTime, @timerange, @channelname)
+		url = getJsonProgrammesURL(appendTime, @timerange, "GR", @channelname)
 		@startTime = new Date()
 		$(@tablename).attr({"loading":true});
 		jQuery.ajaxQueue( {url:url, success:(programmes) => tvlistings.appendTrCallBack( programmes, @tablename)});
@@ -147,7 +147,7 @@ class @tvlistings
 		$(tablename + ' caption').css("height", height.toString() + "px")
 
 	prependTr:( prependtime) ->
-		url = getJsonProgrammesURL(prependtime, @timerange, @channelname)
+		url = getJsonProgrammesURL(prependtime, @timerange, "GR", @channelname)
 		$(@tablename).attr({"loading":true});
 		height = $(@tablename + ' caption').height() + @programmeheight
 		$(@tablename + ' caption').css("height", height.toString() + "px")

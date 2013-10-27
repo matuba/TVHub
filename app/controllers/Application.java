@@ -50,7 +50,7 @@ public class Application extends Controller {
 		return ok(rootJson);
 	}
 
-    public static Result getProgrammesJSON(String year, String month, String day, String hour, String min, String length, String ch) {
+    public static Result getProgrammesJSON(String year, String month, String day, String hour, String min, String length, String broadcast, String ch) {
     	Calendar calendar = Calendar.getInstance(); 
     	calendar.set( Integer.parseInt(year), Integer.parseInt(month),  Integer.parseInt(day),  Integer.parseInt(hour),  Integer.parseInt(min),  0);
     	calendar.set(Calendar.MILLISECOND, 0);
@@ -58,9 +58,9 @@ public class Application extends Controller {
     	calendar.add(Calendar.MINUTE, Integer.parseInt(length));
     	Date stop = calendar.getTime();
 
-    	TvListings tvlistingsGR27 = new TvListings();
-    	tvlistingsGR27.LoadXML("public/listings/" + ch + ".xml");
-		return ok(Json.toJson(tvlistingsGR27.getTVProgrammeList( ch, start, stop)));
+    	TvListings tvlistingsGR = new TvListings();
+    	tvlistingsGR.LoadXML("public/listings/" + ch + ".xml");
+		return ok(Json.toJson(tvlistingsGR.getTVProgrammeList( ch, start, stop)));
     }
     public static Result getChannelNameJSON(String ch){
     	TvListings tvlistings = new TvListings();

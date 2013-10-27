@@ -4,8 +4,9 @@ timeBetween = 4
 	tr = $('<tr/>')
 	td = $('<td/>')
 	small = $('<small/>')
-	small.text(("0" + hour).slice(-2))
-	td.attr({"class":"timebetween"});
+	showTime = ("0" + hour).slice(-2)
+	small.text(showTime)
+	td.attr({"class":"timebetween" + showTime});
 	tr.css("height", "240px")
 	small.appendTo(td)
 	td.appendTo(tr)

@@ -14,7 +14,7 @@
 <script src="@routes.Assets.at("javascripts/jquery.marquee.min.js")" type="text/javascript"></script>
 
 <script src="@routes.Assets.at("javascripts/bootstrap.min.js")" type="text/javascript"></script>
-<script src="@routes.Assets.at("javascripts/main.js")" type="text/javascript"></script>
+<script src="@routes.Assets.at("javascripts/json.js")" type="text/javascript"></script>
 <script src="@routes.Assets.at("javascripts/tvlistings.js")" type="text/javascript"></script>
 <script src="@routes.Assets.at("javascripts/timetable.js")" type="text/javascript"></script>
 
@@ -147,37 +147,42 @@ $(function() {
 				<div class="nav-collapse collapse">
 					<ul class="nav">
 						<li class="active" style="font-size:small;">
-							<a href="#">地上</a>
+							<a href="#" style="padding: 0px 32px 0px 0px;">地上</a>
 						</li>
 						<li class="active" style="font-size:small;">
-							<a href="#">BS</a>
+							<a href="#" style="padding: 0px 32px 0px 0px;">BS</a>
 						</li>
 						<li class="active" style="font-size:small;">
-							<a href="#">CS</a>
+							<a href="#" style="padding: 0px 32px 0px 0px;">CS</a>
 						</li>
 						<li class="active" style="font-size:small;">
-							<a href="#">My Listings</a>
+							<a href="#" style="padding: 0px 32px 0px 0px;">My Listings</a>
 						</li>
 						<li class="active" style="font-size:small;">
-							<a href="#">予約一覧</a>
+							<a href="#" style="padding: 0px 32px 0px 0px;">予約一覧</a>
 						</li>
 						<li class="active" style="font-size:small;">
-							<a data-toggle="modal" href="#config">設定</a>
+							<a href="#" style="padding: 0px 32px 0px 0px;">番組検索</a>
 						</li>
 						<li class="active" style="font-size:small;">
-							<a href="#">
-								<div id="infoTime">
-								</div>
-							</a>
-						</li>
-						<li class="active" style="font-size:small;">
-							<a href="#">
-								<div class='marquee'></div>
- 							</a>
+							<a data-toggle="modal" href="#config" style="padding: 0px 0px 0px 0px;">設定</a>
 						</li>
 					</ul>
 				</div>
 			</div>
+			<div class="container">
+				<div class="nav-collapse collapse">
+					<ul class="nav">
+						<li class="active" style="font-size:small;">
+							<a href="#" style="padding: 0px 32px 0px 0px;"><div id="infoTime">　</div></a>
+						</li>
+						<li class="active" style="font-size:small;">
+							<a href="#" style="padding: 0px 0px 0px 0px;"><div class='marquee'>　</div></a>
+						</li>
+					</ul>
+				</div>
+			</div>
+
 			<table>
 			<tr>
 			<td style="width:30px"></td>
