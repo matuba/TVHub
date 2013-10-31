@@ -15,7 +15,7 @@
 
 <script src="@routes.Assets.at("javascripts/bootstrap.min.js")" type="text/javascript"></script>
 <script src="@routes.Assets.at("javascripts/json.js")" type="text/javascript"></script>
-<script src="@routes.Assets.at("javascripts/tvlistings.js")" type="text/javascript"></script>
+<script src="@routes.Assets.at("javascripts/Tvlisting.js")" type="text/javascript"></script>
 <script src="@routes.Assets.at("javascripts/timetable.js")" type="text/javascript"></script>
 
 <script>
@@ -32,105 +32,75 @@ $(function() {
 	createTimeTable( nowTime.getTime(), "#tvlistingTime")
 	prependTimeTable("#tvlistingTime")
 	appendTimeTable("#tvlistingTime")
-	scrollBy( 0, 960);
+	scrollBy( 0, 960)
+	var tvlistings = new Array(
+		new Tvlisting( "#tvlisting1", "27", 240, 240 * 4),
+		new Tvlisting( "#tvlisting2", "26", 240, 240 * 4),
+		new Tvlisting( "#tvlisting3", "25", 240, 240 * 4),
+		new Tvlisting( "#tvlisting4", "24", 240, 240 * 4),
+		new Tvlisting( "#tvlisting5", "23", 240, 240 * 4),
+		new Tvlisting( "#tvlisting6", "22", 240, 240 * 4),
+		new Tvlisting( "#tvlisting7", "21", 240, 240 * 4),
+		new Tvlisting( "#tvlisting8", "20", 240, 240 * 4),
+		new Tvlisting( "#tvlisting9", "18", 240, 240 * 4)
+	)
 	
-	json27 = new tvlistings( "#tvlistingGR27", "27", 240, 240 * 4);
-	json27.getChannelName("#title1","27")
-	json26 = new tvlistings( "#tvlistingGR26", "26", 240, 240 * 4);
-	json27.getChannelName("#title2","26")
-	json25 = new tvlistings( "#tvlistingGR25", "25", 240, 240 * 4);
-	json27.getChannelName("#title3","25")
-	json24 = new tvlistings( "#tvlistingGR24", "24", 240, 240 * 4);
-	json27.getChannelName("#title4","24")
-	json23 = new tvlistings( "#tvlistingGR23", "23", 240, 240 * 4);
-	json27.getChannelName("#title5","23")
-	json22 = new tvlistings( "#tvlistingGR22", "22", 240, 240 * 4);
-	json27.getChannelName("#title6","22")
-	json21 = new tvlistings( "#tvlistingGR21", "21", 240, 240 * 4);
-	json27.getChannelName("#title7","21")
-	json20 = new tvlistings( "#tvlistingGR20", "20", 240, 240 * 4);
-	json27.getChannelName("#title8","20")
+	tvlistings[0].getChannelName("#title1")
+	tvlistings[1].getChannelName("#title2")
+	tvlistings[2].getChannelName("#title3")
+	tvlistings[3].getChannelName("#title4")
+	tvlistings[4].getChannelName("#title5")
+	tvlistings[5].getChannelName("#title6")
+	tvlistings[6].getChannelName("#title7")
+	tvlistings[7].getChannelName("#title8")
+	tvlistings[8].getChannelName("#title9")
 
 	prevTime = new Date(nowTime.getTime() - (1000 * 60 * 60 * 4))
 	nextTime = new Date(nowTime.getTime() + (1000 * 60 * 60 * 4))
-
-	json27.createListingTable(nowTime)
-	json27.prependTr(prependTime)
-	json27.appendTr(nextTime)
-
-	json26.createListingTable(nowTime)
-	json26.prependTr(prependTime)
-	json26.appendTr(nextTime)
-
-	json25.createListingTable(nowTime)
-	json25.prependTr(prependTime)
-	json25.appendTr(nextTime)
-
-	json24.createListingTable(nowTime)
-	json24.prependTr(prependTime)
-	json24.appendTr(nextTime)
-
-	json23.createListingTable(nowTime)
-	json23.prependTr(prependTime)
-	json23.appendTr(nextTime)
-
-	json22.createListingTable(nowTime)
-	json22.prependTr(prependTime)
-	json22.appendTr(nextTime)
-
-	json21.createListingTable(nowTime)
-	json21.prependTr(prependTime)
-	json21.appendTr(nextTime)
-
-	json20.createListingTable(nowTime)
-	json20.prependTr(prependTime)
-	json20.appendTr(nextTime)
+	for(var i=0;i<9;i++){
+		tvlistings[i].createListingTable(nowTime)
+		tvlistings[i].prependTr(prependTime)
+		tvlistings[i].appendTr(nextTime)
+	}
 
 	$(window).bind("scroll", function() {
 		scrollHeight = $(document).height();
 		scrollPosition = $(window).height() + $(window).scrollTop();
-		if (!json20.getLoading() 
-			&& !json21.getLoading() 
-			&& !json22.getLoading() 
-			&& !json23.getLoading() 
-			&& !json24.getLoading() 
-			&& !json25.getLoading() 
-			&& !json26.getLoading() 
-			&& !json27.getLoading() 
+		if (
+			   !tvlistings[0].getLoading() 
+			&& !tvlistings[1].getLoading() 
+			&& !tvlistings[2].getLoading() 
+			&& !tvlistings[3].getLoading() 
+			&& !tvlistings[4].getLoading() 
+			&& !tvlistings[5].getLoading() 
+			&& !tvlistings[6].getLoading() 
+			&& !tvlistings[7].getLoading() 
+			&& !tvlistings[8].getLoading() 
 			&& (scrollHeight - scrollPosition) / scrollHeight <= 0.4
 			) {
-
 			appendTime = new Date(appendTime.getTime() + (1000 * 60 * 60 * 4))
 			appendTimeTable("#tvlistingTime")
-			json27.appendTr( appendTime)
-			json26.appendTr( appendTime)
-			json25.appendTr( appendTime)
-			json24.appendTr( appendTime)
-			json23.appendTr( appendTime)
-			json22.appendTr( appendTime)
-			json21.appendTr( appendTime)
-			json20.appendTr( appendTime)
+			for(var i=0;i<9;i++){
+				tvlistings[i].appendTr( appendTime)
+			}
 		}
-		if (!json20.getLoading() 
-				&& !json21.getLoading() 
-				&& !json22.getLoading() 
-				&& !json23.getLoading() 
-				&& !json24.getLoading() 
-				&& !json25.getLoading() 
-				&& !json26.getLoading() 
-				&& !json27.getLoading() 
+		if (
+				   !tvlistings[0].getLoading() 
+				&& !tvlistings[1].getLoading() 
+				&& !tvlistings[2].getLoading() 
+				&& !tvlistings[3].getLoading() 
+				&& !tvlistings[4].getLoading() 
+				&& !tvlistings[5].getLoading() 
+				&& !tvlistings[6].getLoading() 
+				&& !tvlistings[7].getLoading() 
+				&& !tvlistings[8].getLoading() 
 				&& (scrollHeight - scrollPosition) / scrollHeight >= 0.6
 				) {
 			prependTime = new Date(prependTime.getTime() - (1000 * 60 * 60 * 4))
 			prependTimeTable( "#tvlistingTime")
-			json27.prependTr( prependTime)
-			json26.prependTr( prependTime)
-			json25.prependTr( prependTime)
-			json24.prependTr( prependTime)
-			json23.prependTr( prependTime)
-			json22.prependTr( prependTime)
-			json21.prependTr( prependTime)
-			json20.prependTr( prependTime)
+			for(var i=0;i<9;i++){
+				tvlistings[i].prependTr( prependTime)
+			}
 			scrollBy( 0, 960)
 		}
 		else {
@@ -186,44 +156,38 @@ $(function() {
 			<table>
 			<tr>
 			<td style="width:30px"></td>
-			<td id="title1" style="text-align:center;font-size:x-small;color:white;width:140px"></td>
-			<td id="title2" style="text-align:center;font-size:x-small;color:white;width:140px"></td>
-			<td id="title3" style="text-align:center;font-size:x-small;color:white;width:140px"></td>
-			<td id="title4" style="text-align:center;font-size:x-small;color:white;width:140px"></td>
-			<td id="title5" style="text-align:center;font-size:x-small;color:white;width:140px"></td>
-			<td id="title6" style="text-align:center;font-size:x-small;color:white;width:140px"></td>
-			<td id="title7" style="text-align:center;font-size:x-small;color:white;width:140px"></td>
-			<td id="title8" style="text-align:center;font-size:x-small;color:white;width:140px"></td>
+			<td id="title1" style="text-align:center;font-size:x-small;color:white;width:156px"></td>
+			<td id="title2" style="text-align:center;font-size:x-small;color:white;width:156px"></td>
+			<td id="title3" style="text-align:center;font-size:x-small;color:white;width:156px"></td>
+			<td id="title4" style="text-align:center;font-size:x-small;color:white;width:156px"></td>
+			<td id="title5" style="text-align:center;font-size:x-small;color:white;width:156px"></td>
+			<td id="title6" style="text-align:center;font-size:x-small;color:white;width:156px"></td>
+			<td id="title7" style="text-align:center;font-size:x-small;color:white;width:156px"></td>
+			<td id="title8" style="text-align:center;font-size:x-small;color:white;width:156px"></td>
+			<td id="title9" style="text-align:center;font-size:x-small;color:white;width:156px"></td>
 			</tr>
 			</table>
 		</div>
 	</div>
 	<table id="tvlistingTime" class="table table-bordered table-condensed">
 	</table>
-	<table id="tvlistingGR27" class="table table-bordered table-condensed">
+	<table id="tvlisting1" class="table table-bordered table-condensed">
 	</table>
-	<table id="tvlistingGR26" class="table table-bordered table-condensed">
+	<table id="tvlisting2" class="table table-bordered table-condensed">
 	</table>
-
-	<table id="tvlistingGR25" class="table table-bordered table-condensed">
+	<table id="tvlisting3" class="table table-bordered table-condensed">
 	</table>
-
-	<table id="tvlistingGR24" class="table table-bordered table-condensed">
+	<table id="tvlisting4" class="table table-bordered table-condensed">
 	</table>
-
-	<table id="tvlistingGR23" class="table table-bordered table-condensed">
+	<table id="tvlisting5" class="table table-bordered table-condensed">
 	</table>
-
-	<table id="tvlistingGR22" class="table table-bordered table-condensed">
+	<table id="tvlisting6" class="table table-bordered table-condensed">
 	</table>
-
-	<table id="tvlistingGR21" class="table table-bordered table-condensed">
+	<table id="tvlisting7" class="table table-bordered table-condensed">
 	</table>
-
-	<table id="tvlistingGR20" class="table table-bordered table-condensed">
+	<table id="tvlisting8" class="table table-bordered table-condensed">
 	</table>
-
-	<table id="tvlistingGR18" class="table table-bordered table-condensed">
+	<table id="tvlisting9" class="table table-bordered table-condensed">
 	</table>
 
 	<div id="config" class="modal hide">

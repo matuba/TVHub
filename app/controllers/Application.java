@@ -57,10 +57,20 @@ public class Application extends Controller {
     	Date start = calendar.getTime();
     	calendar.add(Calendar.MINUTE, Integer.parseInt(length));
     	Date stop = calendar.getTime();
+    	
+    	int channelNum = Integer.parseInt(ch);
 
-    	TvListings tvlistingsGR = new TvListings();
-    	tvlistingsGR.LoadXML("public/listings/" + ch + ".xml");
-		return ok(Json.toJson(tvlistingsGR.getTVProgrammeList( ch, start, stop)));
+    	TvListings tvlistings = new TvListings();
+    	if(broadcast.equals("GR")){
+    		tvlistings.LoadXML("public/listings/" + ch + ".xml");
+    	}
+    	else if(broadcast.equals("BS")){
+    		tvlistings.LoadXML("public/listings/BS.xml");
+    	}
+    	else if(broadcast.equals("CS") && channelNum >= 200 && channelNum <= 400){
+    		tvlistings.LoadXML("public/listings/CS1.xml");
+    	}
+		return ok(Json.toJson(tvlistings.getTVProgrammeList( ch, start, stop)));
     }
     public static Result getChannelNameJSON(String ch){
     	TvListings tvlistings = new TvListings();

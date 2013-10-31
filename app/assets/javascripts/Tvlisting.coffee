@@ -1,4 +1,4 @@
-class @tvlistings
+class @Tvlisting
 	constructor:( @tablename, @channelname, @timerange, @programmeheight) ->
 
 	@adjustTitle:(title, height) ->
@@ -76,7 +76,7 @@ class @tvlistings
 		caption.css("height", "0px")
 		caption.attr({"loading":"false"});
 		table.append(caption)
-		jQuery.ajaxQueue( {url:url, success:(programmes) => tvlistings.createTrCallBack( programmes, @tablename, createtime)});
+		jQuery.ajaxQueue( {url:url, success:(programmes) => Tvlisting.createTrCallBack( programmes, @tablename, createtime)});
 
 	@createTrCallBack:(programmes, tablename, start) ->
 		table = $(tablename)
@@ -116,7 +116,7 @@ class @tvlistings
 		url = getJsonProgrammesURL(appendTime, @timerange, "GR", @channelname)
 		@startTime = new Date()
 		$(@tablename).attr({"loading":true});
-		jQuery.ajaxQueue( {url:url, success:(programmes) => tvlistings.appendTrCallBack( programmes, @tablename)});
+		jQuery.ajaxQueue( {url:url, success:(programmes) => Tvlisting.appendTrCallBack( programmes, @tablename)});
 
 	@prependTrCallBack:(programmes, tablename) ->
 		table = $(tablename)
@@ -151,11 +151,11 @@ class @tvlistings
 		$(@tablename).attr({"loading":true});
 		height = $(@tablename + ' caption').height() + @programmeheight
 		$(@tablename + ' caption').css("height", height.toString() + "px")
-		jQuery.ajaxQueue( {url:url, success:(programmes) => tvlistings.prependTrCallBack( programmes, @tablename)});
+		jQuery.ajaxQueue( {url:url, success:(programmes) => Tvlisting.prependTrCallBack( programmes, @tablename)});
 		
 	@getChannelNameCallBack:(programmes, tablename) ->
 
-	getChannelName:( id, ch) ->
-		url = getJsonChannelNameURL(ch)
+	getChannelName:( id) ->
+		url = getJsonChannelNameURL(@channelname)
 		jQuery.ajaxQueue( {url:url, success:(channelName) => $(id).text(channelName)});
 		
