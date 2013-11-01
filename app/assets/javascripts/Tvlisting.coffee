@@ -1,5 +1,5 @@
 class @Tvlisting
-	constructor:( @tablename, @channelname, @timerange, @programmeheight) ->
+	constructor:( @tablename, @titlename, @channelname, @timerange, @programmeheight) ->
 
 	@adjustTitle:(title, height) ->
 		if height >= 240
@@ -155,7 +155,7 @@ class @Tvlisting
 		
 	@getChannelNameCallBack:(programmes, tablename) ->
 
-	getChannelName:( id) ->
+	getChannelName:() ->
 		url = getJsonChannelNameURL(@channelname)
-		jQuery.ajaxQueue( {url:url, success:(channelName) => $(id).text(channelName)});
+		jQuery.ajaxQueue( {url:url, success:(channelName) => $(@titlename).text(channelName)});
 		

@@ -34,30 +34,21 @@ $(function() {
 	appendTimeTable("#tvlistingTime")
 	scrollBy( 0, 960)
 	var tvlistings = new Array(
-		new Tvlisting( "#tvlisting1", "27", 240, 240 * 4),
-		new Tvlisting( "#tvlisting2", "26", 240, 240 * 4),
-		new Tvlisting( "#tvlisting3", "25", 240, 240 * 4),
-		new Tvlisting( "#tvlisting4", "24", 240, 240 * 4),
-		new Tvlisting( "#tvlisting5", "23", 240, 240 * 4),
-		new Tvlisting( "#tvlisting6", "22", 240, 240 * 4),
-		new Tvlisting( "#tvlisting7", "21", 240, 240 * 4),
-		new Tvlisting( "#tvlisting8", "20", 240, 240 * 4),
-		new Tvlisting( "#tvlisting9", "18", 240, 240 * 4)
+		new Tvlisting( "#tvlisting1", "#title1", "27", 240, 240 * 4),
+		new Tvlisting( "#tvlisting2", "#title2", "26", 240, 240 * 4),
+		new Tvlisting( "#tvlisting3", "#title3", "25", 240, 240 * 4),
+		new Tvlisting( "#tvlisting4", "#title4", "24", 240, 240 * 4),
+		new Tvlisting( "#tvlisting5", "#title5", "23", 240, 240 * 4),
+		new Tvlisting( "#tvlisting6", "#title6", "22", 240, 240 * 4),
+		new Tvlisting( "#tvlisting7", "#title7", "21", 240, 240 * 4),
+		new Tvlisting( "#tvlisting8", "#title8", "20", 240, 240 * 4),
+		new Tvlisting( "#tvlisting9", "#title9", "18", 240, 240 * 4)
 	)
 	
-	tvlistings[0].getChannelName("#title1")
-	tvlistings[1].getChannelName("#title2")
-	tvlistings[2].getChannelName("#title3")
-	tvlistings[3].getChannelName("#title4")
-	tvlistings[4].getChannelName("#title5")
-	tvlistings[5].getChannelName("#title6")
-	tvlistings[6].getChannelName("#title7")
-	tvlistings[7].getChannelName("#title8")
-	tvlistings[8].getChannelName("#title9")
-
 	prevTime = new Date(nowTime.getTime() - (1000 * 60 * 60 * 4))
 	nextTime = new Date(nowTime.getTime() + (1000 * 60 * 60 * 4))
 	for(var i=0;i<9;i++){
+		tvlistings[i].getChannelName()
 		tvlistings[i].createListingTable(nowTime)
 		tvlistings[i].prependTr(prependTime)
 		tvlistings[i].appendTr(nextTime)
@@ -76,7 +67,7 @@ $(function() {
 			&& !tvlistings[6].getLoading() 
 			&& !tvlistings[7].getLoading() 
 			&& !tvlistings[8].getLoading() 
-			&& (scrollHeight - scrollPosition) / scrollHeight <= 0.4
+			&& (scrollHeight - scrollPosition) / scrollHeight <= 0.2
 			) {
 			appendTime = new Date(appendTime.getTime() + (1000 * 60 * 60 * 4))
 			appendTimeTable("#tvlistingTime")
@@ -94,7 +85,7 @@ $(function() {
 				&& !tvlistings[6].getLoading() 
 				&& !tvlistings[7].getLoading() 
 				&& !tvlistings[8].getLoading() 
-				&& (scrollHeight - scrollPosition) / scrollHeight >= 0.6
+				&& (scrollHeight - scrollPosition) / scrollHeight >= 0.8
 				) {
 			prependTime = new Date(prependTime.getTime() - (1000 * 60 * 60 * 4))
 			prependTimeTable( "#tvlistingTime")
