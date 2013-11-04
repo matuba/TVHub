@@ -57,10 +57,11 @@ class @Tvlisting
 			});
 
 		td.css("padding", "0px")
+		td.css("table-layout", "fixed")
+
 		tr.attr({"start":programme.start})
 		tr.attr({"stop":programme.stop})
 		tr.css("height", height.toString() + "px")
-	
 		small.appendTo(td)
 		td.appendTo(tr)
 		return tr
