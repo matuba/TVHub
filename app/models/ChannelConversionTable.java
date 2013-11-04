@@ -5,6 +5,9 @@ import javax.xml.xpath.XPathConstants;
 import play.Logger;
 
 public class ChannelConversionTable extends XmlFileXpath{
+	public ChannelConversionTable(String filename){
+		LoadXML(filename);
+	}
 	public String conversionChannel( String broadcast, String ch){
 		try {
 			StringBuffer xmlPath = new StringBuffer("");

@@ -3,6 +3,7 @@ package controllers;
 import java.util.Calendar;
 import java.util.Date;
 
+import models.ChannelConversionTable;
 import models.TVProgramme;
 import models.TvListings;
 import play.mvc.*;
@@ -50,6 +51,10 @@ public class Application extends Controller {
 		return ok(rootJson);
 	}
 
+
+    private static ChannelConversionTable channelConversionTable = new ChannelConversionTable("public/listings/ChannelConversionTable.xml");
+    
+    
     public static Result getProgrammesJSON(String year, String month, String day, String hour, String min, String length, String broadcast, String ch) {
     	Calendar calendar = Calendar.getInstance(); 
     	calendar.set( Integer.parseInt(year), Integer.parseInt(month),  Integer.parseInt(day),  Integer.parseInt(hour),  Integer.parseInt(min),  0);
