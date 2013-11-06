@@ -1,29 +1,25 @@
 package models;
 
-import java.io.File;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
-import java.util.Iterator;
 import java.util.List;
 
-import javax.xml.parsers.DocumentBuilder;
-import javax.xml.parsers.DocumentBuilderFactory;
-import javax.xml.xpath.XPath;
 import javax.xml.xpath.XPathConstants;
 import javax.xml.xpath.XPathExpression;
-import javax.xml.xpath.XPathFactory;
 
-import org.codehaus.jackson.node.ObjectNode;
-import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
 import org.w3c.dom.Node;
 
 import play.Logger;
-import play.libs.Json;
 
 public class TvListings extends XmlFileXpath{
+	public TvListings(){
+	}
+	public TvListings(String filename){
+		LoadXML(filename);
+	}
 	public String getChannelID(){
 		try {
 			return (String)m_xpath.evaluate( "/tv/channel/@id", m_doc, XPathConstants.STRING);

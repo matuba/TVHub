@@ -53,6 +53,7 @@ public class Application extends Controller {
 
 
     private static ChannelConversionTable channelConversionTable = new ChannelConversionTable("public/listings/ChannelConversionTable.xml");
+    private static TvListings tvlistingsGR = new TvListings("");
     
     
     public static Result getProgrammesJSON(String year, String month, String day, String hour, String min, String length, String broadcast, String ch) {
