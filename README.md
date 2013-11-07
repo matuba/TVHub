@@ -1,4 +1,4 @@
-tv番組予約録画システム
+tv番組予約システム
 demo
 http://peaceful-waters-3021.herokuapp.com/
 
