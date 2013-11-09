@@ -16,7 +16,7 @@
 <script src="@routes.Assets.at("javascripts/json.js")" type="text/javascript"></script>
 <script src="@routes.Assets.at("javascripts/Tvlisting.js")" type="text/javascript"></script>
 <script src="@routes.Assets.at("javascripts/timetable.js")" type="text/javascript"></script>
-
+<script src="@routes.Assets.at("javascripts/slidr.min.js")" type="text/javascript"></script>
 <script>
 nowTime = new Date()
 prependTime = new Date()
@@ -31,7 +31,7 @@ $(function() {
 	createTimeTable( nowTime.getTime(), "#tvlistingTime")
 	prependTimeTable("#tvlistingTime")
 	appendTimeTable("#tvlistingTime")
-	scrollBy( 0, 960)
+
 	var tvlistings = new Array(9)
 	var channelNames = new Array("27","26","25","24","23","22","21","20","18")
 	for(var i=0;i<tvlistings.length;i++){
@@ -47,7 +47,7 @@ $(function() {
 		tvlistings[i].prependTr(prependTime)
 		tvlistings[i].appendTr(nextTime)
 	}
-
+	scrollBy( 0, 1200)
 	$(window).bind("scroll", function() {
 		scrollHeight = $(document).height();
 		scrollPosition = $(window).height() + $(window).scrollTop();
@@ -61,7 +61,7 @@ $(function() {
 			&& !tvlistings[6].getLoading() 
 			&& !tvlistings[7].getLoading() 
 			&& !tvlistings[8].getLoading() 
-			&& (scrollHeight - scrollPosition) / scrollHeight <= 0.2
+			&& (scrollHeight - scrollPosition) / scrollHeight <= 0.3
 			) {
 			appendTime = new Date(appendTime.getTime() + (1000 * 60 * 60 * 4))
 			appendTimeTable("#tvlistingTime")
@@ -79,7 +79,7 @@ $(function() {
 				&& !tvlistings[6].getLoading() 
 				&& !tvlistings[7].getLoading() 
 				&& !tvlistings[8].getLoading() 
-				&& (scrollHeight - scrollPosition) / scrollHeight >= 0.8
+				&& (scrollHeight - scrollPosition) / scrollHeight >= 0.4
 				) {
 			prependTime = new Date(prependTime.getTime() - (1000 * 60 * 60 * 4))
 			prependTimeTable( "#tvlistingTime")
@@ -88,21 +88,8 @@ $(function() {
 			}
 			scrollBy( 0, 960)
 		}
-		var sl = $(document).scrollLeft()
-		//横スクロール
-		if(sl > 0){
-			$('#tvlisting1').css('display','none');
-			$('#tvlisting2').css('display','none');
-			$('#tvlisting3').css('display','none');
-			$('#tvlisting4').css('display','none');
-			$('#tvlisting5').css('display','none');
-			$('#tvlisting6').css('display','none');
-			$('#tvlisting7').css('display','none');
-			$('#tvlisting8').css('display','none');
-			$('#tvlisting9').css('display','none');
-		}
-		
 	});
+
 });
 </script>
 		
