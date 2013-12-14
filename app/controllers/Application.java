@@ -4,6 +4,7 @@ import java.util.Calendar;
 import java.util.Date;
 
 import models.ChannelConversionTable;
+import models.TVListingsDivide;
 import models.TVProgramme;
 import models.TvListings;
 import play.mvc.*;
@@ -20,7 +21,7 @@ import play.mvc.Result;
 public class Application extends Controller {
   
     public static Result index() {
-    	TvListings tvlistingsGR27 = new TvListings();
+/*    	TvListings tvlistingsGR27 = new TvListings();
     	tvlistingsGR27.LoadXML("public/listings/27ch.xml");
     	TVProgramme programmeGR27 = tvlistingsGR27.getProgramme(1);
     	Calendar calendar = Calendar.getInstance(); 
@@ -29,6 +30,13 @@ public class Application extends Controller {
     	calendar.set(2013, 7, 27, 19, 00, 0);
     	Date stop = calendar.getTime();
 
+
+    	
+*/
+    	TVListingsDivide bsListings = new TVListingsDivide();
+    	bsListings.LoadXML("public/listings/BS.xml");
+    	bsListings.write("1.xml", "4101.epgdata.ontvjapan");
+    	
     	return ok(tvlistings.render());
     }
 
