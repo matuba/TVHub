@@ -35,7 +35,11 @@ public class Application extends Controller {
 */
     	TVListingsDivide bsListings = new TVListingsDivide();
     	bsListings.LoadXML("public/listings/BS.xml");
-    	bsListings.write("public/listings/4101.xml", "4101.epgdata.ontvjapan");
+//    	bsListings.write("public/listings/4101.xml", "4101.epgdata.ontvjapan");
+    	bsListings.write();
+
+    	bsListings.LoadXML("public/listings/CS1.xml");
+    	bsListings.write();
     	
     	return ok(tvlistings.render());
     }
