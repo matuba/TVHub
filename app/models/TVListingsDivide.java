@@ -31,14 +31,16 @@ public class TVListingsDivide extends XmlFileXpath {
 		stringBuffer.append("<!DOCTYPE tv SYSTEM \"xmltv.dtd\">\n");
 		stringBuffer.append("\n");
 		stringBuffer.append("<tv generator-info-name=\"tsEPG2xml\" generator-info-url=\"http://localhost/\">\n");
-		stringBuffer.append("\n");
-		stringBuffer.append("<channel id=\"" + channelname + "\">\n");
+		stringBuffer.append("  <channel id=\"" + channelname + "\">\n");
 
 		String displayName = m_xpath.evaluate("/tv/channel[@id='" + channelname + "']/display-name[@lang='ja_JP']/text()", m_doc);
 		XPathExpression expr = m_xpath.compile("/tv/programme[@channel='" + channelname + "']");
-		stringBuffer.append(" <display-name lang=\"ja_JP\">" + displayName + "</display-name\n");
-		stringBuffer.append("</channel>\n");
+		stringBuffer.append("    <display-name lang=\"ja_JP\">" + displayName + "</display-name\n");
+		stringBuffer.append("  </channel>\n");
 		return stringBuffer.toString();
+	}
+	private String writeFooter() throws XPathExpressionException{
+		return new String("</tv>");
 	}
 	private String writeProgrammes() throws XPathExpressionException{
 		StringBuffer stringBuffer = new StringBuffer();
@@ -57,7 +59,7 @@ public class TVListingsDivide extends XmlFileXpath {
 		String start = ((Element)node).getAttribute("start");
 		String stop = ((Element)node).getAttribute("stop");
 		
-		stringBuffer.append("<programme ");
+		stringBuffer.append("  <programme ");
 		stringBuffer.append("start=\"").append(start).append("\" ");
 		stringBuffer.append("stop=\"").append(stop).append("\" ");
 		stringBuffer.append("channel=\"").append(channel).append("\" ");
@@ -72,17 +74,19 @@ public class TVListingsDivide extends XmlFileXpath {
 				lang = attribute.getNamedItem("lang").getNodeValue();
 			}
 			if(nodeItem.getNodeName().equals("title")){
-				stringBuffer.append(" <title lang=\"" + lang + "\">").append(nodeItem.getTextContent()).append("</title>");
+				stringBuffer.append("    <title lang=\"" + lang + "\">").append(nodeItem.getTextContent()).append("</title>");
+				stringBuffer.append("\n");
 			}
 			if(nodeItem.getNodeName().equals("desc")){
-				stringBuffer.append(" <desc lang=\"" + lang + "\">").append(nodeItem.getTextContent()).append("</desc>");
+				stringBuffer.append("    <desc lang=\"" + lang + "\">").append(nodeItem.getTextContent()).append("</desc>");
+				stringBuffer.append("\n");
 			}
 			if(nodeItem.getNodeName().equals("category")){
-					stringBuffer.append(" <category lang=\"" + lang + "\">").append(nodeItem.getTextContent()).append("</category>");
+				stringBuffer.append("    <category lang=\"" + lang + "\">").append(nodeItem.getTextContent()).append("</category>");
+				stringBuffer.append("\n");
 			}
-			stringBuffer.append("\n");
 		}		
-		stringBuffer.append("</programme>\n");
+		stringBuffer.append("  </programme>\n");
 		return stringBuffer.toString();
 	}	
 
@@ -93,6 +97,7 @@ public class TVListingsDivide extends XmlFileXpath {
 			pw = new PrintWriter(new BufferedWriter(new FileWriter(filename)));
 			pw.write(writeHeader(channelname));
 			pw.write(writeProgrammes());
+			pw.write(writeFooter());
 		} catch (XPathExpressionException e) {
 			e.printStackTrace();
 		} catch (IOException e) {
